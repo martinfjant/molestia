@@ -3,24 +3,39 @@
     "lesson": 12,
     "title": "Lectio duodecima",
     "subtitle": {
-      "latin": "Facilius in eo ponitur poculum",
+      "latin": "Facilius in eō pōnitur pōculum",
+      "latinAccented": "Facílius in eō pṓnitur pṓculum",
       "english": "It is easier to put the glass on it"
     },
     "revision": false
   },
   "latin": [
-    "Musicus clarus, sed satis ad potionem<sup>1</sup> pronus, a diurnario interrogatur<sup>2</sup>.",
-    "Unde orta est, Magister, peritia tua?",
-    "Ab avo meo, sine ullo dubio<sup>3</sup>, nam fidiculis peritissime canebat<sup>4</sup>.",
-    "Tu vero, cur clavichordium potius elegisti?",
-    "Quia facilius in eo quam in fidiculis ponitur poculum!",
-    "Clavichordium est instrumentum musicum cujus chordae malleis percutiuntur<sup>5</sup>.",
-    "Musicus bibulus facile poculum in clavichordio ponit.",
-    "Poculum a musico bibulo in fidiculis difficulter ponitur.",
-    "Sol in oriente oritur. Julius Caesar e gente nobili ortus est.",
-    "Eligo, eligis, eligere. — Elegi, elegisti, elegit, elegerunt, elegisse.",
-    "Pono, ponis, ponere. — Posui, posuisti, posuisse;",
-    "Ponor, poneris, poni. — Positus sum<sup>6</sup>."
+    "Mūsicus clārus, sed satis ad pōtiōnem<sup>1</sup> prōnus, ā diurnāriō interrogātur<sup>2</sup>.",
+    "Unde orta est, Magister, perītia tua?",
+    "Ab avō meō, sine ūllō dubiō<sup>3</sup>, nam fidiculīs perītissimē canēbat<sup>4</sup>.",
+    "Tū vērō, cūr clavichordium potius ēlēgistī?",
+    "Quia facilius in eō quam in fidiculīs pōnitur pōculum!",
+    "Clavichordium est īnstrūmentum mūsicum cujus chordae malleīs percutiuntur<sup>5</sup>.",
+    "Mūsicus bibulus facile pōculum in clavichordīō pōnit.",
+    "Pōculum ā mūsicō bibulō in fidiculīs difficulter pōnitur.",
+    "Sōl in oriente oritur. Jūlius Caesar ē gente nōbilī ortus est.",
+    "Ēligō, ēligis, ēligere. — Elegī, ēlēgistī, ēlēgit, ēlēgērunt, ēlēgisse.",
+    "Pōnō, pōnis, pōnere. — Posuī, posuistī, posuisse;",
+    "Pōnor, pōneris, pōnī. — Positus sum<sup>6</sup>."
+  ],
+  "latinAccented": [
+    "Mū́sicus clārus, sed satis ad pōtiṓnem<sup>1</sup> prōnus, ā diurnā́riō interrogā́tur<sup>2</sup>.",
+    "Unde orta est, Magíster, perī́tia tua?",
+    "Ab avō meō, sine ūllō dúbiō<sup>3</sup>, nam fidículīs perītíssimē canḗbat<sup>4</sup>.",
+    "Tū vērō, cūr clavichórdium pótius ēlēgístī?",
+    "Quia facílius in eō quam in fidículīs pṓnitur pṓculum!",
+    "Clavichórdium est īnstrūméntum mū́sicum cujus chordae málleīs percutiúntur<sup>5</sup>.",
+    "Mū́sicus bíbulus fácile pṓculum in clavichordī́ō pōnit.",
+    "Pṓculum ā mū́sicō bíbulō in fidículīs difficúlter pṓnitur.",
+    "Sōl in oriénte óritur. Jū́lius Caesar ē gente nṓbilī ortus est.",
+    "Ḗligō, ḗligis, ēlígere. — Élegī, ēlēgístī, ēlḗgit, ēlēgḗrunt, ēlēgísse.",
+    "Pōnō, pōnis, pṓnere. — Pósuī, posuístī, posuísse;",
+    "Pōnor, pṓneris, pōnī. — Pósitus sum<sup>6</sup>."
   ],
   "english": [
     "A famous musician, but quite (enough) prone to drink, is interviewed by a journalist (by journalist is-questioned).",
@@ -52,15 +67,26 @@
   },
   "exercises": {
     "latin": [
-      "Musicus non esurit, sed potionem bibere vult.",
-      "Diurnarius musicum bibulum interrogat.",
-      "Musicus fidiculas in raeda ponit.",
-      "Fidiculae in raeda ponuntur.",
-      "Fidiculae in raeda positae sunt.",
-      "Bulga in raeda posita est.",
-      "Clavichordium in cubiculo parvo difficulter positum est.",
-      "Quanti constant fidiculae? Constant mille francis.",
-      "Cur cubiculum vicesimum tertium elegisti? Quia de fenestra portum videre possum."
+      "Mūsicus nōn ēsurit, sed pōtiōnem bibere vult.",
+      "Diurnārius mūsicum bibulum interrogat.",
+      "Mūsicus fidiculās in raedā pōnit.",
+      "Fidiculae in raedā pōnuntur.",
+      "Fidiculae in raedā positae sunt.",
+      "Bulga in raedā posita est.",
+      "Clavichordium in cubiculō parvō difficulter positum est.",
+      "Quantī cōnstant fidiculae? Cōnstant mīlle francīs.",
+      "Cūr cubiculum vīcēsimum tertium ēlēgistī? Quia dē fenestrā portum vidēre possum."
+    ],
+    "latinAccented": [
+      "Mū́sicus nōn ḗsurit, sed pōtiṓnem bíbere vult.",
+      "Diurnā́rius mū́sicum bíbulum intérrogat.",
+      "Mū́sicus fidículās in raedā pōnit.",
+      "Fidículae in raedā pōnúntur.",
+      "Fidículae in raedā pósitae sunt.",
+      "Bulga in raedā pósita est.",
+      "Clavichórdium in cubículō parvō difficúlter pósitum est.",
+      "Quantī cōnstant fidículae? Cōnstant mīlle francīs.",
+      "Cūr cubículum vīcḗsimum tértium ēlēgístī? Quia dē fenéstrā portum vidḗre possum."
     ],
     "english": [
       "The musician is not hungry, but wants to drink [something] (a-drink).",
@@ -78,7 +104,8 @@
   "sources": [
     {
       "after": 5,
-      "latin": "E Vita Latina (Septembris 1961, A. Rodot)",
+      "latin": "Ē Vīta Latīna (Septembris 1961, Ā. Rodot)",
+      "latinAccented": "Ē Vīta Latī́na (Septémbris 1961, Ā. Rodot)",
       "english": "From Vita Latina (september 1961, A. Rodot)"
     }
   ]

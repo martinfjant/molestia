@@ -10,16 +10,29 @@
   },
   "latin": [
     "Quis venit?",
-    "Ego venio<sup>1</sup>: tabellarius sum!",
-    "Domum venis; epistulam mihi<sup>2</sup> das.",
-    "Ita Domne, epistulam tibi do.",
-    "Da, quaeso, poculum parvum caffei!",
-    "Illi poculum magnum vini do.",
-    "Ille non multum caffei dat.",
-    "Venio, venis, venit, venire.",
-    "Do, das, dat, dare.",
-    "Ego, tu, ille.",
-    "Mihi, tibi, illi."
+    "Ego veniō<sup>1</sup>: tabellārius sum!",
+    "Domum venīs; epistulam mihi<sup>2</sup> dās.",
+    "Ita Domne, epistulam tibi dō.",
+    "Dā, quaesō, pōculum parvum caffeī!",
+    "Illī pōculum magnum vīnī dō.",
+    "Ille nōn multum caffei dat.",
+    "Veniō, venīs, venit, venīre.",
+    "Dō, dās, dat, dare.",
+    "Ego, tū, ille.",
+    "Mihi, tibi, illī."
+  ],
+  "latinAccented": [
+    "Quis venit?",
+    "Ego véniō<sup>1</sup>: tabellā́rius sum!",
+    "Domum venīs; epístulam mihi<sup>2</sup> dās.",
+    "Ita Domne, epístulam tibi dō.",
+    "Dā, quaesō, pṓculum parvum cáffeī!",
+    "Illī pṓculum magnum vīnī dō.",
+    "Ille nōn multum cáffei dat.",
+    "Véniō, venīs, venit, venī́re.",
+    "Dō, dās, dat, dare.",
+    "Ego, tū, ille.",
+    "Mihi, tibi, illī."
   ],
   "english": [
     "Who comes?",
@@ -48,12 +61,20 @@
   },
   "exercises": {
     "latin": [
-      "Est mihi multum caffei.",
-      "Tabellarius domum venit.",
-      "Ego domum non venio.",
-      "Quis latine loquitur?",
-      "Latine non loqueris?",
-      "Tabellarius recte dicit."
+      "Est mihi multum caffeī.",
+      "Tabellārius domum venit.",
+      "Ego domum nōn veniō.",
+      "Quis latīne loquitur?",
+      "Latīnē nōn loqueris?",
+      "Tabellārius rēctē dīcit."
+    ],
+    "latinAccented": [
+      "Est mihi multum cáffeī.",
+      "Tabellā́rius domum venit.",
+      "Ego domum nōn véniō.",
+      "Quis latī́ne lóquitur?",
+      "Latī́nē nōn lóqueris?",
+      "Tabellā́rius rēctē dīcit."
     ],
     "english": [
       "I have much coffee.",

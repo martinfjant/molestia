@@ -3,21 +3,33 @@
     "lesson": 41,
     "title": "Lectio quadragesima prima",
     "subtitle": {
-      "latin": "De corporis partibus (concluditur)",
+      "latin": "Dē corporis partibus (conclūditur)",
+      "latinAccented": "Dē córporis pártibus (conclū́ditur)",
       "english": "On the Parts of the Body (conclusion)"
     },
     "revision": false
   },
   "latin": [
-    "Brachia humeris conectuntur<sup>1</sup>, et manus ferunt.",
-    "Veteres<sup>2</sup> Romani prandentes vel cenantes in lectis tricliniaribus<sup>3</sup> accumbebant, et sinistro cubito<sup>4</sup> innitebantur<sup>5</sup>.",
-    "Plurimi homines manu dextra scribunt; scaevae autem sinistra<sup>6</sup>.",
-    "Pollex<sup>7</sup> ceteris digitis ita opponitur ut res facile prehendere possimus.",
-    "Digitis contractis, pugnum facimus et pugnare possumus. Pugnae pugilum pugilatus<sup>8</sup> vocantur.",
-    "Multae manus onus<sup>9</sup> levant. Si compressis manibus sedes, nullum opus<sup>10</sup> perficis<sup>11</sup>.",
-    "Cruris summa pars femen seu femur<sup>12</sup> vocatur, media genu, ima sura. Talus est pars posterior pedis.",
-    "Tibia est cruris os; est etiam instrumentum musicum, quod tibia a Romanis vocabatur, quia ex osse constabat.",
-    "Pedes et suras adversus frigus tibialibus<sup>13</sup> vestimus."
+    "Brāchia humerīs cōnectuntur<sup>1</sup>, et manūs ferunt.",
+    "Veterēs<sup>2</sup> Rōmānī prandentēs vel cēnantēs in lectīs trīclīniāribus<sup>3</sup> accumbēbant, et sinistrō cubitō<sup>4</sup> innītēbantur<sup>5</sup>.",
+    "Plūrimī hominēs manū dextrā scrībunt; scaevae autem sinistra<sup>6</sup>.",
+    "Pollex<sup>7</sup> cēterīs digitīs ita oppōnitur ut rēs facile prehendere possīmus.",
+    "Digitīs contractīs, pugnum facimus et pugnāre possumus. Pugnae pugilum pugilātūs<sup>8</sup> vocantur.",
+    "Multae manūs onus<sup>9</sup> levant. Sī compressīs manibus sēdēs, nūllum opus<sup>10</sup> perficis<sup>11</sup>.",
+    "Crūris summa pars femen seu femur<sup>12</sup> vocātur, mediā genū, īma sūra. Tālus est pars posterior pedis.",
+    "Tībia est crūris os; est etiam īnstrūmentum mūsicum, quod tībia ā Rōmānīs vocābātur, quia ex osse cōnstābat.",
+    "Pedes et sūrās adversus frīgus tībiālibus<sup>13</sup> vestīmus."
+  ],
+  "latinAccented": [
+    "Brā́chia húmerīs cōnectúntur<sup>1</sup>, et manūs ferunt.",
+    "Véterēs<sup>2</sup> Rōmā́nī prandéntēs vel cēnántēs in lectīs trīclīniā́ribus<sup>3</sup> accumbḗbant, et sinístrō cúbitō<sup>4</sup> innītēbántur<sup>5</sup>.",
+    "Plū́rimī hóminēs manū dextrā scrībunt; scaevae autem sinístra<sup>6</sup>.",
+    "Pollex<sup>7</sup> cḗterīs dígitīs ita oppṓnitur ut rēs fácile prehéndere possī́mus.",
+    "Dígitīs contráctīs, pugnum fácimus et pugnā́re póssumus. Pugnae púgilum pugilā́tūs<sup>8</sup> vocántur.",
+    "Multae manūs onus<sup>9</sup> levant. Sī compréssīs mánibus sēdēs, nūllum opus<sup>10</sup> pérficis<sup>11</sup>.",
+    "Crūris summa pars femen seu femur<sup>12</sup> vocā́tur, médiā genū, īma sūra. Tālus est pars postérior pedis.",
+    "Tī́bia est crūris os; est étiam īnstrūméntum mū́sicum, quod tī́bia ā Rōmā́nīs vocābā́tur, quia ex osse cōnstā́bat.",
+    "Pedes et sūrās advérsus frīgus tībiā́libus<sup>13</sup> vestī́mus."
   ],
   "english": [
     "The arms are connected to the shoulders, and bear the hands.",
@@ -67,11 +79,18 @@
       "english": ""
     },
     "latin": [
-      "Cerevisiam bibunt homines.",
-      "Animalia cetera fontes.",
-      "Absit ab humano gutture potus aquae!",
-      "Sic bibitur, sic bibitur in aulis principum,",
-      "Sic bibi, bibi, bibitur in aulis principum, pum, pum!"
+      "Cerevisiam bibunt hominēs.",
+      "Animālia cētera fontēs.",
+      "Absit ab hūmānō gutture pōtus aquae!",
+      "Sīc bibitur, sīc bibitur in aulīs prīncipum,",
+      "Sīc bibī, bibī, bibitur in aulīs prīncipum, pum, pum!"
+    ],
+    "latinAccented": [
+      "Cerevísiam bibunt hóminēs.",
+      "Animā́lia cḗtera fontēs.",
+      "Absit ab hūmā́nō gútture pōtus aquae!",
+      "Sīc bíbitur, sīc bíbitur in aulīs prī́ncipum,",
+      "Sīc bibī, bibī, bíbitur in aulīs prī́ncipum, pum, pum!"
     ],
     "english": [
       "People drink beer.",

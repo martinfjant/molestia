@@ -10,18 +10,33 @@
   },
   "latin": [
     "Quid<sup>1</sup> quaeris?",
-    "Hanc epistulam non intellego.",
-    "Tibi auxilio esse possum<sup>2</sup>.",
-    "Potesne?<sup>3</sup> Hoc mihi magno gaudio<sup>4</sup> est.",
-    "Da illam!... lingua italica scripta est.",
-    "Amicus tuus Fabricius te Romam<sup>5</sup> invitat.",
+    "Hanc epistulam nōn intellegō.",
+    "Tibi auxiliō esse possum<sup>2</sup>.",
+    "Pōtēsne?<sup>3</sup> Hoc mihi magnō gaudiō<sup>4</sup> est.",
+    "Dā illam!... lingua ītalica scrīpta est.",
+    "Amīcus tuus Fābricius tē Rōmam<sup>5</sup> invītat.",
     "Familiam quoque tuam accipere potest.",
-    "Amicus meus generosus est.",
-    "Tu quoque, homo bonus es.",
+    "Amīcus meus generōsus est.",
+    "Tū quoque, homō bonus es.",
     "Sum, es, est, esse.",
     "Possum, potes, potest, posse.",
-    "Amicus meus, familiam tuam.",
-    "Magno gaudio, lingua italica."
+    "Amīcus meus, familiam tuam.",
+    "Magnō gaudiō, linguā ītalicā."
+  ],
+  "latinAccented": [
+    "Quid<sup>1</sup> quaeris?",
+    "Hanc epístulam nōn intéllegō.",
+    "Tibi auxíliō esse possum<sup>2</sup>.",
+    "Pōtḗsne?<sup>3</sup> Hoc mihi magnō gáudiō<sup>4</sup> est.",
+    "Dā illam!... lingua ītálica scrīpta est.",
+    "Amī́cus tuus Fābrícius tē Rōmam<sup>5</sup> invī́tat.",
+    "Famíliam quoque tuam accípere potest.",
+    "Amī́cus meus generṓsus est.",
+    "Tū quoque, homō bonus es.",
+    "Sum, es, est, esse.",
+    "Possum, potes, potest, posse.",
+    "Amī́cus meus, famíliam tuam.",
+    "Magnō gáudiō, linguā ītálicā."
   ],
   "english": [
     "What do-you[sg.]-seek?",
@@ -53,13 +68,22 @@
   },
   "exercises": {
     "latin": [
-      "Quid quaerit amicus tuus?",
-      "Amicus meus epistulam quaerit.",
-      "Tabellarius multum vini accipere potest.",
-      "Lingua italica difficilis non est.",
-      "Illi magno gaudio est latine loqui.",
-      "Potesne domum venire?",
-      "Ita, Domne, venire possum."
+      "Quid quaerit amīcus tuus?",
+      "Amīcus meus epistulam quaerit.",
+      "Tabellārius multum vīnī accipere potest.",
+      "Lingua italica difficilis nōn est.",
+      "Illī magnō gaudiō est latīne loquī.",
+      "Potesne domum venīre?",
+      "Ita, Domne, venīre possum."
+    ],
+    "latinAccented": [
+      "Quid quaerit amī́cus tuus?",
+      "Amī́cus meus epístulam quaerit.",
+      "Tabellā́rius multum vīnī accípere potest.",
+      "Lingua itálica diffícilis nōn est.",
+      "Illī magnō gáudiō est latī́ne loquī.",
+      "Potésne domum venī́re?",
+      "Ita, Domne, venī́re possum."
     ],
     "english": [
       "What is your[sg.] friend seeking?",

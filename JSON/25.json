@@ -3,21 +3,33 @@
     "lesson": 25,
     "title": "Lectio vicesima quinta",
     "subtitle": {
-      "latin": "Fabellae insanae",
+      "latin": "Fābellae īnsānae",
+      "latinAccented": "Fābéllae īnsā́nae",
       "english": "Crazy stories"
     },
     "revision": false
   },
   "latin": [
-    "Insanus quidam<sup>1</sup>, canem brevibus cruribus<sup>2</sup> aspiciens<sup>3</sup>, subito clamavit: «Canes terram praetervolant<sup>4</sup>: mox pluet<sup>5</sup>!».",
-    "Dicitur, quando hirundines demisse volant, imbrem imminentem esse.",
-    "Una hirundo ver non efficit.",
-    "Alter insanus se granum frumenti esse credebat: quotiescumque gallinam viderat, perterritus fugiebat: timebat enim ne a gallina voraretur<sup>6</sup>.",
-    "Medicus insanorum, multa cum perseverantia eum curavit<sup>7</sup>. Insanus tandem intellexit se granum frumenti non esse...",
-    "Postero die medicus, qui sanationem probare cupiebat, cum eo colloquebatur<sup>8</sup>.",
-    "At subito gallina quaedam ab insano visa est, qui statim se in pedes conjecit.",
-    "Cur fugis? ait medicus. Credebam te sanatum esse. Cur adhuc gallinas times?",
-    "Non dubito quin<sup>9</sup> me sanaveris: certus sum me granum frumenti non esse. Sed hoc gallina fortasse nondum novit!"
+    "Īnsānus quīdam<sup>1</sup>, canem brevibus crūribus<sup>2</sup> aspiciēns<sup>3</sup>, subitō clāmāvit: «Canēs terram praetervolant<sup>4</sup>: mox pluet<sup>5</sup>!».",
+    "Dīcitur, quandō hirundinēs dēmissē volant, imbrem imminentem esse.",
+    "Ūna hirundō vēr nōn efficit.",
+    "Alter īnsānus sē grānum frūmentī esse crēdēbat: quotiēscumque gallīnam vīderat, perterritus fugiēbat: timēbat enim nē ā gallīnā vorārētur<sup>6</sup>.",
+    "Medicus īnsānōrum, multa cum persevērantiā eum cūrāvit<sup>7</sup>. Īnsānus tandem intellēxit sē grānum frūmentī nōn esse...",
+    "Posterō diē medicus, quī sānātiōnem probāre cupiēbat, cum eō colloquēbātur<sup>8</sup>.",
+    "At subitō gallīna quaedam ab īnsānō vīsa est, quī statim sē in pedēs conjēcit.",
+    "Cūr fugis? ait medicus. Crēdēbam tē sānātum esse. Cūr adhūc gallīnās timēs?",
+    "Nōn dubitō quīn<sup>9</sup> mē sānāverīs: certus sum mē grānum frūmentī nōn esse. Sed hoc gallīna fortasse nōndum nōvit!"
+  ],
+  "latinAccented": [
+    "Īnsā́nus quīdam<sup>1</sup>, canem brévibus crū́ribus<sup>2</sup> aspíciēns<sup>3</sup>, súbitō clāmā́vit: «Canēs terram praetérvolant<sup>4</sup>: mox pluet<sup>5</sup>!».",
+    "Dī́citur, quandō hirúndinēs dēmíssē volant, imbrem imminéntem esse.",
+    "Ūna hirúndō vēr nōn éfficit.",
+    "Alter īnsā́nus sē grānum frūméntī esse crēdḗbat: quotiēscúmque gallī́nam vī́derat, pertérritus fugiḗbat: timḗbat enim nē ā gallī́nā vorārḗtur<sup>6</sup>.",
+    "Médicus īnsānṓrum, multa cum persevērántiā eum cūrā́vit<sup>7</sup>. Īnsā́nus tandem intellḗxit sē grānum frūméntī nōn esse...",
+    "Pósterō diē médicus, quī sānātiṓnem probā́re cupiḗbat, cum eō colloquēbā́tur<sup>8</sup>.",
+    "At súbitō gallī́na quaedam ab īnsā́nō vīsa est, quī statim sē in pedēs conjḗcit.",
+    "Cūr fugis? ait médicus. Crēdḗbam tē sānā́tum esse. Cūr adhūc gallī́nās timēs?",
+    "Nōn dúbitō quīn<sup>9</sup> mē sānā́verīs: certus sum mē grānum frūméntī nōn esse. Sed hoc gallī́na fortásse nōndum nōvit!"
   ],
   "english": [
     "A-(certain) madman, looking at a basset hound (see note), suddenly exclaimed: “Dogs are [flying low] (flying-along the-ground): soon it will rain!”.",
@@ -67,15 +79,26 @@
   },
   "exercises": {
     "latin": [
-      "Insani a medicis non semper sanantur.",
-      "Panis e frumento fit.",
-      "E frumento homines panem faciunt.",
-      "Gallina grana frumenti vorat.",
-      "Vorantne gallinas insani? — Gallinae insanis non conveniunt.",
-      "Medicus gallinam assam edit.",
-      "Verum dic mihi! Potestne medicus eum sanare?",
-      "Quid arbitramini de fabellis insanis?",
-      "Fabellae insanae non sunt omnes ridiculae."
+      "Īnsānī ā medicīs nōn semper sānantur.",
+      "Pānis ē frūmentō fit.",
+      "Ē frūmentō hominēs pānem faciunt.",
+      "Gallīna grāna frūmentī vorat.",
+      "Vorantne gallīnās īnsānī? — Gallīnae īnsānīs nōn conveniunt.",
+      "Medicus gallīnam assam edit.",
+      "Vērum dīc mihi! Potestne medicus eum sānāre?",
+      "Quid arbitrāminī dē fābellīs īnsānīs?",
+      "Fābellae īnsānae nōn sunt omnēs ridiculae."
+    ],
+    "latinAccented": [
+      "Īnsā́nī ā médicīs nōn semper sānántur.",
+      "Pānis ē frūméntō fit.",
+      "Ē frūméntō hóminēs pānem fáciunt.",
+      "Gallī́na grāna frūméntī vorat.",
+      "Vorántne gallī́nās īnsā́nī? — Gallī́nae īnsā́nīs nōn convéniunt.",
+      "Médicus gallī́nam assam edit.",
+      "Vērum dīc mihi! Potéstne médicus eum sānā́re?",
+      "Quid arbitrā́minī dē fābéllīs īnsā́nīs?",
+      "Fābéllae īnsā́nae nōn sunt omnēs ridículae."
     ],
     "english": [
       "Madmen are not always cured by [their] doctors.",

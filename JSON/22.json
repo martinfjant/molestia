@@ -4,24 +4,40 @@
     "title": "Lectio vicesima altera",
     "subtitle": {
       "latin": "Paenula tibi convenit",
+      "latinAccented": "Páenula tibi cónvenit",
       "english": "The coat suits you"
     },
     "revision": false
   },
   "latin": [
-    "Quid! Sine paenula<sup>1</sup> domo exire non dubitas!",
-    "Paenulam in sarcinis collocare neglexi<sup>2</sup>. Regiones meridianas semper tepidas esse credebam.",
-    "Erravisti! Aquilo saepe nobis aërem<sup>3</sup> frigidum affert. Propter hunc ventum hodie temperies frigida est.",
+    "Quid! Sine paenulā<sup>1</sup> domō exīre nōn dubitās!",
+    "Paenulam in sarcinīs collocāre neglēxī<sup>2</sup>. Regiōnēs merīdiānās semper tepidās esse crēdēbam.",
+    "Errāvistī! Aquilō saepe nōbīs āërem<sup>3</sup> frīgidum affert. Propter hunc ventum hodiē temperiēs frīgida est.",
     "Ubi paenulam emere possum?",
-    "Non desunt tabernae in hac via. Veni mecum<sup>4</sup>! Ecce taberna Olivae: ille mercator mihi amicisque meis vestes lautas pretio modico vendit.",
-    "Salve Oliva! — Salvete Domni! Quid vobis?",
-    "Fac videamus<sup>5</sup> paenulas. Ecce paenulae! Quanta<sup>6</sup> paenularum copia!",
-    "Quod est judicium tuum de istis paenulis cinereis? Quid de illa fusca?",
-    "Color hujus paenulae mihi non displicet. Eam probemus<sup>7</sup>!",
-    "Haec paenula tibi miro modo convenit.",
-    "Et cum paenula, visne alia vestimenta? Subuculam, mastrucam, bracas, pallium<sup>8</sup>? Quid de hoc petaso?",
-    "Haec paenula mihi satisfacit. Possumne eam cursuali perscriptione<sup>9</sup> solvere?",
-    "Perscriptionem implet et eam Olivae porrigit."
+    "Nōn dēsunt tabernae in hāc viā. Vēnī mēcum<sup>4</sup>! Ecce taberna Olīvae: ille mercātor mihi amīcīsque meīs vestēs lautās pretiō modicō vēndit.",
+    "Salvē Olīva! — Salvēte Domnī! Quid vōbīs?",
+    "Fac videāmus<sup>5</sup> paenulās. Ecce paenulae! Quanta<sup>6</sup> paenulārum cōpia!",
+    "Quod est jūdicium tuum dē istīs paenulīs cinereīs? Quid dē illā fuscā?",
+    "Color hujus paenulae mihi nōn displicet. Eam probēmus<sup>7</sup>!",
+    "Haec paenula tibi mīrō modō convenit.",
+    "Et cum paenulā, vīsne alia vestīmenta? Subūculam, mastrūcam, brācās, pallium<sup>8</sup>? Quid dē hōc petasō?",
+    "Haec paenula mihi satisfacit. Possumne eam cursuālī perscrīptiōne<sup>9</sup> solvere?",
+    "Perscrīptiōnem implet et eam Olīvae porrigit."
+  ],
+  "latinAccented": [
+    "Quid! Sine páenulā<sup>1</sup> domō exī́re nōn dúbitās!",
+    "Páenulam in sárcinīs collocā́re neglḗxī<sup>2</sup>. Regiṓnēs merīdiā́nās semper tépidās esse crēdḗbam.",
+    "Errāvístī! Áquilō saepe nōbīs āërem<sup>3</sup> frī́gidum affert. Propter hunc ventum hódiē tempériēs frī́gida est.",
+    "Ubi páenulam émere possum?",
+    "Nōn dēsunt tabérnae in hāc viā. Vēnī mēcum<sup>4</sup>! Ecce tabérna Olī́vae: ille mercā́tor mihi amīcī́sque meīs vestēs lautās prétiō módicō vēndit.",
+    "Salvē Olī́va! — Salvḗte Domnī! Quid vōbīs?",
+    "Fac videā́mus<sup>5</sup> páenulās. Ecce páenulae! Quanta<sup>6</sup> paenulā́rum cṓpia!",
+    "Quod est jūdícium tuum dē istīs páenulīs cinéreīs? Quid dē illā fuscā?",
+    "Color hujus páenulae mihi nōn dísplicet. Eam probḗmus<sup>7</sup>!",
+    "Haec páenula tibi mīrō modō cónvenit.",
+    "Et cum páenulā, vīsne ália vestīménta? Subū́culam, mastrū́cam, brācās, pállium<sup>8</sup>? Quid dē hōc pétasō?",
+    "Haec páenula mihi satísfacit. Possúmne eam cursuā́lī perscrīptiṓne<sup>9</sup> sólvere?",
+    "Perscrīptiṓnem implet et eam Olī́vae pórrigit."
   ],
   "english": [
     "What! You dare (don’t hesitate) to leave home (to go out from home) without a coat!",
@@ -70,15 +86,26 @@
   },
   "exercises": {
     "latin": [
-      "Oliva sine mora paenulas affert.",
-      "Quod est judicium vestrum de istis bracis rubris?",
-      "Bracae rubrae homini gravi non conveniunt.",
-      "Subucula sub mastruca induitur.",
-      "Induit se mastruca super subuculam.",
-      "Illarum paenularum colores mihi placent.",
-      "Hoc vestimentum mastruca dicitur, illud autem pallium.",
-      "Graeci pallio induebantur, Romani autem toga.",
-      "Hi «gens togata», illi autem «gens palliata» vocabantur."
+      "Olīva sine morā paenulās affert.",
+      "Quod est jūdicium vestrum dē istīs brācīs rubrīs?",
+      "Brācae rubrae hominī gravī nōn conveniunt.",
+      "Subūcula sub mastrūcā induitur.",
+      "Induit sē mastrūca super subūculam.",
+      "Illārum paenulārum colōrēs mihi placent.",
+      "Hoc vestīmentum mastrūca dīcitur, illud autem pallium.",
+      "Graecī palliō induēbantur, Rōmānī autem toga.",
+      "Hī «gēns togāta», illī autem «gēns palliāta» vocābantur."
+    ],
+    "latinAccented": [
+      "Olī́va sine morā páenulās affert.",
+      "Quod est jūdícium vestrum dē istīs brācīs rubrīs?",
+      "Brācae rubrae hóminī gravī nōn convéniunt.",
+      "Subū́cula sub mastrū́cā indúitur.",
+      "Índuit sē mastrū́ca super subū́culam.",
+      "Illā́rum paenulā́rum colṓrēs mihi placent.",
+      "Hoc vestīméntum mastrū́ca dī́citur, illud autem pállium.",
+      "Graecī pálliō induēbántur, Rōmā́nī autem toga.",
+      "Hī «gēns togā́ta», illī autem «gēns palliā́ta» vocābántur."
     ],
     "english": [
       "Olive brings the coats without delay.",

@@ -3,28 +3,47 @@
     "lesson": 27,
     "title": "Lectio vicesima septima",
     "subtitle": {
-      "latin": "Visne tympanum?",
+      "latin": "Vīsne tympanum?",
+      "latinAccented": "Vīsne týmpanum?",
       "english": "Do you want a drum?"
     },
     "revision": false
   },
   "latin": [
-    "Mihi ignosce, Domne, ubi veneunt<sup>1</sup> crepundia<sup>2</sup>?",
-    "Cujuslibet generis crepundia in tabulato tertio invenietis.",
-    "Nolite hac<sup>3</sup> transire, Domnae! Potius per scalas mechanicas conscendite!",
-    "Ecce crepundiorum locus! Pretii modici munus<sup>4</sup> quaerimus.",
-    "Puerone an puellae dabitur<sup>5</sup> hoc munus?",
-    "Filio meo id donare volo.",
-    "Quot annos natus est?",
-    "Novem annorum est.",
-    "Visne ludicrum constructivum<sup>6</sup> ligneum? tubam aeream<sup>7</sup>? tympanum<sup>8</sup>?",
-    "Ludicrum illud ei non placebit; tuba autem et tympanum mihi displicent.",
-    "Hoc tramine<sup>9</sup> electrico delectabitur, vel illa nave<sup>10</sup> cum velis.",
-    "Quanti constant?",
-    "Pretium traminis HS (sestertiis)<sup>11</sup> septemdecim, navis novem.",
-    "Haec munera pulchra sed cara sunt. Filio globulos emam<sup>12</sup>.",
-    "At ego filiae pupam<sup>13</sup> comparabo<sup>14</sup>.",
-    "Globulos hic quoque habemus. Puparum locus haud procul<sup>15</sup> distat."
+    "Mihi ignōsce, Domne, ubi veneunt<sup>1</sup> crepundia<sup>2</sup>?",
+    "Cujuslibet generis crepundia in tabulātō tertiō inveniētis.",
+    "Nōlīte hāc<sup>3</sup> trānsīre, Domnae! Potius per scālās mēchanicās cōnscendite!",
+    "Ecce crepundiōrum locus! Pretiī modicī mūnus<sup>4</sup> quaerimus.",
+    "Puerōne an puellae dabitur<sup>5</sup> hōc mūnus?",
+    "Fīliō meō id dōnāre volō.",
+    "Quot annōs nātus est?",
+    "Novem annōrum est.",
+    "Vīsne lūdicrum constructīvum<sup>6</sup> ligneum? tubam aeream<sup>7</sup>? tympanum<sup>8</sup>?",
+    "Lūdicrum illud eī nōn placēbit; tubā autem et tympanum mihi displicent.",
+    "Hoc tramīne<sup>9</sup> electricō dēlectābitur, vel illā nāve<sup>10</sup> cum vēlīs.",
+    "Quantī cōnstant?",
+    "Pretium trāminis HS (sēstertiīs)<sup>11</sup> septemdecim, nāvis novem.",
+    "Haec mūnera pulchra sed cāra sunt. Fīliō globulōs emam<sup>12</sup>.",
+    "At ego fīliae pūpam<sup>13</sup> comparābō<sup>14</sup>.",
+    "Globulōs hic quoque habēmus. Pūpārum locus haud procul<sup>15</sup> distat."
+  ],
+  "latinAccented": [
+    "Mihi ignṓsce, Domne, ubi véneunt<sup>1</sup> crepúndia<sup>2</sup>?",
+    "Cujúslibet géneris crepúndia in tabulā́tō tértiō inveniḗtis.",
+    "Nōlī́te hāc<sup>3</sup> trānsī́re, Domnae! Pótius per scālās mēchánicās cōnscéndite!",
+    "Ecce crepundiṓrum locus! Prétiī módicī mūnus<sup>4</sup> quáerimus.",
+    "Puerṓne an puéllae dábitur<sup>5</sup> hōc mūnus?",
+    "Fī́liō meō id dōnā́re volō.",
+    "Quot annōs nātus est?",
+    "Novem annṓrum est.",
+    "Vīsne lū́dicrum constructī́vum<sup>6</sup> lígneum? tubam áeream<sup>7</sup>? týmpanum<sup>8</sup>?",
+    "Lū́dicrum illud eī nōn placḗbit; tubā autem et týmpanum mihi dísplicent.",
+    "Hoc tramī́ne<sup>9</sup> eléctricō dēlectā́bitur, vel illā nāve<sup>10</sup> cum vēlīs.",
+    "Quantī cōnstant?",
+    "Prétium trā́minis HS (sēstértiīs)<sup>11</sup> septémdecim, nāvis novem.",
+    "Haec mū́nera pulchra sed cāra sunt. Fī́liō glóbulōs emam<sup>12</sup>.",
+    "At ego fī́liae pūpam<sup>13</sup> comparā́bō<sup>14</sup>.",
+    "Glóbulōs hic quoque habḗmus. Pūpā́rum locus haud procul<sup>15</sup> distat."
   ],
   "english": [
     "Excuse me, sir, where are toys (rattles) sold?",
@@ -101,10 +120,16 @@
       "english": ""
     },
     "latin": [
-      "Periit gallus proh dolor! (bis)",
-      "Numquam canet sic cirici cirici,",
-      "Nec sonabit vox cocori cococo.",
-      "Nec sonabit vox cocori coco!"
+      "Periit gallus prōh dolor! (bis)",
+      "Numquam cānet sīc cirīcī cirīcī,",
+      "Nec sonābit vōx cocōrī cococō.",
+      "Nec sonābit vōx cocōrī cocō!"
+    ],
+    "latinAccented": [
+      "Périit gallus prōh dolor! (bis)",
+      "Numquam cānet sīc cirī́cī cirī́cī,",
+      "Nec sonā́bit vōx cocṓrī cócocō.",
+      "Nec sonā́bit vōx cocṓrī cocō!"
     ],
     "english": [
       "The rooster perished, oh, sorrow! (twice)",

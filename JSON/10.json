@@ -3,23 +3,37 @@
     "lesson": 10,
     "title": "Lectio decima",
     "subtitle": {
-      "latin": "In deversorio",
+      "latin": "In dēversōriō",
+      "latinAccented": "In dēversṓriō",
       "english": "At the hotel"
     },
     "revision": false
   },
   "latin": [
-    "Salve, Caupo<sup>1</sup>! Potesne<sup>2</sup> nos accipere?",
-    "Salve, Domne! Vos omnes<sup>3</sup> libenter accipiam. Locus non deest<sup>4</sup>!",
-    "Opus est cubiculo cum lecto<sup>5</sup> uno, et cubiculo altero cum lectis duobus.",
-    "Ecce! cubiculum decimum quartum<sup>6</sup> in tabulato primo et cubiculum vicesimum sextum in tabulato altero<sup>7</sup>.",
-    "Josephe! Affer impedimenta et monstra cubicula!",
-    "Ecce cubiculum! Per fenestram portum videre potes.",
-    "Quam caeruleum est mare! Quot naves aspicio!",
-    "Magna navis oneraria<sup>8</sup>, quae cursum in altum dirigit, Graeciam petit.",
-    "Cubiculum mihi placet. Quanti constat?",
-    "Hoc cubiculum octo francis constat; alterum duodecim.",
-    "Cubiculum, in cubiculo; cubicula, in cubiculis."
+    "Salve, Caupō<sup>1</sup>! Potesne<sup>2</sup> nōs accipere?",
+    "Salve, Domne! Vōs omnēs<sup>3</sup> libenter accipiam. Locus nōn deest<sup>4</sup>!",
+    "Opus est cubiculō cum lectō<sup>5</sup> ūnō, et cubiculō alterō cum lectīs duōbus.",
+    "Ecce! cubiculum decimum quārtum<sup>6</sup> in tabulātō prīmō et cubiculum vīcēsimum sextum in tabulātō alterō<sup>7</sup>.",
+    "Jōsēphe! Affer impedīmenta et mōnstra cubicula!",
+    "Ecce cubiculum! Per fenestram portum vidēre potes.",
+    "Quam caeruleum est mare! Quot nāvēs aspiciō!",
+    "Magna nāvis onerāria<sup>8</sup>, quae cursum in altum dīrigit, Graeciam petit.",
+    "Cubiculum mihi placet. Quantī cōnstat?",
+    "Hoc cubiculum octo francīs cōnstat; alterum duodecim.",
+    "Cubiculum, in cubiculō; cubicula, in cubiculīs."
+  ],
+  "latinAccented": [
+    "Salve, Caupō<sup>1</sup>! Potésne<sup>2</sup> nōs accípere?",
+    "Salve, Domne! Vōs omnēs<sup>3</sup> libénter accípiam. Locus nōn deest<sup>4</sup>!",
+    "Opus est cubículō cum lectō<sup>5</sup> ūnō, et cubículō álterō cum lectīs duṓbus.",
+    "Ecce! cubículum décimum quārtum<sup>6</sup> in tabulā́tō prīmō et cubículum vīcḗsimum sextum in tabulā́tō álterō<sup>7</sup>.",
+    "Jōsḗphe! Affer impedīménta et mōnstra cubícula!",
+    "Ecce cubículum! Per fenéstram portum vidḗre potes.",
+    "Quam caerúleum est mare! Quot nāvēs aspíciō!",
+    "Magna nāvis onerā́ria<sup>8</sup>, quae cursum in altum dī́rigit, Gráeciam petit.",
+    "Cubículum mihi placet. Quantī cōnstat?",
+    "Hoc cubículum octo francīs cōnstat; álterum duódecim.",
+    "Cubículum, in cubículō; cubícula, in cubículīs."
   ],
   "english": [
     "Hello, Keeper! Can you take us?",
@@ -49,14 +63,24 @@
   },
   "exercises": {
     "latin": [
-      "Volo cubiculum magnum cum lectis duobus.",
-      "Cubicula parva cum lectis singulis volunt<sup>1</sup>.",
-      "In deversorio illo desunt cubicula cum lectis binis.",
-      "In cubiculo magno arcas collocat.",
-      "Vos omnes cubiculo meo accipiam.",
-      "Quanti constat hoc cubiculum cum tribus lectis?",
-      "Quindecim francis constat.",
-      "Hoc deversorium mihi placet."
+      "Volō cubiculum magnum cum lectīs duōbus.",
+      "Cubicula parva cum lectīs singulīs volunt<sup>1</sup>.",
+      "In dēversōriō illō dēsunt cubicula cum lectīs bīnīs.",
+      "In cubiculō magnō arcās collocat.",
+      "Vōs omnēs cubiculō meō accipiam.",
+      "Quantī cōnstat hoc cubiculum cum tribus lectīs?",
+      "Quīndecim francīs cōnstat.",
+      "Hoc dēversōrium mihi placet."
+    ],
+    "latinAccented": [
+      "Volō cubículum magnum cum lectīs duṓbus.",
+      "Cubícula parva cum lectīs síngulīs volunt<sup>1</sup>.",
+      "In dēversṓriō illō dēsunt cubícula cum lectīs bīnīs.",
+      "In cubículō magnō arcās cóllocat.",
+      "Vōs omnēs cubículō meō accípiam.",
+      "Quantī cōnstat hoc cubículum cum tribus lectīs?",
+      "Quī́ndecim francīs cōnstat.",
+      "Hoc dēversṓrium mihi placet."
     ],
     "english": [
       "I want [a] large room with two beds.",

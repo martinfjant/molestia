@@ -3,24 +3,39 @@
     "lesson": 8,
     "title": "Lectio octava",
     "subtitle": {
-      "latin": "Romam imus",
+      "latin": "Rōmam īmus",
+      "latinAccented": "Rōmam īmus",
       "english": "We are going to Rome"
     },
     "revision": false
   },
   "latin": [
-    "Ubi estis et quo itis?",
-    "In raeda sumus, Romam<sup>1</sup> imus.",
-    "Rectane<sup>2</sup> in Italiam<sup>3</sup> itis?",
-    "Minime! Feriae sunt! Massiliae aliquot dies demorabimur",
-    "et totam hebdomadam Genuae<sup>4</sup>.",
-    "Massiliae, in deversorio noctes agemus<sup>5</sup>,",
-    "Genuae, avus nos domi accipiet.",
-    "Genua et Roma in Italia sunt. Avus meus Italus est.",
-    "Eo Romam, is Massiliam; it domum; in deversorium imus.",
-    "Sum Romae, es Massiliae, est domi; in deversorio sumus.",
-    "Avia it Lugdunum birota<sup>6</sup>. Lugduni Rhodanum videt.",
-    "Eo, is, it, imus, itis, eunt, ire. Ago, agis, agit, agimus, agitis, agunt, agere."
+    "Ubi estis et quō ītis?",
+    "In raedā sumus, Rōmam<sup>1</sup> īmus.",
+    "Rēctane<sup>2</sup> in Ītaliam<sup>3</sup> itis?",
+    "Minimē! Fēriae sunt! Massiliae aliquot diēs dēmorābimur",
+    "et tōtam hebdomadam Genuae<sup>4</sup>.",
+    "Massiliae, in dēversōriō noctēs agēmus<sup>5</sup>,",
+    "Genuae, avus nōs domī accipiet.",
+    "Genua et Rōma in Ītaliā sunt. Avus meus Italus est.",
+    "Eō Rōmam, is Massiliam; it domum; in dēversōrium īmus.",
+    "Sum Rōmae, es Massiliae, est domī; in dēversōriō sumus.",
+    "Āvia it Lugdūnum birota<sup>6</sup>. Lugdūnī Rhodanum videt.",
+    "Eō, is, it, īmus, itīs, eunt, īre. Agō, agis, agit, agimus, agitis, agunt, agere."
+  ],
+  "latinAccented": [
+    "Ubi estis et quō ītis?",
+    "In raedā sumus, Rōmam<sup>1</sup> īmus.",
+    "Rēctáne<sup>2</sup> in Ītáliam<sup>3</sup> itis?",
+    "Mínimē! Fḗriae sunt! Massíliae áliquot diēs dēmorā́bimur",
+    "et tōtam hebdómadam Génuae<sup>4</sup>.",
+    "Massíliae, in dēversṓriō noctēs agḗmus<sup>5</sup>,",
+    "Génuae, avus nōs domī accípiet.",
+    "Génua et Rōma in Ītáliā sunt. Avus meus Ítalus est.",
+    "Eō Rōmam, is Massíliam; it domum; in dēversṓrium īmus.",
+    "Sum Rōmae, es Massíliae, est domī; in dēversṓriō sumus.",
+    "Ā́via it Lugdū́num bírota<sup>6</sup>. Lugdū́nī Rhódanum videt.",
+    "Eō, is, it, īmus, itīs, eunt, īre. Agō, agis, agit, ágimus, ágitis, agunt, ágere."
   ],
   "english": [
     "Where are you[pl.] and where (whither) are you[pl.] going?",
@@ -51,14 +66,24 @@
   },
   "exercises": {
     "latin": [
-      "Raeda ad theatrum eunt.",
-      "Sorores in theatro cum avia adsunt.",
-      "Genuae italice loquor.",
-      "Lugduni gallice loqueris.",
-      "Puer stupidus irridet avum qui<sup>1</sup> Massiliam it birota.",
-      "Quid hodie agitis? Nihil agimus.",
-      "In cinematographio noctem agere volumus.",
-      "Homines graves<sup>2</sup> non estis."
+      "Raeda ad theātrum eunt.",
+      "Sorōrēs in theātrō cum āvia adsunt.",
+      "Genuae ītalice loquor.",
+      "Lugdūnī gallice loqueris.",
+      "Puer stupidus irrīdet avum quī<sup>1</sup> Massiliam it birota.",
+      "Quid hodiē agitis? Nihil agimus.",
+      "In cinematographīō noctem agere volumus.",
+      "Hominēs gravēs<sup>2</sup> nōn estis."
+    ],
+    "latinAccented": [
+      "Raeda ad theā́trum eunt.",
+      "Sorṓrēs in theā́trō cum ā́via adsunt.",
+      "Génuae ītálice loquor.",
+      "Lugdū́nī gállice lóqueris.",
+      "Puer stúpidus irrī́det avum quī<sup>1</sup> Massíliam it bírota.",
+      "Quid hódiē ágitis? Nihil ágimus.",
+      "In cinematographī́ō noctem ágere vólumus.",
+      "Hóminēs gravēs<sup>2</sup> nōn estis."
     ],
     "english": [
       "They are going to the theatre by car.",

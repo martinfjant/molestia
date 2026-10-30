@@ -3,24 +3,39 @@
     "lesson": 15,
     "title": "Lectio quinta decima",
     "subtitle": {
-      "latin": "Epistula ad Fabricium",
+      "latin": "Epistula ad Fābricium",
+      "latinAccented": "Epístula ad Fābrícium",
       "english": "A letter to Fabrizio"
     },
     "revision": false
   },
   "latin": [
-    "Fabricio respondere debeo. Habesne<sup>1</sup> papyrum<sup>2</sup>?",
-    "Hic est papyrus! Visne atramentum<sup>3</sup> et calamum<sup>4</sup>?",
-    "Gratias: mihi est stilographium<sup>5</sup>. Incipiamus<sup>6</sup>!",
-    "Marcus Dupont Fabricio Martini<sup>7</sup> salutem plurimam dicit!",
-    "Si vales bene est; ego valeo<sup>8</sup>!",
-    "Perlibenter<sup>9</sup> epistulam tuam acceptam legi<sup>10</sup>.",
-    "Tibi gratias multas ago propter benignitatem tuam.",
-    "Adveniemus Genuam die 25° (vicesimo quinto)<sup>11</sup> mensis julii<sup>12</sup>, ad horam nonam antemeridianam<sup>13</sup>.",
-    "Cum gaudio vos revisemus et vobiscum plures dies agemus.",
-    "Salve, optime<sup>14</sup> Fabrici, valete tu tuique omnes.",
-    "Scribebam Lutetiae Parisiorum, die 19° (undevicesimo) mensis julii anno 1963° (millesimo nongentesimo sexagesimo tertio).",
-    "Epistulam in involucrum insero. Inscriptionem scribo. Pittacium conglutino et officium cursuale peto."
+    "Fābriciō respondēre dēbeō. Habēsne<sup>1</sup> papȳrum<sup>2</sup>?",
+    "Hic est papȳrus! Vīsne ātrāmentum<sup>3</sup> et calamum<sup>4</sup>?",
+    "Grātiās: mihi est stilographium<sup>5</sup>. Incipiāmus<sup>6</sup>!",
+    "Mārcus Dupont Fābriciō Martinī<sup>7</sup> salūtem plūrimam dīcit!",
+    "Sī valēs bene est; ego valeō<sup>8</sup>!",
+    "Perlibenter<sup>9</sup> epistulam tuam acceptam lēgī<sup>10</sup>.",
+    "Tibi grātiās multās agō propter benignitātem tuam.",
+    "Adveniēmus Genuam diē 25° (vīcēsimō quīntō)<sup>11</sup> mēnsīs jūliī<sup>12</sup>, ad hōram nōnam antemerīdiānam<sup>13</sup>.",
+    "Cum gaudiō vōs revīsēmus et vōbīscum plūrēs diēs agēmus.",
+    "Salvē, optimē<sup>14</sup> Fābricī, valēte tū tuīque omnēs.",
+    "Scrībēbam Lutetiae Parīsiōrum, diē 19° (ūndēvīcēsimō) mēnsīs jūliī annō 1963° (mīllēsimō nongentesimō sexāgēsimō tertiō).",
+    "Epistulam in involūcrum īnserō. Īnscrīptiōnem scrībō. Pittacium conglūtinō et officium cursuāle petō."
+  ],
+  "latinAccented": [
+    "Fābríciō respondḗre dḗbeō. Habḗsne<sup>1</sup> papȳ́rum<sup>2</sup>?",
+    "Hic est papȳ́rus! Vīsne ātrāméntum<sup>3</sup> et cálamum<sup>4</sup>?",
+    "Grā́tiās: mihi est stilográphium<sup>5</sup>. Incipiā́mus<sup>6</sup>!",
+    "Mārcus Dupont Fābríciō Mártinī<sup>7</sup> salū́tem plū́rimam dīcit!",
+    "Sī valēs bene est; ego váleō<sup>8</sup>!",
+    "Perlibénter<sup>9</sup> epístulam tuam accéptam lēgī<sup>10</sup>.",
+    "Tibi grā́tiās multās agō propter benignitā́tem tuam.",
+    "Adveniḗmus Génuam diē 25° (vīcḗsimō quīntō)<sup>11</sup> mēnsīs jū́liī<sup>12</sup>, ad hōram nōnam antemerīdiā́nam<sup>13</sup>.",
+    "Cum gáudiō vōs revīsḗmus et vōbī́scum plūrēs diēs agḗmus.",
+    "Salvē, óptimē<sup>14</sup> Fā́bricī, valḗte tū tuī́que omnēs.",
+    "Scrībḗbam Lutétiae Parīsiṓrum, diē 19° (ūndēvīcḗsimō) mēnsīs jū́liī annō 1963° (mīllḗsimō nongentésimō sexāgḗsimō tértiō).",
+    "Epístulam in involū́crum ī́nserō. Īnscrīptiṓnem scrībō. Pittácium conglū́tinō et offícium cursuā́le petō."
   ],
   "english": [
     "I must respond to Fabrizio. Do you have [some] paper?",
@@ -57,14 +72,24 @@
   },
   "exercises": {
     "latin": [
-      "Difficile non est epistulam latinam scribere.",
-      "Inscriptione indicamus cui homini epistula perferri debeat et in quo loco sit ejus domicilium.",
-      "Inscriptio mea est: Carolus Durand 12 (in domo duodecima), via Lugdunensi, Lutetiae Parisiorum, Gallia.",
-      "Ubi est officium cursuale? Est in hac via.",
-      "Fabricius accepit epistulam a Carolo scriptam.",
-      "Epistulam tuam accepi et eam libenter legi.",
-      "Quando advenietis? Adveniemus die septimo mensis junii.",
-      "Libenter vos accipiemus."
+      "Difficile nōn est epistulam latīnam scrībere.",
+      "Īnscrīptiōne indicāmus cui hominī epistula perferrī dēbeat et in quō locō sit ejus domicilium.",
+      "Īnscrīptiō mea est: Carolus Durand 12 (in domō duodecimā), viā Lugdūnēnsī, Lutetiae Parīsiōrum, Galliā.",
+      "Ubi est officium cursuāle? Est in hāc viā.",
+      "Fābricius accēpit epistulam ā Carōlō scrīptam.",
+      "Epistulam tuam accēpī et eam libenter lēgī.",
+      "Quandō adveniētis? Adveniēmus diē septimō mēnsis jūniī.",
+      "Libenter vōs accipiēmus."
+    ],
+    "latinAccented": [
+      "Diffícile nōn est epístulam latī́nam scrī́bere.",
+      "Īnscrīptiṓne indicā́mus cui hóminī epístula perférrī dḗbeat et in quō locō sit ejus domicílium.",
+      "Īnscrī́ptiō mea est: Cárolus Durand 12 (in domō duodécimā), viā Lugdūnḗnsī, Lutétiae Parīsiṓrum, Gálliā.",
+      "Ubi est offícium cursuā́le? Est in hāc viā.",
+      "Fābrícius accḗpit epístulam ā Carṓlō scrīptam.",
+      "Epístulam tuam accḗpī et eam libénter lēgī.",
+      "Quandō adveniḗtis? Adveniḗmus diē séptimō mēnsis jū́niī.",
+      "Libénter vōs accipiḗmus."
     ],
     "english": [
       "It is not difficult to write a (Latin) letter [in Latin].",

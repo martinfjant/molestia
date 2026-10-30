@@ -3,25 +3,41 @@
     "lesson": 13,
     "title": "Lectio tertia decima",
     "subtitle": {
-      "latin": "Cur difficile?",
+      "latin": "Cūr difficile?",
+      "latinAccented": "Cūr diffícile?",
       "english": "Why difficult?"
     },
     "revision": false
   },
   "latin": [
-    "Quid tibi, Lucia? Tristis videris<sup>1</sup>. Num<sup>2</sup> aegrotas?",
-    "Omnia male se habent. Operam perdo. Difficile est lectiones discere.",
-    "Cur difficile? Num omnia ad verbum discis?",
-    "Minime, sed verborum<sup>3</sup> significationem et formam in memoria servare non possum.",
-    "Nil<sup>4</sup> mirum! Oportet verbi cujusque septies oblivisci antequam ejus optime memineris<sup>5</sup>.",
-    "Estne hoc proverbium apud Sarmatas? Talia enim legi in methodo sarmatica<sup>6</sup>.",
-    "Euge! Si jam linguam sarmaticam sine molestia didicisti, quanto facilius linguam latinam disces. Nonne sententias intellegere incipis?",
-    "Incipio quidem sententias cursim legere et paulatim intellegere.",
-    "Macte! Bonam viam sequeris. Etiam et etiam iterare oportet.",
-    "Lingua latina non omnino facilis est, sed nullo modo disci non potest.",
-    "Lectiones disco; linguam sarmaticam discis. Lectionum obliviscor; tabulae multiplicatoriae meministi<sup>7</sup>.",
-    "Disco, discis, discit, discunt, discere; discitur, discuntur, disci;",
-    "Didici, didicisti, didicit, didicerunt, didicisse; discam, disces, discet, discent."
+    "Quid tibi, Lucia? Trīstis vīderīs<sup>1</sup>. Num<sup>2</sup> aegrōtās?",
+    "Omnia male sē habent. Operam perdō. Difficile est lēctiōnēs discere.",
+    "Cūr difficile? Num omnia ad verbum discis?",
+    "Minime, sed verbōrum<sup>3</sup> significātiōnem et fōrmam in memoriā servāre nōn possum.",
+    "Nīl<sup>4</sup> mīrum! Oportet verbī cujusque septiēs oblīvīscī antequam ejus optimē meminerīs<sup>5</sup>.",
+    "Estne hoc prōverbium apud Sarmatās? Tālia enim lēgī in methodō sarmaticā<sup>6</sup>.",
+    "Eugē! Sī jam linguam sarmaticam sine molestiā didicistī, quantō facilius linguam latīnam discēs. Nōnne sententiās intellegere incipis?",
+    "Incipiō quidem sententiās cursim legere et paulātim intellegere.",
+    "Mactē! Bonam viam sequeris. Etiam et etiam iterāre oportet.",
+    "Lingua latīnā nōn omnīnō facilis est, sed nūllō modō discī nōn potest.",
+    "Lēctiōnēs discō; linguam sarmaticam discis. Lēctiōnum oblīvīscor; tabulae multiplicatōriae meministī<sup>7</sup>.",
+    "Discō, discīs, discit, discunt, discere; discitur, discuntur, discī;",
+    "Didicī, didicistī, didicit, didicērunt, didicisse; discam, discēs, discet, discent."
+  ],
+  "latinAccented": [
+    "Quid tibi, Lúcia? Trīstis vī́derīs<sup>1</sup>. Num<sup>2</sup> aegrṓtās?",
+    "Ómnia male sē habent. Óperam perdō. Diffícile est lēctiṓnēs díscere.",
+    "Cūr diffícile? Num ómnia ad verbum discis?",
+    "Mínime, sed verbṓrum<sup>3</sup> significātiṓnem et fōrmam in memóriā servā́re nōn possum.",
+    "Nīl<sup>4</sup> mīrum! Opórtet verbī cujúsque séptiēs oblīvī́scī ántequam ejus óptimē memínerīs<sup>5</sup>.",
+    "Estne hoc prōvérbium apud Sármatās? Tā́lia enim lēgī in méthodō sarmáticā<sup>6</sup>.",
+    "Éugē! Sī jam linguam sarmáticam sine moléstiā didicístī, quantō facílius linguam latī́nam discēs. Nōnne senténtiās intellégere íncipis?",
+    "Incípiō quidem senténtiās cursim légere et paulā́tim intellégere.",
+    "Mactē! Bonam viam séqueris. Étiam et étiam iterā́re opórtet.",
+    "Lingua latī́nā nōn omnī́nō fácilis est, sed nūllō modō discī nōn potest.",
+    "Lēctiṓnēs discō; linguam sarmáticam discis. Lēctiṓnum oblīvī́scor; tábulae multiplicatṓriae meminístī<sup>7</sup>.",
+    "Discō, discīs, discit, discunt, díscere; díscitur, discúntur, discī;",
+    "Dídicī, didicístī, dídicit, didicḗrunt, didicísse; discam, discēs, discet, discent."
   ],
   "english": [
     "What’s wrong (what to-you), Lucy? You seem sad (sad you-are-seen). Surely you are not ill, are you (by-any-chance ill)?",
@@ -64,18 +80,29 @@
   "song": {
     "kind": "Carmen",
     "title": {
-      "latin": "Luna dum in caelo",
+      "latin": "Lūna dum in caelō",
+      "latinAccented": "Lūna dum in caelō",
       "english": "By the moonlight"
     },
     "latin": [
-      "Luna dum in caelo",
-      "Lucet, opus est",
-      "Ad scribendum stilo.",
+      "Lūna dum in caelō",
+      "Lūcet, opus est",
+      "Ad scrībendum stilō.",
       "Dare quis potest?",
-      "Lucerna exstincta,",
-      "Me miserrimum!",
-      "Janua reclusa,",
-      "Da auxilium."
+      "Lucerna exstīncta,",
+      "Mē miserrimum!",
+      "Jānua reclūsa,",
+      "Dā auxilium."
+    ],
+    "latinAccented": [
+      "Lūna dum in caelō",
+      "Lūcet, opus est",
+      "Ad scrībéndum stilō.",
+      "Dare quis potest?",
+      "Lucérna exstī́ncta,",
+      "Mē misérrimum!",
+      "Jā́nua reclū́sa,",
+      "Dā auxílium."
     ],
     "english": [
       "While the moon in the sky",

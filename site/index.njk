@@ -2,6 +2,7 @@
 layout: base.njk
 title: Lectiones
 ---
+<article>
 <h1>Lectiones</h1>
 <ol>
 {%- for lesson in lessons %}
@@ -10,3 +11,4 @@ title: Lectiones
     {%- if lesson.meta.revision %} (revisio){% endif %}</li>
 {%- endfor %}
 </ol>
+</article>

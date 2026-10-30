@@ -3,22 +3,35 @@
     "lesson": 39,
     "title": "Lectio undequadragesima",
     "subtitle": {
-      "latin": "De corporis partibus",
+      "latin": "Dē corporis partibus",
+      "latinAccented": "Dē córporis pártibus",
       "english": "On the Parts of the Body"
     },
     "revision": false
   },
   "latin": [
-    "Satis nugati sumus! Nunc voces novas vocabulario nostro addamus<sup>1</sup> oportet. Nomen praecipuarum corporis partium unusquisque cognoscere debet.",
-    "Corpus humanum, caput, pectus, abdomen seu ventrem, brachia, crura complectitur. Lingua latina, non solum crura et brachia, sed etiam praecipuae partes corporis membra dicuntur<sup>2</sup>.",
-    "Inspiciamus<sup>3</sup> hominem a capite usque ad<sup>4</sup> calceos.",
-    "In capite petasus aut pileus imponitur, praecipue si capilli desunt. Calvities frontem<sup>5</sup> ita amplificat ut<sup>6</sup> homo calvus callidior<sup>7</sup> videatur quam homo capillatus et hirsutus.",
-    "Oculis videmus, auribus audimus, naso olfacimus, ore gustamus<sup>8</sup>.",
-    "Quinque sunt sensus: visus, auditus, olfactus, gustus et tactus<sup>9</sup>; qui ultimus cute<sup>10</sup> tota perficitur.",
-    "Oculi ciliis<sup>11</sup> clauduntur et superciliis ornantur. Per visionem<sup>12</sup> binocularem (quam ita appellamus quia duobus oculis videmus), corporum soliditatem<sup>13</sup> percipimus.",
-    "Proverbium tamen dicit: beati monoculi<sup>14</sup> in terra caecorum, vel etiam: inter caecos, luscus rex.",
-    "Procul ex oculis, procul ex mente<sup>15</sup>. Oculus animi index<sup>16</sup>. Pulverem<sup>17</sup> oculis offundere.",
-    "Dormit in utramvis aurem, quem cura reliquit."
+    "Satis nūgātī sumus! Nunc vōcēs novās vocabularīō nostrō addāmus<sup>1</sup> oportet. Nōmen praecipuārum corporis partium ūnusquisque cognōscere dēbet.",
+    "Corpus hūmānum, caput, pectus, abdōmen seu ventrem, brāchia, crūra complectitur. Lingua latīnā, nōn sōlum crūra et brāchia, sed etiam praecipuae partēs corporis membra dīcuntur<sup>2</sup>.",
+    "Īnspiciāmus<sup>3</sup> hominem ā capite usque ad<sup>4</sup> calceōs.",
+    "In capite petasus aut pileus impōnitur, praecipuē sī capillī dēsunt. Calvitiēs frontem<sup>5</sup> ita amplificat ut<sup>6</sup> homō calvus callidior<sup>7</sup> videātur quam homō capillātus et hirsūtus.",
+    "Oculīs vidēmus, auribus audīmus, nāsō olfacimus, ōre gustāmus<sup>8</sup>.",
+    "Quīnque sunt sēnsūs: vīsus, audītus, olfactus, gustus et tāctus<sup>9</sup>; quī ultimus cute<sup>10</sup> tōtā perficitur.",
+    "Oculī ciliīs<sup>11</sup> clauduntur et superciliīs ōrnantur. Per vīsiōnem<sup>12</sup> binoculārem (quam ita appellāmus quia duōbus oculīs vidēmus), corporum soliditātem<sup>13</sup> percipimus.",
+    "Prōverbium tamen dīcit: beātī monoculī<sup>14</sup> in terrā caecōrum, vel etiam: inter caecōs, luscus rēx.",
+    "Procul ex oculīs, procul ex mente<sup>15</sup>. Oculus animī index<sup>16</sup>. Pulverem<sup>17</sup> oculīs offundere.",
+    "Dormit in utramvis aurem, quem cūra relīquit."
+  ],
+  "latinAccented": [
+    "Satis nūgā́tī sumus! Nunc vōcēs novās vocabularī́ō nostrō addā́mus<sup>1</sup> opórtet. Nōmen praecipuā́rum córporis pártium ūnusquísque cognṓscere dēbet.",
+    "Corpus hūmā́num, caput, pectus, abdṓmen seu ventrem, brā́chia, crūra compléctitur. Lingua latī́nā, nōn sōlum crūra et brā́chia, sed étiam praecípuae partēs córporis membra dīcúntur<sup>2</sup>.",
+    "Īnspiciā́mus<sup>3</sup> hóminem ā cápite usque ad<sup>4</sup> cálceōs.",
+    "In cápite pétasus aut píleus impṓnitur, praecípuē sī capíllī dēsunt. Calvítiēs frontem<sup>5</sup> ita amplíficat ut<sup>6</sup> homō calvus callídior<sup>7</sup> videā́tur quam homō capillā́tus et hirsū́tus.",
+    "Óculīs vidḗmus, áuribus audī́mus, nāsō olfácimus, ōre gustā́mus<sup>8</sup>.",
+    "Quīnque sunt sēnsūs: vīsus, audī́tus, olfáctus, gustus et tāctus<sup>9</sup>; quī últimus cute<sup>10</sup> tōtā perfícitur.",
+    "Óculī cíliīs<sup>11</sup> claudúntur et supercíliīs ōrnántur. Per vīsiṓnem<sup>12</sup> binoculā́rem (quam ita appellā́mus quia duṓbus óculīs vidḗmus), córporum soliditā́tem<sup>13</sup> percípimus.",
+    "Prōvérbium tamen dīcit: beā́tī monóculī<sup>14</sup> in terrā caecṓrum, vel étiam: inter caecōs, luscus rēx.",
+    "Procul ex óculīs, procul ex mente<sup>15</sup>. Óculus ánimī index<sup>16</sup>. Púlverem<sup>17</sup> óculīs offúndere.",
+    "Dormit in utrámvis aurem, quem cūra relī́quit."
   ],
   "english": [
     "We have trifled enough! Now [we have to add] new words to our vocabulary (we-should-add it-is-required). [Everyone must know] the name of the chief parts of the body (each-one to-know ows).",
@@ -59,12 +72,20 @@
   },
   "exercises": {
     "latin": [
-      "Videsne crustulum cum fragis? Nonne salivam movet?",
-      "Si puer bonus eris, tibi hoc crustulum ememus.",
-      "Barba non facit philosophum.",
+      "Vidēsne crustulum cum frāgīs? Nōnne salīvam movet?",
+      "Sī puer bonus eris, tibi hoc crustulum emēmus.",
+      "Barbā nōn facit philosophum.",
       "Quid significat haec sententia?",
-      "Significat homines matura aetate non omnes esse sapientes.",
-      "Difficile est calvo pilum evellere: hoc de rebus quae effici non possunt dicitur."
+      "Significat hominēs mātūrā aetāte nōn omnēs esse sapientēs.",
+      "Difficile est calvō pilum ēvellere: hoc dē rēbus quae efficī nōn possunt dīcitur."
+    ],
+    "latinAccented": [
+      "Vidḗsne crústulum cum frāgīs? Nōnne salī́vam movet?",
+      "Sī puer bonus eris, tibi hoc crústulum emḗmus.",
+      "Barbā nōn facit philósophum.",
+      "Quid signíficat haec senténtia?",
+      "Signíficat hóminēs mātū́rā aetā́te nōn omnēs esse sapiéntēs.",
+      "Diffícile est calvō pilum ēvéllere: hoc dē rēbus quae éfficī nōn possunt dī́citur."
     ],
     "english": [
       "Can you see the strawberry cake (pastry with strawberries)? Doesn’t it [make your mouth water] (set saliva in motion)?",

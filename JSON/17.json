@@ -3,24 +3,39 @@
     "lesson": 17,
     "title": "Lectio septima decima",
     "subtitle": {
-      "latin": "Cupio locustam",
+      "latin": "Cupiō locustam",
+      "latinAccented": "Cúpiō locústam",
       "english": "I want lobster"
     },
     "revision": false
   },
   "latin": [
-    "Ubi prandere possumus?",
-    "Hospites in triclinio prandent. Quot estis?",
+    "Ubi prandēre possumus?",
+    "Hospitēs in trīclīniō prandent. Quot estis?",
     "Quattuor sumus.",
-    "Assidite ad hanc mensam<sup>1</sup>.",
-    "Maria! Affer<sup>2</sup> omnia ad prandium quattuor convivarum necessaria<sup>3</sup>. Convivae in triclinio sunt.",
-    "Maria est nomen famulae. Famula quattuor catinos affert...",
-    "Apud unumquemque catinum, ponit poculum, cultrum, cochlear, fuscinulamque<sup>4</sup> unam.",
-    "Quid edere cupitis? Hic est ciborum index.",
+    "Assīdite ad hanc mēnsam<sup>1</sup>.",
+    "Maria! Affer<sup>2</sup> omnia ad prandium quattuor convīvārum necessāriā<sup>3</sup>. Convīvae in trīclīniō sunt.",
+    "Maria est nōmen famulae. Famula quattuor catīnōs affert...",
+    "Apud ūnumquemque catīnum, pōnit pōculum, cultrum, cochlear, fuscinulamque<sup>4</sup> ūnam.",
+    "Quid edere cupitis? Hic est cibōrum index.",
     "Parvus Victor indicem capit et respondet:",
-    "Ego cupio locustam<sup>5</sup> jure armoricano, deinde leporem<sup>6</sup> vel cuniculum assum venatorio more, denique crustulum<sup>7</sup> cum malis.",
-    "Mater irata colaphum Victori ducit, dicens:",
-    "Nimia<sup>8</sup> cupis! Nobis satis erunt, panis, ova, caseum<sup>9</sup>."
+    "Ego cupiō locustam<sup>5</sup> jūre armoricānō, deinde lepōrem<sup>6</sup> vel cunīculum assum vēnātōriō mōre, dēnique crustulum<sup>7</sup> cum malīs.",
+    "Māter īrāta colaphum Victōrī dūcit, dīcēns:",
+    "Nimia<sup>8</sup> cupis! Nōbīs satis erunt, pānis, ōva, cāseum<sup>9</sup>."
+  ],
+  "latinAccented": [
+    "Ubi prandḗre póssumus?",
+    "Hóspitēs in trīclī́niō prandent. Quot estis?",
+    "Quáttuor sumus.",
+    "Assī́dite ad hanc mēnsam<sup>1</sup>.",
+    "María! Affer<sup>2</sup> ómnia ad prándium quáttuor convīvā́rum necessā́riā<sup>3</sup>. Convī́vae in trīclī́niō sunt.",
+    "María est nōmen fámulae. Fámula quáttuor catī́nōs affert...",
+    "Apud ūnumquémque catī́num, pōnit pṓculum, cultrum, cóchlear, fuscinulámque<sup>4</sup> ūnam.",
+    "Quid édere cúpitis? Hic est cibṓrum index.",
+    "Parvus Victor índicem capit et respóndet:",
+    "Ego cúpiō locústam<sup>5</sup> jūre armoricā́nō, deínde lepṓrem<sup>6</sup> vel cunī́culum assum vēnātṓriō mōre, dḗnique crústulum<sup>7</sup> cum malīs.",
+    "Māter īrā́ta cólaphum Victṓrī dūcit, dīcēns:",
+    "Nímia<sup>8</sup> cupis! Nōbīs satis erunt, pānis, ōva, cā́seum<sup>9</sup>."
   ],
   "english": [
     "Where can we have lunch?",
@@ -52,15 +67,26 @@
   },
   "exercises": {
     "latin": [
-      "Mater ponit crustulum in catino.",
-      "Famula leporem in triclinium affert.",
-      "Famulae lepores in triclinia afferunt.",
-      "Lepus sex francis constat.",
-      "Lepores in triclinio prandere non cupiunt.",
-      "Quanti constat locusta? — Decem francis!",
-      "Nimio constat.",
+      "Māter pōnit crustulum in catīnō.",
+      "Famula lepōrem in trīclīnium affert.",
+      "Famulae lepōrēs in trīclīnia afferunt.",
+      "Lepus sex francīs cōnstat.",
+      "Lepōrēs in trīclīniō prandēre nōn cupiunt.",
+      "Quantī cōnstat locusta? — Decem francīs!",
+      "Nimiō cōnstat.",
       "Quis est hic cibus?",
-      "Cibum quem cupio, in indice non invenio."
+      "Cibum quem cupiō, in indice nōn inveniō."
+    ],
+    "latinAccented": [
+      "Māter pōnit crústulum in catī́nō.",
+      "Fámula lepṓrem in trīclī́nium affert.",
+      "Fámulae lepṓrēs in trīclī́nia áfferunt.",
+      "Lepus sex francīs cōnstat.",
+      "Lepṓrēs in trīclī́niō prandḗre nōn cúpiunt.",
+      "Quantī cōnstat locústa? — Decem francīs!",
+      "Nímiō cōnstat.",
+      "Quis est hic cibus?",
+      "Cibum quem cúpiō, in índice nōn invéniō."
     ],
     "english": [
       "Mother puts a pastry on the plate.",

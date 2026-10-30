@@ -2,29 +2,33 @@ export default function (eleventyConfig) {
   // Rebuild when lesson data changes (it lives outside the input dir).
   eleventyConfig.addWatchTarget("JSON/");
 
-  // Split a lesson's sentences into numbered runs, broken by mid-lesson
-  // headings ("before" sentence n) and source lines ("after" sentence n).
-  eleventyConfig.addFilter("segments", (lesson, lang) => {
-    const breaks = new Map();
-    for (const h of lesson.headings ?? []) breaks.set(h.before - 1, { heading: h[lang] });
-    for (const s of lesson.sources ?? []) breaks.set(s.after, { ...breaks.get(s.after), source: s[lang] });
-
-    const out = [];
-    let run = { start: 1, items: [] };
-    lesson[lang].forEach((sentence, i) => {
-      const br = breaks.get(i);
-      if (br) {
-        if (run.items.length) out.push(run);
-        out.push(br);
-        run = { start: i + 1, items: [] };
-      }
-      run.items.push(sentence);
-    });
-    if (run.items.length) out.push(run);
-    const tail = breaks.get(lesson[lang].length);
-    if (tail) out.push(tail);
-    return out;
+  // Latin/English pairs, one per row of the parallel grid: numbered sentences,
+  // plus any mid-lesson headings ("before" sentence n) and source lines
+  // ("after" sentence n). Latin comes with its accented twin.
+  eleventyConfig.addFilter("rows", (owner, { headings = [], sources = [] } = {}) => {
+    const twin = (obj) => ({ la: { text: obj.latin, accented: obj.latinAccented }, en: obj.english });
+    const rows = [];
+    const count = Math.max(owner.latin.length, owner.english.length);
+    for (let i = 0; i < count; i++) {
+      for (const h of headings) if (h.before === i + 1) rows.push({ kind: "heading", ...twin(h) });
+      rows.push({
+        kind: "sentence",
+        n: i + 1,
+        la: { text: owner.latin[i] ?? "", accented: owner.latinAccented?.[i] },
+        en: owner.english[i] ?? "",
+      });
+      for (const s of sources) if (s.after === i + 1) rows.push({ kind: "source", ...twin(s) });
+    }
+    return rows;
   });
+
+  // Latin text plus its stress-accented twin; the header toggle swaps which
+  // one is hidden.
+  eleventyConfig.addFilter("la", (text, accented) =>
+    accented && accented !== text
+      ? `<span data-plain>${text}</span><span data-accented hidden>${accented}</span>`
+      : text
+  );
 
   // Text blocks use blank lines between paragraphs and single newlines within.
   eleventyConfig.addFilter("paras", (text) =>

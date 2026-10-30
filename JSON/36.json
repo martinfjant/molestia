@@ -3,23 +3,37 @@
     "lesson": 36,
     "title": "Lectio tricesima sexta",
     "subtitle": {
-      "latin": "In tramine",
+      "latin": "In tramīne",
+      "latinAccented": "In tramī́ne",
       "english": "On the train"
     },
     "revision": false
   },
   "latin": [
-    "Age! Properemus<sup>1</sup> ad stationem<sup>2</sup>! Tramen post viginti minutas abiturum<sup>3</sup> est.",
-    "Ad stationem properamus. Ubi est tesseraria?",
-    "Da, quaeso, tres tesseras secundae classis<sup>4</sup> Forum Julii<sup>5</sup>, aditus et reditus.",
-    "Ecce, domne! Quindecim nummis<sup>6</sup> et sexaginta centesimis. Nolite<sup>7</sup> properare! Tramen vestrum dimidiae horae moram habebit neque<sup>8</sup> ante meridiem<sup>9</sup> abibit<sup>10</sup>.",
-    "Festinatio sitim excitavit. Otium est poculi bibendi<sup>11</sup>. In stationis thermopolium eamus!",
-    "Heus, puer! — Quid bibere vis? — Nolo bibere; malo aliquid comedere. Habesne pastilla farcta<sup>12</sup>?",
-    "Puer. — Habeo, domne. Paucas minutas exspectandum<sup>13</sup> est. Ecce plaustrum bajulusque qui glaciem<sup>14</sup> mihi affert.",
-    "Bajulus. — En tibi quinque partes glaciei quas cottidie afferre soleo.",
-    "Puer. — Mihi ignosce! Quattuor tantum adsunt.",
-    "Bajulus. — Hoc mirum est. Certus sum quinque adfuisse. Miror ubi quinta evanuerit...",
-    "Subito sibilum locomotricis<sup>15</sup> audimus. Relinquere debemus puerum et bajulum quintam partem glaciei quaerentes<sup>16</sup>."
+    "Age! Properēmus<sup>1</sup> ad statiōnem<sup>2</sup>! Trāmen post vīgintī minūtās abitūrum<sup>3</sup> est.",
+    "Ad statiōnem properāmus. Ubi est tesserāria?",
+    "Dā, quaesō, trēs tesserās secundae classis<sup>4</sup> Forum Jūliī<sup>5</sup>, aditūs et reditūs.",
+    "Ecce, domne! Quīndecim nummīs<sup>6</sup> et sexāgintā centēsimīs. Nōlīte<sup>7</sup> properāre! Trāmen vestrum dīmidiae hōrae moram habēbit neque<sup>8</sup> ante merīdiem<sup>9</sup> abībit<sup>10</sup>.",
+    "Festīnātiō sitim excitāvit. Ōtium est pōculī bibendī<sup>11</sup>. In statiōnis thermopōlium eāmus!",
+    "Heus, puer! — Quid bibere vīs? — Nōlō bibere; mālō aliquid comedere. Habēsne pāstilla farcta<sup>12</sup>?",
+    "Puer. — Habeō, domne. Paucās minūtās exspectandum<sup>13</sup> est. Ecce plaustrum bajulusque quī glaciem<sup>14</sup> mihi affert.",
+    "Bajulus. — Ēn tibi quīnque partēs glaciēī quās cottīdiē afferre soleō.",
+    "Puer. — Mihi ignōsce! Quattuor tantum adsunt.",
+    "Bajulus. — Hoc mīrum est. Certus sum quīnque adfuisse. Mīror ubi quīnta ēvānuerit...",
+    "Subitō sībilum locomotrīcīs<sup>15</sup> audīmus. Relinquēre dēbēmus puerum et bajulum quīntam partem glaciēī quaerentēs<sup>16</sup>."
+  ],
+  "latinAccented": [
+    "Age! Properḗmus<sup>1</sup> ad statiṓnem<sup>2</sup>! Trāmen post vīgíntī minū́tās abitū́rum<sup>3</sup> est.",
+    "Ad statiṓnem properā́mus. Ubi est tesserā́ria?",
+    "Dā, quaesō, trēs tésserās secúndae classis<sup>4</sup> Forum Jū́liī<sup>5</sup>, áditūs et réditūs.",
+    "Ecce, domne! Quī́ndecim nummīs<sup>6</sup> et sexāgíntā centḗsimīs. Nōlī́te<sup>7</sup> properā́re! Trāmen vestrum dīmídiae hōrae moram habḗbit neque<sup>8</sup> ante merī́diem<sup>9</sup> abī́bit<sup>10</sup>.",
+    "Festīnā́tiō sitim excitā́vit. Ṓtium est pṓculī bibéndī<sup>11</sup>. In statiṓnis thermopṓlium eā́mus!",
+    "Heus, puer! — Quid bíbere vīs? — Nōlō bíbere; mālō áliquid comédere. Habḗsne pāstílla farcta<sup>12</sup>?",
+    "Puer. — Hábeō, domne. Paucās minū́tās exspectándum<sup>13</sup> est. Ecce plaustrum bajulúsque quī gláciem<sup>14</sup> mihi affert.",
+    "Bájulus. — Ēn tibi quīnque partēs glaciḗī quās cottī́diē afférre sóleō.",
+    "Puer. — Mihi ignṓsce! Quáttuor tantum adsunt.",
+    "Bájulus. — Hoc mīrum est. Certus sum quīnque adfuísse. Mīror ubi quīnta ēvānúerit...",
+    "Súbitō sī́bilum locomotrī́cīs<sup>15</sup> audī́mus. Relinquḗre dēbḗmus púerum et bájulum quīntam partem glaciḗī quaeréntēs<sup>16</sup>."
   ],
   "english": [
     "Come on! Let’s hurry to the station! The train is due-to-leave in twenty minutes.",
@@ -59,15 +73,26 @@
   },
   "exercises": {
     "latin": [
-      "Quid edere vis? — Pastillum farctum edere volo.",
-      "Ego bibere malo. Poculum cerevisiae, quaeso!",
-      "Qui est hic sibilus? — Nemo sibilat.",
-      "Quo intrat hoc tramen sibilans? — In stationem intrat.",
-      "Ubi est tramen? — In statione est.",
-      "Qua transit? — Per stationem transit?",
-      "Unde exit? — E statione exit.",
-      "Dicit se locomotricem sibilantem audire. Dicunt se tramen sibilans audisse.",
-      "Locomotrices vaporariae atrae sunt; electricae autem clarioris coloris."
+      "Quid edere vīs? — Pāstillum farctum edere volō.",
+      "Ego bibere mālō. Pōculum cerevisiae, quaesō!",
+      "Quī est hic sībilus? — Nēmō sībilat.",
+      "Quō intrat hoc trāmen sībilāns? — In statiōnem intrat.",
+      "Ubi est trāmen? — In statiōne est.",
+      "Quā trānsit? — Per statiōnem trānsit?",
+      "Unde exit? — Ē statiōne exit.",
+      "Dīcit sē locomotricem sībilantem audīre. Dīcunt sē trāmen sībilāns audīsse.",
+      "Locomotrīcēs vaporāriae ātrae sunt; electricae autem clāriōris colōris."
+    ],
+    "latinAccented": [
+      "Quid édere vīs? — Pāstíllum farctum édere volō.",
+      "Ego bíbere mālō. Pṓculum cerevísiae, quaesō!",
+      "Quī est hic sī́bilus? — Nēmō sī́bilat.",
+      "Quō intrat hoc trāmen sī́bilāns? — In statiṓnem intrat.",
+      "Ubi est trāmen? — In statiṓne est.",
+      "Quā trānsit? — Per statiṓnem trānsit?",
+      "Unde exit? — Ē statiṓne exit.",
+      "Dīcit sē locomótricem sībilántem audī́re. Dīcunt sē trāmen sī́bilāns audī́sse.",
+      "Locomotrī́cēs vaporā́riae ātrae sunt; eléctricae autem clāriṓris colṓris."
     ],
     "english": [
       "What do you want to eat? — I want to eat a sandwich.",

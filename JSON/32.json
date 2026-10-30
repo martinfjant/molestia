@@ -3,26 +3,43 @@
     "lesson": 32,
     "title": "Lectio tricesima altera",
     "subtitle": {
-      "latin": "Socrus martis die salutationi se dare solet",
+      "latin": "Socrus martis diē salūtātiōnī sē dare solet",
+      "latinAccented": "Socrus martis diē salūtātiṓnī sē dare solet",
       "english": "My mother-in-law usually receives guests on Tuesdays"
     },
     "revision": false
   },
   "latin": [
-    "Guido<sup>1</sup>! Propera, quaeso! Indue pulchras vestes!",
-    "Vae mihi! Fessus ex officio redeo. Toto die focali constrictus<sup>2</sup> aestuare<sup>3</sup> coactus sum<sup>4</sup>.",
-    "Rector administros<sup>5</sup> suos vexare solet... et calcei novi mihi pedes urunt<sup>6</sup>.",
-    "Domi soleatus<sup>7</sup> et sine focali me quieturum esse sperabam. Tu omnia mea consilia perturbas.",
-    "Mel meum<sup>8</sup>, cur ita loqueris? Nonne scis matrem<sup>9</sup> meam hodie vespere filias et generos ad se recepturam?",
-    "Hujus molestiae oblitus eram.",
-    "Memento! Dominico die nos in perendinum diem invitavit, tute<sup>10</sup> promisisti.",
-    "Vera dixisti. Immo, heri eam in Via Regali offendi<sup>11</sup>, quae mihi dixit:",
-    "«Carissime gener, quanto gaudio nobis erit vos cras revisere»; nec recusavi.",
-    "Praeterea me fugere non debuit socrum Martis die salutationi se dare solere.",
-    "Hebeti memoria es ... si de rebus molestis agitur.",
-    "Dies hebdomadis<sup>12</sup> vocantur: Lunae dies, Martis dies, Mercurii dies, Jovis dies, Veneris dies, Saturni<sup>13</sup> dies, Dominicus dies vel Dominica.",
-    "Diis paganorum sex priores<sup>14</sup> dies dicati<sup>15</sup> sunt, scilicet: Lunae, Marti, Mercurio, Jovi, Veneri, Saturno.",
-    "Septimus autem dies a christianis Domino dicatus est quia «complevit Deus die septimo opus suum quod fecerat, et requievit»<sup>16</sup> (Liber Genesis, II, 2)."
+    "Guīdō<sup>1</sup>! Propera, quaesō! Indue pulchrās vestēs!",
+    "Vae mihi! Fessus ex officiō redeō. Tōtō diē fōcālī cōnstrictus<sup>2</sup> aestuāre<sup>3</sup> coāctus sum<sup>4</sup>.",
+    "Rēctor administrōs<sup>5</sup> suōs vexāre solet... et calceī novī mihi pedēs ūrunt<sup>6</sup>.",
+    "Domī soleātus<sup>7</sup> et sine fōcālī mē quiētūrum esse spērābam. Tū omnia mea cōnsilia perturbās.",
+    "Mel meum<sup>8</sup>, cūr ita loqueris? Nōnne scīs mātrem<sup>9</sup> meam hodiē vespere fīliās et generōs ad sē receptūram?",
+    "Hujus molestiae oblītus eram.",
+    "Mementō! Dominicō diē nōs in perendinum diem invītāvit, tūtē<sup>10</sup> prōmīsistī.",
+    "Vēra dīxistī. Immō, heri eam in Via Rēgālī offendī<sup>11</sup>, quae mihi dīxit:",
+    "«Cārissimē gener, quantō gaudiō nōbīs erit vōs crās revīsere»; nec recūsāvī.",
+    "Praetereā mē fugere nōn dēbuit socrum Mārtis diē salūtātiōnī sē dare solēre.",
+    "Hebētī memoriā es ... sī dē rēbus molestīs agitur.",
+    "Diēs hebdomadis<sup>12</sup> vocantur: Lūnae diēs, Mārtis diēs, Mercuriī diēs, Jovis diēs, Veneris diēs, Sāturnī<sup>13</sup> diēs, Dominicus diēs vel Dominica.",
+    "Dīīs pāgānōrum sex priōrēs<sup>14</sup> diēs dicātī<sup>15</sup> sunt, scīlicet: Lūnae, Mārtī, Mercuriō, Jovī, Venerī, Sāturnō.",
+    "Septimus autem diēs ā chrīstiānīs Dominō dicātus est quia «complēvit Deus diē septimō opus suum quod fēcerat, et requiēvit»<sup>16</sup> (Liber Genesis, IĪ, 2)."
+  ],
+  "latinAccented": [
+    "Guīdō<sup>1</sup>! Própera, quaesō! Índue pulchrās vestēs!",
+    "Vae mihi! Fessus ex offíciō rédeō. Tōtō diē fōcā́lī cōnstríctus<sup>2</sup> aestuā́re<sup>3</sup> coā́ctus sum<sup>4</sup>.",
+    "Rēctor adminístrōs<sup>5</sup> suōs vexā́re solet... et cálceī novī mihi pedēs ūrunt<sup>6</sup>.",
+    "Domī soleā́tus<sup>7</sup> et sine fōcā́lī mē quiētū́rum esse spērā́bam. Tū ómnia mea cōnsília pertúrbās.",
+    "Mel meum<sup>8</sup>, cūr ita lóqueris? Nōnne scīs mātrem<sup>9</sup> meam hódiē véspere fī́liās et génerōs ad sē receptū́ram?",
+    "Hujus moléstiae oblī́tus eram.",
+    "Meméntō! Domínicō diē nōs in peréndinum diem invītā́vit, tūtē<sup>10</sup> prōmīsístī.",
+    "Vēra dīxístī. Immō, heri eam in Via Rēgā́lī offéndī<sup>11</sup>, quae mihi dīxit:",
+    "«Cāríssimē gener, quantō gáudiō nōbīs erit vōs crās revī́sere»; nec recūsā́vī.",
+    "Praetéreā mē fúgere nōn dḗbuit socrum Mārtis diē salūtātiṓnī sē dare solḗre.",
+    "Hebḗtī memóriā es ... sī dē rēbus moléstīs ágitur.",
+    "Diēs hebdómadis<sup>12</sup> vocántur: Lūnae diēs, Mārtis diēs, Mercúriī diēs, Jovis diēs, Véneris diēs, Sātúrnī<sup>13</sup> diēs, Domínicus diēs vel Domínica.",
+    "Dīīs pāgānṓrum sex priṓrēs<sup>14</sup> diēs dicā́tī<sup>15</sup> sunt, scī́licet: Lūnae, Mārtī, Mercúriō, Jovī, Vénerī, Sātúrnō.",
+    "Séptimus autem diēs ā chrīstiā́nīs Dóminō dicā́tus est quia «complḗvit Deus diē séptimō opus suum quod fḗcerat, et requiḗvit»<sup>16</sup> (Liber Génesis, IĪ, 2)."
   ],
   "english": [
     "Guy! Hurry, please! Put on [your good] (beautiful) clothes!",
@@ -63,14 +80,24 @@
   },
   "exercises": {
     "latin": [
-      "Lunae die in opere hebdomadem incipimus.",
-      "Martis die generi cum uxoribus socrus domum adeunt. A socru recipiuntur.",
-      "Mercurii die hesternae receptionis molestiarum obliti sunt.",
-      "Jovis die finem hebdomadis prospicere incipiunt.",
-      "Veneris die rectores multi administros suos convocant.",
-      "Quid diebus praeteritis fecerint quaerunt. Quae proxima hebdomade efficienda sint constituunt.",
-      "Saturni dies sabbatum quoque vocatur.",
-      "Dominico die quiescere debemus. Attamen proximam hebdomadem prospicere et quae praeterita hebdomade didicimus, revisere possumus."
+      "Lūnae diē in opere hebdomadem incipimus.",
+      "Mārtis diē generī cum uxōribus socrūs domum adeunt. Ā socrū recipiuntur.",
+      "Mercuriī diē hesternae receptiōnis molestiārum oblītī sunt.",
+      "Jovis diē fīnem hebdomadis prōspicere incipiunt.",
+      "Veneris diē rēctōrēs multī administrōs suōs convocant.",
+      "Quid diēbus praeteritīs fēcerint quaerunt. Quae proximā hebdomade efficiendā sint cōnstituunt.",
+      "Sāturnī diēs sabbatum quoque vocātur.",
+      "Dominicō diē quiēscere dēbēmus. Attamen proximam hebdomadem prōspicere et quae praeterita hebdomade didicimus, revīsere possumus."
+    ],
+    "latinAccented": [
+      "Lūnae diē in ópere hebdómadem incípimus.",
+      "Mārtis diē génerī cum uxṓribus socrūs domum ádeunt. Ā socrū recipiúntur.",
+      "Mercúriī diē hestérnae receptiṓnis molestiā́rum oblī́tī sunt.",
+      "Jovis diē fīnem hebdómadis prōspícere incípiunt.",
+      "Véneris diē rēctṓrēs multī adminístrōs suōs cónvocant.",
+      "Quid diḗbus praetéritīs fḗcerint quaerunt. Quae próximā hebdómade efficiéndā sint cōnstítuunt.",
+      "Sātúrnī diēs sábbatum quoque vocā́tur.",
+      "Domínicō diē quiḗscere dēbḗmus. Áttamen próximam hebdómadem prōspícere et quae praetérita hebdómade didícimus, revī́sere póssumus."
     ],
     "english": [
       "On Monday we begin the week at work.",

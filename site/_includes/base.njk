@@ -5,14 +5,57 @@
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <link
   rel="stylesheet"
-  href="https://cdn.jsdelivr.net/npm/@picocss/pico@2/css/pico.min.css"
+  href="https://cdn.jsdelivr.net/npm/@picocss/pico@2/css/pico.classless.min.css"
 >
   <title>{{ title }} · Sine Molestia</title>
+  <style>
+    /* Latin and English as facing columns, each sentence level with its
+       translation. The items alternate Latin/English in one grid; pinning each
+       language to its own column puts every pair in the same row. */
+    article { container-type: inline-size; }
+    .parallel {
+      display: grid;
+      grid-template-columns: 1fr 1fr;
+      gap: 0.5rem 2rem;
+    }
+    .parallel > * { margin: 0; }
+    .parallel > [lang="la"] { grid-column: 1; }
+    .parallel > [lang="en"] { grid-column: 2; }
+    .parallel > h3 { margin-top: 1rem; }
+    .parallel .sentence { display: flex; gap: 0.5em; }
+    .parallel .sentence::before { content: attr(data-n) "."; flex: none; min-width: 2.5ch; text-align: right; }
+
+    /* Too narrow for two ~20rem columns: one column, all Latin then all English. */
+    @container (width < 42rem) {
+      .parallel { grid-template-columns: 1fr; }
+      .parallel > [lang="en"] { grid-column: 1; order: 1; }
+      .parallel > [lang="en"]:first-of-type { margin-top: 1.5rem; }
+    }
+  </style>
 </head>
 <body>
-  <header><a href="/">Sine Molestia</a></header>
+  <header>
+  <nav>
+    <a href="/">Latine Sine Molestia</a>
+    <label><input type="checkbox" id="accent-toggle"> Show stress accents</label>
+    </nav>
+  </header>
   <main>
 {{ content | safe }}
   </main>
+  <script>
+    // Swap each Latin text for its stress-accented twin; remember the choice.
+    const toggle = document.getElementById("accent-toggle");
+    const show = (on) => {
+      document.querySelectorAll("[data-plain]").forEach((el) => (el.hidden = on));
+      document.querySelectorAll("[data-accented]").forEach((el) => (el.hidden = !on));
+    };
+    try { toggle.checked = localStorage.getItem("accents") === "on"; } catch {}
+    show(toggle.checked);
+    toggle.addEventListener("change", () => {
+      show(toggle.checked);
+      try { localStorage.setItem("accents", toggle.checked ? "on" : "off"); } catch {}
+    });
+  </script>
 </body>
 </html>

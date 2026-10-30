@@ -5,7 +5,7 @@
   "scripts": {
     "build": "eleventy",
     "start": "eleventy --serve",
-    "macronize": "node scripts/macronize.mjs"
+    "macronize": "node scripts/macronize.mjs --write"
   },
   "devDependencies": {
     "@11ty/eleventy": "3.1.7",

@@ -3,25 +3,41 @@
     "lesson": 29,
     "title": "Lectio undetricesima",
     "subtitle": {
-      "latin": "Nonne linguam habes?",
+      "latin": "Nōnne linguam habēs?",
+      "latinAccented": "Nōnne linguam habēs?",
       "english": "Don't you have a tongue?"
     },
     "revision": false
   },
   "latin": [
-    "In tribunali<sup>1</sup>: Praeses. — Cur hoc autocinetum furatus es<sup>2</sup>?",
-    "Reus. — Cum esset ad coemeterii portam, autocineti dominum mortuum<sup>3</sup> esse putavi.",
-    "Magister. — Quid fecit Christophorus Columbus, cum in Americam pervenit, postquam de nave descendens<sup>4</sup> pedem humi posuit?",
+    "In tribūnālī<sup>1</sup>: Praeses. — Cūr hoc autocinētum fūrātus es<sup>2</sup>?",
+    "Reus. — Cum esset ad coemētēriī portam, autocinetī dominum mortuum<sup>3</sup> esse putāvī.",
+    "Magister. — Quid fēcit Christophorus Columbus, cum in Americam pervēnit, postquam dē nāve dēscendēns<sup>4</sup> pedem humī posuit?",
     "Discipulus. — Alterum posuit et<sup>5</sup> pedem.",
-    "Pater. — Cur magister te in ludo<sup>6</sup> hodie retinuit?",
-    "Filius. — Quod nesciebam ubi Syracusae<sup>7</sup> essent<sup>8</sup>.",
-    "Pater. — Ne immemor<sup>9</sup> sis ubi res collocaveris.",
-    "Dum cenat, puer brachium<sup>10</sup> supra<sup>11</sup> mensam porrigit<sup>12</sup> ad cibum capiendum.",
-    "Mater. — Noli brachium supra mensam ita porrigere! Nonne linguam habes?",
-    "Filius. — Habeo, sed brachium longius<sup>13</sup> est.",
-    "Consuetudinis<sup>14</sup> magna vis est (aiebat Cicero).",
-    "Dulce et decorum est pro patria mori. (Horatius.)",
+    "Pater. — Cūr magister tē in lūdō<sup>6</sup> hodiē retinuit?",
+    "Fīlius. — Quod nesciēbam ubi Syrācūsae<sup>7</sup> essent<sup>8</sup>.",
+    "Pater. — Nē immemor<sup>9</sup> sīs ubi rēs collocāverīs.",
+    "Dum cēnat, puer brāchium<sup>10</sup> suprā<sup>11</sup> mēnsam porrigit<sup>12</sup> ad cibum capiendum.",
+    "Māter. — Nōlī brāchium suprā mēnsam ita porrigere! Nōnne linguam habēs?",
+    "Fīlius. — Habeō, sed brāchium longius<sup>13</sup> est.",
+    "Cōnsuētūdinis<sup>14</sup> magna vīs est (aiēbat Cicerō).",
+    "Dulce et decōrum est prō patriā morī. (Horātius.)",
     "Omnia vincit amor. (Vergilius.)"
+  ],
+  "latinAccented": [
+    "In tribūnā́lī<sup>1</sup>: Praeses. — Cūr hoc autocinḗtum fūrā́tus es<sup>2</sup>?",
+    "Reus. — Cum esset ad coemētḗriī portam, autocínetī dóminum mórtuum<sup>3</sup> esse putā́vī.",
+    "Magíster. — Quid fēcit Christóphorus Colúmbus, cum in Américam pervḗnit, postquam dē nāve dēscéndēns<sup>4</sup> pedem humī pósuit?",
+    "Discípulus. — Álterum pósuit et<sup>5</sup> pedem.",
+    "Pater. — Cūr magíster tē in lūdō<sup>6</sup> hódiē retínuit?",
+    "Fī́lius. — Quod nesciḗbam ubi Syrācū́sae<sup>7</sup> essent<sup>8</sup>.",
+    "Pater. — Nē ímmemor<sup>9</sup> sīs ubi rēs collocā́verīs.",
+    "Dum cēnat, puer brā́chium<sup>10</sup> suprā<sup>11</sup> mēnsam pórrigit<sup>12</sup> ad cibum capiéndum.",
+    "Māter. — Nōlī brā́chium suprā mēnsam ita porrígere! Nōnne linguam habēs?",
+    "Fī́lius. — Hábeō, sed brā́chium lóngius<sup>13</sup> est.",
+    "Cōnsuētū́dinis<sup>14</sup> magna vīs est (aiḗbat Cícerō).",
+    "Dulce et decṓrum est prō pátriā morī. (Horā́tius.)",
+    "Ómnia vincit amor. (Vergílius.)"
   ],
   "english": [
     "In court: the chairman. — Why did you steal this automobile?",
@@ -61,15 +77,26 @@
   },
   "exercises": {
     "latin": [
-      "Ubi est horum aedium dominus? — Mortuus est.",
-      "Pronus erat ad bibendum: bibendo moriturus erat.",
-      "«Ave Caesar, morituri te salutant!» aiebant gladiatores in circum intrantes.",
-      "Quantum pendis? — Nonaginta sex kilogrammata.",
+      "Ubi est hōrum aedium dominus? — Mortuus est.",
+      "Prōnus erat ad bibendum: bibendō moritūrus erat.",
+      "«Avē Caesar, moritūrī tē salūtant!» aiēbant gladiātōrēs in circum intrantēs.",
+      "Quantum pendis? — Nōnāgintā sex kilogrammāta.",
       "Nimis gravis es; nimis cerevisiae bibis.",
-      "Navis in magno periculo est: paulatim mergitur.",
-      "Consuetudine mea tramen jam profectum currendo assecutus sum.",
-      "Ad tramen assequendum cucurri.",
-      "Tramine Aquas Sextias perveni."
+      "Nāvīs in magnō perīculō est: paulātim mergitur.",
+      "Cōnsuētūdine mea trāmen jam prōfectum currendō assecūtus sum.",
+      "Ad trāmen assequendum cucurrī.",
+      "Tramīne Aquās Sextiās pervēnī."
+    ],
+    "latinAccented": [
+      "Ubi est hōrum áedium dóminus? — Mórtuus est.",
+      "Prōnus erat ad bibéndum: bibéndō moritū́rus erat.",
+      "«Avē Caesar, moritū́rī tē salū́tant!» aiḗbant gladiātṓrēs in circum intrántēs.",
+      "Quantum pendis? — Nōnāgíntā sex kilogrammā́ta.",
+      "Nimis gravis es; nimis cerevísiae bibis.",
+      "Nāvīs in magnō perī́culō est: paulā́tim mérgitur.",
+      "Cōnsuētū́dine mea trāmen jam prōféctum curréndō assecū́tus sum.",
+      "Ad trāmen assequéndum cucúrrī.",
+      "Tramī́ne Aquās Séxtiās pervḗnī."
     ],
     "english": [
       "Where is the owner of this house (these buildings)? — He is dead / He [has] died.",
@@ -87,24 +114,28 @@
   "sources": [
     {
       "after": 4,
-      "latin": "E Palaestra Latina, n° 169.",
+      "latin": "Ē Palaestrā Latīnā, n° 169.",
+      "latinAccented": "Ē Paláestrā Latī́nā, n° 169.",
       "english": "From Palæstra Latina, nº 169"
     },
     {
       "after": 7,
-      "latin": "Ex Actis Diurnis, LV.",
+      "latin": "Ex Actīs Diurnīs, LV.",
+      "latinAccented": "Ex Actīs Diúrnīs, LV.",
       "english": "From Acta Diurna, nº 55"
     },
     {
       "after": 10,
-      "latin": "Ex Actis Diurnis, LIV.",
+      "latin": "Ex Actīs Diurnīs, LIV.",
+      "latinAccented": "Ex Actīs Diúrnīs, LIV.",
       "english": "From Acta Diurna, nº 54"
     }
   ],
   "headings": [
     {
       "before": 11,
-      "latin": "Proverbia",
+      "latin": "Prōverbia",
+      "latinAccented": "Prōvérbia",
       "english": "Proverbs"
     }
   ]

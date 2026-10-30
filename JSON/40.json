@@ -3,23 +3,37 @@
     "lesson": 40,
     "title": "Lectio quadragesima",
     "subtitle": {
-      "latin": "De corporis partibus (sequitur)",
+      "latin": "Dē corporis partibus (sequitur)",
+      "latinAccented": "Dē córporis pártibus (séquitur)",
       "english": "On the Parts of the Body (continued)"
     },
     "revision": false
   },
   "latin": [
-    "De capite concludamus. Lingua loquelae<sup>1</sup> ministerio<sup>2</sup> fungitur<sup>3</sup>.",
-    "Dentibus manducamus<sup>4</sup>. Nonnunquam ipsi dolent eosque evellere debemus: dentis enim evulsio res jucunda non est.",
-    "Oculum pro oculo, dentem<sup>5</sup> pro dente, dicit Scriptura.",
-    "Matronae labra et genas saepe roseo vel rubro colore<sup>6</sup> pingunt. Non solum virgines, sed etiam omnes mulieres<sup>7</sup>, colores nitidi, quos natura sana praebet, multo magis decent.",
-    "Barba virile decus, femineum crines.",
-    "Caput cervicibus<sup>8</sup> seu collo sustinetur, collum autem humeris.",
-    "Pulmonibus spiramus. Tussis e faucium<sup>9</sup> inflammatione oritur.",
-    "Amor tussisque non celatur. Dum spiro, spero.",
-    "Cor est antlia quae sanguinem<sup>10</sup> per arterias et venas movet. Stomachus cibos digerit.",
-    "Jecur graviter laborat si mero vel potionibus<sup>11</sup> alcoholicis abutimur.",
-    "Fames optimus est coquus. Copia nauseam parit."
+    "Dē capite conclūdāmus. Lingua loquēlae<sup>1</sup> ministeriō<sup>2</sup> fungitur<sup>3</sup>.",
+    "Dentibus mandūcāmus<sup>4</sup>. Nōnnunquam ipsī dolent eōsque ēvellere dēbēmus: dentīs enim ēvulsiō rēs jūcunda nōn est.",
+    "Oculum prō oculō, dentem<sup>5</sup> prō dente, dīcit Scrīptūra.",
+    "Matronae labra et genās saepe roseō vel rubrō colōre<sup>6</sup> pingunt. Nōn sōlum virginēs, sed etiam omnēs mulierēs<sup>7</sup>, colōrēs nitidī, quōs nātūra sāna praebet, multō magis decent.",
+    "Barbā virīle decus, fēmineum crīnēs.",
+    "Caput cervīcibus<sup>8</sup> seu collō sustinētur, collum autem humerīs.",
+    "Pulmōnibus spīrāmus. Tussis ē faucium<sup>9</sup> īnflammātiōne oritur.",
+    "Amor tussisque nōn cēlātur. Dum spīrō, spērō.",
+    "Cor est antlia quae sanguinem<sup>10</sup> per artēriās et vēnās movet. Stomachus cibōs dīgerit.",
+    "Jecur graviter labōrat sī merō vel pōtiōnibus<sup>11</sup> alcoholīcīs abūtimur.",
+    "Famēs optimus est coquus. Cōpia nauseam parit."
+  ],
+  "latinAccented": [
+    "Dē cápite conclūdā́mus. Lingua loquḗlae<sup>1</sup> ministériō<sup>2</sup> fúngitur<sup>3</sup>.",
+    "Déntibus mandūcā́mus<sup>4</sup>. Nōnnúnquam ipsī dolent eṓsque ēvéllere dēbḗmus: dentīs enim ēvúlsiō rēs jūcúnda nōn est.",
+    "Óculum prō óculō, dentem<sup>5</sup> prō dente, dīcit Scrīptū́ra.",
+    "Mátronae labra et genās saepe róseō vel rubrō colṓre<sup>6</sup> pingunt. Nōn sōlum vírginēs, sed étiam omnēs mulíerēs<sup>7</sup>, colṓrēs nítidī, quōs nātū́ra sāna praebet, multō magis decent.",
+    "Barbā virī́le decus, fēmíneum crīnēs.",
+    "Caput cervī́cibus<sup>8</sup> seu collō sustinḗtur, collum autem húmerīs.",
+    "Pulmṓnibus spīrā́mus. Tussis ē fáucium<sup>9</sup> īnflammātiṓne óritur.",
+    "Amor tussísque nōn cēlā́tur. Dum spīrō, spērō.",
+    "Cor est ántlia quae sánguinem<sup>10</sup> per artḗriās et vēnās movet. Stómachus cibōs dī́gerit.",
+    "Jecur gráviter labṓrat sī merō vel pōtiṓnibus<sup>11</sup> alcoholī́cīs abū́timur.",
+    "Famēs óptimus est coquus. Cṓpia náuseam parit."
   ],
   "english": [
     "Let’s finish [talking] about the head. The tongue [is the organ] of speech (the function performs).",
@@ -54,14 +68,24 @@
   },
   "exercises": {
     "latin": [
-      "Jecur hujus hominis magnum est ut follis ovalis.",
-      "Quomodo id fieri potest? — Quia nimium meri bibit.",
-      "Venter aures non habet.",
-      "Mel in ore, fel in corde. Ita dicitur de viris et mulieribus qui eis dulcia dicunt quos in corde oderunt.",
-      "Quae est ista matrona? Est mater virginis quam heri vidisti.",
-      "Ejus vultum reddit: qualis mater, talis filia.",
-      "Ut domum faucibus intras, sic esca in stomachum faucibus intrat.",
-      "Praeterea aditus, quo naves in portum intrant, fauces quoque vocantur."
+      "Jecur hujus hominis magnum est ut follis ovālis.",
+      "Quōmodo id fierī potest? — Quia nimium merī bibit.",
+      "Venter aurēs nōn habet.",
+      "Mel in ōre, fel in corde. Ita dīcitur dē virīs et mulieribus quī eīs dulcia dīcunt quōs in corde ōdērunt.",
+      "Quae est ista mātrōna? Est māter virginis quam heri vīdistī.",
+      "Ejus vultum reddit: quālis māter, tālis fīlia.",
+      "Ut domum faucibus intrās, sīc ēsca in stomachum faucibus intrat.",
+      "Praetereā aditus, quō nāvēs in portum intrant, faucēs quoque vocantur."
+    ],
+    "latinAccented": [
+      "Jecur hujus hóminis magnum est ut follis ovā́lis.",
+      "Quṓmodo id fíerī potest? — Quia nímium merī bibit.",
+      "Venter aurēs nōn habet.",
+      "Mel in ōre, fel in corde. Ita dī́citur dē virīs et muliéribus quī eīs dúlcia dīcunt quōs in corde ōdḗrunt.",
+      "Quae est ista mātrṓna? Est māter vírginis quam heri vīdístī.",
+      "Ejus vultum reddit: quālis māter, tālis fī́lia.",
+      "Ut domum fáucibus intrās, sīc ēsca in stómachum fáucibus intrat.",
+      "Praetéreā áditus, quō nāvēs in portum intrant, faucēs quoque vocántur."
     ],
     "english": [
       "This man’s liver is [as] large as a [rugby] ball (egg-shaped).",

@@ -3,24 +3,39 @@
     "lesson": 5,
     "title": "Lectio quinta",
     "subtitle": {
-      "latin": "Ad theatrum imus",
+      "latin": "Ad theātrum īmus",
+      "latinAccented": "Ad theā́trum īmus",
       "english": "We are going to the theatre"
     },
     "revision": false
   },
   "latin": [
-    "Hodie ad theatrum imus.",
-    "Gregem optimum esse dicunt<sup>1</sup>.",
-    "Theatrum quo<sup>2</sup> itis Odeum vocatur<sup>3</sup>.",
-    "Totam urbem transeunt sed theatrum non inveniunt.",
-    "— Quo adis? — Eo ad theatrum, sed id non invenio.",
-    "Si hanc viam sequeris, erras.",
-    "Si viam rectam sequor, non erro.",
-    "Si fratres suos sequitur, non errat.",
-    "Errare humanum<sup>4</sup> est.",
-    "Homo felix! Romam venis et Capitolium videre potes.",
-    "Recte dicis<sup>5</sup>, amice! Si quam urbem visito, ad cinematographium adire non omitto.",
-    "Invenio, invenis, invenit, inveniunt, invenire. Sequor, sequeris, sequitur, sequuntur, sequi."
+    "Hodiē ad theātrum īmus.",
+    "Gregem optimum esse dīcunt<sup>1</sup>.",
+    "Theātrum quō<sup>2</sup> itis Ōdēum vocātur<sup>3</sup>.",
+    "Tōtam urbem trānseunt sed theātrum nōn inveniunt.",
+    "— Quō adīs? — Eō ad theātrum, sed id nōn inveniō.",
+    "Sī hanc viam sequeris, errās.",
+    "Sī viam rēctam sequor, nōn errō.",
+    "Sī frātrēs suōs sequitur, nōn errat.",
+    "Errāre hūmānum<sup>4</sup> est.",
+    "Homō fēlīx! Rōmam venīs et Capitōlium vidēre potes.",
+    "Rēctē dīcis<sup>5</sup>, amīce! Sī quam urbem vīsitō, ad cinematographium adīre nōn omittō.",
+    "Inveniō, invenīs, invēnit, inveniunt, invenīre. Sequor, sequeris, sequitur, sequuntur, sequī."
+  ],
+  "latinAccented": [
+    "Hódiē ad theā́trum īmus.",
+    "Gregem óptimum esse dīcunt<sup>1</sup>.",
+    "Theā́trum quō<sup>2</sup> itis Ōdḗum vocā́tur<sup>3</sup>.",
+    "Tōtam urbem trā́nseunt sed theā́trum nōn invéniunt.",
+    "— Quō adīs? — Eō ad theā́trum, sed id nōn invéniō.",
+    "Sī hanc viam séqueris, errās.",
+    "Sī viam rēctam sequor, nōn errō.",
+    "Sī frātrēs suōs séquitur, nōn errat.",
+    "Errā́re hūmā́num<sup>4</sup> est.",
+    "Homō fēlīx! Rōmam venīs et Capitṓlium vidḗre potes.",
+    "Rēctē dīcis<sup>5</sup>, amī́ce! Sī quam urbem vī́sitō, ad cinematográphium adī́re nōn omíttō.",
+    "Invéniō, ínvenīs, invḗnit, invéniunt, invenī́re. Sequor, séqueris, séquitur, sequúntur, sequī."
   ],
   "english": [
     "Today we-are-going to the-theatre.",
@@ -52,14 +67,24 @@
   },
   "exercises": {
     "latin": [
-      "Homo bonus viam rectam sequitur.",
-      "Quis est ille homo?",
-      "Ille homo Felix vocatur.",
-      "Ego vocor Julius.",
-      "Bonum est fratres et sorores videre.",
-      "Si me latine loqui vis, da mihi poculum vini.",
-      "Epistulam nullam invenio.",
-      "Potesne mihi esse auxilio?"
+      "Homō bonus viam rēctam sequitur.",
+      "Quis est ille homō?",
+      "Ille homō Fēlīx vocātur.",
+      "Ego vocor Jūlius.",
+      "Bonum est frātrēs et sorōrēs vidēre.",
+      "Sī mē latīne loquī vīs, dā mihi pōculum vīnī.",
+      "Epistulam nūllam inveniō.",
+      "Pōtēsne mihi esse auxiliō?"
+    ],
+    "latinAccented": [
+      "Homō bonus viam rēctam séquitur.",
+      "Quis est ille homō?",
+      "Ille homō Fēlīx vocā́tur.",
+      "Ego vocor Jū́lius.",
+      "Bonum est frātrēs et sorṓrēs vidḗre.",
+      "Sī mē latī́ne loquī vīs, dā mihi pṓculum vīnī.",
+      "Epístulam nūllam invéniō.",
+      "Pōtḗsne mihi esse auxíliō?"
     ],
     "english": [
       "The good person follows the right way.",

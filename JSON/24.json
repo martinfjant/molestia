@@ -3,7 +3,8 @@
     "lesson": 24,
     "title": "Lectio vicesima quarta",
     "subtitle": {
-      "latin": "Cavete favillas!",
+      "latin": "Cavēte favīllās!",
+      "latinAccented": "Cavḗte favī́llās!",
       "english": "Mind the sparks!"
     },
     "revision": false
@@ -11,17 +12,32 @@
   "latin": [
     "Quam artem exercet pater tuus?",
     "Pater meus faber<sup>1</sup> est.",
-    "In fabrica ferraria fabrum videmus qui plaustri axem corrigit<sup>2</sup>.",
-    "Axis igne<sup>3</sup> calefit. Cum satis calefactus est, faber eum in incudem imponit.",
-    "Malleo ferrum tundit<sup>4</sup>: scintillae sescentae<sup>5</sup> emicant<sup>6</sup>.",
-    "Intrate pueri, sed nolite appropinquare! Cavete favillas<sup>7</sup>!",
-    "Cui ita operaris, Domne? — Faber puero respondet:",
-    "Lucas agricola in fossam cum plaustro delapsus est: rota ejus fracta est et axis distortus.",
-    "Axis corrigendus est et rota reficienda<sup>8</sup>.",
-    "Lucas axem ipse<sup>9</sup> corrigere non potest:",
-    "Ei fabro opus est<sup>10</sup>.",
-    "Omnia nos ipsi facere non possumus.",
-    "Ferrum cudendum<sup>11</sup> est dum<sup>12</sup> candet<sup>13</sup> in igne."
+    "In fabricā ferrāriā fabrum vidēmus quī plaustrī axem corrigit<sup>2</sup>.",
+    "Axis igne<sup>3</sup> calefit. Cum satis calefactus est, faber eum in incūdem impōnit.",
+    "Malleō ferrum tundit<sup>4</sup>: scintillae sēscentae<sup>5</sup> ēmicant<sup>6</sup>.",
+    "Intrāte puerī, sed nōlīte appropinquāre! Cavēte favīllās<sup>7</sup>!",
+    "Cui ita operārīs, Domne? — Faber puerō respondet:",
+    "Lūcās agricola in fossam cum plaustrō dēlāpsus est: rota ejus frācta est et axis distortus.",
+    "Axis corrigendus est et rotā reficienda<sup>8</sup>.",
+    "Lūcās axem ipse<sup>9</sup> corrigere nōn potest:",
+    "Ēī fabrō opus est<sup>10</sup>.",
+    "Omnia nōs ipsī facere nōn possumus.",
+    "Ferrum cūdendum<sup>11</sup> est dum<sup>12</sup> candet<sup>13</sup> in igne."
+  ],
+  "latinAccented": [
+    "Quam artem exércet pater tuus?",
+    "Pater meus faber<sup>1</sup> est.",
+    "In fábricā ferrā́riā fabrum vidḗmus quī plaustrī axem córrigit<sup>2</sup>.",
+    "Axis igne<sup>3</sup> cálefit. Cum satis calefáctus est, faber eum in incū́dem impṓnit.",
+    "Málleō ferrum tundit<sup>4</sup>: scintíllae sēscéntae<sup>5</sup> ḗmicant<sup>6</sup>.",
+    "Intrā́te púerī, sed nōlī́te appropinquā́re! Cavḗte favī́llās<sup>7</sup>!",
+    "Cui ita operā́rīs, Domne? — Faber púerō respóndet:",
+    "Lūcās agrícola in fossam cum plaustrō dēlā́psus est: rota ejus frācta est et axis distórtus.",
+    "Axis corrigéndus est et rotā reficiénda<sup>8</sup>.",
+    "Lūcās axem ipse<sup>9</sup> corrígere nōn potest:",
+    "Ēī fabrō opus est<sup>10</sup>.",
+    "Ómnia nōs ipsī fácere nōn póssumus.",
+    "Ferrum cūdéndum<sup>11</sup> est dum<sup>12</sup> candet<sup>13</sup> in igne."
   ],
   "english": [
     "What is your father’s profession (what craft practices your father)?",
@@ -71,14 +87,24 @@
   },
   "exercises": {
     "latin": [
-      "Faber ferrarius pueri birotam reficit.",
-      "Puer fabro birotam reficiendam dedit.",
-      "Birota a fabro refecta est; rota ejus a puero distorta erat.",
-      "Birotae a fabris refectae sunt: eorum rotae a pueris distortae sunt.",
-      "Videsne puerum? Videtisne pueros?",
-      "Pueri in cubicula intrant.",
-      "Puerorum vestes in cubiculis manent.",
-      "Date crustula pueris."
+      "Faber ferrārius puerī birotam reficit.",
+      "Puer fabrō birotam reficiendam dedit.",
+      "Birota ā fabrō refecta est; rota ejus ā puerō distorta erat.",
+      "Birotae ā fabrīs refectae sunt: eōrum rotae ā puerīs distortae sunt.",
+      "Vidēsne puerum? Vidētisne puerōs?",
+      "Puerī in cubicula intrant.",
+      "Puerōrum vestēs in cubiculīs manent.",
+      "Date crustula puerīs."
+    ],
+    "latinAccented": [
+      "Faber ferrā́rius púerī bírotam réficit.",
+      "Puer fabrō bírotam reficiéndam dedit.",
+      "Bírota ā fabrō refécta est; rota ejus ā púerō distórta erat.",
+      "Bírotae ā fabrīs reféctae sunt: eṓrum rotae ā púerīs distórtae sunt.",
+      "Vidḗsne púerum? Vidētísne púerōs?",
+      "Púerī in cubícula intrant.",
+      "Puerṓrum vestēs in cubículīs manent.",
+      "Date crústula púerīs."
     ],
     "english": [
       "The blacksmith (smith of-iron) repairs the boy's bicycle.",

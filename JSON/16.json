@@ -3,25 +3,41 @@
     "lesson": 16,
     "title": "Lectio sexta decima",
     "subtitle": {
-      "latin": "Venite cenatum",
+      "latin": "Venīte cēnātum",
+      "latinAccented": "Venī́te cēnā́tum",
       "english": "Come have dinner"
     },
     "revision": false
   },
   "latin": [
-    "In urbe Massilia<sup>1</sup> ambulantes<sup>2</sup>, non longe a portu, Marium invenimus.",
-    "Salve Marce! clamat ille. Quid agis in urbe nostra?",
-    "Salve et tu Mari<sup>3</sup>! Romam imus, sed aliquot dies Massiliae demoramur.",
-    "Venite igitur cenatum<sup>4</sup> apud me! Domi cenantibus nobis otium loquendi<sup>5</sup> erit.",
+    "In urbe Massiliā<sup>1</sup> ambulantēs<sup>2</sup>, nōn longē ā portū, Marium invēnimus.",
+    "Salvē Mārce! clāmat ille. Quid agis in urbe nostrā?",
+    "Salvē et tū Marī<sup>3</sup>! Rōmam īmus, sed aliquot diēs Massiliae dēmorāmur.",
+    "Venīte igitur cēnātum<sup>4</sup> apud mē! Domī cēnantibus nōbīs ōtium loquendī<sup>5</sup> erit.",
     "Ubi est domus tua?",
-    "Facile invenies: exi ex urbe porta<sup>6</sup> Aquarum Sextiarum<sup>7</sup>...",
-    "Perge recta usque ad tertium vicum<sup>8</sup> sinistrorsum<sup>9</sup>...",
-    "Per hoc vicum iter fac trecenta metra...",
-    "Ibi, dextrorsum, domum videbis cum janua rubra quae non omnino<sup>10</sup> clausa erit.",
-    "Pede januam urgebis et intrabis.",
-    "Cur pede?",
-    "Quia manus erunt plenae...",
-    "...munerum quae sine ullo dubio nobis afferes."
+    "Facile inveniēs: exī ex urbe porta<sup>6</sup> Aquārum Sextiārum<sup>7</sup>...",
+    "Perge rēcta usque ad tertium vīcum<sup>8</sup> sinistrōrsum<sup>9</sup>...",
+    "Per hōc vīcum iter fac trecenta metra...",
+    "Ibi, dextrōrsum, domum vidēbis cum jānuā rubrā quae nōn omnīnō<sup>10</sup> clausa erit.",
+    "Pede jānuam urgēbis et intrābis.",
+    "Cūr pede?",
+    "Quia manūs erunt plēnae...",
+    "...mūnerum quae sine ūllō dubiō nōbīs afferēs."
+  ],
+  "latinAccented": [
+    "In urbe Massíliā<sup>1</sup> ambulántēs<sup>2</sup>, nōn longē ā portū, Márium invḗnimus.",
+    "Salvē Mārce! clāmat ille. Quid agis in urbe nostrā?",
+    "Salvē et tū Marī<sup>3</sup>! Rōmam īmus, sed áliquot diēs Massíliae dēmorā́mur.",
+    "Venī́te ígitur cēnā́tum<sup>4</sup> apud mē! Domī cēnántibus nōbīs ṓtium loquéndī<sup>5</sup> erit.",
+    "Ubi est domus tua?",
+    "Fácile invéniēs: exī ex urbe porta<sup>6</sup> Aquā́rum Sextiā́rum<sup>7</sup>...",
+    "Perge rēcta usque ad tértium vīcum<sup>8</sup> sinistrṓrsum<sup>9</sup>...",
+    "Per hōc vīcum iter fac trecénta metra...",
+    "Ibi, dextrṓrsum, domum vidḗbis cum jā́nuā rubrā quae nōn omnī́nō<sup>10</sup> clausa erit.",
+    "Pede jā́nuam urgḗbis et intrā́bis.",
+    "Cūr pede?",
+    "Quia manūs erunt plēnae...",
+    "...mū́nerum quae sine ūllō dúbiō nōbīs áfferēs."
   ],
   "english": [
     "Walking in the city of Marseille, not far from the harbour, we find Marius.",
@@ -57,13 +73,22 @@
   },
   "exercises": {
     "latin": [
-      "Per Genuam urbem Romam petis.",
-      "Portum peto ubi naves multae sunt.",
-      "Via Aurelia Romam eo.",
-      "Porta Aurelia Roma exeo.",
-      "Per vicum parvum, urbe Massilia abimus.",
-      "Massiliae vici multi sunt.",
-      "In urbe Lutetia domus multae sunt<sup>1</sup>."
+      "Per Genuam urbem Rōmam petis.",
+      "Portum petō ubi nāvēs multae sunt.",
+      "Via Aurēlia Rōmam eō.",
+      "Porta Aurēliā Rōmā exeō.",
+      "Per vīcum parvum, urbe Massiliā abimus.",
+      "Massiliae vīcī multī sunt.",
+      "In urbe Lutetia domūs multae sunt<sup>1</sup>."
+    ],
+    "latinAccented": [
+      "Per Génuam urbem Rōmam petis.",
+      "Portum petō ubi nāvēs multae sunt.",
+      "Via Aurḗlia Rōmam eō.",
+      "Porta Aurḗliā Rōmā éxeō.",
+      "Per vīcum parvum, urbe Massíliā ábimus.",
+      "Massíliae vīcī multī sunt.",
+      "In urbe Lutétia domūs multae sunt<sup>1</sup>."
     ],
     "english": [
       "You are going to (are making for) Rome through Genoa.",

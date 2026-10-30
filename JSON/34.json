@@ -3,23 +3,37 @@
     "lesson": 34,
     "title": "Lectio tricesima quarta",
     "subtitle": {
-      "latin": "Nihil novi sub sole",
+      "latin": "Nihil nōvī sub sōle",
+      "latinAccented": "Nihil nōvī sub sōle",
       "english": "Nothing new under the sun"
     },
     "revision": false
   },
   "latin": [
-    "Quousque tandem abuteris<sup>1</sup> patientia nostra!",
-    "Quid tibi, optime Ciceronis discipule?",
-    "Homo gravis<sup>2</sup> non es, qui latine iterum iterumque nugari non dubitas.",
-    "Quae res nova est? Latine nugari<sup>3</sup> non licet! Nulla est ratio cur istam linguam efficiamus taediosam.",
-    "Audacter lingua mortua uteris cum de rebus<sup>4</sup> hodiernis agis. Audes enim latine loqui de caffeo, vel de ludis qui apud Anglos «football» et «rugby» nuncupantur<sup>5</sup>. Haec omnia romani antiqui ignorabant.",
-    "Mores antiqui a nostris minus quam credis differunt.",
-    "Exempli gratia<sup>6</sup>, equi qui raedas nostras trahunt vaporarii sunt, sed homines raedis semper vehuntur.",
-    "Folle, non omnino sicut hodie nos ludimus, antiqui ludebant, sed tamen follibus utebantur...",
-    "Quid arbitraris de hac sententia: «... exercitationes equorum et armorum omisit et ad pilam folliculumque transiit»?",
-    "Aliquid simile Suetonius<sup>7</sup> de Augusto Imperatore scripsit.",
-    "Vides proverbium «nihil novi sub sole» non mentiri<sup>8</sup>; et linguam latinam, qua hodie uteris, mortuam non esse."
+    "Quousque tandem abūteris<sup>1</sup> patientia nostra!",
+    "Quid tibi, optimē Cicerōnis discipule?",
+    "Homō gravis<sup>2</sup> nōn es, quī latīne iterum iterumque nūgārī nōn dubitās.",
+    "Quae rēs nova est? Latīnē nūgārī<sup>3</sup> nōn licet! Nūlla est ratiō cūr istam linguam efficiāmus taediōsam.",
+    "Audācter linguā mortuā ūteris cum dē rēbus<sup>4</sup> hodiernīs agis. Audēs enim latīne loquī dē caffēō, vel dē lūdīs quī apud Anglōs «football» et «rugby» nuncupantur<sup>5</sup>. Haec omnia rōmānī antīquī ignōrābant.",
+    "Mōrēs antīquī ā nostrīs minus quam crēdis differunt.",
+    "Exemplī grātia<sup>6</sup>, equī quī raedās nostrās trahunt vapōrāriī sunt, sed hominēs raedīs semper vehuntur.",
+    "Folle, nōn omnīnō sīcut hodiē nōs lūdimus, antīquī lūdēbant, sed tamen follibus ūtēbantur...",
+    "Quid arbitrāris dē hāc sententia: «... exercitātiōnēs equōrum et armōrum omīsit et ad pilam folliculumque trānsiit»?",
+    "Aliquid simile Suētōnius<sup>7</sup> dē Augustō Imperātōre scrīpsit.",
+    "Vidēs prōverbium «nihil nōvī sub sōle» nōn mentīrī<sup>8</sup>; et linguam latīnam, quā hodiē ūteris, mortuam nōn esse."
+  ],
+  "latinAccented": [
+    "Quoúsque tandem abū́teris<sup>1</sup> patiéntia nostra!",
+    "Quid tibi, óptimē Cicerṓnis discípule?",
+    "Homō gravis<sup>2</sup> nōn es, quī latī́ne íterum iterúmque nūgā́rī nōn dúbitās.",
+    "Quae rēs nova est? Latī́nē nūgā́rī<sup>3</sup> nōn licet! Nūlla est rátiō cūr istam linguam efficiā́mus taediṓsam.",
+    "Audā́cter linguā mórtuā ū́teris cum dē rēbus<sup>4</sup> hodiérnīs agis. Audēs enim latī́ne loquī dē caffḗō, vel dē lūdīs quī apud Anglōs «foótball» et «rugby» nuncupántur<sup>5</sup>. Haec ómnia rōmā́nī antī́quī ignōrā́bant.",
+    "Mōrēs antī́quī ā nostrīs minus quam crēdis dífferunt.",
+    "Exémplī grā́tia<sup>6</sup>, equī quī raedās nostrās trahunt vapōrā́riī sunt, sed hóminēs raedīs semper vehúntur.",
+    "Folle, nōn omnī́nō sīcut hódiē nōs lū́dimus, antī́quī lūdḗbant, sed tamen fóllibus ūtēbántur...",
+    "Quid arbitrā́ris dē hāc senténtia: «... exercitātiṓnēs equṓrum et armṓrum omī́sit et ad pilam folliculúmque trā́nsiit»?",
+    "Áliquid símile Suētṓnius<sup>7</sup> dē Augústō Imperātṓre scrīpsit.",
+    "Vidēs prōvérbium «nihil nōvī sub sōle» nōn mentī́rī<sup>8</sup>; et linguam latī́nam, quā hódiē ū́teris, mórtuam nōn esse."
   ],
   "english": [
     "Up to what point, finally, will you abuse (by) our patience!",
@@ -70,18 +84,29 @@
   "song": {
     "kind": "Carmen",
     "title": {
-      "latin": "Lauriger Horatius",
+      "latin": "Lauriger Horātius",
+      "latinAccented": "Láuriger Horā́tius",
       "english": "Laurel-crowned Horace"
     },
     "latin": [
-      "Lauriger Horatius,",
-      "Quam dixisti verum!",
-      "Fugit Euro citius",
-      "Tempus edax rerum.",
-      "Ubi sunt, o, pocula",
-      "Dulciora melle?",
-      "Rixae, pax et oscula",
-      "Rubentis puellae?"
+      "Lauriger Horātius,",
+      "Quam dīxistī vērum!",
+      "Fugit Eurō citius",
+      "Tempus edāx rērum.",
+      "Ubi sunt, ō, pōcula",
+      "Dulciōra melle?",
+      "Rixae, pāx et ōscula",
+      "Rubentīs puellae?"
+    ],
+    "latinAccented": [
+      "Láuriger Horā́tius,",
+      "Quam dīxístī vērum!",
+      "Fugit Éurō cítius",
+      "Tempus edāx rērum.",
+      "Ubi sunt, ō, pṓcula",
+      "Dulciṓra melle?",
+      "Rixae, pāx et ṓscula",
+      "Rubéntīs puéllae?"
     ],
     "english": [
       "Laurel-crowned Horace,",

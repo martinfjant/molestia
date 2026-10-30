@@ -3,24 +3,39 @@
     "lesson": 4,
     "title": "Lectio quarta",
     "subtitle": {
-      "latin": "Salve Felix!",
+      "latin": "Salvē Fēlīx!",
+      "latinAccented": "Salvē Fēlīx!",
       "english": "Hello, Felix!"
     },
     "revision": false
   },
   "latin": [
-    "Salve Felix! Ut vales?",
-    "Valeo! Quid vis?",
-    "Fratres tuos videre volo.",
-    "Nescio ubi sint<sup>1</sup>. Soror autem domi<sup>2</sup> adest.",
-    "Pater et mater quoque adsunt, sed<sup>3</sup> fratres absunt.",
-    "Mihi est soror una.",
-    "Tibi sunt sorores tres et frater unus.",
-    "Illi nullae sunt sorores.",
-    "Fratres tres sumus. Sorores duae estis.",
+    "Salvē Fēlīx! Ut valēs?",
+    "Valeō! Quid vīs?",
+    "Frātrēs tuōs vidēre volō.",
+    "Nesciō ubi sint<sup>1</sup>. Soror autem domī<sup>2</sup> adest.",
+    "Pater et māter quoque adsunt, sed<sup>3</sup> frātrēs absunt.",
+    "Mihi est soror ūna.",
+    "Tibi sunt sorōrēs trēs et frāter ūnus.",
+    "Illī nūllae sunt sorōrēs.",
+    "Frātrēs trēs sumus. Sorōrēs duae estis.",
     "Sum, es, est, sumus, estis, sunt, esse.",
     "Absum, abes, abest, absumus, abestis, absunt, abesse<sup>4</sup>.",
-    "Homo unus, mater una, poculum unum; homines duo, matres duae, pocula tria<sup>5</sup>."
+    "Homō ūnus, māter ūna, pōculum ūnum; hominēs duo, mātrēs duae, pōcula tria<sup>5</sup>."
+  ],
+  "latinAccented": [
+    "Salvē Fēlīx! Ut valēs?",
+    "Váleō! Quid vīs?",
+    "Frātrēs tuōs vidḗre volō.",
+    "Nésciō ubi sint<sup>1</sup>. Soror autem domī<sup>2</sup> adest.",
+    "Pater et māter quoque adsunt, sed<sup>3</sup> frātrēs absunt.",
+    "Mihi est soror ūna.",
+    "Tibi sunt sorṓrēs trēs et frāter ūnus.",
+    "Illī nūllae sunt sorṓrēs.",
+    "Frātrēs trēs sumus. Sorṓrēs duae estis.",
+    "Sum, es, est, sumus, estis, sunt, esse.",
+    "Absum, abes, abest, ábsumus, abéstis, absunt, abésse<sup>4</sup>.",
+    "Homō ūnus, māter ūna, pṓculum ūnum; hóminēs duo, mātrēs duae, pṓcula tria<sup>5</sup>."
   ],
   "english": [
     "Hello, Felix! How are you[sg.]?",
@@ -51,13 +66,22 @@
   },
   "exercises": {
     "latin": [
-      "Homines tres domi adsunt.",
-      "Homo unus domum venit.",
-      "Videsne fratres meos?",
-      "Sorores tuae italice loqui possunt.",
-      "Quid dicas<sup>1</sup> non intellego.",
-      "Potesne mihi auxilio esse?",
-      "Soror mea tibi nulli auxilio esse potest."
+      "Hominēs trēs domī adsunt.",
+      "Homō ūnus domum venit.",
+      "Vidēsne frātrēs meōs?",
+      "Sorōrēs tuae ītalice loquī possunt.",
+      "Quid dicās<sup>1</sup> nōn intellegō.",
+      "Pōtēsne mihi auxiliō esse?",
+      "Soror mea tibi nūllī auxiliō esse potest."
+    ],
+    "latinAccented": [
+      "Hóminēs trēs domī adsunt.",
+      "Homō ūnus domum venit.",
+      "Vidḗsne frātrēs meōs?",
+      "Sorṓrēs tuae ītálice loquī possunt.",
+      "Quid dicās<sup>1</sup> nōn intéllegō.",
+      "Pōtḗsne mihi auxíliō esse?",
+      "Soror mea tibi nūllī auxíliō esse potest."
     ],
     "english": [
       "Three men are at home.",

@@ -3,23 +3,37 @@
     "lesson": 26,
     "title": "Lectio vicesima sexta",
     "subtitle": {
-      "latin": "Fabellae insanae (concluduntur)",
+      "latin": "Fābellae īnsānae (conclūduntur)",
+      "latinAccented": "Fābéllae īnsā́nae (conclūdúntur)",
       "english": "Crazy stories [end] (are concluded)"
     },
     "revision": false
   },
   "latin": [
-    "Insanus quidam hortulanum<sup>1</sup> fraga colentem inspiciebat.",
-    "Quid, inquit<sup>2</sup>, in ea spargis<sup>3</sup>?",
-    "Ea stercore<sup>4</sup> sterno, respondit horti cultor.",
-    "At insanus: — Ergo sine ullo dubio insanus sum, nam ea saccharo conspersa ego comedo!",
-    "Insanorum nosocomii<sup>5</sup> moderator visitatoribus aedes<sup>6</sup> suas monstrat:",
-    "Hic omnia secundum morem recentissimum<sup>7</sup> instructa sunt.",
-    "Aegroti nostri nullo modo vitam tristem agunt, sicut in veteribus aedibus fiebat, sed libertate otioque maximo fruuntur<sup>8</sup>.",
-    "Exempli gratia, piscinam natatoriam instruximus, cum tabulatis urinatoriis pluribus, quorum altissimum decem metra<sup>9</sup> se attollit.",
-    "Mehercule! Piscinam insanis instruere inaudita videtur audacia. Dic mihi, quaeso, quot insani summo tabulato usi sint<sup>10</sup>?",
-    "Paucissimi... forte tres aut quattuor...",
-    "Sed multo plures<sup>11</sup> urinabuntur<sup>12</sup> postquam in piscinam<sup>13</sup> adduxerimus<sup>14</sup>... aquam."
+    "Īnsānus quīdam hortulānum<sup>1</sup> frāga colentem īnspiciēbat.",
+    "Quid, inquit<sup>2</sup>, in eā spargis<sup>3</sup>?",
+    "Eā stercore<sup>4</sup> sternō, respondit hortī cultor.",
+    "At īnsānus: — Ergō sine ūllō dubiō īnsānus sum, nam eā saccharō cōnspersa ego comedō!",
+    "Īnsānōrum nosocomiī<sup>5</sup> moderātor vīsitātōribus aedēs<sup>6</sup> suās mōnstrat:",
+    "Hīc omnia secundum mōrem recentissimum<sup>7</sup> īnstrūcta sunt.",
+    "Aegrōtī nostrī nūllō modō vītam trīstem agunt, sīcut in veteribus aedibus fīēbat, sed lībertāte ōtiōque maximō fruuntur<sup>8</sup>.",
+    "Exemplī grātia, piscīnam natātōriam īnstrūximus, cum tabulātīs urinatōriīs plūribus, quōrum altissimum decem metra<sup>9</sup> sē attollit.",
+    "Mehercule! Piscīnam īnsānīs īnstruere inaudīta vidētur audācia. Dīc mihi, quaesō, quot īnsānī summō tabulātō ūsī sint<sup>10</sup>?",
+    "Paucissimī... forte trēs aut quattuor...",
+    "Sed multō plūrēs<sup>11</sup> ūrīnābuntur<sup>12</sup> postquam in piscīnam<sup>13</sup> addūxerīmus<sup>14</sup>... aquam."
+  ],
+  "latinAccented": [
+    "Īnsā́nus quīdam hortulā́num<sup>1</sup> frāga coléntem īnspiciḗbat.",
+    "Quid, inquit<sup>2</sup>, in eā spargis<sup>3</sup>?",
+    "Eā stércore<sup>4</sup> sternō, respóndit hortī cultor.",
+    "At īnsā́nus: — Ergō sine ūllō dúbiō īnsā́nus sum, nam eā sáccharō cōnspérsa ego cómedō!",
+    "Īnsānṓrum nosocómiī<sup>5</sup> moderā́tor vīsitātṓribus aedēs<sup>6</sup> suās mōnstrat:",
+    "Hīc ómnia secúndum mōrem recentíssimum<sup>7</sup> īnstrū́cta sunt.",
+    "Aegrṓtī nostrī nūllō modō vītam trīstem agunt, sīcut in vetéribus áedibus fīḗbat, sed lībertā́te ōtiṓque máximō fruúntur<sup>8</sup>.",
+    "Exémplī grā́tia, piscī́nam natātṓriam īnstrū́ximus, cum tabulā́tīs urinatṓriīs plū́ribus, quōrum altíssimum decem metra<sup>9</sup> sē attóllit.",
+    "Mehércule! Piscī́nam īnsā́nīs īnstrúere inaudī́ta vidḗtur audā́cia. Dīc mihi, quaesō, quot īnsā́nī summō tabulā́tō ūsī sint<sup>10</sup>?",
+    "Paucíssimī... forte trēs aut quáttuor...",
+    "Sed multō plūrēs<sup>11</sup> ūrīnābúntur<sup>12</sup> postquam in piscī́nam<sup>13</sup> addūxerī́mus<sup>14</sup>... aquam."
   ],
   "english": [
     "A-(certain) madman was watching a gardener cultivating strawberries.",
@@ -71,13 +85,22 @@
   },
   "exercises": {
     "latin": [
-      "Hortulanus horti cultor est: fraga, mala variaque olera in horto colit.",
-      "Opus horti cultoris horti cultura dici potest.",
-      "Similiter agri cultores, seu agricolae, frumentum in agris colunt.",
-      "Da vinum agri cultori.",
-      "Date cerevisiam horti cultoribus.",
-      "Ubi est domus agri cultorum felicium?",
-      "Unam hirundinem ver non efficere ab agri cultoribus dicitur."
+      "Hortulānus hortī cultor est: frāga, mala variaque olera in hortō colit.",
+      "Opus hortī cultōris hortī cultūrā dīcī potest.",
+      "Similiter agrī cultōrēs, seu agricolae, frūmentum in agrīs colunt.",
+      "Dā vīnum agrī cultōrī.",
+      "Date cerevisiam hortī cultōribus.",
+      "Ubi est domus agrī cultōrum fēlīcium?",
+      "Ūnam hirundinem vēr nōn efficere ab agrī cultōribus dīcitur."
+    ],
+    "latinAccented": [
+      "Hortulā́nus hortī cultor est: frāga, mala variáque ólera in hortō colit.",
+      "Opus hortī cultṓris hortī cultū́rā dīcī potest.",
+      "Simíliter agrī cultṓrēs, seu agrícolae, frūméntum in agrīs colunt.",
+      "Dā vīnum agrī cultṓrī.",
+      "Date cerevísiam hortī cultṓribus.",
+      "Ubi est domus agrī cultṓrum fēlī́cium?",
+      "Ūnam hirúndinem vēr nōn effícere ab agrī cultṓribus dī́citur."
     ],
     "english": [
       "A gardener is the cultivator of a garden: he grows (cultivates) strawberries, apples and various vegetables in the garden",

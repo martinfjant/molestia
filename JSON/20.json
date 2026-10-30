@@ -3,24 +3,39 @@
     "lesson": 20,
     "title": "Lectio vicesima",
     "subtitle": {
-      "latin": "Jentaculum sumo<sup>1</sup>",
+      "latin": "Jentāculum sūmō<sup>1</sup>",
+      "latinAccented": "Jentā́culum sūmō<sup>1</sup>",
       "english": "I have (take) breakfast"
     },
     "revision": false
   },
   "latin": [
-    "Mane e lecto septima hora surgo.",
-    "Barbam rado; corpus<sup>2</sup> lavo; induo me vestibus.",
-    "Tintinnabulum ago. Famula jentaculum affert.",
-    "Est in lance poculum caffei ac lactis, panisque<sup>3</sup> tostus cum butyro.",
-    "Caffeum non est calidum! Potesne id recalefacere?",
-    "Post decem minutas famula cum caffeo calido nondum rediit.",
-    "Januam aperio; calceos meos aspicio, quos puer<sup>4</sup> polire<sup>5</sup> noluit.",
-    "Redit tandem famula; jentaculum statim sumo.",
-    "Vae! Uritur mihi gula! Nunc caffeum fervens est!",
-    "Haec omnia mihi moram fecerunt: ad tramen assequendum<sup>6</sup> curram<sup>7</sup> oportet<sup>8</sup>.",
-    "Ipsi agere<sup>9</sup> debemus id quod rectius curare volumus.",
-    "Quot servi tot hostes."
+    "Manē ē lectō septimā hōrā surgō.",
+    "Barbam rādō; corpus<sup>2</sup> lavō; induō mē vestibus.",
+    "Tintinnābulum agō. Famula jentāculum affert.",
+    "Est in lance pōculum caffēī ac lactis, pānisque<sup>3</sup> tostus cum būtȳrō.",
+    "Caffeum nōn est calidum! Potesne id recalefacere?",
+    "Post decem minūtās famulā cum caffēō calidō nōndum rediit.",
+    "Jānuam aperiō; calceōs meōs aspiciō, quōs puer<sup>4</sup> polīre<sup>5</sup> nōluit.",
+    "Redit tandem famula; jentāculum statim sūmō.",
+    "Vae! Ūritur mihi gula! Nunc caffeum fervēns est!",
+    "Haec omnia mihi moram fēcērunt: ad trāmen assequendum<sup>6</sup> curram<sup>7</sup> oportet<sup>8</sup>.",
+    "Ipsī agere<sup>9</sup> dēbēmus id quod rēctius cūrāre volumus.",
+    "Quot servī tot hostēs."
+  ],
+  "latinAccented": [
+    "Manē ē lectō séptimā hōrā surgō.",
+    "Barbam rādō; corpus<sup>2</sup> lavō; índuō mē véstibus.",
+    "Tintinnā́bulum agō. Fámula jentā́culum affert.",
+    "Est in lance pṓculum caffḗī ac lactis, pānísque<sup>3</sup> tostus cum būtȳ́rō.",
+    "Cáffeum nōn est cálidum! Potésne id recalefácere?",
+    "Post decem minū́tās fámulā cum caffḗō cálidō nōndum rédiit.",
+    "Jā́nuam apériō; cálceōs meōs aspíciō, quōs puer<sup>4</sup> polī́re<sup>5</sup> nṓluit.",
+    "Redit tandem fámula; jentā́culum statim sūmō.",
+    "Vae! Ū́ritur mihi gula! Nunc cáffeum fervēns est!",
+    "Haec ómnia mihi moram fēcḗrunt: ad trāmen assequéndum<sup>6</sup> curram<sup>7</sup> opórtet<sup>8</sup>.",
+    "Ipsī ágere<sup>9</sup> dēbḗmus id quod rḗctius cūrā́re vólumus.",
+    "Quot servī tot hostēs."
   ],
   "english": [
     "In the morning I-get-up from bed at seven o’clock.",
@@ -65,8 +80,13 @@
     },
     "latin": [
       "Ego sum pauper!",
-      "Nihil habeo",
-      "Et nihil dabo!"
+      "Nihil habeō",
+      "Et nihil dabō!"
+    ],
+    "latinAccented": [
+      "Ego sum pauper!",
+      "Nihil hábeō",
+      "Et nihil dabō!"
     ],
     "english": [
       "I am poor!",
@@ -78,7 +98,8 @@
   "headings": [
     {
       "before": 11,
-      "latin": "Proverbia",
+      "latin": "Prōverbia",
+      "latinAccented": "Prōvérbia",
       "english": "Proverbs"
     }
   ]

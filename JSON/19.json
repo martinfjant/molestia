@@ -3,24 +3,39 @@
     "lesson": 19,
     "title": "Lectio undevicesima",
     "subtitle": {
-      "latin": "Abi cubitum",
+      "latin": "Abī cubitum",
+      "latinAccented": "Abī cúbitum",
       "english": "Go to bed"
     },
     "revision": false
   },
   "latin": [
-    "Juli! Abi cubitum!",
-    "Mamma, precor! Nolo<sup>1</sup> cubitum ire: somnus me non urget.",
-    "Mater Julium per gradus usque ad cubiculum trahit.",
-    "Si puer bonus eris, cras tibi crustulum dabo<sup>2</sup>.",
-    "Julius puer bonus est: vestem deponit et lectum petit; sub linteo lodicibusque mergitur, et in somnum labitur<sup>3</sup>.",
-    "Johannes, cum it cubitum, calceos in pavimentum vehementer projicere solet<sup>4</sup>.",
-    "Die quodam, vicinus ei dicit: «Amice, precor! Noli nocte calceos tam vehementer projicere<sup>5</sup>, fragor in cubiculo meo auditur, itaque e somno expergiscor.»",
-    "Da veniam, respondet Johannes, calceos jam non projiciam<sup>6</sup>.",
-    "Nocte sequenti, Johannes cubitum it, vestem deponit, calceum priorem in pavimentum projicit, et tunc, o horror, subito vicini meminit...",
-    "Sed quid faciat<sup>7</sup>? Calceum alterum in pavimento leniter cauteque ponit, ... et in somnum labitur.",
-    "Postero die, vicinum videt eique dicit: «Meliusne hac nocte dormisti?»",
-    "Tunc respondet vicinus: «Pessime etiam dormii: unum calceum cadentem audivi... et alterum tota nocte exspectavi!»"
+    "Jūlī! Abī cubitum!",
+    "Mamma, precor! Nōlō<sup>1</sup> cubitum īre: somnus mē nōn urget.",
+    "Māter Jūlium per gradūs usque ad cubiculum trahit.",
+    "Sī puer bonus eris, crās tibi crustulum dabō<sup>2</sup>.",
+    "Jūlius puer bonus est: vestem dēpōnit et lectum petit; sub linteō lōdīcibusque mergitur, et in somnum lābitur<sup>3</sup>.",
+    "Jōhannēs, cum it cubitum, calceōs in pavīmentum vehementer prōjicere solet<sup>4</sup>.",
+    "Dīē quōdam, vīcīnus eī dīcit: «Amīce, precor! Nōlī nocte calceōs tam vehementer prōjicere<sup>5</sup>, fragor in cubiculō meō audītur, itaque ē somnō expergīscor.»",
+    "Dā veniam, respondet Jōhannēs, calceōs jam nōn prōjiciam<sup>6</sup>.",
+    "Nocte sequentī, Jōhannēs cubitum it, vestem dēpōnit, calceum priōrem in pavīmentum prōjicit, et tunc, ō horror, subitō vīcīnī meminit...",
+    "Sed quid faciat<sup>7</sup>? Calceum alterum in pavīmentō lēniter cautēque pōnit, ... et in somnum lābitur.",
+    "Posterō diē, vīcīnum videt eīque dīcit: «Mēliusne hāc nocte dormīstī?»",
+    "Tunc respondet vīcīnus: «Pessimē etiam dormiī: ūnum calceum cadentem audīvī... et alterum tōtā nocte exspectāvī!»"
+  ],
+  "latinAccented": [
+    "Jūlī! Abī cúbitum!",
+    "Mamma, precor! Nōlō<sup>1</sup> cúbitum īre: somnus mē nōn urget.",
+    "Māter Jū́lium per gradūs usque ad cubículum trahit.",
+    "Sī puer bonus eris, crās tibi crústulum dabō<sup>2</sup>.",
+    "Jū́lius puer bonus est: vestem dēpṓnit et lectum petit; sub línteō lōdīcibúsque mérgitur, et in somnum lā́bitur<sup>3</sup>.",
+    "Jōhánnēs, cum it cúbitum, cálceōs in pavīméntum veheménter prōjícere solet<sup>4</sup>.",
+    "Dīē quōdam, vīcī́nus eī dīcit: «Amī́ce, precor! Nōlī nocte cálceōs tam veheménter prōjícere<sup>5</sup>, fragor in cubículō meō audī́tur, ítaque ē somnō expergī́scor.»",
+    "Dā véniam, respóndet Jōhánnēs, cálceōs jam nōn prōjíciam<sup>6</sup>.",
+    "Nocte sequéntī, Jōhánnēs cúbitum it, vestem dēpṓnit, cálceum priṓrem in pavīméntum prṓjicit, et tunc, ō horror, súbitō vīcī́nī méminit...",
+    "Sed quid fáciat<sup>7</sup>? Cálceum álterum in pavīméntō lḗniter cautḗque pōnit, ... et in somnum lā́bitur.",
+    "Pósterō diē, vīcī́num videt eī́que dīcit: «Mēliúsne hāc nocte dormī́stī?»",
+    "Tunc respóndet vīcī́nus: «Péssimē étiam dórmiī: ūnum cálceum cadéntem audī́vī... et álterum tōtā nocte exspectā́vī!»"
   ],
   "english": [
     "Julius, go (go away) to bed (to lie down)!",
@@ -50,13 +65,22 @@
   },
   "exercises": {
     "latin": [
-      "Volo te cubitum abire.",
-      "Non vult me calceos in pavimentum projicere.",
-      "Vis Julium in lecto dormire.",
-      "Marius vult nos januam pede urgere.",
-      "Quo calceus projicitur? — Calceus in pavimentum projicitur.",
-      "Ubi est Julius? — Julius est in lecto.",
-      "Calcei de tabulato quadragesimo quinto projiciuntur."
+      "Volō tē cubitum abīre.",
+      "Nōn vult mē calceōs in pavīmentum prōjicere.",
+      "Vīs Jūlium in lectō dormīre.",
+      "Marius vult nōs jānuam pede urgēre.",
+      "Quō calceus prōjicitur? — Calceus in pavīmentum prōjicitur.",
+      "Ubi est Jūlius? — Jūlius est in lectō.",
+      "Calceī dē tabulātō quadrāgēsimō quīntō prōjiciuntur."
+    ],
+    "latinAccented": [
+      "Volō tē cúbitum abī́re.",
+      "Nōn vult mē cálceōs in pavīméntum prōjícere.",
+      "Vīs Jū́lium in lectō dormī́re.",
+      "Márius vult nōs jā́nuam pede urgḗre.",
+      "Quō cálceus prōjícitur? — Cálceus in pavīméntum prōjícitur.",
+      "Ubi est Jū́lius? — Jū́lius est in lectō.",
+      "Cálceī dē tabulā́tō quadrāgḗsimō quīntō prōjiciúntur."
     ],
     "english": [
       "I want you to go (go away) to bed (to lie down).",

@@ -3,22 +3,35 @@
     "lesson": 38,
     "title": "Lectio tricesima octava",
     "subtitle": {
-      "latin": "In tramine (concluditur)",
+      "latin": "In tramīne (conclūditur)",
+      "latinAccented": "In tramī́ne (conclū́ditur)",
       "english": "On the train (conclusion)"
     },
     "revision": false
   },
   "latin": [
-    "Visne hispanicam<sup>1</sup>, Domne?",
-    "Gratias tibi! Fumariolum<sup>2</sup> jam implevi<sup>3</sup>. Habesne ignem<sup>4</sup>?",
-    "Nolite fumum facere, inquit domna cum cane parvulo, fumi me taedet<sup>5</sup>.",
-    "Doleo, optima domna, sed hoc est loculamentum fumatorium, ergo nobis tabaco frui<sup>6</sup> licet, respondet domnus, fumariolum tranquille accendens<sup>7</sup>.",
-    "Impudens es leno<sup>8</sup>! Haec verba proferens<sup>9</sup> domna fumariolum arripit idque per fenestram projicit<sup>10</sup>.",
-    "Malo tacere quid sis, optima domna! Haec verba proferens domnus canem parvulum arripit<sup>11</sup>, eumque per fenestram projicit...",
-    "Silentium sepulcrale sequitur... auditur tandem frenorum strepitus. Tramen in statione quadam consistit.",
-    "Tunc, res mirabilis, in crepidine stationis apparet canis parvulus anhelans<sup>12</sup> atque dentibus<sup>13</sup> tenens ... quid enim tenere possit?",
-    "Hem... fumariolum, responderim!",
-    "Minime! Erravisti! Dentibus tenet ... partem glaciei quae in thermopolio lectionis tricesimae sextae deerat!"
+    "Vīsne hispānicam<sup>1</sup>, Domne?",
+    "Grātiās tibi! Fūmāriolum<sup>2</sup> jam implēvī<sup>3</sup>. Habēsne ignem<sup>4</sup>?",
+    "Nōlīte fūmum facere, inquit domna cum cane parvulō, fūmī mē taedet<sup>5</sup>.",
+    "Doleō, optima domna, sed hoc est loculāmentum fumātōrium, ergō nōbīs tabācō fruī<sup>6</sup> licet, respondet domnus, fūmāriolum tranquillē accendēns<sup>7</sup>.",
+    "Impudēns es lēnō<sup>8</sup>! Haec verba prōferēns<sup>9</sup> domna fūmāriolūm arripit idque per fenestram prōjicit<sup>10</sup>.",
+    "Mālō tacēre quid sīs, optima domna! Haec verba prōferēns domnus canem parvulum arripit<sup>11</sup>, eumque per fenestram prōjicit...",
+    "Silentium sepulcrāle sequitur... audītur tandem frēnōrum strepitus. Trāmen in statiōne quādam cōnsistit.",
+    "Tunc, rēs mīrābilis, in crepīdine statiōnis appāret canis parvulus anhēlāns<sup>12</sup> atque dentibus<sup>13</sup> tenēns ... quid enim tenēre possit?",
+    "Hem... fūmāriolum, responderim!",
+    "Minimē! Errāvistī! Dentibus tenet ... partem glaciēī quae in thermopōliō lēctiōnis trīcēsimae sextae dēerat!"
+  ],
+  "latinAccented": [
+    "Vīsne hispā́nicam<sup>1</sup>, Domne?",
+    "Grā́tiās tibi! Fūmāríolum<sup>2</sup> jam implḗvī<sup>3</sup>. Habḗsne ignem<sup>4</sup>?",
+    "Nōlī́te fūmum fácere, inquit domna cum cane párvulō, fūmī mē taedet<sup>5</sup>.",
+    "Dóleō, óptima domna, sed hoc est loculāméntum fumātṓrium, ergō nōbīs tabā́cō fruī<sup>6</sup> licet, respóndet domnus, fūmāríolum tranquíllē accéndēns<sup>7</sup>.",
+    "Ímpudēns es lēnō<sup>8</sup>! Haec verba prṓferēns<sup>9</sup> domna fūmāríolūm árripit idque per fenéstram prṓjicit<sup>10</sup>.",
+    "Mālō tacḗre quid sīs, óptima domna! Haec verba prṓferēns domnus canem párvulum árripit<sup>11</sup>, eúmque per fenéstram prṓjicit...",
+    "Siléntium sepulcrā́le séquitur... audī́tur tandem frēnṓrum strépitus. Trāmen in statiṓne quādam cōnsístit.",
+    "Tunc, rēs mīrā́bilis, in crepī́dine statiṓnis appā́ret canis párvulus anhḗlāns<sup>12</sup> atque déntibus<sup>13</sup> tenēns ... quid enim tenḗre possit?",
+    "Hem... fūmāríolum, respónderim!",
+    "Mínimē! Errāvístī! Déntibus tenet ... partem glaciḗī quae in thermopṓliō lēctiṓnis trīcḗsimae sextae dḗerat!"
   ],
   "english": [
     "Do you want a cigarette, sir?",
@@ -56,15 +69,26 @@
   },
   "exercises": {
     "latin": [
-      "Quis (tabacea) volumina cupit? Mihi est capsa viginti quinque voluminum quam avia natalicio die meo mihi dono dedit.",
-      "Hispanicas malo. Tabacum ipse in papyro involvo.",
-      "Possumne tabacum in stationis thermopolio emere?",
-      "Ita, domne, sed adest quoque taberna in crepidine, ubi vendunt tabacum, acta diurna, chartulasque cursuales.",
-      "Hae chartulae mihi placent: duas emam.",
-      "Oportet scribam matri, fratrique meo.",
-      "Tertiaque emenda est. Certum facere debemus Jacobum amicum de adventu nostro.",
-      "Problema. — Locomotrix typi qui BB dicitur, quia bis binos axes habet, orientem petit. Ventus a septemtrione flat. Quorsum it fumus?",
-      "Responsum. — Nullus est fumus quia locomotrices BB electricae sunt."
+      "Quis (tabācea) volūmina cupit? Mihi est capsa vīgintī quīnque volūminum quam āvia nātāliciō diē meō mihi dōnō dedit.",
+      "Hispānicās mālō. Tabacum ipse in papȳrō involvō.",
+      "Possumne tabacum in statiōnis thermopōliō emere?",
+      "Ita, domne, sed adest quoque taberna in crepīdine, ubi vēndunt tabacum, ācta diurna, chartulāsque cursuālēs.",
+      "Hae chartulae mihi placent: duās emam.",
+      "Oportet scrībam mātrī, frātrīque meō.",
+      "Tertiaque emenda est. Certum facere dēbēmus Jacobum amīcum dē adventū nostrō.",
+      "Problēma. — Locomotrix typī quī BB dīcitur, quia bis bīnōs axēs habet, orientem petit. Ventus ā septemtriōne flat. Quōrsum it fūmus?",
+      "Respōnsum. — Nūllus est fūmus quia locomotrīcēs BB electricae sunt."
+    ],
+    "latinAccented": [
+      "Quis (tabā́cea) volū́mina cupit? Mihi est capsa vīgíntī quīnque volū́minum quam ā́via nātālíciō diē meō mihi dōnō dedit.",
+      "Hispā́nicās mālō. Tábacum ipse in papȳ́rō invólvō.",
+      "Possúmne tábacum in statiṓnis thermopṓliō émere?",
+      "Ita, domne, sed adest quoque tabérna in crepī́dine, ubi vēndunt tábacum, ācta diúrna, chartulā́sque cursuā́lēs.",
+      "Hae chártulae mihi placent: duās emam.",
+      "Opórtet scrībam mātrī, frātrī́que meō.",
+      "Tertiáque eménda est. Certum fácere dēbḗmus Jácobum amī́cum dē advéntū nostrō.",
+      "Problḗma. — Locómotrix typī quī BB dī́citur, quia bis bīnōs axēs habet, oriéntem petit. Ventus ā septemtriṓne flat. Quōrsum it fūmus?",
+      "Respṓnsum. — Nūllus est fūmus quia locomotrī́cēs BB eléctricae sunt."
     ],
     "english": [
       "Who wishes for cigars? I have a box of twenty-five cigars that my grandmother gave me as a gift on my birthday.",

@@ -3,27 +3,45 @@
     "lesson": 9,
     "title": "Lectio nona",
     "subtitle": {
-      "latin": "Sarcinas collocamus<sup>1</sup>",
+      "latin": "Sarcinās collocāmus<sup>1</sup>",
+      "latinAccented": "Sárcinās collocā́mus<sup>1</sup>",
       "english": "We load the luggage"
     },
     "revision": false
   },
   "latin": [
-    "Hodie eximus<sup>2</sup> peregrinatum.",
-    "Difficile est sarcinas in raeda collocare.",
-    "Uxor enim multas arcas<sup>3</sup> vestibus suis implet.",
-    "Mihi tantum bulgam unam parvam relinquit.",
-    "Arcae magnae et bulga parva in raeda tandem collocatae sunt.",
-    "Abimus. Equi duo raedam velocem trahunt.",
-    "Inter raedas et currus, equos meos firma manu rego.",
-    "Equus parvus plaustrum magnum trahit, et tarde progreditur.",
-    "Equum plaustrumque<sup>4</sup> facile antecedo<sup>5</sup>.",
-    "Plaustrum magnum tarde trahitur et a me facile anteceditur.",
-    "Vehiculum velox vehicula tarda antecedit.",
-    "Aspicio arcam, equum, vehiculum.",
+    "Hodiē exīmus<sup>2</sup> peregrīnātum.",
+    "Difficile est sarcinās in raedā collocāre.",
+    "Uxor enim multās arcās<sup>3</sup> vestibus suīs implet.",
+    "Mihi tantum bulgam ūnam parvam relinquit.",
+    "Arcae magnae et bulgā parvā in raedā tandem collocātae sunt.",
+    "Abīmus. Equī duo raedam vēlōcem trahunt.",
+    "Inter raedās et currūs, equōs meōs firmā manū regō.",
+    "Equus parvus plaustrum magnum trahit, et tardē prōgredītur.",
+    "Equum plaustrumque<sup>4</sup> facile antecēdō<sup>5</sup>.",
+    "Plaustrum magnum tardē trahitur et ā mē facile antecēditur.",
+    "Vehiculum vēlōx vehicula tarda antecēdit.",
+    "Aspiciō arcam, equum, vehiculum.",
     "Aspicitur arca, equus, vehiculum.",
-    "Aspicimus arcas, equos, vehicula.",
-    "Aspiciuntur arcae, equi, vehicula."
+    "Aspicimus arcās, equōs, vehicula.",
+    "Aspiciuntur arcae, equī, vehicula."
+  ],
+  "latinAccented": [
+    "Hódiē exī́mus<sup>2</sup> peregrīnā́tum.",
+    "Diffícile est sárcinās in raedā collocā́re.",
+    "Uxor enim multās arcās<sup>3</sup> véstibus suīs implet.",
+    "Mihi tantum bulgam ūnam parvam relínquit.",
+    "Arcae magnae et bulgā parvā in raedā tandem collocā́tae sunt.",
+    "Abī́mus. Equī duo raedam vēlṓcem trahunt.",
+    "Inter raedās et currūs, equōs meōs firmā manū regō.",
+    "Equus parvus plaustrum magnum trahit, et tardē prōgredī́tur.",
+    "Equum plaustrúmque<sup>4</sup> fácile antecḗdō<sup>5</sup>.",
+    "Plaustrum magnum tardē tráhitur et ā mē fácile antecḗditur.",
+    "Vehículum vēlōx vehícula tarda antecḗdit.",
+    "Aspíciō arcam, equum, vehículum.",
+    "Aspícitur arca, equus, vehículum.",
+    "Aspícimus arcās, equōs, vehícula.",
+    "Aspiciúntur arcae, equī, vehícula."
   ],
   "english": [
     "Today we are leaving on a trip.",
@@ -57,13 +75,23 @@
   "exercises": {
     "latin": [
       "Ubi est equus?",
-      "In raeda est equus.",
-      "Quo eunt equi quattuor?",
-      "Ad theatrum eunt.",
-      "Currus velox raedam tardam antecedit.",
-      "Quid quaeris? Currum velocem quaero.",
-      "Lugdunum ire volo.",
-      "Uxor bulgas suas in raeda non collocat."
+      "In raedā est equus.",
+      "Quō eunt equī quattuor?",
+      "Ad theātrum eunt.",
+      "Currus vēlōx raedam tardam antecēdit.",
+      "Quid quaeris? Currum vēlōcem quaerō.",
+      "Lugdūnum īre volō.",
+      "Uxor bulgās suās in raedā nōn collocat."
+    ],
+    "latinAccented": [
+      "Ubi est equus?",
+      "In raedā est equus.",
+      "Quō eunt equī quáttuor?",
+      "Ad theā́trum eunt.",
+      "Currus vēlōx raedam tardam antecḗdit.",
+      "Quid quaeris? Currum vēlṓcem quaerō.",
+      "Lugdū́num īre volō.",
+      "Uxor bulgās suās in raedā nōn cóllocat."
     ],
     "english": [
       "Where is the horse?",

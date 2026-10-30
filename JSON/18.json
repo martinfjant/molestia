@@ -4,22 +4,36 @@
     "title": "Lectio duodevicesima",
     "subtitle": {
       "latin": "Quid interest inter...?",
+      "latinAccented": "Quid intérest inter...?",
       "english": "What is the difference between…?"
     },
     "revision": false
   },
   "latin": [
-    "Paulus. — Scisne<sup>1</sup> quid<sup>2</sup> intersit inter: birotam, sciurum, familiam?",
-    "Petrus. — Omnino nescio<sup>3</sup>! Invenire non possum.",
-    "Paulus. — Hoc tamen facile invenitur<sup>4</sup>: pone sciurum birotamque sub arbore et exspecta quid sit futurum<sup>5</sup>...",
-    "Petrus. — Non intellego! Quid dicere vis?",
-    "Paulus. — Qui primus ascendit in arborem, is est<sup>6</sup> sciurus!",
-    "Petrus. — Bene! Callidus es. Sed tantum dixisti quid interesset<sup>7</sup> inter sciurum et birotam. Quid autem de familia?",
-    "Paulus. — Familia valet! Tibi gratias ago!",
-    "Sciurus in arborem ascendit.",
-    "Simius de arbore descendit.",
-    "Sciuri in arbores ascendunt.",
-    "Simii de arboribus descendunt."
+    "Paulus. — Scīsne<sup>1</sup> quid<sup>2</sup> intersit inter: birotam, sciūrum, familiam?",
+    "Petrus. — Omnīnō nesciō<sup>3</sup>! Invenīre nōn possum.",
+    "Paulus. — Hoc tamen facile invenītur<sup>4</sup>: pōne sciūrum birotamque sub arbore et exspectā quid sit futūrum<sup>5</sup>...",
+    "Petrus. — Nōn intellegō! Quid dīcere vīs?",
+    "Paulus. — Quī prīmus ascendit in arborem, is est<sup>6</sup> sciūrus!",
+    "Petrus. — Bene! Callidus es. Sed tantum dīxistī quid interesset<sup>7</sup> inter sciūrum et birotam. Quid autem dē familiā?",
+    "Paulus. — Familia valet! Tibi grātiās agō!",
+    "Sciūrus in arborem ascendit.",
+    "Sīmius dē arbore dēscendit.",
+    "Sciūrī in arborēs ascendunt.",
+    "Sīmiī dē arboribus dēscendunt."
+  ],
+  "latinAccented": [
+    "Paulus. — Scīsne<sup>1</sup> quid<sup>2</sup> intérsit inter: bírotam, sciū́rum, famíliam?",
+    "Petrus. — Omnī́nō nésciō<sup>3</sup>! Invenī́re nōn possum.",
+    "Paulus. — Hoc tamen fácile invenī́tur<sup>4</sup>: pōne sciū́rum birotámque sub árbore et exspéctā quid sit futū́rum<sup>5</sup>...",
+    "Petrus. — Nōn intéllegō! Quid dī́cere vīs?",
+    "Paulus. — Quī prīmus ascéndit in árborem, is est<sup>6</sup> sciū́rus!",
+    "Petrus. — Bene! Cállidus es. Sed tantum dīxístī quid interésset<sup>7</sup> inter sciū́rum et bírotam. Quid autem dē famíliā?",
+    "Paulus. — Família valet! Tibi grā́tiās agō!",
+    "Sciū́rus in árborem ascéndit.",
+    "Sī́mius dē árbore dēscéndit.",
+    "Sciū́rī in árborēs ascéndunt.",
+    "Sī́miī dē arbóribus dēscéndunt."
   ],
   "english": [
     "Paul. — Do you know [what the difference is between] (what is in between): a bicycle, a squirrel [and] a family.",
@@ -58,16 +72,28 @@
   },
   "exercises": {
     "latin": [
-      "Quid de Victore? — Victor valet.",
-      "Quid de equis? — Valent.",
-      "Avia Victoris in arbores ascendit.",
-      "Quis descendit de tabulato altero?",
-      "Nemo descendit de tabulato tertio.",
-      "In nemore vicino, sciurus difficile invenitur.",
-      "Quod respondes, id non intellego.",
-      "Homo a simio originem ducit.",
-      "Quis hanc rem stupidam scripsit?",
-      "Diurnarius facile scribit."
+      "Quid dē Victōre? — Victor valet.",
+      "Quid dē equīs? — Valent.",
+      "Avia Victōris in arborēs ascendit.",
+      "Quis dēscendit dē tabulātō alterō?",
+      "Nēmō dēscendit dē tabulātō tertiō.",
+      "In nemore vīcīnō, sciūrus difficile invenītur.",
+      "Quod respondēs, id nōn intellegō.",
+      "Homō ā sīmiō orīginem dūcit.",
+      "Quis hanc rem stupidam scrīpsit?",
+      "Diurnārius facile scrībit."
+    ],
+    "latinAccented": [
+      "Quid dē Victṓre? — Victor valet.",
+      "Quid dē equīs? — Valent.",
+      "Ávia Victṓris in árborēs ascéndit.",
+      "Quis dēscéndit dē tabulā́tō álterō?",
+      "Nēmō dēscéndit dē tabulā́tō tértiō.",
+      "In némore vīcī́nō, sciū́rus diffícile invenī́tur.",
+      "Quod respóndēs, id nōn intéllegō.",
+      "Homō ā sī́miō orī́ginem dūcit.",
+      "Quis hanc rem stúpidam scrīpsit?",
+      "Diurnā́rius fácile scrībit."
     ],
     "english": [
       "How’s Victor doing (What about Victor)? — Victor is well.",

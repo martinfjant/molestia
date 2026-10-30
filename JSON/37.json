@@ -3,22 +3,35 @@
     "lesson": 37,
     "title": "Lectio tricesima septima",
     "subtitle": {
-      "latin": "In tramine (sequitur)",
+      "latin": "In tramīne (sequitur)",
+      "latinAccented": "In tramī́ne (séquitur)",
       "english": "On the train (continued)"
     },
     "revision": false
   },
   "latin": [
-    "Apud quam crepidinem<sup>1</sup> consistit tramen?",
-    "Apud crepidinem alteram, via tertia. Classis prior in parte anteriore agminis<sup>2</sup>, altera in posteriore.",
-    "Bajule<sup>3</sup>, affer<sup>4</sup> arcam meam mihique sedem classis prioris inveni<sup>5</sup>.",
-    "Vectores qui petunt Telonem, Forum Julii, Antipolim, Nicaeam, Albintimiliam, Genuam, Romam, in currus<sup>6</sup> conscendant! Valvas rogo claudite! In profectionem<sup>7</sup> intendite.",
-    "Ecce loculamentum vacuum. In rete<sup>8</sup> sarcinas ponamus.",
-    "Noli id facere! Hoc loculamentum tabacum non admittit. Ultro progrediamur<sup>9</sup>.",
-    "Vacantne sedes<sup>10</sup> illae? Duae tantum sedes prope fenestram, a domno, domnaque jam matura aetate<sup>11</sup>, occupatae sunt.",
-    "Domna canem parvulum in genibus<sup>12</sup> tenet. Eum sicut puerum alloquitur.",
-    "Domnus oculo obliquo canem spectat. Fortasse canes parvulos non amat.",
-    "Tramen summa velocitate, strepens et fumans, iter<sup>13</sup> prosequitur..."
+    "Apud quam crepīdinem<sup>1</sup> cōnsistit trāmen?",
+    "Apud crepīdinem alteram, via tertia. Classis prior in parte anteriōre agminis<sup>2</sup>, altera in posteriōre.",
+    "Bājule<sup>3</sup>, affer<sup>4</sup> arcam meam mihique sēdem classis priōris invēnī<sup>5</sup>.",
+    "Vectōrēs quī petunt Telōnem, Forum Jūliī, Antipolim, Nīcaeam, Albintimiliam, Genuam, Rōmam, in currūs<sup>6</sup> cōnscendant! Valvās rogō claudite! In profectiōnem<sup>7</sup> intendite.",
+    "Ecce loculāmentum vacuum. In rēte<sup>8</sup> sarcinās pōnāmus.",
+    "Nōlī id facere! Hoc loculāmentum tabacum nōn admittit. Ultrō prōgrediāmur<sup>9</sup>.",
+    "Vacantne sēdēs<sup>10</sup> illae? Duae tantum sēdēs prope fenestram, ā domnō, domnāque jam mātūrā aetāte<sup>11</sup>, occupātae sunt.",
+    "Domna canem parvulum in genibus<sup>12</sup> tenet. Ēum sīcut puerum alloquitur.",
+    "Domnus oculō oblīquō canem spectat. Fortasse canēs parvulōs nōn amat.",
+    "Trāmen summā vēlōcitāte, strepēns et fūmāns, iter<sup>13</sup> prōsequitur..."
+  ],
+  "latinAccented": [
+    "Apud quam crepī́dinem<sup>1</sup> cōnsístit trāmen?",
+    "Apud crepī́dinem álteram, via tértia. Classis prior in parte anteriṓre ágminis<sup>2</sup>, áltera in posteriṓre.",
+    "Bā́jule<sup>3</sup>, affer<sup>4</sup> arcam meam mihíque sēdem classis priṓris invḗnī<sup>5</sup>.",
+    "Vectṓrēs quī petunt Telṓnem, Forum Jū́liī, Antípolim, Nīcáeam, Albintimíliam, Génuam, Rōmam, in currūs<sup>6</sup> cōnscéndant! Valvās rogō cláudite! In profectiṓnem<sup>7</sup> inténdite.",
+    "Ecce loculāméntum vácuum. In rēte<sup>8</sup> sárcinās pōnā́mus.",
+    "Nōlī id fácere! Hoc loculāméntum tábacum nōn admíttit. Ultrō prōgrediā́mur<sup>9</sup>.",
+    "Vacántne sēdēs<sup>10</sup> illae? Duae tantum sēdēs prope fenéstram, ā domnō, domnā́que jam mātū́rā aetā́te<sup>11</sup>, occupā́tae sunt.",
+    "Domna canem párvulum in génibus<sup>12</sup> tenet. Ēum sīcut púerum allóquitur.",
+    "Domnus óculō oblī́quō canem spectat. Fortásse canēs párvulōs nōn amat.",
+    "Trāmen summā vēlōcitā́te, strepēns et fūmāns, iter<sup>13</sup> prōséquitur..."
   ],
   "english": [
     "At what platform does the train stop?",
@@ -57,15 +70,26 @@
   },
   "exercises": {
     "latin": [
-      "Tramine Augustam Vindelicorum petimus.",
-      "Londinium autoraeda ire non potes.",
-      "Cur? — Quia Anglia a Gallia mari separata est.",
-      "Causa non est sufficiens: sunt naves in quas raedae accipiuntur.",
-      "Immo, ferriviariis navibus tramina quoque transferuntur.",
-      "Quid agit caupo in thermopolio? — Exspectat bajulum qui glaciem affert.",
-      "Ubi est glaciei pars cujus bajulus oblitus est?",
-      "Fortasse de plaustro elapsa est.",
-      "Quidquid id est, res nostra non est."
+      "Tramīne Augustam Vindelicōrum petimus.",
+      "Londīnium autoraeda īre nōn potes.",
+      "Cūr? — Quia Anglia ā Galliā marī sēparāta est.",
+      "Causa nōn est sufficiēns: sunt nāvēs in quās raedae accipiuntur.",
+      "Immō, ferriviāriīs nāvibus trāminā quoque trānsferuntur.",
+      "Quid agit caupō in thermopōliō? — Exspectat bajulum quī glaciem affert.",
+      "Ubi est glaciēī pars cujus bajulus oblītus est?",
+      "Fortasse dē plaustrō ēlāpsa est.",
+      "Quidquid id est, rēs nostra nōn est."
+    ],
+    "latinAccented": [
+      "Tramī́ne Augústam Vindelicṓrum pétimus.",
+      "Londī́nium autoráeda īre nōn potes.",
+      "Cūr? — Quia Ánglia ā Gálliā marī sēparā́ta est.",
+      "Causa nōn est suffíciēns: sunt nāvēs in quās raedae accipiúntur.",
+      "Immō, ferriviā́riīs nā́vibus trā́minā quoque trānsferúntur.",
+      "Quid agit caupō in thermopṓliō? — Exspéctat bájulum quī gláciem affert.",
+      "Ubi est glaciḗī pars cujus bájulus oblī́tus est?",
+      "Fortásse dē plaustrō ēlā́psa est.",
+      "Quidquid id est, rēs nostra nōn est."
     ],
     "english": [
       "We are going to Augsburg by train.",

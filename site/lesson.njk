@@ -8,43 +8,31 @@ permalink: "/lectio/{{ lesson.meta.lesson }}/"
 eleventyComputed:
   title: "{{ lesson.meta.title }}"
 ---
-{%- macro sentences(lesson, lang) -%}
-{%- for seg in lesson | segments(lang) %}
-  {%- if seg.items %}
-<ol start="{{ seg.start }}">
-    {%- for s in seg.items %}
-  <li>{{ s | safe }}</li>
-    {%- endfor %}
-</ol>
-  {%- endif %}
-  {%- if seg.source %}
-<p><cite>{{ seg.source | safe }}</cite></p>
-  {%- endif %}
-  {%- if seg.heading %}
-<h3>{{ seg.heading | safe }}</h3>
-  {%- endif %}
-{%- endfor %}
+{#- One Latin/English pair: two grid items that land in the same row. -#}
+{%- macro row(r) -%}
+{%- if r.kind == "heading" %}
+<h3 lang="la">{{ r.la.text | la(r.la.accented) | safe }}</h3>
+<h3 lang="en">{{ r.en | safe }}</h3>
+{%- elif r.kind == "source" %}
+<p lang="la"><cite>{{ r.la.text | la(r.la.accented) | safe }}</cite></p>
+<p lang="en"><cite>{{ r.en | safe }}</cite></p>
+{%- else %}
+<p lang="la" class="sentence" data-n="{{ r.n }}"><span>{{ r.la.text | la(r.la.accented) | safe }}</span></p>
+<p lang="en" class="sentence" data-n="{{ r.n }}"><span>{{ r.en | safe }}</span></p>
+{%- endif %}
 {%- endmacro -%}
 
 <article>
 <h1>{{ lesson.meta.title }}</h1>
+
+{%- if lesson.latin.length or lesson.english.length %}
+<div class="parallel">
 {%- if lesson.meta.subtitle.latin or lesson.meta.subtitle.english %}
-<h2 lang="la">{{ lesson.meta.subtitle.latin | safe }}</h2>
+<h2 lang="la">{{ lesson.meta.subtitle.latin | la(lesson.meta.subtitle.latinAccented) | safe }}</h2>
+<h2 lang="en">{{ lesson.meta.subtitle.english | safe }}</h2>
 {%- endif %}
-
-{%- if lesson.latin.length %}
-<section lang="la">
-{{ sentences(lesson, "latin") }}
-</section>
-{%- endif %}
-
-{%- if lesson.english.length %}
-<section lang="en">
-{%- if lesson.meta.subtitle.english %}
-<h2>{{ lesson.meta.subtitle.english | safe }}</h2>
-{%- endif %}
-{{ sentences(lesson, "english") }}
-</section>
+{%- for r in lesson | rows({ headings: lesson.headings, sources: lesson.sources }) %}{{ row(r) }}{% endfor %}
+</div>
 {%- endif %}
 
 {%- if lesson.notes.footnotes.length or lesson.notes.comments.length %}
@@ -66,8 +54,10 @@ eleventyComputed:
 {%- if lesson.song %}
 <section>
 <h2>{{ lesson.song.kind }}</h2>
-{%- if lesson.song.title.latin %}<h3 lang="la">{{ lesson.song.title.latin }}</h3>{% endif %}
-<p lang="la">{{ lesson.song.latin | join("<br>") | safe }}</p>
+{%- if lesson.song.title.latin %}<h3 lang="la">{{ lesson.song.title.latin | la(lesson.song.title.latinAccented) | safe }}</h3>{% endif %}
+<p lang="la">
+  {%- for line in lesson.song.latin %}{{ line | la(lesson.song.latinAccented[loop.index0]) | safe }}{% if not loop.last %}<br>{% endif %}{% endfor -%}
+</p>
 {%- if lesson.song.title.english %}<h3 lang="en">{{ lesson.song.title.english }}</h3>{% endif %}
 <p lang="en">{{ lesson.song.english | join("<br>") | safe }}</p>
 {%- if lesson.song.source %}<p><cite>{{ lesson.song.source }}</cite></p>{% endif %}
@@ -77,16 +67,9 @@ eleventyComputed:
 {%- if lesson.exercises.latin.length %}
 <section>
 <h2 lang="la">Exercitatio</h2>
-<ol lang="la">
-  {%- for s in lesson.exercises.latin %}
-  <li>{{ s | safe }}</li>
-  {%- endfor %}
-</ol>
-<ol lang="en">
-  {%- for s in lesson.exercises.english %}
-  <li>{{ s | safe }}</li>
-  {%- endfor %}
-</ol>
+<div class="parallel">
+{%- for r in lesson.exercises | rows %}{{ row(r) }}{% endfor %}
+</div>
 {%- if lesson.exercises.footnotes.length %}
 <ol>
   {%- for note in lesson.exercises.footnotes %}

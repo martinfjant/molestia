@@ -3,23 +3,37 @@
     "lesson": 23,
     "title": "Lectio vicesima tertia",
     "subtitle": {
-      "latin": "Tibi opto bonum visum",
+      "latin": "Tibi optō bonum vīsum",
+      "latinAccented": "Tibi optō bonum vīsum",
       "english": "I wish you good eyesight"
     },
     "revision": false
   },
   "latin": [
-    "Operarius quidam in fabrica lignaria<sup>1</sup> opus suum faciebat.",
-    "Ita inscitus<sup>2</sup> is erat ut quodam die sibi nasum serra mechanica<sup>3</sup> stupide secuerit<sup>4</sup>.",
-    "A medico<sup>5</sup> curatus, domo<sup>6</sup> tamen exire nolebat: sine naso se ridiculum videri arbitrabatur<sup>7</sup>.",
-    "Amicus bonus nocte domum ejus advenit, eique dixit:",
-    "Veni mecum! Una ambulabimus<sup>8</sup>. Te aërem purum respirare oportet. Nocte nemo deformitatem tuam videre poterit.",
-    "Post<sup>9</sup> ambulationem, amicus amico dixit<sup>10</sup>:",
-    "Tibi opto<sup>11</sup> bonam noctem, bonam valetudinem, bonum visum!",
-    "Alter respondit: — Propter<sup>12</sup> bonam noctem bonamque valetudinem tibi gratias ago. Sed cur mihi bonum optes<sup>13</sup> visum non intellego.",
-    "Tunc amicus: — Si bonum visum perdas et, exempli gratia, myops fias, quonam ocularia imponas<sup>14</sup>?",
-    "Seco, secas, secat, secant, secare.",
-    "Secui, secuisti, secuit, secuerunt, secuisse; secuerim, secueris, sectus, secta, sectum."
+    "Operārius quīdam in fabricā lignāriā<sup>1</sup> opus suum faciēbat.",
+    "Ita īnscītus<sup>2</sup> is erat ut quōdam diē sibi nāsum serrā mēchanicā<sup>3</sup> stupidē secuerit<sup>4</sup>.",
+    "Ā medicō<sup>5</sup> cūrātus, domō<sup>6</sup> tamen exīre nōlēbat: sine nāsō sē rīdiculum vidērī arbitrābātur<sup>7</sup>.",
+    "Amīcus bonus nocte domum ejus advēnit, eīque dīxit:",
+    "Vēnī mēcum! Ūna ambulābimus<sup>8</sup>. Tē āërem pūrum respīrāre oportet. Nocte nēmō dēfōrmitātem tuam vidēre poterit.",
+    "Post<sup>9</sup> ambulātiōnem, amīcus amīcō dīxit<sup>10</sup>:",
+    "Tibi optō<sup>11</sup> bonam noctem, bonam valētūdinem, bonum vīsum!",
+    "Alter respondit: — Propter<sup>12</sup> bonam noctem bonamque valētūdinem tibi grātiās agō. Sed cūr mihi bonum optēs<sup>13</sup> vīsum nōn intellegō.",
+    "Tunc amīcus: — Sī bonum vīsum perdās et, exemplī grātia, myops fīās, quōnam oculāria impōnās<sup>14</sup>?",
+    "Secō, secās, secat, secant, secāre.",
+    "Secuī, secuistī, secuit, secuērunt, secuisse; secuerim, secuerīs, sectus, secta, sectum."
+  ],
+  "latinAccented": [
+    "Operā́rius quīdam in fábricā lignā́riā<sup>1</sup> opus suum faciḗbat.",
+    "Ita īnscī́tus<sup>2</sup> is erat ut quōdam diē sibi nāsum serrā mēchánicā<sup>3</sup> stúpidē secúerit<sup>4</sup>.",
+    "Ā médicō<sup>5</sup> cūrā́tus, domō<sup>6</sup> tamen exī́re nōlḗbat: sine nāsō sē rīdículum vidḗrī arbitrābā́tur<sup>7</sup>.",
+    "Amī́cus bonus nocte domum ejus advḗnit, eī́que dīxit:",
+    "Vēnī mēcum! Ūna ambulā́bimus<sup>8</sup>. Tē āërem pūrum respīrā́re opórtet. Nocte nēmō dēfōrmitā́tem tuam vidḗre póterit.",
+    "Post<sup>9</sup> ambulātiṓnem, amī́cus amī́cō dīxit<sup>10</sup>:",
+    "Tibi optō<sup>11</sup> bonam noctem, bonam valētū́dinem, bonum vīsum!",
+    "Alter respóndit: — Propter<sup>12</sup> bonam noctem bonámque valētū́dinem tibi grā́tiās agō. Sed cūr mihi bonum optēs<sup>13</sup> vīsum nōn intéllegō.",
+    "Tunc amī́cus: — Sī bonum vīsum perdās et, exémplī grā́tia, myops fīās, quōnam oculā́ria impṓnās<sup>14</sup>?",
+    "Secō, secās, secat, secant, secā́re.",
+    "Sécuī, secuístī, sécuit, secuḗrunt, secuísse; secúerim, secúerīs, sectus, secta, sectum."
   ],
   "english": [
     "A certain worker was doing his job (work) in a carpenter’s (wood-related) workshop.",
@@ -55,14 +69,24 @@
   },
   "exercises": {
     "latin": [
-      "Julius bonus erat, itaque mater ei crustulum dedit.",
-      "Julius ita bonus erat ut mater ei crustulum dederit.",
-      "Operarius serram mechanicam inscite ducebat, itaque nasus ejus sectus est.",
-      "Serra nasum illius secuit.",
-      "Marius in domum suam nos invitavit, sed inscriptionem scribere neglexit.",
-      "Unde venis? — Lutetia venio, de vico latino.",
-      "Quo vadis? — Id tibi jam in lectione octava dixi: Romam vado.",
-      "Cur nobiscum non venias?"
+      "Jūlius bonus erat, itaque māter eī crustulum dedit.",
+      "Jūlius ita bonus erat ut māter eī crustulum dederit.",
+      "Operārius serram mēchanicam īnscītē dūcēbat, itaque nāsus ejus sectus est.",
+      "Serra nāsum illīus secuit.",
+      "Marius in domum suam nōs invītāvit, sed īnscrīptiōnem scrībere neglēxit.",
+      "Unde venīs? — Lutetiā veniō, dē vīcō latīnō.",
+      "Quō vadīs? — Id tibi jam in lēctiōne octāvā dīxī: Rōmam vādō.",
+      "Cūr nōbīscum nōn veniās?"
+    ],
+    "latinAccented": [
+      "Jū́lius bonus erat, ítaque māter eī crústulum dedit.",
+      "Jū́lius ita bonus erat ut māter eī crústulum déderit.",
+      "Operā́rius serram mēchánicam īnscī́tē dūcḗbat, ítaque nāsus ejus sectus est.",
+      "Serra nāsum illī́us sécuit.",
+      "Márius in domum suam nōs invītā́vit, sed īnscrīptiṓnem scrī́bere neglḗxit.",
+      "Unde venīs? — Lutétiā véniō, dē vīcō latī́nō.",
+      "Quō vadīs? — Id tibi jam in lēctiṓne octā́vā dīxī: Rōmam vādō.",
+      "Cūr nōbī́scum nōn véniās?"
     ],
     "english": [
       "Julius was (was being) good, and so his mother gave him a pastry.",

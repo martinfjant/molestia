@@ -3,24 +3,39 @@
     "lesson": 11,
     "title": "Lectio undecima",
     "subtitle": {
-      "latin": "Quota hora est?",
+      "latin": "Quota hōra est?",
+      "latinAccented": "Quota hōra est?",
       "english": "What time is it?"
     },
     "revision": false
   },
   "latin": [
-    "Quota<sup>1</sup> hora est?",
-    "Dimidia hora est...",
-    "Non intellego! Cujus horae dimidia est?",
-    "Nescio! Tantum scio dimidiam esse: acus minor horologio meo deest.",
-    "Quando Lutetiam reliquisti?",
-    "Heri sexta<sup>2</sup> hora et dimidia Lutetiam reliqui<sup>3</sup>.",
-    "Lugdunum hodie tertia hora postmeridiana<sup>4</sup> relinquo.",
-    "In hanc urbem adveni decima hora et quinta decima minuta, id est decima hora et quadrante<sup>5</sup>.",
-    "Manes Lugduni quattuor horas et quadraginta quinque minutas.",
-    "Nobis est otium: visne<sup>6</sup> mecum<sup>7</sup> prandere? Ecce popina!",
-    "Optime! Valde esurio; popinam adeamus<sup>8</sup>!",
-    "Relinquo, relinquis, relinquit, relinquimus, relinquitis, relinquunt, relinquere. Reliqui, reliquisti, reliquit, reliquimus, reliquistis, reliquerunt, reliquisse."
+    "Quota<sup>1</sup> hōra est?",
+    "Dīmidia hōra est...",
+    "Nōn intellegō! Cujus hōrae dīmidia est?",
+    "Nesciō! Tantum sciō dīmidiam esse: acus minor hōrologiō meō deest.",
+    "Quandō Lutetiam relīquistī?",
+    "Heri sextā<sup>2</sup> hōrā et dīmidiā Lutetiam relīquī<sup>3</sup>.",
+    "Lugdūnum hodiē tertia hōrā postmerīdiānā<sup>4</sup> relinquō.",
+    "In hanc urbem advēnī decima hōra et quīnta decima minūta, id est decima hōra et quadrante<sup>5</sup>.",
+    "Mānēs Lugdūnī quattuor hōrās et quadrāgintā quīnque minūtās.",
+    "Nōbīs est ōtium: vīsne<sup>6</sup> mēcum<sup>7</sup> prandēre? Ecce popīna!",
+    "Optimē! Valdē ēsuriō; popīnam adeāmus<sup>8</sup>!",
+    "Relinquō, relinquis, relinquit, relinquimus, relinquitis, relinquunt, relinquere. Reliquī, relīquistī, relīquit, relīquimus, relīquistis, relīquērunt, relīquisse."
+  ],
+  "latinAccented": [
+    "Quota<sup>1</sup> hōra est?",
+    "Dīmídia hōra est...",
+    "Nōn intéllegō! Cujus hōrae dīmídia est?",
+    "Nésciō! Tantum sciō dīmídiam esse: acus minor hōrológiō meō deest.",
+    "Quandō Lutétiam relīquístī?",
+    "Heri sextā<sup>2</sup> hōrā et dīmídiā Lutétiam relī́quī<sup>3</sup>.",
+    "Lugdū́num hódiē tértia hōrā postmerīdiā́nā<sup>4</sup> relínquō.",
+    "In hanc urbem advḗnī décima hōra et quīnta décima minū́ta, id est décima hōra et quadránte<sup>5</sup>.",
+    "Mānēs Lugdū́nī quáttuor hōrās et quadrāgíntā quīnque minū́tās.",
+    "Nōbīs est ṓtium: vīsne<sup>6</sup> mēcum<sup>7</sup> prandḗre? Ecce popī́na!",
+    "Óptimē! Valdē ēsúriō; popī́nam adeā́mus<sup>8</sup>!",
+    "Relínquō, relínquis, relínquit, relínquimus, relínquitis, relínquunt, relínquere. Réliquī, relīquístī, relī́quit, relī́quimus, relīquístis, relīquḗrunt, relīquísse."
   ],
   "english": [
     "What time is it (how-many-eth hour is)?",
@@ -53,13 +68,22 @@
   },
   "exercises": {
     "latin": [
-      "Navis oneraria sexta decima hora et quinquagesima minuta portum reliquit.",
-      "Si esuris, popinam adire possumus.",
-      "Mihi est otium: Lutetiam videre volo.",
-      "Quando popinam reliquisti?",
-      "Hora vicesima altera eam reliqui.",
-      "Multa vini pocula bibisti.",
-      "Minime, caffeum tantum bibi."
+      "Nāvīs onerāria sexta decima hōra et quīnquāgēsima minūta portum relīquit.",
+      "Sī ēsūrīs, popīnam adīre possumus.",
+      "Mihi est ōtium: Lutetiam vidēre volō.",
+      "Quandō popīnam relīquistī?",
+      "Hōra vīcēsima altera eam relīquī.",
+      "Multa vīnī pōcula bibistī.",
+      "Minimē, caffeum tantum bibī."
+    ],
+    "latinAccented": [
+      "Nāvīs onerā́ria sexta décima hōra et quīnquāgḗsima minū́ta portum relī́quit.",
+      "Sī ēsū́rīs, popī́nam adī́re póssumus.",
+      "Mihi est ṓtium: Lutétiam vidḗre volō.",
+      "Quandō popī́nam relīquístī?",
+      "Hōra vīcḗsima áltera eam relī́quī.",
+      "Multa vīnī pṓcula bibístī.",
+      "Mínimē, cáffeum tantum bibī."
     ],
     "english": [
       "The freighter left port at four fifty (16:50).",

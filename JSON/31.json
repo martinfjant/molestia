@@ -3,23 +3,37 @@
     "lesson": 31,
     "title": "Lectio tricesima prima",
     "subtitle": {
-      "latin": "Eo piscatum",
+      "latin": "Eō piscātum",
+      "latinAccented": "Eō piscā́tum",
       "english": "I am going fishing"
     },
     "revision": false
   },
   "latin": [
-    "Ave Maurici! Quid agis hodie?",
-    "Eo in stadium. Certamen est magni momenti<sup>1</sup>. Augustani Taurinenses<sup>2</sup> adversus Gratianopolitanos<sup>3</sup>. Quid de hoc arbitraris<sup>4</sup>?",
-    "Nihil! Praeterea tale certamen futurum esse<sup>5</sup> ignorabam. De quo ludo agitur?",
-    "Incredibile est! Nonne scis factiones<sup>6</sup> ambarum urbium<sup>7</sup> folle rotundo excellere? Anceps erit exitus<sup>8</sup>.",
-    "Nihil horum noveram<sup>9</sup>. Mihi non displicet ludum follis<sup>10</sup> rotundi vel ovalis aspicere. Sed de hujus certaminis exitu nihil augurari<sup>11</sup> possum.",
-    "Si certamen aspicere exitumque statim nosse cupis, veni mecum!",
-    "Gratias<sup>12</sup>! Impossibile est. Cum Stephano hodie piscatum ire debeo. Ei deesse non possum.",
-    "Otia placida mavis<sup>13</sup> quam athletica. Nonne verum est?",
-    "Minime! Tu per totum postmeridianum tempus sedebis<sup>14</sup>. Nos autem ad tructas captandas in montibus praeter torrentem decem passuum milia percurremus, et...",
-    "forte sine ullo pisce domum reveniemus.",
-    "Ne ab uxore increperis, hujus rei memento: piscariae in urbe nostra non desunt!"
+    "Avē Mauricī! Quid agis hodiē?",
+    "Eō in stadium. Certāmen est magnī mōmentī<sup>1</sup>. Augustānī Taurīnēnsēs<sup>2</sup> adversus Gratianopolītānōs<sup>3</sup>. Quid dē hōc arbitrāris<sup>4</sup>?",
+    "Nihil! Praetereā tāle certāmen futūrum esse<sup>5</sup> ignōrābam. Dē quō lūdō agitur?",
+    "Incrēdibile est! Nōnne scīs factiōnēs<sup>6</sup> ambārum urbium<sup>7</sup> folle rotundō excellere? Anceps erit exitus<sup>8</sup>.",
+    "Nihil hōrum nōveram<sup>9</sup>. Mihi nōn displicet lūdum follis<sup>10</sup> rotundī vel ovālīs aspicere. Sed dē hujus certāminis exitū nihil augurārī<sup>11</sup> possum.",
+    "Sī certāmen aspicere exitumque statim nōsse cupis, venī mēcum!",
+    "Grātiās<sup>12</sup>! Impossibile est. Cum Stephanō hodiē piscātum īre dēbeō. Ēī dēesse nōn possum.",
+    "Ōtia placida māvīs<sup>13</sup> quam āthlēticā. Nōnne vērum est?",
+    "Minimē! Tū per tōtum postmerīdiānum tempus sedēbis<sup>14</sup>. Nōs autem ad tructās captandās in montibus praeter torrentem decem passuum mīlia percurrēmus, et...",
+    "forte sine ūllō pisce domum revēniēmus.",
+    "Nē ab uxōre increpēris, hujus reī mementō: piscāriae in urbe nostrā nōn dēsunt!"
+  ],
+  "latinAccented": [
+    "Avē Máuricī! Quid agis hódiē?",
+    "Eō in stádium. Certā́men est magnī mōméntī<sup>1</sup>. Augustā́nī Taurīnḗnsēs<sup>2</sup> advérsus Gratianopolītā́nōs<sup>3</sup>. Quid dē hōc arbitrā́ris<sup>4</sup>?",
+    "Nihil! Praetéreā tāle certā́men futū́rum esse<sup>5</sup> ignōrā́bam. Dē quō lūdō ágitur?",
+    "Incrēdíbile est! Nōnne scīs factiṓnēs<sup>6</sup> ambā́rum úrbium<sup>7</sup> folle rotúndō excéllere? Anceps erit éxitus<sup>8</sup>.",
+    "Nihil hōrum nṓveram<sup>9</sup>. Mihi nōn dísplicet lūdum follis<sup>10</sup> rotúndī vel ovā́līs aspícere. Sed dē hujus certā́minis éxitū nihil augurā́rī<sup>11</sup> possum.",
+    "Sī certā́men aspícere exitúmque statim nōsse cupis, venī mēcum!",
+    "Grā́tiās<sup>12</sup>! Impossíbile est. Cum Stéphanō hódiē piscā́tum īre dḗbeō. Ēī dēésse nōn possum.",
+    "Ṓtia plácida māvīs<sup>13</sup> quam āthlḗticā. Nōnne vērum est?",
+    "Mínimē! Tū per tōtum postmerīdiā́num tempus sedḗbis<sup>14</sup>. Nōs autem ad tructās captándās in móntibus praeter torréntem decem pássuum mī́lia percurrḗmus, et...",
+    "forte sine ūllō pisce domum revēniḗmus.",
+    "Nē ab uxṓre increpḗris, hujus reī meméntō: piscā́riae in urbe nostrā nōn dēsunt!"
   ],
   "english": [
     "Hello (hail) Maurice! What are you doing today?",
@@ -60,15 +74,26 @@
   },
   "exercises": {
     "latin": [
-      "Quo vadis? — Eo piscatum.",
-      "Quid piscari optas?",
-      "Tructas piscari opto.",
-      "Piscaris in aquis dulcibus. Ego in mari piscari cupio.",
-      "Capisne sardinas? Num e navi piscaris?",
-      "Sardinae retibus captantur. Ad hoc efficiendum navis est necessaria.",
-      "Ego navem non habeo. Lineam de terra mitto. Pisces hamo capio.",
-      "Uxor pisces in piscaria emit: plane scit virum suum nihil capturum esse.",
-      "Tructa piscatu difficilis est, eadem tamen esu suavissima."
+      "Quō vadīs? — Eō piscātum.",
+      "Quid piscārī optās?",
+      "Tructās piscārī optō.",
+      "Piscārīs in aquīs dulcibus. Ego in marī piscārī cupiō.",
+      "Capisne sardinās? Num ē nāvī piscārīs?",
+      "Sardīnae rētibus captantur. Ad hōc efficiendum nāvis est necessāria.",
+      "Ego nāvem nōn habeō. Līneam dē terrā mittō. Piscēs hāmō capiō.",
+      "Uxor piscēs in piscāriā emit: plānē scit virum suum nihil captūrum esse.",
+      "Tructā piscātū difficilis est, eādem tamen ēsū suāvissima."
+    ],
+    "latinAccented": [
+      "Quō vadīs? — Eō piscā́tum.",
+      "Quid piscā́rī optās?",
+      "Tructās piscā́rī optō.",
+      "Piscā́rīs in aquīs dúlcibus. Ego in marī piscā́rī cúpiō.",
+      "Capísne sárdinās? Num ē nāvī piscā́rīs?",
+      "Sardī́nae rḗtibus captántur. Ad hōc efficiéndum nāvis est necessā́ria.",
+      "Ego nāvem nōn hábeō. Lī́neam dē terrā mittō. Piscēs hāmō cápiō.",
+      "Uxor piscēs in piscā́riā emit: plānē scit virum suum nihil captū́rum esse.",
+      "Tructā piscā́tū diffícilis est, eā́dem tamen ēsū suāvíssima."
     ],
     "english": [
       "Where (Whither) are you going? — I'm going fishing.",

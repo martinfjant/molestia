@@ -9,15 +9,26 @@
     "revision": false
   },
   "latin": [
-    "Latine loqueris?",
-    "Nondum latine loquor: haec mihi prima lectio est.",
-    "Cito latine loqueris.",
-    "Lingua latina difficilis est.",
-    "Minime! Lingua latina difficilis non est.",
-    "Recte dicis, sed Roma non uno die aedificata est.",
-    "Loquor, loqueris, loquitur, loqui.",
-    "Dicis, est, difficilis.",
-    "Latine, recte, lingua latina."
+    "Latīnē loqueris?",
+    "Nōndum latīnē loquor: haec mihi prīma lēctiō est.",
+    "Cito latīnē loquēris.",
+    "Lingua latīna difficilis est.",
+    "Minimē! Lingua latīna difficilis nōn est.",
+    "Rēctē dīcis, sed Rōma nōn ūnō diē aedificāta est.",
+    "Loquor, loqueris, loquitur, loquī.",
+    "Dīcis, est, difficilis.",
+    "Latīnē, rēctē, lingua latīna."
+  ],
+  "latinAccented": [
+    "Latī́nē lóqueris?",
+    "Nōndum latī́nē loquor: haec mihi prīma lḗctiō est.",
+    "Cito latī́nē loquḗris.",
+    "Lingua latī́na diffícilis est.",
+    "Mínimē! Lingua latī́na diffícilis nōn est.",
+    "Rēctē dīcis, sed Rōma nōn ūnō diē aedificā́ta est.",
+    "Loquor, lóqueris, lóquitur, loquī.",
+    "Dīcis, est, diffícilis.",
+    "Latī́nē, rēctē, lingua latī́na."
   ],
   "english": [
     "[Do you speak Latin?] (in-latin you-speak?)",

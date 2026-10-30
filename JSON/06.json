@@ -3,19 +3,29 @@
     "lesson": 6,
     "title": "Lectio sexta",
     "subtitle": {
-      "latin": "Victor tabulam multiplicatoriam novit",
+      "latin": "Victor tabulam multiplicātōriam nōvit",
+      "latinAccented": "Victor tábulam multiplicātṓriam nōvit",
       "english": "Victor knows the multiplication table"
     },
     "revision": false
   },
   "latin": [
-    "Victor! Nostine tabulam multiplicatoriam<sup>1</sup>?",
-    "Ita, Magister, eam<sup>2</sup> novi.",
-    "Ergo dic eam memoriter.",
-    "Ecce, Magister! Cantitans: Na nanana na nana; na nana na nanana...",
-    "Quid audio? Stupide puer! Non impune me irridebis.",
-    "Minime te irrideo, Magister... Tantum musicae memini; verborum autem oblitus sum!",
-    "Novi, novisti, novit, nosse<sup>3</sup>. Dico, dicis, dicit, dicere."
+    "Victor! Nōstīne tabulam multiplicātōriam<sup>1</sup>?",
+    "Ita, Magister, eam<sup>2</sup> nōvī.",
+    "Ergō dīc eam memoriter.",
+    "Ecce, Magister! Cantitāns: Nā nanāna nā nāna; nā nāna nā nanāna...",
+    "Quid audiō? Stupidē puer! Nōn impūne mē irrīdēbis.",
+    "Minimē tē irrīdeō, Magister... Tantum mūsicae meminī; verbōrum autem oblītus sum!",
+    "Novī, nōvistī, nōvit, nōsse<sup>3</sup>. Dīcō, dīcis, dīcit, dīcere."
+  ],
+  "latinAccented": [
+    "Victor! Nōstī́ne tábulam multiplicātṓriam<sup>1</sup>?",
+    "Ita, Magíster, eam<sup>2</sup> nōvī.",
+    "Ergō dīc eam memóriter.",
+    "Ecce, Magíster! Cántitāns: Nā nanā́na nā nāna; nā nāna nā nanā́na...",
+    "Quid áudiō? Stúpidē puer! Nōn impū́ne mē irrīdḗbis.",
+    "Mínimē tē irrī́deō, Magíster... Tantum mū́sicae méminī; verbṓrum autem oblī́tus sum!",
+    "Novī, nōvístī, nōvit, nōsse<sup>3</sup>. Dīcō, dīcis, dīcit, dī́cere."
   ],
   "english": [
     "Victor! Do you know the multiplication table?",
@@ -59,11 +69,18 @@
       "english": ""
     },
     "latin": [
-      "In nemore vicino",
-      "Auditur cuculus,",
-      "Nam e quercu buboni",
-      "Respondet vocibus:",
-      "Cucu, cucu, cucucucucucu! (bis)"
+      "In nemore vīcīnō",
+      "Audītur cucūlus,",
+      "Nam ē quercū būbōnī",
+      "Respondet vōcibus:",
+      "Cucu, cucū, cucucucucucū! (bis)"
+    ],
+    "latinAccented": [
+      "In némore vīcī́nō",
+      "Audī́tur cucū́lus,",
+      "Nam ē quercū būbṓnī",
+      "Respóndet vṓcibus:",
+      "Cucu, cucū, cucucucúcucū! (bis)"
     ],
     "english": [
       "In the neighboring forest",
