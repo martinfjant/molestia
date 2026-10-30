@@ -1,0 +1,81 @@
+{
+  "meta": {
+    "lesson": 15,
+    "title": "Lectio quinta decima",
+    "subtitle": {
+      "latin": "Epistula ad Fabricium",
+      "english": "A letter to Fabrizio"
+    },
+    "revision": false
+  },
+  "latin": [
+    "Fabricio respondere debeo. Habesne<sup>1</sup> papyrum<sup>2</sup>?",
+    "Hic est papyrus! Visne atramentum<sup>3</sup> et calamum<sup>4</sup>?",
+    "Gratias: mihi est stilographium<sup>5</sup>. Incipiamus<sup>6</sup>!",
+    "Marcus Dupont Fabricio Martini<sup>7</sup> salutem plurimam dicit!",
+    "Si vales bene est; ego valeo<sup>8</sup>!",
+    "Perlibenter<sup>9</sup> epistulam tuam acceptam legi<sup>10</sup>.",
+    "Tibi gratias multas ago propter benignitatem tuam.",
+    "Adveniemus Genuam die 25° (vicesimo quinto)<sup>11</sup> mensis julii<sup>12</sup>, ad horam nonam antemeridianam<sup>13</sup>.",
+    "Cum gaudio vos revisemus et vobiscum plures dies agemus.",
+    "Salve, optime<sup>14</sup> Fabrici, valete tu tuique omnes.",
+    "Scribebam Lutetiae Parisiorum, die 19° (undevicesimo) mensis julii anno 1963° (millesimo nongentesimo sexagesimo tertio).",
+    "Epistulam in involucrum insero. Inscriptionem scribo. Pittacium conglutino et officium cursuale peto."
+  ],
+  "english": [
+    "I must respond to Fabrizio. Do you have [some] paper?",
+    "Here-is [some] paper. Do you want ink and a quill?",
+    "Thanks: I have a pen. Let us begin.",
+    "Marc Dupont heartily salutes Fabrizio Martini (Marc Dupont to-Fabrizio Martini salute many-a he-is-saying).",
+    "If you are well (you-are-healthy), it is well; I am well (myself I-am-healthy).",
+    "I received and read your letter with great pleasure (most-gladly letter yours having-been-received I-read).",
+    "I thank you heartily for your kindness (to-you thanks many I-do on-account-of kindness yours).",
+    "We will arrive in Genoa on the 25th of July (day 25th of-month Julian) around 9 in the morning.",
+    "[It's] with pleasure [that] we will see you again and [that] we will spend several days with you.",
+    "Good-bye, excellent Fabrizio, be well (be-healthy) you and all of yours (yours-and all).",
+    "[Written] (I was writing) in [Paris] (Lutetia of the Parisians) on the 19th of July 1963 (day 19th of-month Julian year one-thousandth nine-hundredth sixtieth third).",
+    "I introduce the letter in an envelope. I write the address. I paste on the stamp and make for the [post] (postal) office."
+  ],
+  "notes": {
+    "footnotes": [
+      "Habesne: it would be more classical to say estne tibi? Habeo (habes, habet, etc.) is used in general in senses rather different from those of our verb to have. It means more exactly to hold. For instance habere aliquem bonum, to hold somebody for good; or in lesson 13 (P 2): omnia male se habent.",
+      "Papyrum: formerly paper was made with the pulp of a reed called papyrus, hence its name. One can also say charta.",
+      "Atramentum, that which makes black. Ater (f. atra, n. atrum), means dark, matte black. Bright, shiny black is niger (nigra, nigrum).",
+      "Calamus, the reed or the quill. Perhaps you know (pink pages of the Larousse) the phrase lapsus calami, word-by-word: slip of the quill, i.e. a careless mistake.",
+      "Stilographium: the formation of this word is not very logical: stilus as well as graphium, both indicate the point to write on tablets (coated with wax). One could say, as do the English and Canadians: calamus fontanus, fountain pen.",
+      "Incipio, incipis, incipit, I begin, you…, etc. (present indicative). Incipiam, incipias, incipiat, incipiamus, incipiatis, incipiant, that I begin, that you…, etc., is the present subjunctive, used here instead of the imperative, which does not exist in the 1st person.",
+      "Marcus Dupont: the majority of first names have a well-defined Latin form, whereas last names are not always very easy to transpose. As a general rule one Latinizes only the first name. They do the same in French with foreign names: Marie (Mary) Stuart; Jules César, although in this last example Julius is not a first name. The person to whom we refer was actually called: Gaius (praenomen, first name) Julius (nomen gentilicium, name) Caesar (cognomen familiare, nickname: the curly).",
+      "The polite formula (P 5) is written in abbreviation: SVBEEV. Did you notice (thanks to plurimam) that salutem was feminine?",
+      "Perlibenter or libentissime are forms known as superlatives of the adverb libenter, gladly. These forms make it possible to show that the adjective or adverb is carried to its highest degree (very, the most, etc.).",
+      "Legi is the perfect of legere; present: lego, legis, etc.",
+      "Read the Latin figures well, but do not try to memorize them yet. Also think of reading those in the page and lesson numbers; when they will have become familiar to you, you will then be able to search for the missing ones, in the grammatical appendix.",
+      "Julius, is an adjective. Here it refers to mensis, the month, and because of this it becomes julii, because these two words form the possessive phrase from dié. Latin thinks: “in this 19th day of the month Julian”.",
+      "We have already seen (L 11, P 6) sextá horá (with a long á), at 6 o’clock. With the preposition ad, we use the form of the direct object, hence m’s of the endings that both these words take.",
+      "Optime is another superlative. As Latin does not use the polite form of you (fr. vous), it uses other means to mark a certain deference with regard to the person to whom one addresses oneself, and in particular the judiciously chosen superlative address. For instance if you write to a professor you can call him doctissime vir, very erudite man. For other professions, other terms could be more suitable: illustrissime, very famous; peritissime, very skillful, always followed by vir, man. In the feminine, replace the e with an a, and the vir with femina (doctissima femina, etc.). Why in the masculine is there an e and not an us? You will know soon."
+    ],
+    "comments": []
+  },
+  "exercises": {
+    "latin": [
+      "Difficile non est epistulam latinam scribere.",
+      "Inscriptione indicamus cui homini epistula perferri debeat et in quo loco sit ejus domicilium.",
+      "Inscriptio mea est: Carolus Durand 12 (in domo duodecima), via Lugdunensi, Lutetiae Parisiorum, Gallia.",
+      "Ubi est officium cursuale? Est in hac via.",
+      "Fabricius accepit epistulam a Carolo scriptam.",
+      "Epistulam tuam accepi et eam libenter legi.",
+      "Quando advenietis? Adveniemus die septimo mensis junii.",
+      "Libenter vos accipiemus."
+    ],
+    "english": [
+      "It is not difficult to write a (Latin) letter [in Latin].",
+      "By the address we indicate to-what person the letter must (debeat, subj.) be-taken and in what place his domicile is.",
+      "My address is Charles Durand, 12 Lyon Street (street Lyonian), Paris, France (Gaul).",
+      "Where is the post office? It is on this road.",
+      "Fabrizio received the letter written by Charles.",
+      "I received your letter and read it with joy.",
+      "When will you[pl.] arrive? We will arrive on the 7th of of June.",
+      "We will gladly receive you[pl.]."
+    ],
+    "footnotes": []
+  }
+}

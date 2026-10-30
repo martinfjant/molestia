@@ -1,0 +1,85 @@
+{
+  "meta": {
+    "lesson": 20,
+    "title": "Lectio vicesima",
+    "subtitle": {
+      "latin": "Jentaculum sumo<sup>1</sup>",
+      "english": "I have (take) breakfast"
+    },
+    "revision": false
+  },
+  "latin": [
+    "Mane e lecto septima hora surgo.",
+    "Barbam rado; corpus<sup>2</sup> lavo; induo me vestibus.",
+    "Tintinnabulum ago. Famula jentaculum affert.",
+    "Est in lance poculum caffei ac lactis, panisque<sup>3</sup> tostus cum butyro.",
+    "Caffeum non est calidum! Potesne id recalefacere?",
+    "Post decem minutas famula cum caffeo calido nondum rediit.",
+    "Januam aperio; calceos meos aspicio, quos puer<sup>4</sup> polire<sup>5</sup> noluit.",
+    "Redit tandem famula; jentaculum statim sumo.",
+    "Vae! Uritur mihi gula! Nunc caffeum fervens est!",
+    "Haec omnia mihi moram fecerunt: ad tramen assequendum<sup>6</sup> curram<sup>7</sup> oportet<sup>8</sup>.",
+    "Ipsi agere<sup>9</sup> debemus id quod rectius curare volumus.",
+    "Quot servi tot hostes."
+  ],
+  "english": [
+    "In the morning I-get-up from bed at seven o’clock.",
+    "I shave [my] beard; I wash ([my] body); I put on my clothes (dress myself with clothing).",
+    "I ring (drive) the bell. The maid-servant brings breakfast.",
+    "On the tray there is a cup [of white coffee] (of coffe and of milk), and toasted bread with butter.",
+    "The coffee is not hot! Can you reheat it?",
+    "After ten minutes the maid-servant has not yet returned with the hot coffee.",
+    "I open [the] door; I examine my shoes, which [my] valet (boy) did not want to polish.",
+    "At length the maid-servant returns; I have (take) [my] breakfast straightaway.",
+    "Ouch (woe)! My throat is burning (throat is burned to me)! Now [the/my] coffee is boiling!",
+    "All this (all these things) has made me late (made delay to-me)! To catch the train on its way (towards the-train that-is-to-be-caught-up-with), I have to run (it-behooves that-I-run).",
+    "We must do our selves what (that which) we want to see to more properly (more-rightly)!",
+    "We have as many enemies as we have servants (how many servants, so many enemies)."
+  ],
+  "notes": {
+    "footnotes": [
+      "Sumere (sumo, sumis, etc.), to take, seize, assume, swallow (to eat or drink). Its derivative consumere, to consume, destroy gave the French language both the verb consumer (to consume, destroy) and its popular doublet consommer (to consume, use up). A thousand and one vicissitudes of this sort came to Latin words in the course of their passage into the vernaculars.",
+      "Corpus is a neuter noun. Both in the singular and in the plural the neuter nouns have the same form when they are subjects and when they are direct objects; plural corpora. In our sentence, there is no need to say lavo corpus meum, because it is obvious that it is my own body which I wash and not that of others!",
+      "Panisque = et panis, and bread. Do you know the inscription S.P.Q.R. which appears on Roman monuments and corresponds in a way to the French R.F. (République Française, French Republic)? It is the abbreviation for Senatus PopulusQue Romanus (the Senate and the People of Rome).\n\nAc lactis: ac, as well as et and as que (the latter after a word) have the same sense: and. Usage will guide us on their employment.\n\nIn lance, the tray is lanx; of the tray, lancis; plural: lances, the trays, and also the scales (bi-lanx).",
+      "Puer, child, but also servant, slave. It corresponds roughly to the French garçon (garçon de café, of course) or to the English boy.",
+      "Polire, to polish, to make shiny; present tense: polio, polis, polit, polimus, politis, poliunt.",
+      "Assequor (eris, inf., assequi), to pursue; assequendus (f. assequenda, n. assequendum), that which is to be persued, to pursue, is a verbal adjective.",
+      "Curram (curras, etc.), that I run, is a subjunctive.",
+      "Oportet (impersonal verb), it is important, it is required.",
+      "Agere, to do, drive, compel, etc., which we have already seen, has: present tense: ago, agis, agit, agimus, agitis, agunt; future tense: agam, ages, aget, agemus, agetis, agent; perfect tense: egi, egisti, egit, egimus, egistis, egerunt."
+    ],
+    "comments": [
+      "This song, which you may know already, in not very tiring …It is normally sung in a canon with three voices."
+    ]
+  },
+  "exercises": {
+    "latin": [],
+    "english": [],
+    "footnotes": []
+  },
+  "song": {
+    "kind": "Cantilena",
+    "title": {
+      "latin": "",
+      "english": ""
+    },
+    "latin": [
+      "Ego sum pauper!",
+      "Nihil habeo",
+      "Et nihil dabo!"
+    ],
+    "english": [
+      "I am poor!",
+      "I have nothing!",
+      "And I will give nothing!"
+    ],
+    "source": ""
+  },
+  "headings": [
+    {
+      "before": 11,
+      "latin": "Proverbia",
+      "english": "Proverbs"
+    }
+  ]
+}

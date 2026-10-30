@@ -1,0 +1,76 @@
+{
+  "meta": {
+    "lesson": 5,
+    "title": "Lectio quinta",
+    "subtitle": {
+      "latin": "Ad theatrum imus",
+      "english": "We are going to the theatre"
+    },
+    "revision": false
+  },
+  "latin": [
+    "Hodie ad theatrum imus.",
+    "Gregem optimum esse dicunt<sup>1</sup>.",
+    "Theatrum quo<sup>2</sup> itis Odeum vocatur<sup>3</sup>.",
+    "Totam urbem transeunt sed theatrum non inveniunt.",
+    "— Quo adis? — Eo ad theatrum, sed id non invenio.",
+    "Si hanc viam sequeris, erras.",
+    "Si viam rectam sequor, non erro.",
+    "Si fratres suos sequitur, non errat.",
+    "Errare humanum<sup>4</sup> est.",
+    "Homo felix! Romam venis et Capitolium videre potes.",
+    "Recte dicis<sup>5</sup>, amice! Si quam urbem visito, ad cinematographium adire non omitto.",
+    "Invenio, invenis, invenit, inveniunt, invenire. Sequor, sequeris, sequitur, sequuntur, sequi."
+  ],
+  "english": [
+    "Today we-are-going to the-theatre.",
+    "[They say] the-troupe [is] excellent (to-be they-say).",
+    "The theatre where you[pl.] go is-called the Odeon.",
+    "They go-through the whole city but do not find the theatre.",
+    "Where are you going ? — I'm going to the theatre, but I cannot find it.",
+    "If you follow this way, you are making a mistake.",
+    "If I follow the right way, I am not making a mistake.",
+    "If he follows his brothers, he is not making a mistake.",
+    "To-err is human.",
+    "[What a lucky person you are] (person happy)! You come to Rome and you can see the Capitol.",
+    "You are right (rightly you-speak), [my] friend! If I visit [a city] (any city), I do not fail to go to the cinema.",
+    "I find, you find, he finds, they find, to find. I follow, you follow, he follows, they follow, to follow."
+  ],
+  "notes": {
+    "footnotes": [
+      "Gregem optimum esse dicunt. Dicunt, they say; gregem, the troupe; esse, to be; optimum, excellent (masculine because gregem is masculine). This construction, very frequent in Latin, is called the INFINITIVE CLAUSE. Gregem is the subject of the verb in the infinitive (esse); optimum is the predicative adjective of gregem; and the entire clause (gregem optimum esse) is the direct object of the main verb dicunt. We will see later that the subject of the i.c. agrees in the manner of a direct object.",
+      "Ubi (L 4, P 4) and quo are both translated in English by where. The former indicates the place where one is (no movement); the latter, the place where one goes (movement towards something). We have not yet seen all the ways to translate where, but you must already realize that Latin is often more precise than English (although in literary English whither was used where Latin uses quo).",
+      "Vocor, I am called; vocaris, vocatur, vocantur, you, he, they are called, infinitive vocari, is not conjugated completely in the same way as loquor or sequor are, just as in French aimer (to love) is not conjugated as finir (to finish). And yet all these verbs are regular! Let's conjugate now the verb of the little subordinate clause quo itis. We shall have: eo, is, it, imus, itis, eunt. The verb ire, to go, is an irregular verb, as is its French counterpart for that matter: je vais (I go), tu vas (you go), etc., nous allons (we go), etc. You should note that the forms of the French verb aller (to go) are actually even stranger than those of the Latin verb ire, yet they seem to French speakers to be completely natural. Do not try to learn this new conjugation by heart: you will often meet this verb and its many compounds (as adeo, I go to…, adis, you go, etc., adire, to go) so that by using it it will become as familiar to you as the French verb aller (to go) is to the French.",
+      "Humanum: Here is a typical example of the use of the neuter gender: a verb, like errare, can be neither masculine nor feminine; it is therefore neuter, and humanum, which must agree with it, must also be of the neuter gender. Modifying a noun, the same adjective will give: in the masculine, for instance: spiritus humanus, the human spirit, and in the feminine: ratio humana, human reason; and still in the neuter: gaudium humanum, human joy.",
+      "Dicis: 2nd person singular of the present indicativ. Forget for the moment dicas of E 4, P 5."
+    ],
+    "comments": [
+      "NB: From this lesson onwards, we are only marking plural “you”; unmarked “you” is meant to be singular.",
+      "We will note in passing that the gender of nouns is not always obvious — the same as is true in French or in German by the way. Thus abstract nouns, such as those that we have just seen at this moment, note 4, may belong to any of the three genders. Equally the nouns for things are not all of the neuter gender. But you will eventually see that genders are easier to recognize in Latin, by anyone, than they are in French for a foreigner or in German for a Frenchman.",
+      "If you are curious, you will be able to find sentences 10 and 11 in the German Assimil (L 52, P 5 and P 6)."
+    ]
+  },
+  "exercises": {
+    "latin": [
+      "Homo bonus viam rectam sequitur.",
+      "Quis est ille homo?",
+      "Ille homo Felix vocatur.",
+      "Ego vocor Julius.",
+      "Bonum est fratres et sorores videre.",
+      "Si me latine loqui vis, da mihi poculum vini.",
+      "Epistulam nullam invenio.",
+      "Potesne mihi esse auxilio?"
+    ],
+    "english": [
+      "The good person follows the right way.",
+      "Who is that person?",
+      "[That person's name is Felix] (That person is-called Felix).",
+      "[My name is] (I am called) Jules.",
+      "It is good to see [one's] brothers and sisters.",
+      "If you want me to-speak Latin, give me a cup of wine.",
+      "I can find no letter.",
+      "Can you help me?"
+    ],
+    "footnotes": []
+  }
+}

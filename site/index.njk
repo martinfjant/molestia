@@ -1,0 +1,12 @@
+---
+layout: base.njk
+title: Lectiones
+---
+<h1>Lectiones</h1>
+<ol>
+{%- for lesson in lessons %}
+  <li value="{{ lesson.meta.lesson }}"><a href="/lectio/{{ lesson.meta.lesson }}/">{{ lesson.meta.title }}</a>
+    {%- if lesson.meta.subtitle.latin %} — {{ lesson.meta.subtitle.latin | safe }}{% endif %}
+    {%- if lesson.meta.revision %} (revisio){% endif %}</li>
+{%- endfor %}
+</ol>

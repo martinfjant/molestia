@@ -1,0 +1,86 @@
+{
+  "meta": {
+    "lesson": 31,
+    "title": "Lectio tricesima prima",
+    "subtitle": {
+      "latin": "Eo piscatum",
+      "english": "I am going fishing"
+    },
+    "revision": false
+  },
+  "latin": [
+    "Ave Maurici! Quid agis hodie?",
+    "Eo in stadium. Certamen est magni momenti<sup>1</sup>. Augustani Taurinenses<sup>2</sup> adversus Gratianopolitanos<sup>3</sup>. Quid de hoc arbitraris<sup>4</sup>?",
+    "Nihil! Praeterea tale certamen futurum esse<sup>5</sup> ignorabam. De quo ludo agitur?",
+    "Incredibile est! Nonne scis factiones<sup>6</sup> ambarum urbium<sup>7</sup> folle rotundo excellere? Anceps erit exitus<sup>8</sup>.",
+    "Nihil horum noveram<sup>9</sup>. Mihi non displicet ludum follis<sup>10</sup> rotundi vel ovalis aspicere. Sed de hujus certaminis exitu nihil augurari<sup>11</sup> possum.",
+    "Si certamen aspicere exitumque statim nosse cupis, veni mecum!",
+    "Gratias<sup>12</sup>! Impossibile est. Cum Stephano hodie piscatum ire debeo. Ei deesse non possum.",
+    "Otia placida mavis<sup>13</sup> quam athletica. Nonne verum est?",
+    "Minime! Tu per totum postmeridianum tempus sedebis<sup>14</sup>. Nos autem ad tructas captandas in montibus praeter torrentem decem passuum milia percurremus, et...",
+    "forte sine ullo pisce domum reveniemus.",
+    "Ne ab uxore increperis, hujus rei memento: piscariae in urbe nostra non desunt!"
+  ],
+  "english": [
+    "Hello (hail) Maurice! What are you doing today?",
+    "I'm going to the stadium. The match (contest) is of great importance. Turin (The Augustan Taurinians) against Grenoble (the Gratianopolitans). What do you think about this?",
+    "Nothing! Moreover I didn't know such a match was going to take place (going-to-be to-be I-ignored). What game are we talking about (about what game is-discussed)?",
+    "It's unbelievable! Don't you know [that] the teams of both cities [excel in] (to excel by) [football] (round ball)? The outcome will be uncertain (two-headed).",
+    "I knew nothing of these things. To watch a game [of football or of rugby] (of round or oval ball) does not displease me. But I can surmise nothing about the outcome of this contest.",
+    "If you wish to see the contest and know the outcome immediately, come with me!",
+    "Thanks! It's impossible. Today I must go fishing with Stephen. I can't let him down (be-missing/lacking to-him).",
+    "You prefer quiet pastimes to athletics. Isn't it true?",
+    "Not at all! You will be sitting during the whole afternoon. We on the other hand will trudge (run through) ten miles along the torrent in the mountains to catch trout, and…",
+    "perhaps we will return home without any fish.",
+    "So that you are not told off by your wife, remember this: fish shops are not lacking in our city."
+  ],
+  "notes": {
+    "footnotes": [
+      "Magni momenti: these two words are a complement (possessive phrase) of the noun certamen, -inis, n., fight, competition, match. This complement is often in the the genitive, which otherwise matches the English constuction, but it can also be in the ablative (vid. L 25: canis brevibus cruribus). In certain cases, one can chose between the two cases, but not in others. Usage will guide you. By considering magni momenti as an idiomatic phrase, you avoid any risk of error.",
+      "Augusta Taurinorum: there are many cities named Augusta, in memory of emperor Augustus. To distinguish them from each other, an adjective was added, or, as here, a possessive phrase specifying the identity of its inhabitants (so gen. pl.). Similary, Augusta Vindelicorum, Augsburg (Germany) or Augusta Praetoria, Aosta (Italy).",
+      "Gratianopolis, Genoble (= city of Gratian). Gratianopolitanus, -a, -um, an inhabitant of Grenoble. The names of inhabitants of cities are formed in -ensis or in -anus.",
+      "Arbitror, -aris, -ari, -atus sum, to estimate, to think. But, although it is used here in reference to a match, do not translate it as to arbitrate (to referee), which would rather be judico, -as, -are, -avi, -atum, to judge.",
+      "Futurus, -a, -um: future participle of the verb sum. If we add the infinitive esse to it, we obtain the future infinitive (active). See exercise phrase 8: capturum, -am, -um esse.",
+      "Factio, -onis, f., the action of making, doing (facere), political party (faction), team. Here in the accusative plural and the subject of an infinitive clause.",
+      "Urbium, gen. pl. of urbs, urbis, f., the city.",
+      "Exitus, -us, m., the way out, the outcome (4th declension) derived from exire. A great number of abstract nouns are equally formed from verbs; e.g.: cursus, -us, m., the race, from currere.",
+      "Noveram has the form of a pluperfect, and the sense of an imperfect, since the perfect novi (see L 6) has the sense of a present.",
+      "Folle, abl. of follis, -is, m., the bellows (of a forge) or the (inflatable) ball. We also use its diminutive folliculus, -i, m.",
+      "Auguror, -aris, -ari, -atus sum, to take the auspices, to prophesy. Note that this verb is deponent (active sense, passive form).",
+      "Gratias is in the accusative plural because tibi ago is implied (vid. L 23, P 8). Compare with the other sense of agere (P 1).",
+      "Mavis: the pres. indic. of malle = magis velle, to prefer (to want more), is conjugated as follows: malo, mavis, mavult, malumus, mavultis, malunt. We have already seen nolle = non velle (L 19, N 1).",
+      "Sedeo, -es, -ere, sedi, sessum, to be sitting down; future sedebo, -bis, etc. But the future of percurro, -is, -ere, -curri, -cursum, to run through, is: percurram, percurres, percurret, etc. Be reassured, there are only two forms of the future!"
+    ],
+    "comments": [
+      "Some unknown items have slipped into our exercise:",
+      "Sardina, -ae, f., the sardine; rete, -is, n., the net; linea, -ae, f., line (in the different senses of this word; e.g., linea recta, a straight line); hamus, -i, m., the hook; plané, adv., drawn from planus, -a, -um, united, tidy, obvious.",
+      "The adjective dulcis, -e, sweet (to the taste) was seen (L 29, P 12) under its neuter form and the majority of the words of phrase 9 were given as examples in the last revision, but under a less Latin form.",
+      "ATTENTION! If the form piscatum is not familiar to you, or if you have difficulties with phrases 6 and 9 of the exercise, it is because you need to revise again lesson 28. Do not forget that a small step backwards will often translate into a saving of time."
+    ]
+  },
+  "exercises": {
+    "latin": [
+      "Quo vadis? — Eo piscatum.",
+      "Quid piscari optas?",
+      "Tructas piscari opto.",
+      "Piscaris in aquis dulcibus. Ego in mari piscari cupio.",
+      "Capisne sardinas? Num e navi piscaris?",
+      "Sardinae retibus captantur. Ad hoc efficiendum navis est necessaria.",
+      "Ego navem non habeo. Lineam de terra mitto. Pisces hamo capio.",
+      "Uxor pisces in piscaria emit: plane scit virum suum nihil capturum esse.",
+      "Tructa piscatu difficilis est, eadem tamen esu suavissima."
+    ],
+    "english": [
+      "Where (Whither) are you going? — I'm going fishing.",
+      "What do you wish to fish?",
+      "I wish to fish trouts.",
+      "You fish in fresh (sweet) water(s). I wish to fish in the sea.",
+      "Are you catching sardines? You are not fishing from a boat, are you?",
+      "Sardines are caught by means of nets. To do that (for that doing) a boat is necessary.",
+      "I don't have a boat. I cast a line from land. I catch the fish by hook.",
+      "The wife buys fish(es) in a fish shop: clearly she knows [that] her husband will catch nothing (future infinitive).",
+      "Trout is difficult to fish, but (the same nevertheless) most agreeable to eat."
+    ],
+    "footnotes": []
+  }
+}

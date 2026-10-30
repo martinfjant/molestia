@@ -1,0 +1,75 @@
+{
+  "meta": {
+    "lesson": 10,
+    "title": "Lectio decima",
+    "subtitle": {
+      "latin": "In deversorio",
+      "english": "At the hotel"
+    },
+    "revision": false
+  },
+  "latin": [
+    "Salve, Caupo<sup>1</sup>! Potesne<sup>2</sup> nos accipere?",
+    "Salve, Domne! Vos omnes<sup>3</sup> libenter accipiam. Locus non deest<sup>4</sup>!",
+    "Opus est cubiculo cum lecto<sup>5</sup> uno, et cubiculo altero cum lectis duobus.",
+    "Ecce! cubiculum decimum quartum<sup>6</sup> in tabulato primo et cubiculum vicesimum sextum in tabulato altero<sup>7</sup>.",
+    "Josephe! Affer impedimenta et monstra cubicula!",
+    "Ecce cubiculum! Per fenestram portum videre potes.",
+    "Quam caeruleum est mare! Quot naves aspicio!",
+    "Magna navis oneraria<sup>8</sup>, quae cursum in altum dirigit, Graeciam petit.",
+    "Cubiculum mihi placet. Quanti constat?",
+    "Hoc cubiculum octo francis constat; alterum duodecim.",
+    "Cubiculum, in cubiculo; cubicula, in cubiculis."
+  ],
+  "english": [
+    "Hello, Keeper! Can you take us?",
+    "Hello, Sir! I will take you[pl.] all with pleasure. Space is not lacking.",
+    "There is need of a room with one bed, and of another room with two beds.",
+    "Here-you-are: room 14 (tenth fourth) on the first floor and room 26 (twentieth sixth) on the second floor.",
+    "Joseph! Bring the luggage and show the rooms!",
+    "Here’s the room! Through the window you can see the port.",
+    "How blue the sea is! [What a lot of] (How-many) ships I see!",
+    "The large freighter(fraktbåt) (ship of-burden) directing its course out to sea (which course in-the-deep it-directs) is headed for Greece (Greece it-seeks).",
+    "The room pleases me (to-me). How much is it (Of-how-much it-costs)?",
+    "This room costs eight francs; the other twelve.",
+    "The room, in the room; the rooms, in the rooms."
+  ],
+  "notes": {
+    "footnotes": [
+      "Caupo, the landlord, the innkeeper; caupona, the inn; deversorium, the hotel.",
+      "Potes, you can. You know by now that, when one addresses only a single person, Latin does not use the plural form of \"you\" as in French for courtesy, but respects the logical construction (singular): this is a nice simplification. However, if one wants to mark a certain deference with regards to one's interlocutor, one employs an appropriate title, as Domine, Lord, Master, or its abbreviation: Domne, Sir, Mister, which you will find in the following sentence.",
+      "Nos omnes, all of us; vos omnes, all of you; nobis omnibus, for all of us; vobis omnibus, for all of you. We have already seen: ego, I; mihi, to me and tu, you; tibi, to you.",
+      "Desum, dees, deest, deesse (I lack, you lack, he lacks, to lack) is yet another compound of the verb sum.",
+      "Lectus, the bed (subject); video lectum, I see the bed; cum lecto, with the bed; cum lectis, with the beds. As Latin does not have an article, one can equally translate as a bed and as the bed, when the remainder of the sentence is not known. We will see later that the article is translated into Latin only if it has real usefulness, and that for that there are suitable words.",
+      "Cubiculum decimum quartum (or quartum decimum): In many languages, of which one is Latin, one uses the ordinal numeral adjective where others use the cardinal adjective. Word by word: room tenth fourth (14th). Similarly, Henricus octavus (Henry 8th), in French: Henri VIII, but in English: Henry the eighth.",
+      "Tabulato altero: one could have said tabulato secundo.",
+      "Navis oneraria: navis is feminine. Think of the gender, also feminine, associated with ships in English! In Italian: la nave, is also feminine."
+    ],
+    "comments": []
+  },
+  "exercises": {
+    "latin": [
+      "Volo cubiculum magnum cum lectis duobus.",
+      "Cubicula parva cum lectis singulis volunt<sup>1</sup>.",
+      "In deversorio illo desunt cubicula cum lectis binis.",
+      "In cubiculo magno arcas collocat.",
+      "Vos omnes cubiculo meo accipiam.",
+      "Quanti constat hoc cubiculum cum tribus lectis?",
+      "Quindecim francis constat.",
+      "Hoc deversorium mihi placet."
+    ],
+    "english": [
+      "I want [a] large room with two beds.",
+      "They want small rooms with single beds [one-each beds].",
+      "In that hotel there [are not] (are-lacking) rooms with two beds.",
+      "He places the chests in the large room.",
+      "I will receive you[pl.] all in my room.",
+      "How much does this room with three beds cost?",
+      "It costs 15 francs.",
+      "I like this hotel (this hotel to-me pleases)."
+    ],
+    "footnotes": [
+      "Singuli, bini, terni, quaterni, etc., are numeral adjectives which make it possible to say in ones, in twos, in threes. Here again Latin is more precise than English."
+    ]
+  }
+}

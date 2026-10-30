@@ -1,0 +1,96 @@
+{
+  "meta": {
+    "lesson": 30,
+    "title": "Lectio tricesima",
+    "subtitle": {
+      "latin": "Mihi otium deest",
+      "english": "I have no time"
+    },
+    "revision": false
+  },
+  "latin": [
+    "Ludovice! Nobiscum venias oportet<sup>1</sup>!",
+    "Quid accidit? Quid negotii<sup>2</sup> vos tantopere urget<sup>3</sup>?",
+    "Hodie vespere apud avunculum Gregorium saltationem<sup>4</sup> instituemus<sup>5</sup>.",
+    "Consobrinae nostrae Claudia et Caecilia aderunt. Multum oblectabimur<sup>6</sup>.",
+    "Saltationi non studeo<sup>7</sup>. Claudiam et Caeciliam odi<sup>8</sup>. Germanae<sup>9</sup> sunt pestes: omnes et omnia semper rodunt<sup>10</sup>.",
+    "Saltare non cogeris, nec cum eis colloqui.",
+    "Exquisitae mensae apponentur in eisque cibi et potiones maxima varietate: acipenseris<sup>11</sup> ova, pernae, crustularumque omne genus<sup>12</sup>.",
+    "Frustra me tentabis. Nec bibax nec edax<sup>13</sup> sum.",
+    "Musicane delectaris?",
+    "Musica delector, sed otium mihi deest ei operam dandi.",
+    "Nisi<sup>14</sup> veneris, concentus absurdus erit. Marcellus tuba canit, ego tympanum pulsare possum,",
+    "Sed neminem<sup>15</sup> praeter te invenio qui clavichordio canere possit.",
+    "Cur hoc primum non dixisti? Clavichordio vestri gratia canam.",
+    "Pergratum mihi est amicis utilem esse."
+  ],
+  "english": [
+    "Louis! You must come with us (it-is-required you-should-come with-us)!",
+    "What happens (of an incident)? What [business] (of-business) is pressing you so much?",
+    "[This] (today) evening at uncle Gregory's we will be holding a surprise party (dance we-will-set-up).",
+    "Our cousins Claudia and Cecilia will be there. [We will have great fun] (much we-will-be-amused).",
+    "I have no interest in dancing. I hate Claudia and Cecilia. They are real pests: they always [backbite about] (nibble) everyone and everything.",
+    "You won't be forced to dance, nor to speak with them.",
+    "[There will be a great buffet with the most varied foods and drinks] (Exquisite tables will be served up and on them foods and drinks in the greatest variety): [caviar] (sturgeon's eggs), hams, and every kind of cakes (cf. L 19, P 4).",
+    "You (will) tempt me in vain. I'm neither very given to drink nor gluttonous.",
+    "[Do you enjoy music] (by-music are-you-pleased)?",
+    "I enjoy music, but [I have no time to pay attention to it] (leisure to-me is-lacking to-it attention of-giving).",
+    "Unless [you come] (you-will-have-come), the symphony will be out of tune. Marcel [plays] the trumpet (with-trumpet sings); myself, I can beat the drum;",
+    "but [except for you I can find] nobody (except you I-find) who can play the piano.",
+    "Why didn't you say this first? I'll play the piano [for your sake] (by-grace of-you[pl.]).",
+    "It is most agreeable for me to be useful to [my] friends."
+  ],
+  "notes": {
+    "footnotes": [
+      "Oportet, an impersonal verb that we've already seen in the infinitive (oportere) in Lesson 13 (P. 9). It is construed with the conjunction ut and the subjunctive: oportet ut venias, it is required that you come. Ut can be omitted, as here in phrase 1, but the subjunctive is compulsory.",
+      "Quid negotii, word for word what of the business. We could have said quod negotium, but this latter expression would have been less appropriate.",
+      "Urgeo, -es, -ere, -ursi (2nd conjugation, no supine), to push forward, press (literally or figuratively); cf. English urgent. Tantopere, so much, adv., derived from an ablative tanto opere, literally by so much work.",
+      "Saltatio, -onis, f., dance, from saltare, to dance. To jump (French sauter, cf. English somersault) is salire, a 4th-conjugation verb that we'll see again.",
+      "Instituo, -is, -ere, -ui, -utum, to set up, to organize (future ind. instituam, institues, instituet, instituemus, instituetis, instituent).",
+      "Oblectare (active voice), to amuse. Oblectari (passive voice), to be amused, to amuse oneself. The verbs of the 1st conjugation (active inf. in -are and passive in -ari) make the future in -bo, -bis, -bit, -bimus, -bitis, -bunt in the active; and in -bor, -beris, -bitur, -bimur, -bimini, -buntur in the passive; we'll come back to this.",
+      "Studeo, -es, -ere, -ui + dat., to have a taste for; to study is a secondary meaning: studet algebrae, he studies algebra.",
+      "Odi, I hate, I detest, just like memini, I remember, has a perfect form but a present meaning (I've taken a dislike to); you hate is thus odisti, he hates odit, they hate oderunt.",
+      "Germanus, -a, -um, comes from germen, -inis, n., sprout. Frater germanus, full brother, whence figuratively true, real.",
+      "Rodo, -is, -ere, rosi, rosum, to gnaw. Its derivatives erodere and corrodere have given us erode and erosion on the one hand, and corrode and corrosion on the other.",
+      "Acipenser, -eris, m., sturgeon, from whose eggs caviar is made (you can forget this word if you wish).",
+      "Genus, -eris, n., origin, race, sort: a word to retain!",
+      "Bibax, -acis, adj. is derived from bibere, just as edax comes from edere, to eat. Adjectives in -ax indicate a propensity, generally excessive.",
+      "Nisi = si non: if … not.",
+      "Nemo (acc. neminem, dat. nemini, not used in other cases), nobody (m. and f.). [Long note excised on the difference between nemo and French personne, which requires an added negative particle ne]. In Latin, as in algebra and standard English, two negatives to cancel, yielding a positive sense. This is true in a first approach, for, if we go bit deeper, the double negative is not always the exact equivalent of an affirmation…"
+    ],
+    "comments": [
+      "Attention! Using the translation, check that you understand well phrases 6 and 11 of the exercise. If you immediately put the various nouns in their proper place (direct object, possessive phrase) it means you already have the Latin spirit. If you are not there yet, do not forget often to repeat this sort of exercise: what seems to you still to be artificial will become completely natural little by little. Think of: consuetudinis magna vis (L 29, P 11)."
+    ]
+  },
+  "exercises": {
+    "latin": [
+      "Quis mecum saltatum venit?",
+      "Nemo tecum saltare vult.",
+      "Quae tam bene saltat?",
+      "Quis musica delectatur? — Nemo musica non delectatur.",
+      "Cave canem! — Ubi est canis?",
+      "Canis dominum non video.",
+      "A cane nunc mordetur. A cane heri morsus est.",
+      "Canis eum momordit.",
+      "Cani pernam dare noli.",
+      "Canes qui plurimum latrant, raro mordent.",
+      "Simius canum cibum furatus est.",
+      "A multis canibus morsae sunt."
+    ],
+    "english": [
+      "Who is coming to dance with me?",
+      "No one wants to dance with you.",
+      "Which one (female) dances so well?",
+      "Who enjoys music? — No one does not enjoy music.",
+      "Beware [of] the dog! — Where is the dog?",
+      "I don't see the dog's master.",
+      "Now he is bitten by a dog. Yesterday he was bitten by a dog.",
+      "A dog bit him.",
+      "[Don't give] ham to the dog (to-give do-not-want).",
+      "Dogs who bark the most, rarely bite.",
+      "The monkey stole the dogs' food.",
+      "They (f.) were bitten by many dogs."
+    ],
+    "footnotes": []
+  }
+}

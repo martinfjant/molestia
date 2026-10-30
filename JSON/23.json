@@ -1,0 +1,79 @@
+{
+  "meta": {
+    "lesson": 23,
+    "title": "Lectio vicesima tertia",
+    "subtitle": {
+      "latin": "Tibi opto bonum visum",
+      "english": "I wish you good eyesight"
+    },
+    "revision": false
+  },
+  "latin": [
+    "Operarius quidam in fabrica lignaria<sup>1</sup> opus suum faciebat.",
+    "Ita inscitus<sup>2</sup> is erat ut quodam die sibi nasum serra mechanica<sup>3</sup> stupide secuerit<sup>4</sup>.",
+    "A medico<sup>5</sup> curatus, domo<sup>6</sup> tamen exire nolebat: sine naso se ridiculum videri arbitrabatur<sup>7</sup>.",
+    "Amicus bonus nocte domum ejus advenit, eique dixit:",
+    "Veni mecum! Una ambulabimus<sup>8</sup>. Te aërem purum respirare oportet. Nocte nemo deformitatem tuam videre poterit.",
+    "Post<sup>9</sup> ambulationem, amicus amico dixit<sup>10</sup>:",
+    "Tibi opto<sup>11</sup> bonam noctem, bonam valetudinem, bonum visum!",
+    "Alter respondit: — Propter<sup>12</sup> bonam noctem bonamque valetudinem tibi gratias ago. Sed cur mihi bonum optes<sup>13</sup> visum non intellego.",
+    "Tunc amicus: — Si bonum visum perdas et, exempli gratia, myops fias, quonam ocularia imponas<sup>14</sup>?",
+    "Seco, secas, secat, secant, secare.",
+    "Secui, secuisti, secuit, secuerunt, secuisse; secuerim, secueris, sectus, secta, sectum."
+  ],
+  "english": [
+    "A certain worker was doing his job (work) in a carpenter’s (wood-related) workshop.",
+    "He was so clumsy (lacking in expertise) that one day (on a certain day) he foolishily cut off his nose with a mechanical saw.",
+    "Having been cured by the doctor, he still (however) didn’t want [to leave his house] (to go out from house): without a nose, he thought [he looked] (himself to look) ridiculous.",
+    "A good friend came to his house at night and said to him:",
+    "Come with me! We shall take a stroll (we-shall-walk) together. You need to breathe (it-is-required you to-breathe) fresh (pure) air. At night no one will be able to see your deformity.",
+    "After the walk, the friend said to his friend:",
+    "I wish you good night, good health, and good sight.",
+    "The other replied: — I thank you on account of the ‘good night’and the ‘good health’. But I don’t understand why you wish (should wish) me (to me) good sight.",
+    "Then the friend [said]: — If you should loose your good eyesight and, for example, become short-sighted, upon what would you then rest your spectacles?",
+    "I cut, you cut, he/she/it cuts, they cut, to cut.",
+    "I cut (past), you cut, he/she/it cut, they cut, to have cut; may I have cut (subj.), may you have cut, having been cut (masc. sing.), having been cut (fem. sing.), having been cut (neut. sing.)."
+  ],
+  "notes": {
+    "footnotes": [
+      "Lignarius, a, um, adj., relating to wood; wood itself is lignum, -i, n.",
+      "Inscitus, -a, -um, ignorant, skilless. Derived from scio, -is, -ire, to know.",
+      "Serrá mechanicá: ablative, complement of means; note that there is no preposition.",
+      "Stupidé is an adverb, formed from stupidus, -a, -um. Secuerit is a perfect subjunctive (of secare, to cut), required by the conjunction ut; we shall come back to this later.",
+      "A medico: it is an ablative, complement of agent (vid. sup. N 3). But this time we are dealing a person and no longer with a thing: in this case we put in the prepopition a (by).",
+      "Domo: unde exis, from where do you come out? Exeo domo, I come out of the house. Redeo Massiliá, I return from Marseilles. The answer to the question unde?, from where?, is put in the ablative without a preposition when we are dealing with a city or with the word domus.",
+      "Se ridiculum videri, infinitive clause: subject, se (himself), in the accusative; verb, videri, passive infinitive of video, -es, -ere; predicative attribute, ridiculum, also in the accusative since it agrees with the subject se; and the whole is governed in parallel by the main verb arbitrabatur (imperfect of arbitrari, to think). One can say that the subordinate clause is the direct object of this verb (arbitrari), hence the accusative.",
+      "Ambulabo, ambulabis, ambulabit, ambulabimus, ambulabitis, ambulabunt, future of ambulare (ambulo, -as, -are, to walk); uná ablative of una (one), means together.",
+      "Post, after (is constructed with the accusative).",
+      "Dixi, dixisti, dixit: perfect of dicere (dico, -is, -ere), to say.",
+      "Optare (opto, -as, -are), to wish.",
+      "Propter (+acc.), alongside, because of.",
+      "Optem, optes, etc., optent is the present subjunctive of optare (ind.: opto, optas, etc., optant; cf. N 11).\n\nIn a direct question we normally use the indicative: cur optas?, why do you wish? But in the indirect question, we always use the subjunctive. This is the reason for non intellego cur optes of P 8.",
+      "Imponas, as much as perdas and fias are subjunctives having the role of the conditional. This is not a departure from the preceding rule, because the sense requires the subjunctive in this direct question."
+    ],
+    "comments": []
+  },
+  "exercises": {
+    "latin": [
+      "Julius bonus erat, itaque mater ei crustulum dedit.",
+      "Julius ita bonus erat ut mater ei crustulum dederit.",
+      "Operarius serram mechanicam inscite ducebat, itaque nasus ejus sectus est.",
+      "Serra nasum illius secuit.",
+      "Marius in domum suam nos invitavit, sed inscriptionem scribere neglexit.",
+      "Unde venis? — Lutetia venio, de vico latino.",
+      "Quo vadis? — Id tibi jam in lectione octava dixi: Romam vado.",
+      "Cur nobiscum non venias?"
+    ],
+    "english": [
+      "Julius was (was being) good, and so his mother gave him a pastry.",
+      "Julius was so good that his mother gave him a pastry.",
+      "The worker was running (was leading) the mechanical saw ineptly (in an unskilled manner), and so his nose was cut off.",
+      "The mechanical saw cut off that one’s nose (the nose of that one).",
+      "Marius invited us to his house, but neglected to write the address.",
+      "Where are you coming from (“whence comest thou”)? — I am coming from Paris, from the Latin quarter.",
+      "Where are you going to (“whither goest thou”)? — I already told you that in the eighth lesson: I am going to Rome.",
+      "Why shouldn’t you come with us?"
+    ],
+    "footnotes": []
+  }
+}

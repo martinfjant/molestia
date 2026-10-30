@@ -1,0 +1,75 @@
+{
+  "meta": {
+    "lesson": 11,
+    "title": "Lectio undecima",
+    "subtitle": {
+      "latin": "Quota hora est?",
+      "english": "What time is it?"
+    },
+    "revision": false
+  },
+  "latin": [
+    "Quota<sup>1</sup> hora est?",
+    "Dimidia hora est...",
+    "Non intellego! Cujus horae dimidia est?",
+    "Nescio! Tantum scio dimidiam esse: acus minor horologio meo deest.",
+    "Quando Lutetiam reliquisti?",
+    "Heri sexta<sup>2</sup> hora et dimidia Lutetiam reliqui<sup>3</sup>.",
+    "Lugdunum hodie tertia hora postmeridiana<sup>4</sup> relinquo.",
+    "In hanc urbem adveni decima hora et quinta decima minuta, id est decima hora et quadrante<sup>5</sup>.",
+    "Manes Lugduni quattuor horas et quadraginta quinque minutas.",
+    "Nobis est otium: visne<sup>6</sup> mecum<sup>7</sup> prandere? Ecce popina!",
+    "Optime! Valde esurio; popinam adeamus<sup>8</sup>!",
+    "Relinquo, relinquis, relinquit, relinquimus, relinquitis, relinquunt, relinquere. Reliqui, reliquisti, reliquit, reliquimus, reliquistis, reliquerunt, reliquisse."
+  ],
+  "english": [
+    "What time is it (how-many-eth hour is)?",
+    "It is the half hour (half hour is)…",
+    "I do not understand! Of what hour [is it the half] (half is)?",
+    "I don’t know! I only know [it is the half hour] (half to-be): the small hand is missing from my watch (needle smaller to-clock mine is-lacking).",
+    "When did you leave Paris?",
+    "I left Paris yesterday at six thirty (yesterday at-the-sixth hour and at-the-half Paris I-left).",
+    "I leave Lyon today at three o’clock p.m. (Lyon today at-third hour afternoonian I-leave).",
+    "I arrived in this city at ten fifteen (To this city I-arrived at-tenth hour and at-fifth tenth minute), i.e. (that is) at a quarter past ten (at-tenth hour and at-quarter).",
+    "You are staying in Lyon four hours and forty-five minutes.",
+    "We have time (to-us is leisure): do you want to lunch with me? Here-is (behold) a restaurant!",
+    "Excellent! I’m really hungry (strongly I-am-hungry). Let’s go to the restaurant.",
+    "I leave, you leave, etc., they leave, to leave. I (have) left, you (have)…, etc., they (have) left, to have left."
+  ],
+  "notes": {
+    "footnotes": [
+      "Quota is an adjective which agrees with hora.",
+      "Sexta hora and not sex horae, because it is the sixth hour (see note number 6 in the previous lesson). But further down (P 9) quattuor horas because this time it is four hours forming together a certain interval of time.",
+      "Reliqui is a perfect (tense corresponding to the English simple past, I left, and also the English present perfect tense, I have left). Simply note, in phrase 12, the differences between the present and the perfect tense.",
+      "Postmeridianá, just as dimidiá, is an adjective: it agrees therefore with horá, hence the long quantity of the á which indicates here the form of the adverbial phrase.",
+      "Quadrante; if this word were the subject, we would have quadrans. It means: a quarter of an as, the as being a currency; and hence quarter of a circle (Eng.: quadrant), whence quarter of an hour.",
+      "Visne = vis + ne, interrogative particle which should know well by now. The verb volo, I want, is irregular: we will see it again soon.",
+      "Mecum = cum me, with me; we also have tecum, with you; nobiscum, with us; vobiscum, with you(pl.).",
+      "Adeamus, let us go! adimus, we go. The former is a subjunctive, a mood very often used in Latin, but of which we will only see the conjugation later on. The latter is the present indicative, which is conjugated as follows: adeo, adis, adit, adimus, aditis, adeunt.\n\nThis verb is irregular (cf. L 5, N 3), just as is the verb eo from which it is compounded by the addition of the preposition ad, towards. Regular verbs ending in -eo in the first person remain in e in all the others. Thus video, I see, gives: vides, videt, videmus, videtis, vident."
+    ],
+    "comments": [
+      "N.B. In phrase 4 one could have said index instead of acus."
+    ]
+  },
+  "exercises": {
+    "latin": [
+      "Navis oneraria sexta decima hora et quinquagesima minuta portum reliquit.",
+      "Si esuris, popinam adire possumus.",
+      "Mihi est otium: Lutetiam videre volo.",
+      "Quando popinam reliquisti?",
+      "Hora vicesima altera eam reliqui.",
+      "Multa vini pocula bibisti.",
+      "Minime, caffeum tantum bibi."
+    ],
+    "english": [
+      "The freighter left port at four fifty (16:50).",
+      "If you are hungry, we can go to a restaurant.",
+      "I’m at leisure: I want to see Paris.",
+      "When did you leave the restaurant?",
+      "I left it at ten pm (22:00).",
+      "You drank many glasses of wine.",
+      "Not at all, I only drank coffee."
+    ],
+    "footnotes": []
+  }
+}

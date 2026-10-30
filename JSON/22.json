@@ -1,0 +1,96 @@
+{
+  "meta": {
+    "lesson": 22,
+    "title": "Lectio vicesima altera",
+    "subtitle": {
+      "latin": "Paenula tibi convenit",
+      "english": "The coat suits you"
+    },
+    "revision": false
+  },
+  "latin": [
+    "Quid! Sine paenula<sup>1</sup> domo exire non dubitas!",
+    "Paenulam in sarcinis collocare neglexi<sup>2</sup>. Regiones meridianas semper tepidas esse credebam.",
+    "Erravisti! Aquilo saepe nobis aërem<sup>3</sup> frigidum affert. Propter hunc ventum hodie temperies frigida est.",
+    "Ubi paenulam emere possum?",
+    "Non desunt tabernae in hac via. Veni mecum<sup>4</sup>! Ecce taberna Olivae: ille mercator mihi amicisque meis vestes lautas pretio modico vendit.",
+    "Salve Oliva! — Salvete Domni! Quid vobis?",
+    "Fac videamus<sup>5</sup> paenulas. Ecce paenulae! Quanta<sup>6</sup> paenularum copia!",
+    "Quod est judicium tuum de istis paenulis cinereis? Quid de illa fusca?",
+    "Color hujus paenulae mihi non displicet. Eam probemus<sup>7</sup>!",
+    "Haec paenula tibi miro modo convenit.",
+    "Et cum paenula, visne alia vestimenta? Subuculam, mastrucam, bracas, pallium<sup>8</sup>? Quid de hoc petaso?",
+    "Haec paenula mihi satisfacit. Possumne eam cursuali perscriptione<sup>9</sup> solvere?",
+    "Perscriptionem implet et eam Olivae porrigit."
+  ],
+  "english": [
+    "What! You dare (don’t hesitate) to leave home (to go out from home) without a coat!",
+    "I neglected to put [my] coat in the luggage. I thought (was thinking) the southern regions were (to be) always warm.",
+    "You were wrong (erred)! The North wind often brings us cold air. Because-of this wind, the temperature is cold today.",
+    "Where can I buy a coat?",
+    "There are many (Not there-is-shortage-of) shops on this street. Come with me! Here’s Oliva’s shop. That shopkeeper (merchant) sells elegant clothes to me and my friends at a moderate price.",
+    "Hello Oliva! — Hello gentlemen! What [can I do] for you?",
+    "Let us see (make we-may-see) [some] coats! — Here-are the coats! — What-a-great abundance of coats!",
+    "What do you think (is your judgment) about those grey coats? What about that darkish one over there?",
+    "The colour of this coat does not displease me. Let’s try it!",
+    "That coat suits you wonderfully (in-a-wonderful manner).",
+    "And with the coat, do want [some] other clothing? A *shirt, a *jacket, trousers, a cloak? What about this hat?",
+    "This coat satisfies me. Can I pay for it with a postal check?",
+    "He fills out the check and hands (extends) it to Oliva."
+  ],
+  "notes": {
+    "footnotes": [
+      "Paenula: (gen. paenulae), the (traveling) overcoat.",
+      "Neglexi: perfect of negligo, -is, -ere.",
+      "Aër (gen. aëris), the air. Think of “aerial”.",
+      "Mecum = cum me, with me; similarly tecum, with you; secum, with him/herself/themselves; nobiscum, with us; vobiscum, with you[pl.].",
+      "Videam, videas etc.: subjunctive of video, -es, -ere, to see. Fac: imperative (irregular) of facio, -is, -ere, to make. [There are two other similar imperatives: duc, from ducere = to lead; dic, from dicere = to say.]",
+      "Quantus, -a, -um, is an adjective meaning how big, how large, how great; it agrees therefore with copia, abundance, and becomes quanta.",
+      "Probemus: subjunctive of probo, -as, -are. The verbs whose infinitive is in -are make the present subjuntive in -em, -es, -et, etc. (probem, probes, etc.). We shall discuss this again.",
+      "Mastruca, f., (gen. mastrucae) the (sheepskin) jacket. Bracae, f. pl. (gen. bracarum), the trousers: plural noun (does not have a singular). Pallium, n., (gen. pallii), the cloak (a city cloak or a cloak of a Greek cut).",
+      "Perscriptio cursualis, payment by postal check."
+    ],
+    "comments": [
+      "This lesson provides us with a complete outline of the forms of the first declension. The 1st declension includes mainly feminine nouns and also some masculine nouns such as nauta, the sailor; agricola, the farmer; communista, the communist.",
+      "Singular:\t\t\t\t\tPlural:",
+      "Nominative\t\tPAENULa (P 10), subject\t\t\tPAENULae (P 7)",
+      "Accusative\t\tPAENULam (P 4), direct object\t\tPAENULas (P 7)",
+      "Genitive\t\tPAENULae (P 9), possessive\t\tPAENULárum (P 7)",
+      "Dative\t\tPAENULae, indirect object\t\tPAENULis",
+      "Ablative:\t\tPAENULá (P 1), adverbial phrase\tPAENULis (P 8)",
+      "Note the long á which makes it possible to recognize the ablative singular from the nominative singular.",
+      "In the 1st declension, the dative and the genitive have the same form in the singular. Olivae, in phrase 13, is a dative. In the plural, the dative and the ablative are the same as each other in all declensions; they are always in -is for the first two declensions. We haven’t mentioned the vocative of this declension: its form is like that of the nominative.",
+      "Finally, the locative has, in the singular, the same form as the genitive (ROMae, MASSiLIae, etc.). In the plural, the locative does not exist: in its place, one uses the ablative: ATHeNis, in Athens; this noun being plural and having ATHeNae as the nominative.",
+      "Dictionaries indicate the genitive of nouns: it is enough today for you to remember that if it is in -ae, the word belongs to the 1st declension. Henceforth, when we introduce nouns to you, we will adopt the usual dictionary presentation. Examples:",
+      "Paenula, ae, f.: feminine noun;",
+      "Agricola, ae, m., masculine noun.",
+      "There are no neuters (n.) in the first declension.",
+      "If you do not understand the sense of the abbreviations, refer to the table on page XVI (French version; XVII in the Italian one)."
+    ]
+  },
+  "exercises": {
+    "latin": [
+      "Oliva sine mora paenulas affert.",
+      "Quod est judicium vestrum de istis bracis rubris?",
+      "Bracae rubrae homini gravi non conveniunt.",
+      "Subucula sub mastruca induitur.",
+      "Induit se mastruca super subuculam.",
+      "Illarum paenularum colores mihi placent.",
+      "Hoc vestimentum mastruca dicitur, illud autem pallium.",
+      "Graeci pallio induebantur, Romani autem toga.",
+      "Hi «gens togata», illi autem «gens palliata» vocabantur."
+    ],
+    "english": [
+      "Olive brings the coats without delay.",
+      "What [do you think] (is your judgement) about those red trousers.",
+      "Red trousers are not suitable for a serious person.",
+      "A shirt is put on (worn) under a jacket.",
+      "He puts on (covers himself with) the shirt over the jacket.",
+      "[I like] the colours of those coats (please me).",
+      "This garment is called a jacket, that on-the-other-hand [is called] a cloak.",
+      "The Greeks wore (were covered with) the “pallium”, the Romans on-the-other-hand [wore] the “toga”.",
+      "The later (these) [were called] the “toga-clad (toga-ed) people”, the former (those) on-the-other-hand were called the “pallium-clad [pallium-ed] people”."
+    ],
+    "footnotes": []
+  }
+}

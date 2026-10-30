@@ -1,0 +1,80 @@
+{
+  "meta": {
+    "lesson": 9,
+    "title": "Lectio nona",
+    "subtitle": {
+      "latin": "Sarcinas collocamus<sup>1</sup>",
+      "english": "We load the luggage"
+    },
+    "revision": false
+  },
+  "latin": [
+    "Hodie eximus<sup>2</sup> peregrinatum.",
+    "Difficile est sarcinas in raeda collocare.",
+    "Uxor enim multas arcas<sup>3</sup> vestibus suis implet.",
+    "Mihi tantum bulgam unam parvam relinquit.",
+    "Arcae magnae et bulga parva in raeda tandem collocatae sunt.",
+    "Abimus. Equi duo raedam velocem trahunt.",
+    "Inter raedas et currus, equos meos firma manu rego.",
+    "Equus parvus plaustrum magnum trahit, et tarde progreditur.",
+    "Equum plaustrumque<sup>4</sup> facile antecedo<sup>5</sup>.",
+    "Plaustrum magnum tarde trahitur et a me facile anteceditur.",
+    "Vehiculum velox vehicula tarda antecedit.",
+    "Aspicio arcam, equum, vehiculum.",
+    "Aspicitur arca, equus, vehiculum.",
+    "Aspicimus arcas, equos, vehicula.",
+    "Aspiciuntur arcae, equi, vehicula."
+  ],
+  "english": [
+    "Today we are leaving on a trip.",
+    "It is hard [to load] the luggage in the car (to-place).",
+    "Indeed [my] wife fills many chests with her clothing (wife indeed many trunks by-clothes hers she-fills-in).",
+    "She only leaves me one small suitcase (to-me only bag one small she-leaves).",
+    "The large chests and small suitcase are finally loaded in the car (finally having-been-placed are).",
+    "We depart. Two horses are pulling the fast cart (horses two cart swift they-haul).",
+    "Among [the] carts and [the] chariots, I control my horses with a firm hand (horses mine by-firm hand I-rule).",
+    "The small horse is pulling a large waggon and is proceeding slowly (waggon large it-hauls, and slowly advances).",
+    "I easily pass the horse and the waggon (horse waggon-and easily I-pass).",
+    "The large waggon is pulled slowly and is easily passed by me.",
+    "The swift vehicle passes the slow vehicles.",
+    "I look at the chest, the horse, the vehicle.",
+    "(Is-looked-at) The chest, the horse, the vehicle is looked at.",
+    "We look at the chests, the horses, the vehicles.",
+    "(Are-looked-at) The chests, the horses, the vehicles are looked at."
+  ],
+  "notes": {
+    "footnotes": [
+      "Collocare is a composite verb: cum (with) + locare (place), the m of cum being transformed into an l and the u into an o so that its pronunciation is easier. Present tense: colloco, collocas, etc.",
+      "Exire, to leave, is composed of ex (out of …) and of ire (to go); present tense exeo, exis, etc., an irregular verb like ire, which we already saw in lesson 5. Similarly abire = ab (away from) + ire, in P 6.\n\nLatin uses composite words a lot. We shall point out to you later some techniques for better comprehending this process of construction.",
+      "Arca, arcae, a trunk, trunks, if it acts as the subject; arcam, arcas, a trunk, trunks, if it acts as the direct object. This variation a, ae, am, as is common to a large number of feminine nouns; similarly: equus, equi, a horse, horses (subject); equum, equos, a horse, horses (dir. obj.). These last forms correspond in general to masculine nouns.\n\nThe neuter nouns are much nicer, since they have the same form in both functions: vehiculum, vehicula, a vehicle, vehicles (subject or dir. obj.).\n\nDo not worry for the moment about the currus in P 7 nor the velox in P 11: we will see later why these words vary in a different manner.",
+      "Plaustrumque = et plaustrum: note the displacement of the accent.",
+      "Antecedo, antecedor, I pass, I am passed; similarly colloco, collocor, I place, I am placed.\n\nActive verbs in o, as (or is), etc., become passive (it is the subject which undergoes the action) when their ending is transformed into or, ris, tur, etc. This transformation is very practical. Unfortunately, for some time you will have some difficulties with the spoilsports such as loquor, I speak; progredior, I advance; which have exactly the form of the passive verbs, but an active sense (generally intransitive). Be assured that all of this will be clarified before long."
+    ],
+    "comments": [
+      "In the exercises you will meet more and more new forms and new words. Do not try to analyze them, and content yourself with getting used to them, helping yourself with the translation."
+    ]
+  },
+  "exercises": {
+    "latin": [
+      "Ubi est equus?",
+      "In raeda est equus.",
+      "Quo eunt equi quattuor?",
+      "Ad theatrum eunt.",
+      "Currus velox raedam tardam antecedit.",
+      "Quid quaeris? Currum velocem quaero.",
+      "Lugdunum ire volo.",
+      "Uxor bulgas suas in raeda non collocat."
+    ],
+    "english": [
+      "Where is the horse?",
+      "The horse is in the cart.",
+      "Where are the four horses going?",
+      "They are going to the theatre.",
+      "The quick chariot passes the slow cart.",
+      "What do you seek? I seek a fast chariot.",
+      "I want to go to Lyon.",
+      "[My] wife does not put her suitcases in the car."
+    ],
+    "footnotes": []
+  }
+}

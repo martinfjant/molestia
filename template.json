@@ -1,0 +1,17 @@
+{
+  "meta": {
+    "lesson": 0,
+    "title": "Lectio X",
+    "revision": false
+  },
+  "latin":  ["Sententia prima", "Sententia secunda<sup>1</sup>"],
+  "english": ["Sentence one", "Sentence two"],
+  "notes": {
+    "footnotes": ["Footnote one", "Footnote two"],
+    "comments": ["Paragraph 1", "Paragraph 2"]
+  },
+  "excersises": {
+    "latin": ["Sententia prima", "Sententia secunda"],
+    "english": ["Sentence one", "Sentence two"]
+  }
+}

@@ -1,0 +1,72 @@
+{
+  "meta": {
+    "lesson": 19,
+    "title": "Lectio undevicesima",
+    "subtitle": {
+      "latin": "Abi cubitum",
+      "english": "Go to bed"
+    },
+    "revision": false
+  },
+  "latin": [
+    "Juli! Abi cubitum!",
+    "Mamma, precor! Nolo<sup>1</sup> cubitum ire: somnus me non urget.",
+    "Mater Julium per gradus usque ad cubiculum trahit.",
+    "Si puer bonus eris, cras tibi crustulum dabo<sup>2</sup>.",
+    "Julius puer bonus est: vestem deponit et lectum petit; sub linteo lodicibusque mergitur, et in somnum labitur<sup>3</sup>.",
+    "Johannes, cum it cubitum, calceos in pavimentum vehementer projicere solet<sup>4</sup>.",
+    "Die quodam, vicinus ei dicit: «Amice, precor! Noli nocte calceos tam vehementer projicere<sup>5</sup>, fragor in cubiculo meo auditur, itaque e somno expergiscor.»",
+    "Da veniam, respondet Johannes, calceos jam non projiciam<sup>6</sup>.",
+    "Nocte sequenti, Johannes cubitum it, vestem deponit, calceum priorem in pavimentum projicit, et tunc, o horror, subito vicini meminit...",
+    "Sed quid faciat<sup>7</sup>? Calceum alterum in pavimento leniter cauteque ponit, ... et in somnum labitur.",
+    "Postero die, vicinum videt eique dicit: «Meliusne hac nocte dormisti?»",
+    "Tunc respondet vicinus: «Pessime etiam dormii: unum calceum cadentem audivi... et alterum tota nocte exspectavi!»"
+  ],
+  "english": [
+    "Julius, go (go away) to bed (to lie down)!",
+    "Mummy, please (I pray)! I don’t want to go to bed. I’m not sleepy (sleep isn’t urging me).",
+    "[His] mother drags Julius up (through) the stairs to (as far as) the bedroom.",
+    "If you are (will be) a good boy, tomorrow I’ll give you a pastry.",
+    "Julius is a good boy. He takes off (puts down) his clothes (garment) and goes to (makes for the) bed. He disappears under the sheet and the blankets, and falls asleep (into sleep).",
+    "John, when he goes to bed, is-accustomed vigorously to throw his shoes onto the floor.",
+    "One day (on a certain day), a neighbour says to him: “Friend, please (I pray)! Don’t throw [your] shoes so vigorously at night: the noise is heard in my bedroom, and so I wake up (I am awaken out of [my] sleep)”.",
+    "I’m sorry (give pardon), responds John, I will no longer throw [my] shoes.",
+    "The following night, John goes to bed, takes off his clothes, throws the first shoe onto the floor, and then, oh horror, he suddenly remembers [his] neighbour (of neighbour).",
+    "But what is he to do? He gently and cautiously puts the second shoe on the floor, … and slips into sleep.",
+    "On the day after, he sees the neighbour and says to him: “Did you sleep better last (this) night”?",
+    "Then the neighbour replies: “I slept still very badly: I heard one shoe falling… and I waited for the other for the whole night!”"
+  ],
+  "notes": {
+    "footnotes": [
+      "Nolo, non vis, non vult, nolumus, non vultis, nolunt: I do not want, you do not want, etc.; infinitive: nolle, not to want.\n\nVolo, vis, vult, volumus, vultis, volunt: I want, you want, etc.; infinitive: velle, to want. Velle is an irregular verb, as you can see, and its compound nolle is even more so, since its non is sometimes joined and altered, and sometimes separated. You will see these verbs often enough to be able to remember them without effort thanks to usage.",
+      "Dare, to give. Present tense: do, das, etc.; future tense: dabo, dabis, dabit, dabimus, dabitis, dabunt.",
+      "Labor, laberis, labitur, labimur, labimini, labuntur, I slip, you, etc.; infinitive: labi, to slip, is an active verb (intransitive) which is conjugated in the passive form, like loquor or sequor, which we have already seen. Such verbs are called deponents, because they put down (depose) their active form to take the passive form. In contrast mergor, mergeris, etc.; infinitive, mergi is the passive voice of mergo (is, ere) which is to immerse [something], sink [something] down; that passive form means therefore: to be immersed, or also to sink (i.e. to be sinking) if we are talking about a ship. You may know the motto of the city of Paris: Fluctuat nec mergitur, it floats and does not sink (nec, and not).",
+      "Solere, to be in the habit of; present tense: soleo, soles, solet, etc.",
+      "Noli projicere, do not throw (literally do not want to throw). The imperative alone is never used with negation: it is replaced with the imperative of nolo and the infinitive.",
+      "Projiciam is a future tense; 2nd pers., projicies; 3rd, projiciet; etc., projicient; whereas the present tense is projicio, projicis, etc., projiciunt.",
+      "Faciat, 3rd pers. sg. of the pres. subj. of facere."
+    ],
+    "comments": []
+  },
+  "exercises": {
+    "latin": [
+      "Volo te cubitum abire.",
+      "Non vult me calceos in pavimentum projicere.",
+      "Vis Julium in lecto dormire.",
+      "Marius vult nos januam pede urgere.",
+      "Quo calceus projicitur? — Calceus in pavimentum projicitur.",
+      "Ubi est Julius? — Julius est in lecto.",
+      "Calcei de tabulato quadragesimo quinto projiciuntur."
+    ],
+    "english": [
+      "I want you to go (go away) to bed (to lie down).",
+      "He doesn’t want me to throw [my] shoes onto the floor.",
+      "Do you want Julius to sleep in [his] bed?",
+      "Marius wants us to nudge (urge) the door with [our] foot.",
+      "Where (whither) is the shoe thrown? — The shoe is thrown onto the floor.",
+      "Where is Julius? — Julius is in bed.",
+      "The shoes are thrown from the forty-fifth floor."
+    ],
+    "footnotes": []
+  }
+}

@@ -1,0 +1,105 @@
+---
+layout: base.njk
+pagination:
+  data: lessons
+  size: 1
+  alias: lesson
+permalink: "/lectio/{{ lesson.meta.lesson }}/"
+eleventyComputed:
+  title: "{{ lesson.meta.title }}"
+---
+{%- macro sentences(lesson, lang) -%}
+{%- for seg in lesson | segments(lang) %}
+  {%- if seg.items %}
+<ol start="{{ seg.start }}">
+    {%- for s in seg.items %}
+  <li>{{ s | safe }}</li>
+    {%- endfor %}
+</ol>
+  {%- endif %}
+  {%- if seg.source %}
+<p><cite>{{ seg.source | safe }}</cite></p>
+  {%- endif %}
+  {%- if seg.heading %}
+<h3>{{ seg.heading | safe }}</h3>
+  {%- endif %}
+{%- endfor %}
+{%- endmacro -%}
+
+<article>
+<h1>{{ lesson.meta.title }}</h1>
+{%- if lesson.meta.subtitle.latin or lesson.meta.subtitle.english %}
+<h2 lang="la">{{ lesson.meta.subtitle.latin | safe }}</h2>
+{%- endif %}
+
+{%- if lesson.latin.length %}
+<section lang="la">
+{{ sentences(lesson, "latin") }}
+</section>
+{%- endif %}
+
+{%- if lesson.english.length %}
+<section lang="en">
+{%- if lesson.meta.subtitle.english %}
+<h2>{{ lesson.meta.subtitle.english | safe }}</h2>
+{%- endif %}
+{{ sentences(lesson, "english") }}
+</section>
+{%- endif %}
+
+{%- if lesson.notes.footnotes.length or lesson.notes.comments.length %}
+<section lang="en">
+<h2>{% if lesson.meta.revision %}Revision and Notes{% else %}Notes{% endif %}</h2>
+{%- if lesson.notes.footnotes.length %}
+<ol>
+  {%- for note in lesson.notes.footnotes %}
+  <li>{{ note | paras | safe }}</li>
+  {%- endfor %}
+</ol>
+{%- endif %}
+{%- for comment in lesson.notes.comments %}
+{{ comment | paras | safe }}
+{%- endfor %}
+</section>
+{%- endif %}
+
+{%- if lesson.song %}
+<section>
+<h2>{{ lesson.song.kind }}</h2>
+{%- if lesson.song.title.latin %}<h3 lang="la">{{ lesson.song.title.latin }}</h3>{% endif %}
+<p lang="la">{{ lesson.song.latin | join("<br>") | safe }}</p>
+{%- if lesson.song.title.english %}<h3 lang="en">{{ lesson.song.title.english }}</h3>{% endif %}
+<p lang="en">{{ lesson.song.english | join("<br>") | safe }}</p>
+{%- if lesson.song.source %}<p><cite>{{ lesson.song.source }}</cite></p>{% endif %}
+</section>
+{%- endif %}
+
+{%- if lesson.exercises.latin.length %}
+<section>
+<h2 lang="la">Exercitatio</h2>
+<ol lang="la">
+  {%- for s in lesson.exercises.latin %}
+  <li>{{ s | safe }}</li>
+  {%- endfor %}
+</ol>
+<ol lang="en">
+  {%- for s in lesson.exercises.english %}
+  <li>{{ s | safe }}</li>
+  {%- endfor %}
+</ol>
+{%- if lesson.exercises.footnotes.length %}
+<ol>
+  {%- for note in lesson.exercises.footnotes %}
+  <li>{{ note | paras | safe }}</li>
+  {%- endfor %}
+</ol>
+{%- endif %}
+</section>
+{%- endif %}
+</article>
+
+<nav>
+{%- if pagination.href.previous %}<a href="{{ pagination.href.previous }}">← {{ lessons[pagination.pageNumber - 1].meta.title }}</a>{% endif %}
+{%- if pagination.href.previous and pagination.href.next %} · {% endif %}
+{%- if pagination.href.next %}<a href="{{ pagination.href.next }}">{{ lessons[pagination.pageNumber + 1].meta.title }} →</a>{% endif %}
+</nav>

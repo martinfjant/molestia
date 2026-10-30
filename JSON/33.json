@@ -1,0 +1,111 @@
+{
+  "meta": {
+    "lesson": 33,
+    "title": "Lectio tricesima tertia",
+    "subtitle": {
+      "latin": "Menses et anni tempora",
+      "english": "The months and the seasons"
+    },
+    "revision": false
+  },
+  "latin": [
+    "Heri hebdomadis dierum nomina commemoravimus. Hodie mensium<sup>1</sup> et anni temporum nomina inspiciamus.",
+    "Mensium nomina ipsi inveniamus opus erit. — Ipse incipiam:",
+    "Primus anni mensis Januarius vocatur. Incipientis enim anni januam aperit.",
+    "Non a janua, sed a Jano<sup>2</sup> deo nomen suum ducit.",
+    "Sequuntur Februarius, Martius, Aprilis, Majus, Junius, Quintilis, Sextilis...",
+    "Antiqua dicis! Ignorasne a principibus<sup>3</sup> nostris Julio Caesare et Augusto ultimos duos menses nomina sua duxisse?",
+    "Ideoque nunc dicere oportet Julium pro<sup>4</sup> Quintili et Augustum pro Sextili.",
+    "Omnium gentium principes nomina facilius<sup>5</sup> quam mores mutant.",
+    "Menses tamen sequentes mutati non sunt: September, October, November, December<sup>6</sup>.",
+    "Quando incipit ver<sup>7</sup>?",
+    "Cum mensis Martii finis appropinquat et cum arbores gemmas proferunt.",
+    "Aestas nomen ducit ab aestu<sup>8</sup>, qui vehementem calorem significat.",
+    "Autumno folia cadunt, etiam folia<sup>9</sup> vectigalia<sup>10</sup> (quae vectigal solvendum nuntiant).",
+    "Hieme nix montes cooperit; lacus gelu constringuntur; tempus est exercitationum hiemalium."
+  ],
+  "english": [
+    "Yesterday we recalled the names of the days of the week. Today let's examine (subj.) the names of the months and of the [seasons] (times of the year).",
+    "It will be necessary that we find the names of the months ourselves.— I myself will begin:",
+    "The first month of the year is called January. Indeed it opens the door of the [incoming] (beginning) year.",
+    "[It's] not from door, but from the god Janus [that] it takes (leads) its name.",
+    "There follow February, March, April, May, June, Quintile, Sextile…",
+    "You are saying old stuff! Do you ignore [that] the last two months took (to have led) their names from our princes Julius Caesar and Augustus?",
+    "And that's why we are now meant to say July for Quintile and Augustus for Sextile.",
+    "The premiers of all nations change names more easily than customs.",
+    "The following months were not changed however: September, October, Novemeber, December.",
+    "When does spring begin?",
+    "When the end of the month of March approaches and when the trees bring forth buds.",
+    "Summer (aestas) takes (leads) its name from \"aestus\", which means \"severe heat\".",
+    "In the autumn leaves fall, even tax [bills] (leaves [of paper]) (which announce the tax to be paid).",
+    "In winter snow covers the mountains; the lakes are frozen with ice; it is the time of winter sports."
+  ],
+  "notes": {
+    "footnotes": [
+      "Mensis, -is, m., parisyllabic, so the genitive plural is in -ium.",
+      "Janus, -i, m., Janus, a very old Roman god, who was represented as having a secound face at the nape of the neck, which must have given him a remarkable field of vision! The words for the months are adjectives. Those which belong to the 3rd declension (Aprilis, October, -bris, etc.) from therefore their ablative in -i (Aprili, Octobri).",
+      "Princeps, -ipis, is an adjective used here as a noun: the first (or premier of the State).",
+      "Pro + abl., preposition, instead of …",
+      "Facilius, adv., more easily, comparative of facile, easily (cf. L 12); the corresponding adjective is facilis, n. facile; comparative facilior, -ius, easier; superlative (irregular) facillimus, -a, -um, easiest. You can see that the nominative-accusative neuter of the adjective and comparative can be transformed into an adverb. The superlative of the adverb is obtained by replacing with an e the ending of the superlative of the adjective: facillime, most easily.",
+      "September, October, etc., come from septem, octo, etc., because there was a time when the year began on the 1st of March, which similarly explains the old Quintilis and Sextilis (quintus, sextus).",
+      "Ver, veris, n., the spring (Sp. la primavera); aestas, -atis, f., the summer (Fr. l'été); autumnus, -i, m., the autumn (Fr. l'automne); hiems, hiemis, f., the winter (Fr. l'hiver). Note that the genders of most of these nouns differ from those of their Romance counterparts.",
+      "Aestus, -us, m., sultriness (cf. aestuare, L 32, N 2). Note that calor, -oris, is masculine, as calore is in Italian.",
+      "Folium, -ii, n., the leaf, sheet, in every sense of these words.",
+      "Vectigal, -alis, n., the tax, is a false imparisyllabic (contraction of vectigale, -is) so the singular ablative is in -i, the nominative-accusative plural in -ia and the genitive plural in -ium, like the parisyllabics. However, in phrase 13, vectigalia does not come from the noun, but from the corresponding adjective: vectigalis (n. vectigale), relating to tax, which has otherwise many forms in common with the noun."
+    ],
+    "comments": [
+      "And to finish, let's see more closely the 4th declension, which includes:",
+      "1st On the one hand, words in -us, mostly masculines; but manus, the hand, socrus, -us, the mother-in-law, and some names of trees (e.g.: quercus, the oak) are feminine.",
+      "Singular:\t\tPlural:",
+      "nom.\texitus, the exit, the outcome.\t\texitús",
+      "acc.\texitum\t\texitús",
+      "gen.\texitús\t\texituum",
+      "dat.\texitui\t\texitibus",
+      "abl.\texitu\t\texitibus",
+      "2nd On the other hand, some neuter nouns, whose declension differs from the preceding in the nominative and accusative, which are in the singular in -u and in the plural in -ua.",
+      "E.g.: cornu, gen. cornús., the horn (also the musical instrument), acc. sg. cornu, nominative and acc. pl. cornua.",
+      "N.B.— Some nouns form their dative and ablative plural in -ubus instead of -ibus. Such is the case with lacus which we will see in all its finery in the exercise."
+    ]
+  },
+  "exercises": {
+    "latin": [
+      "Quando ferias agitis? — Aestivo tempore.",
+      "Nos autumnali tempore eas agere malumus.",
+      "Dies quidem breviores fiunt, sed sol etiamtunc saepe splendet.",
+      "Hospitium in deversoriis facilius invenitur.",
+      "Feriis quietis delectamini.",
+      "Nos quoque quietem amamus, sed quod volumus, id efficere non semper possumus.",
+      "Mense Augusto ab opere vacare debemus.",
+      "Dum fabrica clausa manet, operarii et administri simul omnes in ferias abeunt.",
+      "Ruri tamen vitam quietam agere possumus.",
+      "In lacubus piscamur.",
+      "Regio nostra lacuum referta est.",
+      "Lacus hujus regionis piscibus referti sunt.",
+      "In lacum urinemur!",
+      "In lacus urinemini!",
+      "E lacu exeunt.",
+      "Lacus aqua dulcis est.",
+      "Aquam adducunt lacui."
+    ],
+    "english": [
+      "When do you take your holidays? — In the summer time.",
+      "*We* prefer to take them in the autumn.",
+      "The days surely become shorter, but the sun even then often shines.",
+      "Lodging is more easily found in the hotels.",
+      "You like (are delighted by) quiet holidays.",
+      "We too love the quiet, but we can't always do what we want.",
+      "We must [take off] (vacate) from work in the month of August.",
+      "While the factory remains closed, all the workers and employees depart on holiday at the same time.",
+      "In the country nevertheless we can lead a quiet life.",
+      "We fish in the lakes.",
+      "The fish [from] (of) these lakes are [tasty] (agreeable) to eat.",
+      "The lakes of this region are teaming (full) with fish.",
+      "Let's dive in the lake.",
+      "Let you dive in the lakes.",
+      "They come out of the lake.",
+      "The water of the lake is fresh (sweet).",
+      "This city is near (neighboring to) the lake."
+    ],
+    "footnotes": []
+  }
+}

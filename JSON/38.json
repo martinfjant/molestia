@@ -1,0 +1,82 @@
+{
+  "meta": {
+    "lesson": 38,
+    "title": "Lectio tricesima octava",
+    "subtitle": {
+      "latin": "In tramine (concluditur)",
+      "english": "On the train (conclusion)"
+    },
+    "revision": false
+  },
+  "latin": [
+    "Visne hispanicam<sup>1</sup>, Domne?",
+    "Gratias tibi! Fumariolum<sup>2</sup> jam implevi<sup>3</sup>. Habesne ignem<sup>4</sup>?",
+    "Nolite fumum facere, inquit domna cum cane parvulo, fumi me taedet<sup>5</sup>.",
+    "Doleo, optima domna, sed hoc est loculamentum fumatorium, ergo nobis tabaco frui<sup>6</sup> licet, respondet domnus, fumariolum tranquille accendens<sup>7</sup>.",
+    "Impudens es leno<sup>8</sup>! Haec verba proferens<sup>9</sup> domna fumariolum arripit idque per fenestram projicit<sup>10</sup>.",
+    "Malo tacere quid sis, optima domna! Haec verba proferens domnus canem parvulum arripit<sup>11</sup>, eumque per fenestram projicit...",
+    "Silentium sepulcrale sequitur... auditur tandem frenorum strepitus. Tramen in statione quadam consistit.",
+    "Tunc, res mirabilis, in crepidine stationis apparet canis parvulus anhelans<sup>12</sup> atque dentibus<sup>13</sup> tenens ... quid enim tenere possit?",
+    "Hem... fumariolum, responderim!",
+    "Minime! Erravisti! Dentibus tenet ... partem glaciei quae in thermopolio lectionis tricesimae sextae deerat!"
+  ],
+  "english": [
+    "Do you want a cigarette, sir?",
+    "Thank you! I have already filled [my] pipe. Do you have [a light] (fire)?",
+    "Don’t[pl.] [smoke] (want to make smoke), says the lady with the tiny dog, [smoke disturbs me] (of-smoke me it-disgusts).",
+    "I’m sorry, [dear] (excellent) lady, but this is a smoking compartment, therefore it is allowed for us to [smoke] (enjoy with-tobacco), responds the gentleman, tranquilly lighting [his] pipe.",
+    "You are an impudent panderer! [With] (bringing forth) these words, the lady takes hold of the pipe and throws it out (through) the window.",
+    "I prefer [not to say] (to be silent) what you are, dear lady! With these words, the gentleman takes hold of the tiny dog, and throws it out the window…",
+    "A sepulchral silence follows… finally the noise of the brakes is heard. The train comes to a stop at a station.",
+    "Then, wondrous thing, on the platform of the station appears the tiny dog, panting and holding [in] (with) its teeth … what indeed could it be holding?",
+    "Hmmm… the pipe, I would answer! (perfect subj.)",
+    "Not at all! You have made a mistake! In its teeth it holds … the block of ice which was missing [from] (in) the canteen of lesson thirty-six(th)!"
+  ],
+  "notes": {
+    "footnotes": [
+      "Hispanicus, -a, -um, Spanish, whence hispanica, cigarette (the Spanish one). Tabacum, -i, n., tobacco; tabaceus, -a, -um, of tobacco. In the exercise: volumen, -inis, n., a rolling, whence volumen tabaceum, cigar.",
+      "Fumariolum, -i, n., place from which smoke escapes, little furnace.",
+      "Impleo, -es, -ere, -evi, -etum, to fill.",
+      "Ignis, -is, m., fire. Think of igneous, ignite, ignition, etc.",
+      "Me taedet, me paenitet are impersonal verbs; literally, it disgusts me of…, it sorrows me of… The real subject (here me) is in the accusative while the object is in the genitive. Example paenitet Johannem culpae suae: John repents of his offense.",
+      "Fruor, -eris, -i, fructus sum + abl. = to profit from, to enjoy.",
+      "Accendens, present participle of accendo, -is, -ere, accendi, accensum, to set fire to, to light.",
+      "Leno, lenonis, m., slave-dealer, pimp, not a very commendable profession, one suspects.",
+      "Profero, -fers, -ferre, -tuli, -latum, irregular like fero, bring forth, advance, mention.",
+      "Projicio, -is, -ere, -jeci, -jectum = pro + jacio, throw out, throw away. Pro, in front of, or instead of.",
+      "Arripio, -is, -ere, arripui, arreptum = ad + rapio, -is, -ere, rapui, raptum, to take hold of. You will note that rapio, to carry off, does not have exactly the same principal parts as arripio. Often derived verbs depart somewhat from the original, generally for reasons of ease of pronunciation.",
+      "Anhelare, to pant.",
+      "Dens, dentis, m., tooth; notice that this word is masculine (unlike its French equivalent la dent). Dens serrae, sawtooth (literally or as a geometric shape)."
+    ],
+    "comments": [
+      "N.B.— The purely accidental coincidence between Bis Bini, (-ae, -a) and the abbreviation BB is due to the fact that B is the 2nd letter of the Roman alphabet.",
+      "Unknown words are going to slip more and more often into our exercises. Today they are particularly numerous:",
+      "Capsa, box, whose diminutive capsula, little box, you can also note; natalicius, -a, -um, relating to birth; volumen, see N. 1; acta diurna, literally things done (past participle of ago) during the day (daily); and hence the reporting of them, i.e., formerly chronicle and now newspapers. Chartula, -ae, little card. Septemtrio, -onis, m., the north; flare, to blow; quorsus? in what direction? But you have already seen cursualis in Lesson 22, as well as bis, adv., twice and bini, -ae, -a, in twos, in lesson 6."
+    ]
+  },
+  "exercises": {
+    "latin": [
+      "Quis (tabacea) volumina cupit? Mihi est capsa viginti quinque voluminum quam avia natalicio die meo mihi dono dedit.",
+      "Hispanicas malo. Tabacum ipse in papyro involvo.",
+      "Possumne tabacum in stationis thermopolio emere?",
+      "Ita, domne, sed adest quoque taberna in crepidine, ubi vendunt tabacum, acta diurna, chartulasque cursuales.",
+      "Hae chartulae mihi placent: duas emam.",
+      "Oportet scribam matri, fratrique meo.",
+      "Tertiaque emenda est. Certum facere debemus Jacobum amicum de adventu nostro.",
+      "Problema. — Locomotrix typi qui BB dicitur, quia bis binos axes habet, orientem petit. Ventus a septemtrione flat. Quorsum it fumus?",
+      "Responsum. — Nullus est fumus quia locomotrices BB electricae sunt."
+    ],
+    "english": [
+      "Who wishes for cigars? I have a box of twenty-five cigars that my grandmother gave me as a gift on my birthday.",
+      "I prefer cigarettes. I roll the tobacco in paper myself.",
+      "Can I buy tobacco in the station(‘s) canteen?",
+      "Yes, sir, but there is also a shop on the platform, where they sell tobacco, newspapers, and postcards.",
+      "I like these cards: I’ll buy two.",
+      "[I must write] (it is necessary I should write) to [my] mother, and to my brother.",
+      "And [I must buy] a third (is to-be-bought). We should [inform] (make more-certain) our friend James about our arrival.",
+      "Problem.— A locomotive of the type (which is) called BB, because it has twice two axles, is makinf for the west. The wind blows from the north. In what direction does the smoke go?",
+      "Answer.—There is no smoke because BB locomotives are electric."
+    ],
+    "footnotes": []
+  }
+}

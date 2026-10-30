@@ -1,0 +1,85 @@
+{
+  "meta": {
+    "lesson": 12,
+    "title": "Lectio duodecima",
+    "subtitle": {
+      "latin": "Facilius in eo ponitur poculum",
+      "english": "It is easier to put the glass on it"
+    },
+    "revision": false
+  },
+  "latin": [
+    "Musicus clarus, sed satis ad potionem<sup>1</sup> pronus, a diurnario interrogatur<sup>2</sup>.",
+    "Unde orta est, Magister, peritia tua?",
+    "Ab avo meo, sine ullo dubio<sup>3</sup>, nam fidiculis peritissime canebat<sup>4</sup>.",
+    "Tu vero, cur clavichordium potius elegisti?",
+    "Quia facilius in eo quam in fidiculis ponitur poculum!",
+    "Clavichordium est instrumentum musicum cujus chordae malleis percutiuntur<sup>5</sup>.",
+    "Musicus bibulus facile poculum in clavichordio ponit.",
+    "Poculum a musico bibulo in fidiculis difficulter ponitur.",
+    "Sol in oriente oritur. Julius Caesar e gente nobili ortus est.",
+    "Eligo, eligis, eligere. — Elegi, elegisti, elegit, elegerunt, elegisse.",
+    "Pono, ponis, ponere. — Posui, posuisti, posuisse;",
+    "Ponor, poneris, poni. — Positus sum<sup>6</sup>."
+  ],
+  "english": [
+    "A famous musician, but quite (enough) prone to drink, is interviewed by a journalist (by journalist is-questioned).",
+    "Where did your expertise come from, maestro (from-where [whence] has-arisen, master, expertise yours[sg.])?",
+    "From my grandfather, without any doubt, for he played the violin most expertly (by-violin very-expertly he-sang).",
+    "Yourself though, why did you rather choose the piano (you truly, why piano rather you-chose)?",
+    "Because it is easier to put the glass on it than on the violin (more-easily on it than on violin is-put beaker)!",
+    "A piano is a musical instrument whose strings are struck by hammers.",
+    "The boozy musician rests (puts) his glass easily on the piano.",
+    "The glass is put on the violin with difficulty by the boozy musician.",
+    "The sun rises in the East. Julius Caesar was born from a noble family (having-arisen he-is).",
+    "I choose, you choose, to choose — I chose/have chosen, you chose/have chosen, he chose/has chosen, they chose/have chosen, to have chosen.",
+    "I place, you place, to place — I (have) put, you (have) put, to have put.",
+    "I am placed, you are placed, to be placed — I have been placed."
+  ],
+  "notes": {
+    "footnotes": [
+      "Potare, to drink (poto, potas, etc.); potio, the drink (subject); which, if it is a direct object, becomes: potionem. Poculum, the cup, the beaker, forms also part of the same family.",
+      "Interrogatur: passive voice; in the active voice, we would have: interrogat, he questions; similarly ponitur, he is placed and ponit, he places. You will compare phrase 2 of the exercise with phrase 1 of the lesson.",
+      "A diurnario, ab avo meo, sine ullo dubio: all these forms in o correspond to adverbial phrases. Note that the preposition a becomes ab in front of a vowel, similarly e, which indicates extraction, becomes ex in front of a vowel.",
+      "Cano, I sing, or I play an instrument; infinitive: canere; present indicative: cano, canis, canit, canimus, canitis, canunt. Canebat is an imperfect tense.",
+      "Chordae malleis percutiuntur (passive). By changing the verb to the active voice, the sentence transforms into: mallei chordas percutiunt, the hammers strike the strings. If we put all the words into the singular, we shall have: chorda malleo percutitur and malleus chordam percutit. Do not seek to memorize all of these variations yet: just know that they exist.",
+      "The passive verbs and those which are conjugated in the passive form, form their perfect tense by means of the perfect participle and of the verb sum, I am. It is very easy, but you will not have to forget after that that the participle agrees in the same way as an adjective. A woman will say therefore: posita sum, I was placed."
+    ],
+    "comments": [
+      "The excerpts from magazines and from books which we shall give you from time to time sometimes depart from the original text. You will find further references on the works cited in the Bibliography which is found at the end of the volume.",
+      "Have you noticed that phrases 5, 6 and 7 of the exercise are examples of what is pointed out in note 6? You can at the same time deduce from that that fidiculae is feminine (plural), bulga, feminine, and clavichordium, neuter."
+    ]
+  },
+  "exercises": {
+    "latin": [
+      "Musicus non esurit, sed potionem bibere vult.",
+      "Diurnarius musicum bibulum interrogat.",
+      "Musicus fidiculas in raeda ponit.",
+      "Fidiculae in raeda ponuntur.",
+      "Fidiculae in raeda positae sunt.",
+      "Bulga in raeda posita est.",
+      "Clavichordium in cubiculo parvo difficulter positum est.",
+      "Quanti constant fidiculae? Constant mille francis.",
+      "Cur cubiculum vicesimum tertium elegisti? Quia de fenestra portum videre possum."
+    ],
+    "english": [
+      "The musician is not hungry, but wants to drink [something] (a-drink).",
+      "The journalist interviews (questions) the boozy musician.",
+      "The musician puts the violin(s) in the car.",
+      "The violin(s) [is] (are) [placed] (put) in the car.",
+      "The violin(s) [has] (have) been/[was] (were) placed in the car.",
+      "The suitcase has been / was put in the car.",
+      "[It has been / was difficult to put] the piano in the small room (with-difficulty has been / was put).",
+      "How much does (do) the violin(s) cost? [It] (they) costs (cost) a thousand francs.",
+      "Why did you choose room 23? Because from the window I can see the port."
+    ],
+    "footnotes": []
+  },
+  "sources": [
+    {
+      "after": 5,
+      "latin": "E Vita Latina (Septembris 1961, A. Rodot)",
+      "english": "From Vita Latina (september 1961, A. Rodot)"
+    }
+  ]
+}

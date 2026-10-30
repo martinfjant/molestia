@@ -1,0 +1,50 @@
+{
+  "meta": {
+    "lesson": 1,
+    "title": "Lectio prima",
+    "subtitle": {
+      "latin": "",
+      "english": ""
+    },
+    "revision": false
+  },
+  "latin": [
+    "Latine loqueris?",
+    "Nondum latine loquor: haec mihi prima lectio est.",
+    "Cito latine loqueris.",
+    "Lingua latina difficilis est.",
+    "Minime! Lingua latina difficilis non est.",
+    "Recte dicis, sed Roma non uno die aedificata est.",
+    "Loquor, loqueris, loquitur, loqui.",
+    "Dicis, est, difficilis.",
+    "Latine, recte, lingua latina."
+  ],
+  "english": [
+    "[Do you speak Latin?] (in-latin you-speak?)",
+    "[I still do not speak Latin] (not-yet in-latin I-speak): [this] (to-me) [is my] first lesson (is).",
+    "[You will speak Latin quickly] (quickly in-latin you[sg.]-will-speak).",
+    "[Latin] (language latin) is difficult.",
+    "Not-at-all! Latin is not difficult.",
+    "[You are right] (rightly you[sg.]-say), but Rome [was not built] (not) in-one day (having-been-built is).",
+    "I-speak, you[sg.]-speak, he-speaks, to-speak.",
+    "You[sg.] say, it is, difficult.",
+    "in-latin, rightly, Latin language."
+  ],
+  "notes": {
+    "footnotes": [],
+    "comments": [
+      "The “you” is singular here. In Latin form for “you” is different when addressing one person and when addressing several people.",
+      "The hyphen (-) joins several English words which serve as the translation of a single Latin word.",
+      "Today let it suffice to notice that word order in Latin is not always the same as that in English. Thus the verb is often put back at the end of the sentence, but this is not an absolute rule. You will see that you will easily get used to this style of construction.",
+      "Read this lesson noting carefully the pronunciation. Recite every sentence several times aloud, as we said in the introduction, and compare each sentence with its translation. Do not seek anything else for the moment, because it is much too early to try to analyze the construction of sentences. Trust us, we are taking you by the hand and we shall not drop you!",
+      "For the moment, the important thing is to mark the accentuation well [this is of course a remark for native French speakers, who don't have a movable accent in their language], that is to say, to pronounce the letters in bold with greater emphasis. Thus you must have noticed that it was accentuation which enabled you to recognize the form loqueris (you speak) from the form loqueris (you will speak), i.e. to distinguish the present from the future tense.",
+      "REMARK: These two forms differ, moreover, by the quantity of their syllables (see the introduction):\n\npresent tense: loqueris, (e is short);\nfuture tense: loquéris, (é is long).",
+      "If you have the audio recordings, listen several times to the lesson while repeating each sentence in your mind. Then recite it aloud, following the book, while imitating what you heard as well as you can. Finally, adjust your pronunciation, by again listening to the audio recording."
+    ]
+  },
+  "exercises": {
+    "latin": [],
+    "english": [],
+    "footnotes": []
+  }
+}

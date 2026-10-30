@@ -1,0 +1,95 @@
+{
+  "meta": {
+    "lesson": 24,
+    "title": "Lectio vicesima quarta",
+    "subtitle": {
+      "latin": "Cavete favillas!",
+      "english": "Mind the sparks!"
+    },
+    "revision": false
+  },
+  "latin": [
+    "Quam artem exercet pater tuus?",
+    "Pater meus faber<sup>1</sup> est.",
+    "In fabrica ferraria fabrum videmus qui plaustri axem corrigit<sup>2</sup>.",
+    "Axis igne<sup>3</sup> calefit. Cum satis calefactus est, faber eum in incudem imponit.",
+    "Malleo ferrum tundit<sup>4</sup>: scintillae sescentae<sup>5</sup> emicant<sup>6</sup>.",
+    "Intrate pueri, sed nolite appropinquare! Cavete favillas<sup>7</sup>!",
+    "Cui ita operaris, Domne? — Faber puero respondet:",
+    "Lucas agricola in fossam cum plaustro delapsus est: rota ejus fracta est et axis distortus.",
+    "Axis corrigendus est et rota reficienda<sup>8</sup>.",
+    "Lucas axem ipse<sup>9</sup> corrigere non potest:",
+    "Ei fabro opus est<sup>10</sup>.",
+    "Omnia nos ipsi facere non possumus.",
+    "Ferrum cudendum<sup>11</sup> est dum<sup>12</sup> candet<sup>13</sup> in igne."
+  ],
+  "english": [
+    "What is your father’s profession (what craft practices your father)?",
+    "My father is a smith.",
+    "In the (iron) forge we can see the smith straightening the axle of a waggon (who of-waggon axle straightens).",
+    "The axle is-heated with fire. When it has been heated enough, the smith puts it on the anvil.",
+    "With a hammer he beats the iron: [a thousand] flashes (600) shine-forth.",
+    "Come in, boys, but don't come close (do-not-wish to-approach)! Mind the sparks!",
+    "Who do you work for like-that, Sir? — The smith answers to the boy:",
+    "Lucas the farmer fell into a ditch with [his] waggon: its wheel is broken and the axle twisted.",
+    "The axle is to-be-straightened and the wheel (to-be-)repaired.",
+    "Lucas cannot straighten the axle himself:",
+    "He needs a smith (to-him with-a-smith work is).",
+    "We cannot do everthing ourselves.",
+    "The iron is to-be-struck while it glows-white in the fire (= the iron must be struck while it is hot)."
+  ],
+  "notes": {
+    "footnotes": [
+      "Faber, -bri: m., the craftsman and more specifically the smith. For greater precision one can say faber ferrarius, the iron craftsman (i.e. the blacksmith). Likewise faber carpentarius, the carriage craftsman, i.e., the cartwrite, carpenter. The same is true for its derivative fabrica (cf. L. 23, P. 1), forge, workshop, factory.",
+      "Corrigo, -is, -ere, to set right; perfect correxi, I have set right, past participle (passive) correctus, -a, -um.",
+      "Igne (abl. de ignis), fire, likewise incudem (acc. of incus, gen. incudis), anvil; these two words belong to the 3rd declension which we will look at in detail later.",
+      "Tundere, to beat (with a hammer or a blunt [French contondant] object).",
+      "Sescenti, m., sescentae, f., sescenta, n., 600. In Latin this figure is often used to indicate a large number of objects or people (that cannot be counted).",
+      "Emicare (ex + micare), to glitter forth.",
+      "Favilla, -ae f., designates ashes and other particles derived from combustion while they are still hot. Cold ashes are called cinis, -eris, m. (3rd decl.)",
+      "Reficere (re + facere), remake, repair; reficiendus, -a, -um, gerundive, which is to be repaired. Likewise corrigendus, -a, -um, gerundive from corrigere which we have seen above (N. 2).",
+      "Ipse, m., ipsa, f., ipsum, n., demonstrative adjective-pronoun indicating that one performs (or that one undergoes) the action oneself.",
+      "Opus est, there is need of… + dat. to indicate the person who has the need and abl. to indicate that which is needed. Opus est mihi otio, I need rest.",
+      "Cudere (cudo, cudis, etc.), to strike (iron), to forge. Cudendus, -a, -um: corresponding gerundive.",
+      "Dum, while. We will come back to this very important conjunction.",
+      "Candere, to be white; here, to be white-hot; candidus, -a, -um, bright white; candidatus, having had one's clothing whitened with chalk so as to look good on exam day —or election day— whence the candidate!"
+    ],
+    "comments": [
+      "In this exercise, try to distinguish the neuter plurals in –a from the nominative singulars of the 1st declension.",
+      "Answer: Nom. pl.: cubicula, crustula; nom. sg.: birota, rota, distorta.",
+      "Are you starting to get used to the Latin word order? Phrase 2 of the exercise is an example of normal word order",
+      "1st Subject (puer)",
+      "2nd Indirect object (fabro)",
+      "3rd Direct object (birotam with its attribute reficiendam)",
+      "4th and in the end the verb (dedit)",
+      "Today let's content ourselves with improving our knowledge of the words of the 2nd declension (gen. in -i) Have you recognized:",
+      "— masculines in -us: malleus (nom.), distortus (past participle passive), corrigendus (gerundive), etc.?",
+      "— masculines in -er: faber (gen. fabri), puer (pueri)? But pater (gen. patris) belongs to the 3rd declension.",
+      "— neuters in -um: plaustrum, ferrum etc.?",
+      "If you still have a few more minutes, you can use them better to recognize 1st declension words: fabrica, ferraria, scintilla, etc. Note also Lucas (Greek 1st declension, see previous Revision, §3) whose nominative singular alone has a particular form (-as and not -a)."
+    ]
+  },
+  "exercises": {
+    "latin": [
+      "Faber ferrarius pueri birotam reficit.",
+      "Puer fabro birotam reficiendam dedit.",
+      "Birota a fabro refecta est; rota ejus a puero distorta erat.",
+      "Birotae a fabris refectae sunt: eorum rotae a pueris distortae sunt.",
+      "Videsne puerum? Videtisne pueros?",
+      "Pueri in cubicula intrant.",
+      "Puerorum vestes in cubiculis manent.",
+      "Date crustula pueris."
+    ],
+    "english": [
+      "The blacksmith (smith of-iron) repairs the boy's bicycle.",
+      "The boy gave the bicycle to be repaired to the smith.",
+      "The bicycle has been repaired by the smith; its wheel had been bent by the boy.",
+      "The bicycles have been repaired by the smiths: their wheels had been bent by the boys.",
+      "Do you see the boy? Do you[pl.] see the boys?",
+      "The boys enter (into) the bedrooms.",
+      "The boys' clothes remain in the bedrooms.",
+      "Give[pl.] cakes to the boys."
+    ],
+    "footnotes": []
+  }
+}

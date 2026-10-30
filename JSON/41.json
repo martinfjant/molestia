@@ -1,0 +1,84 @@
+{
+  "meta": {
+    "lesson": 41,
+    "title": "Lectio quadragesima prima",
+    "subtitle": {
+      "latin": "De corporis partibus (concluditur)",
+      "english": "On the Parts of the Body (conclusion)"
+    },
+    "revision": false
+  },
+  "latin": [
+    "Brachia humeris conectuntur<sup>1</sup>, et manus ferunt.",
+    "Veteres<sup>2</sup> Romani prandentes vel cenantes in lectis tricliniaribus<sup>3</sup> accumbebant, et sinistro cubito<sup>4</sup> innitebantur<sup>5</sup>.",
+    "Plurimi homines manu dextra scribunt; scaevae autem sinistra<sup>6</sup>.",
+    "Pollex<sup>7</sup> ceteris digitis ita opponitur ut res facile prehendere possimus.",
+    "Digitis contractis, pugnum facimus et pugnare possumus. Pugnae pugilum pugilatus<sup>8</sup> vocantur.",
+    "Multae manus onus<sup>9</sup> levant. Si compressis manibus sedes, nullum opus<sup>10</sup> perficis<sup>11</sup>.",
+    "Cruris summa pars femen seu femur<sup>12</sup> vocatur, media genu, ima sura. Talus est pars posterior pedis.",
+    "Tibia est cruris os; est etiam instrumentum musicum, quod tibia a Romanis vocabatur, quia ex osse constabat.",
+    "Pedes et suras adversus frigus tibialibus<sup>13</sup> vestimus."
+  ],
+  "english": [
+    "The arms are connected to the shoulders, and bear the hands.",
+    "The ancient Romans, [while] lunching or dining, reclined on tricliniary couches, and rested on the left elbow.",
+    "Most people write with the right hand; left-handers, on the other hand, with the left.",
+    "The thumb is placed opposite to the other fingers in such a way that we may grasp things easily.",
+    "By [drawing together] the fingers (drawn-together) we make a fist and can fight. The fights of boxers are called boxing.",
+    "Many hands can lift a burden. If you sit with folded hands, (no work) you accomplish [nothing].",
+    "The top part of the leg is called the thigh or femur, the middle one the knee, the bottom one the calf. The ankle is the hindmost part of the foot.",
+    "The tibia is a bone of the leg; it is also a musical instrument, which was called tibia (flute) by the Romans, because it [was made of] (consisted of) bone.",
+    "We clothe (our) feet and calves against the cold with socks."
+  ],
+  "notes": {
+    "footnotes": [
+      "Conecto, -is, -ere, -nexui, -nexum, to fasten together. If you are an electrician, think of connect and connexion.",
+      "Vetus, -eris, adjective of the 2nd class.\n\nWe remind you that these adjectives follow the 3rd declension. Excepting only a few (acer, -cris, -cre, sharp), they have the same forms in the masculine and feminine for all cases, e.g., brevis, m. and f., breve, n., short; the neuter, in addition to its nominative and accusative plurals in -a or -ia, sometimes has a special form for these same cases in the singular. For vetus, the nominative form is common to the three genders. Those who have already studied some Latin should excuse us for occasionally beating a dead horse: these intentional repetitions are not useless for everyone!",
+      "Tricliniaris, -e, relating to the dining room or triclinium, which consisted of three couches around a table. This adjective is declined like virilis, -e. It is therefore parisyllabic and forms its nominative and accusative plural in -ia.",
+      "Cubitus, -i, m., elbow or cubit (45 cm), cubitus, -us, the act of reclining.",
+      "Nitor, -eris, -i, nisus sum, to lean upon, or to strive. Innitor = in + nitor, to rest on (used preferentially when referring to a specific support).",
+      "Dexter, -tra, -trum, right (as opposed to left: if you have forgotten sinister, refer to L. 16, N. 9). Scaeva, -ae, m., left-handed person.",
+      "Pollex, -icis, m., thumb; pollice verso, literally thumb down, means: “No mercy!” Digitus, -i, m., literally finger, was also used as a unit of measure, finger’s breadth, inch.",
+      "Pugnus, -i, m., fist; pugna, -ae, f., a fight. Pugil, -ilis, m., pugilist (boxer); pugilatus, -us, m., boxing.",
+      "Onus, -eris, n., burden.",
+      "Opus, operis, n, work, done or to do; labor, -oris, m., work, the activity and the effort required.",
+      "Perficio, -is, -ere, -feci, perfectum = per + facio, to do thoroughly, complete: the perfect tense (perfectum) indicates that the action is completed.",
+      "Femen, -inis, n., thigh or femur, -oris, n., thighbone.",
+      "Frigus, -oris, n., [the] cold. Tibialis, -e, relating to the lower part of the leg, in other words stockings or socks. In the winter, the Romans wore fasciae tibiales, i.e. shin bands. Here we have used the adjective as a noun: in this case the neuter form is used because we are referring to a thing."
+    ],
+    "comments": [
+      "Cerevisia or Cervisia has given the Spanish word for beer, cerveza.",
+      "Animal, -alis, n., nominative and accusative plural in -ia and genitive plural in -ium: nouns in -al and -ar were formerly in -ale and -are: these “false imparisyllabics” follow therefore the parisyllabic declension.",
+      "Fons, fontis, m., spring, well, genitive plural fontium.",
+      "Guttur, -uris, n. throat (think of a guttural sound).",
+      "Aula, -ae, f., court (that of the courtiers, the other is area, -ae, f., ground, precinct, but also surface).",
+      "Princeps, -ipis, adj. meaning first, principal. If it is a politician, Princeps then refers to the premier of the State: Emperor, King, President of the Republic. The prince in the sense of son of the king is rather Regulus, i.e. little king, diminutive of rex, regis, m. Patience! We will meet one very soon!"
+    ]
+  },
+  "exercises": {
+    "latin": [],
+    "english": [],
+    "footnotes": []
+  },
+  "song": {
+    "kind": "Carmen",
+    "title": {
+      "latin": "",
+      "english": ""
+    },
+    "latin": [
+      "Cerevisiam bibunt homines.",
+      "Animalia cetera fontes.",
+      "Absit ab humano gutture potus aquae!",
+      "Sic bibitur, sic bibitur in aulis principum,",
+      "Sic bibi, bibi, bibitur in aulis principum, pum, pum!"
+    ],
+    "english": [
+      "People drink beer.",
+      "The other animals [from] springs.",
+      "May the drinking of water be far from the human throat!",
+      "Thus [they drink] (it is drunk), thus [they drink] (it is drunk) in the courts of the [great] (princes), etc."
+    ],
+    "source": "You will find this Carmen in Douze chansons latines (op. cit.)."
+  }
+}

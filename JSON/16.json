@@ -1,0 +1,81 @@
+{
+  "meta": {
+    "lesson": 16,
+    "title": "Lectio sexta decima",
+    "subtitle": {
+      "latin": "Venite cenatum",
+      "english": "Come have dinner"
+    },
+    "revision": false
+  },
+  "latin": [
+    "In urbe Massilia<sup>1</sup> ambulantes<sup>2</sup>, non longe a portu, Marium invenimus.",
+    "Salve Marce! clamat ille. Quid agis in urbe nostra?",
+    "Salve et tu Mari<sup>3</sup>! Romam imus, sed aliquot dies Massiliae demoramur.",
+    "Venite igitur cenatum<sup>4</sup> apud me! Domi cenantibus nobis otium loquendi<sup>5</sup> erit.",
+    "Ubi est domus tua?",
+    "Facile invenies: exi ex urbe porta<sup>6</sup> Aquarum Sextiarum<sup>7</sup>...",
+    "Perge recta usque ad tertium vicum<sup>8</sup> sinistrorsum<sup>9</sup>...",
+    "Per hoc vicum iter fac trecenta metra...",
+    "Ibi, dextrorsum, domum videbis cum janua rubra quae non omnino<sup>10</sup> clausa erit.",
+    "Pede januam urgebis et intrabis.",
+    "Cur pede?",
+    "Quia manus erunt plenae...",
+    "...munerum quae sine ullo dubio nobis afferes."
+  ],
+  "english": [
+    "Walking in the city of Marseille, not far from the harbour, we find Marius.",
+    "Hello Mark! he exclaims. What are you doing in our city?",
+    "Hello to you too Marius! We are going to Rome, but we are staying for some days in Marseille.",
+    "Come have dinner at my place (by me)! We will have time to talk at home while having dinner (eating to-us at-home leisure of-talking there-will-be).",
+    "Where is your house?",
+    "You will find [it] easily: get out of the city through the Aix Gate.",
+    "Continue straight up to the third street on the left…",
+    "Go along this street for thirty meters (make a-journey through this street three-hundred meters)…",
+    "There, to the right, you will see a house with a red door which won't be fully closed.",
+    "You will push the door with [your] foot and you will enter.",
+    "Why with [my] foot?",
+    "Because [your] hands will be full…",
+    "…of the presents that without any doubt you will bring us."
+  ],
+  "notes": {
+    "footnotes": [
+      "In urbe Massiliá, and not Massiliae, since, due to the fact that Massilia is linked by it agreement to urbe, one cannot use anymore the shorter construction Massiliae (that the grammarians call locative) which allowes one to say in just one word: in Marseille.",
+      "Ambulans (plural ambulantes), present participle of ambulo, (ambul)as, (ambul)are, I am walking. From now on, we shall offer you the verbs in shortened form in the order: 1st person present indicative (not shortened); ending of the 2nd person (here as); ending of the present infinitive (here are).",
+      "Marce, Mari, and in the preceding lesson optime Fabrici, are vocatives (from voco, as, are, to call) which one employs when one addresses someone. This form is not different from the form of the subject except for the words ending in us (or in ius, and in this case the us disappears instead of being transformed into an e), as well as for some names of Greek origin: Andreas, Andrew; voc. Andrea!",
+      "Cenatum, is a particular mood of the verb ceno (as, are), I have dinner, which is used, after verbs of motion, instead of the infinitive. Cenans is the present participle of this same verb; plural cenantes; nobis cenantibus, to us dining, is the form of the indirect object.",
+      "Loquor, eris, i, I speak; loquens, speaking; venite locutum, come to speak; voluptas loquendi, the pleasure of speaking. Do not try yet to remember all of these forms, but just note that in addition to the infinitive (loqui) and the participle, which are moods which we already know, Latin, a precise language, has other verbal forms more specialized than ours. Some of these forms are declinable (agreeing in gender, number and case), which should not surprise us.",
+      "Porta designates the entrance (gate) of a city, janua that of a house. Portá and viá, with a long á, indicate, without the need for a preposition, the place through which one passes. With the other words one employs the preposition per, by, through; per urbem, across the city; and (P 8), per vicum.",
+      "Aquae Sextiae (word-by-word, the waters of Sextius), Aix-en-Provence. Equally Aquae Gratianae, the waters of Gratian (emperor who gave his name to Gatianopolis, Grenoble) became Aix-les-Bains (Savoy) and Aquae Grani, Aix-la-Chapelle (Aachen).\n\nThese Aquae (singular aqua, water) were Roman thermal cities (cities built over hot springs), the second word serving to differentiate them from each other. Oddly enough in general it is the first word which has remained (Aix, Ax, Dax, Aachen).",
+      "Vicus, the village, also indicates the street bordered by houses our of which villages grew.",
+      "Sinistrorsum (going) towards the left; sinistra, the left hand; sinister, sinistra, sinistrum, left (adjective). In the past, superstitious people considered the passage of birds as a sinister omen if it were made to their left (except if their left coincided with the East, which didn't simplify things). From this comes the second sense (current sense) of this adjective.\n\nSimilarly dextra, right hand, dexter, tra, trum (adj.), right and dextrorsum (adv.), (going) towards the right.",
+      "Omnino, at all; adverb derived from the pronoun: m. and f.: omnis, every (everyone); neuter: omne, everything; pl.: omnes, every (all); neuter: omnia, all things; omnibus, for all, for all things is the form of the indirect object: an omnibus (now shortened to bus) is the name that was given to vehicle for everyone. But all in the sense of the whole is expressed by the adjective: totus, tota, totum."
+    ],
+    "comments": [
+      "Attention: P.5 should say 'ab urbe Massiliá abímus'."
+    ]
+  },
+  "exercises": {
+    "latin": [
+      "Per Genuam urbem Romam petis.",
+      "Portum peto ubi naves multae sunt.",
+      "Via Aurelia Romam eo.",
+      "Porta Aurelia Roma exeo.",
+      "Per vicum parvum, urbe Massilia abimus.",
+      "Massiliae vici multi sunt.",
+      "In urbe Lutetia domus multae sunt<sup>1</sup>."
+    ],
+    "english": [
+      "You are going to (are making for) Rome through Genoa.",
+      "I’m making for the port where there-are many ships.",
+      "I am going to Rome on the Via Aurelia.",
+      "I am getting out of Rome by the Aurelian Gate.",
+      "We leave the city of Marseille (we-go-away from city Marseille) by (through) a small street.",
+      "In Marseille there are many streets.",
+      "In the city of Paris (in city Paris) there-are many houses."
+    ],
+    "footnotes": [
+      "Attention! domus is here a feminine plural, we shall see why later."
+    ]
+  }
+}

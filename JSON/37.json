@@ -1,0 +1,83 @@
+{
+  "meta": {
+    "lesson": 37,
+    "title": "Lectio tricesima septima",
+    "subtitle": {
+      "latin": "In tramine (sequitur)",
+      "english": "On the train (continued)"
+    },
+    "revision": false
+  },
+  "latin": [
+    "Apud quam crepidinem<sup>1</sup> consistit tramen?",
+    "Apud crepidinem alteram, via tertia. Classis prior in parte anteriore agminis<sup>2</sup>, altera in posteriore.",
+    "Bajule<sup>3</sup>, affer<sup>4</sup> arcam meam mihique sedem classis prioris inveni<sup>5</sup>.",
+    "Vectores qui petunt Telonem, Forum Julii, Antipolim, Nicaeam, Albintimiliam, Genuam, Romam, in currus<sup>6</sup> conscendant! Valvas rogo claudite! In profectionem<sup>7</sup> intendite.",
+    "Ecce loculamentum vacuum. In rete<sup>8</sup> sarcinas ponamus.",
+    "Noli id facere! Hoc loculamentum tabacum non admittit. Ultro progrediamur<sup>9</sup>.",
+    "Vacantne sedes<sup>10</sup> illae? Duae tantum sedes prope fenestram, a domno, domnaque jam matura aetate<sup>11</sup>, occupatae sunt.",
+    "Domna canem parvulum in genibus<sup>12</sup> tenet. Eum sicut puerum alloquitur.",
+    "Domnus oculo obliquo canem spectat. Fortasse canes parvulos non amat.",
+    "Tramen summa velocitate, strepens et fumans, iter<sup>13</sup> prosequitur..."
+  ],
+  "english": [
+    "At what platform does the train stop?",
+    "At the second platform, track 3(rd). First class in the forward part of the train, second in the rear.",
+    "Porter, bring my case and find me a first-class seat.",
+    "Let passengers [for] (who make for) Toulon, Fréjus, Antibes, Nice, Ventimiglia, Genoa and Rome, board the train [now] (into the carriages let-them-board)! Close the doors [please] (I ask)! [Prepare for] (attend to) departure!",
+    "Here-is an empty compartment. Let’s put our baggage in the rack (net).",
+    "Don’t (want to) do that! This compartment does not [allow smoking] (admit tobacco). Let’s move (proceed) further on.",
+    "Are those seats free? Only two seats near the window are occupied, by a gentleman and a lady of (with) mature age.",
+    "The lady holds a tiny dog on her knees. She speaks to him as to a child.",
+    "The gentleman looks [askance] (with a slanting eye) at the dog. Perhaps he does not like tiny dogs.",
+    "Clattering and smoking, the train pursues (its) way at top speed…"
+  ],
+  "notes": {
+    "footnotes": [
+      "Crepido, -inis, f., pedestal, foundation, platform (at the train station), quay (at the harbour).",
+      "Agmen, -inis, n., an army on marching arrangement (idea of moving together); here the train of carriages.",
+      "Bajule, vocative of bajulus, -i, m., porter.",
+      "Affer, imperative of afferre, to bring, which is conjugated like ferre (fero, fers, ferre, tuli, latum), to carry, a very irregular verb.",
+      "Inveni, imperative of invenire, to find.",
+      "Can you find the declension and the case of currus?\n\nAnswer.— After in it can only be an ablative, or, if there is movement, an accusative. Currus can therefore not belong to the 2nd declension. In point of fact currus, -us, m., belongs to the 4th: it is therefore in the accusative plural. It means chariot and here the carriage of a train.",
+      "Profectio, -onis, f. (3rd), departure.",
+      "Rete, -is, n., for the ablative singular, rete and reti are equally correct: reti would be more normal, because the word is a parasyllabic neuter. There should be no surprise at finding a few anomalies, of secondary importance besides, in a language that has already completed more than twenty centuries of active service, and is still far from being ready for reform!",
+      "Progredior, -eris, -i, progressus sum, to advance (verb), progressus, -us, m., advance, progress (noun).",
+      "Sedes, -is, f., seat.",
+      "Aetas, aetatis, f., age.",
+      "Genu, -us, n., knee, is one of the rare neuters of the 4th declension.",
+      "Iter, itineris, n. We have already seen this word several times: notice to what extent the nominative form is shortened."
+    ],
+    "comments": [
+      "We do not always give you an indication for every new word in the lesson. If their meaning, declension or conjugation don’t immediately leap out at you, don’t waste time trying to analyze them from the moment you encounter them. You have many chances to find them again later, in another lesson or else during a revision, and to grasp them better at that time: don’t waste your energy!",
+      "Already you could use the dictionary for this research, but we don’t advise it yet. It is better to wait until you’ve seen a word several times before you begin to worry about its precise meaning: it is only once a word has begun to feel familiar that looking it up in the dictionary becomes truly fruitful… and leads sometimes to surprises, even with words in our native tongue.",
+      "For the moment we are giving you fairly numerous notes, and sometimes even intentionally repeated, to spare you research that have still little chance of fascinating you.",
+      "Finally, at the risk of repeating ourselves once more, we remind you that the primary task we ask of you is to read the Latin sentences out loud and to repeat them until they become perfectly familiar."
+    ]
+  },
+  "exercises": {
+    "latin": [
+      "Tramine Augustam Vindelicorum petimus.",
+      "Londinium autoraeda ire non potes.",
+      "Cur? — Quia Anglia a Gallia mari separata est.",
+      "Causa non est sufficiens: sunt naves in quas raedae accipiuntur.",
+      "Immo, ferriviariis navibus tramina quoque transferuntur.",
+      "Quid agit caupo in thermopolio? — Exspectat bajulum qui glaciem affert.",
+      "Ubi est glaciei pars cujus bajulus oblitus est?",
+      "Fortasse de plaustro elapsa est.",
+      "Quidquid id est, res nostra non est."
+    ],
+    "english": [
+      "We are going to Augsburg by train.",
+      "You cannot go to London by car.",
+      "Why? — Because England is separated from France by the sea.",
+      "This is not a sufficient reason: there are boats on which cars are [taken] (accepted).",
+      "What’s more, trains also are transported by [ferries] (railway boats).",
+      "What is the waiter doing in the café? — He is awaiting the deliveryman who brings the ice.",
+      "Where is the block of ice that the deliveryman has forgotten?",
+      "Perhaps it has slipped out of the truck.",
+      "Whatever it is, it is not our business."
+    ],
+    "footnotes": []
+  }
+}

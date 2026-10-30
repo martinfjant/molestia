@@ -1,0 +1,79 @@
+{
+  "meta": {
+    "lesson": 39,
+    "title": "Lectio undequadragesima",
+    "subtitle": {
+      "latin": "De corporis partibus",
+      "english": "On the Parts of the Body"
+    },
+    "revision": false
+  },
+  "latin": [
+    "Satis nugati sumus! Nunc voces novas vocabulario nostro addamus<sup>1</sup> oportet. Nomen praecipuarum corporis partium unusquisque cognoscere debet.",
+    "Corpus humanum, caput, pectus, abdomen seu ventrem, brachia, crura complectitur. Lingua latina, non solum crura et brachia, sed etiam praecipuae partes corporis membra dicuntur<sup>2</sup>.",
+    "Inspiciamus<sup>3</sup> hominem a capite usque ad<sup>4</sup> calceos.",
+    "In capite petasus aut pileus imponitur, praecipue si capilli desunt. Calvities frontem<sup>5</sup> ita amplificat ut<sup>6</sup> homo calvus callidior<sup>7</sup> videatur quam homo capillatus et hirsutus.",
+    "Oculis videmus, auribus audimus, naso olfacimus, ore gustamus<sup>8</sup>.",
+    "Quinque sunt sensus: visus, auditus, olfactus, gustus et tactus<sup>9</sup>; qui ultimus cute<sup>10</sup> tota perficitur.",
+    "Oculi ciliis<sup>11</sup> clauduntur et superciliis ornantur. Per visionem<sup>12</sup> binocularem (quam ita appellamus quia duobus oculis videmus), corporum soliditatem<sup>13</sup> percipimus.",
+    "Proverbium tamen dicit: beati monoculi<sup>14</sup> in terra caecorum, vel etiam: inter caecos, luscus rex.",
+    "Procul ex oculis, procul ex mente<sup>15</sup>. Oculus animi index<sup>16</sup>. Pulverem<sup>17</sup> oculis offundere.",
+    "Dormit in utramvis aurem, quem cura reliquit."
+  ],
+  "english": [
+    "We have trifled enough! Now [we have to add] new words to our vocabulary (we-should-add it-is-required). [Everyone must know] the name of the chief parts of the body (each-one to-know ows).",
+    "The human body comprises the head, the chest, the abdomen or belly, the arms [and] the legs. In Latin, not only the arms and the legs, but also the chief parts of the body, are called “members”.",
+    "Let’s examine a human being from the head (all the way) to the [feet] (shoes).",
+    "On the head [we place] the hat or the cap (is placed), particularly if [we have no] hair (is lacking). Baldness so amplifies the forehead that a bald man [looks] wiser (be seen) than a hairy and shaggy man.",
+    "We see with the eyes, hear with the ears, smell with the nose, taste with the mouth.",
+    "There are five senses: sight, hearing, smell, taste and touch; [the] (which) last is accomplished by the entire skin.",
+    "The eyes close with the eyelashes and are decorated with the eyebrows. By means of binocular vision ([so called] (which we so call) because we see with two eyes), we perceive [objects in relief] (the solidity of bodies).",
+    "Yet the proverb says: blessed [are] the one-eyed in the land of the blind, or also: among the blind, the one-eyed [man is] king.",
+    "[Out of sight] (far from the eyes), [out of] (far from the) mind. The eye [is the mirror] (indicator) of the soul. To [throw] (pour) dust [in] (to) [one’s] eyes.",
+    "He [from] whom care has departed sleeps on either ear."
+  ],
+  "notes": {
+    "footnotes": [
+      "Addamus, present subjunctive of: addo, -is, -ere, addidi, additum, to add.",
+      "Caput, capitis, n., head (think of capital); pectus, -oris, n., chest; abdomen, -inis, n., and venter, -tris, m.; all belong to the 3rd declension.— Crus, cruris, n., leg. Brachia, you should have guessed, is neuter plural; in the singular: brachium, -ii, arm; likewise membrum, -i, n.— Complector, -eris, -i, -exus sum means enclose in the arms, i.e., embrace and figuratively include, comprise.",
+      "Inspiciamus, present subjunctive of inspicio, -is, -ere, inspexi, inspectum, examine, inspect.",
+      "Usque ad, all the way up to, is construed with the accusative.",
+      "Calvities, -ei, f. (5th declension); frons, frontis, f., forehead; not to be confused with frons, frondis, f., foliage.",
+      "Ita… ut, to such extent… that + subjunctive (here videatur): you will notice that in Latin many words come in pairs; this allows a symmetrical, solid and clear construction. When you find one of these twin brothers, look in the neighborhood: the other is generally not far away. Nevertheless ita and ut are not necessarily inseparable. We have already seen the adverb ita all by itself. We will see that for its part the conjunction ut is very commonly used.",
+      "Callidus, -a, -um, wily (not to be confused with calidus, hot). Callidior, -ioris, is the comparative of this adjective: it means wilier; the form in -ior is used for masculine and feminine; the neuter is in -ius (callidius, -ioris). The comparative is declined according to the 3rd declension (imparisyllabic), the genitive of the three genders being in -ioris (here callidioris) and the ablative in -e (callidiore). The comparative is generally followed by quam, than, and a complement in the same case as its antecedent. This is why homo capillatus is in the same case as homo calvus, i.e., in the nominative.",
+      "To which declensions do the nouns in phrase 5 belong? Answer: Oculus, -i, m. (2nd); auris, -is, f. (3rd); nasus, -i, m. (2nd); os, oris, n. (3rd).",
+      "The words designating the five senses all belong to the 4th declension (gen. in -us). They are derived from verbs, respectively: video, -es, -ere, vidi, visum; audio, -is, -ire, -ivi, -itum; olfacio, -is, -ere, -feci, -factum; gusto, -as, -are, -avi, -atum; tango, -is, -ere, tetigi, tactum.",
+      "Cutis, -is, f., skin. Think of subcutaneous.",
+      "Cilium, -i, n., is also employed instead of palpebra, -ae, f., eyelid.",
+      "Visio, -onis, f., vision, derived from videre, has a sense less broad than that of visus, sight. Visio is the action of seeing; visus, the faculty of sight.",
+      "Soliditas, -atis, f., solidity, density, relief. Figura solida, depiction in relief (in three dimensions).",
+      "Monoculus, -i, m., person with one (from Greek monos) eye, is a noun, but luscus, -a, -um, one-eyed is an adjective.",
+      "Mens, mentis, f., mind, memory: think of mental.",
+      "Index, indicis, m., sign, token (cf. L. 17, P. 8).",
+      "Pulvis, pulveris, m., dust."
+    ],
+    "comments": [
+      "You may find the dissection to which we submit most of today’s new words to be rather tedious. Nevertheless, if you can manage to interest yourself in it from now on, that would be a way for you to save time. Otherwise, you will need to read even more: by seeing the same words many times in their different forms, you will in the long run come to know them quite respectably. It is thanks to repetition that small children come to speak their native language quite correctly, without knowing in spite of that its grammatical rules. If grammar bores you, no one is preventing you from doing as they do. And if you have no one with whom to carry on a conversation, don’t forget to play and replay the recordings, even if you can listen to them only distractedly while doing something else entirely. This entirely passive method has the advantage of demanding no effort from you: even if its efficiency is very low, it also yields fruit in the long run!",
+      "If on the other hand you seek to make more rapid progress and to embellish your studies by striving to understand what you’re doing (for example by attentively reading the notes), do not fail to read and listen as much as possible either: your theoretical knowledge will then rest on a much more solid practical base."
+    ]
+  },
+  "exercises": {
+    "latin": [
+      "Videsne crustulum cum fragis? Nonne salivam movet?",
+      "Si puer bonus eris, tibi hoc crustulum ememus.",
+      "Barba non facit philosophum.",
+      "Quid significat haec sententia?",
+      "Significat homines matura aetate non omnes esse sapientes.",
+      "Difficile est calvo pilum evellere: hoc de rebus quae effici non possunt dicitur."
+    ],
+    "english": [
+      "Can you see the strawberry cake (pastry with strawberries)? Doesn’t it [make your mouth water] (set saliva in motion)?",
+      "If you [are] (will be) a good boy, we will buy you this cake (pastry).",
+      "The beard does not make the philosopher.",
+      "What does this sentence mean?",
+      "It means that men of mature age are not all wise.",
+      "It is difficult to pluck a hair from a bald man: this is said about things that cannot be accomplished."
+    ],
+    "footnotes": []
+  }
+}

@@ -1,0 +1,75 @@
+{
+  "meta": {
+    "lesson": 4,
+    "title": "Lectio quarta",
+    "subtitle": {
+      "latin": "Salve Felix!",
+      "english": "Hello, Felix!"
+    },
+    "revision": false
+  },
+  "latin": [
+    "Salve Felix! Ut vales?",
+    "Valeo! Quid vis?",
+    "Fratres tuos videre volo.",
+    "Nescio ubi sint<sup>1</sup>. Soror autem domi<sup>2</sup> adest.",
+    "Pater et mater quoque adsunt, sed<sup>3</sup> fratres absunt.",
+    "Mihi est soror una.",
+    "Tibi sunt sorores tres et frater unus.",
+    "Illi nullae sunt sorores.",
+    "Fratres tres sumus. Sorores duae estis.",
+    "Sum, es, est, sumus, estis, sunt, esse.",
+    "Absum, abes, abest, absumus, abestis, absunt, abesse<sup>4</sup>.",
+    "Homo unus, mater una, poculum unum; homines duo, matres duae, pocula tria<sup>5</sup>."
+  ],
+  "english": [
+    "Hello, Felix! How are you[sg.]?",
+    "I-am-well! What do-you[sg.]-want?",
+    "I want to see your brothers (brothers yours[sg.] to-see I-want).",
+    "I do not know where they are. But my sister is at home (Sister on-the-other-hand at-home is-there).",
+    "[My] father and [my] mother are also there (too are-there), but my brothers are not (are-not-there).",
+    "I have (to-me is) a sister.",
+    "You[sg.] have three sisters and one brother.",
+    "He has no sisters (To-him none are sisters).",
+    "We are three brothers. You[pl.] are two sisters.",
+    "I am, you[sg.] are, he is, we are, you[pl.] are, they are, to be.",
+    "I am absent, you[sg.] are absent, he is absent, we are absent, you[pl.] are absent, they are absent, to be absent.",
+    "One man, one mother, one cup; two men, two mothers, three cups."
+  ],
+  "notes": {
+    "footnotes": [
+      "Nescio ubi sint: Just notice that we have sint and not sunt: you will know why later.",
+      "Domi. We have seen (L 2, P 3) domum venis, you are coming home. You are at home is actually domi ades: let's be content for now to notice that the form of the adverbial of place changes depending on whether it is about the place where one is or about the place where (whither) one goes; or if you prefer, in accordance with whether there is or there is not movement. To remember thismore easily, think of that M in domum as corresponding to the Movement.",
+      "Autem and sed have almost the same sense, but are not put in the same position in the sentence. You must have by now noticed that the position of the words is not always the same in Latin as in English. In particular, do not seek an absolute rule which will enable you to perfectly position the words of a sentence, because various combinations are possible, which usage will teach you gradually. Simply remember that the subject, verb, and complements, are not aways where you might expect them. If you have already done German, you are almost saved: the German construction follows the same principles a bit as the Latin construction.",
+      "Absum, I am not there; adsum, I am there; as well as possum, I can; are conjugated in the same way as sum. This conjugation differs significantly from that of loquor, I speak (L 1, P 7), which itself differs from the conjugation of do, I give (L 2, P 9). Reassure yourself: the other forms of conjugation which we shall see later will be increasingly easy to learn.",
+      "Unus, feminine una, neuter unum; duo, f. duae; n. duo; tres, f. tres, n. tria. In Latin, there are three genders: masculine, feminine, and neuter. The first corresponds approximately to the men and to the male animals, the second to the women and to the female animals, and the third to those things for which it is impossible to allocate a sex. That is why the majority of adjectives take three different forms to be able to agree with the nouns to which they relate."
+    ],
+    "comments": [
+      "Homo, a man, homines, men. Similarly, soror, sorores; mater, matres; frater, fratres. This formation of the plural corresponds to the English plural in S (a brother; brothers). However it is not the only possible form; see for instance: unum poculum, a cup; duo pocula, two cups.",
+      "Do not seek to memorize these various formations of the plural, and save all your energy to try and remember the forms of the full sentences."
+    ]
+  },
+  "exercises": {
+    "latin": [
+      "Homines tres domi adsunt.",
+      "Homo unus domum venit.",
+      "Videsne fratres meos?",
+      "Sorores tuae italice loqui possunt.",
+      "Quid dicas<sup>1</sup> non intellego.",
+      "Potesne mihi auxilio esse?",
+      "Soror mea tibi nulli auxilio esse potest."
+    ],
+    "english": [
+      "Three men are at home.",
+      "(Only)-one man comes home.",
+      "Do you[sg.] see my brothers?",
+      "Your[sg.] sisters can speak Italian (in-Italian to-speak they-can).",
+      "I do not understand what you say (what you[sg.]-say not I-understand).",
+      "Can you[sg.] help me (to-me for-assistance to-be)?",
+      "My sister can be of no help to you[sg.]."
+    ],
+    "footnotes": [
+      "Do not try to understand yet why we have here dicas and not dicis as in L 1, P 6."
+    ]
+  }
+}

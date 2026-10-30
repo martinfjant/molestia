@@ -1,0 +1,78 @@
+{
+  "meta": {
+    "lesson": 8,
+    "title": "Lectio octava",
+    "subtitle": {
+      "latin": "Romam imus",
+      "english": "We are going to Rome"
+    },
+    "revision": false
+  },
+  "latin": [
+    "Ubi estis et quo itis?",
+    "In raeda sumus, Romam<sup>1</sup> imus.",
+    "Rectane<sup>2</sup> in Italiam<sup>3</sup> itis?",
+    "Minime! Feriae sunt! Massiliae aliquot dies demorabimur",
+    "et totam hebdomadam Genuae<sup>4</sup>.",
+    "Massiliae, in deversorio noctes agemus<sup>5</sup>,",
+    "Genuae, avus nos domi accipiet.",
+    "Genua et Roma in Italia sunt. Avus meus Italus est.",
+    "Eo Romam, is Massiliam; it domum; in deversorium imus.",
+    "Sum Romae, es Massiliae, est domi; in deversorio sumus.",
+    "Avia it Lugdunum birota<sup>6</sup>. Lugduni Rhodanum videt.",
+    "Eo, is, it, imus, itis, eunt, ire. Ago, agis, agit, agimus, agitis, agunt, agere."
+  ],
+  "english": [
+    "Where are you[pl.] and where (whither) are you[pl.] going?",
+    "We are in the car, we are going to Rome.",
+    "Are you[pl.] going directly to Italy?",
+    "Not at all! It is the holidays (holidays they-are)! We will remain for some days in Marseille…",
+    "and for a whole week in Genoa.",
+    "In Marseille we will spend the nights in a hotel (in h. nights we-will-pass),",
+    "In Genoa, granddad will receive us at [his] home.",
+    "Genoa and Rome are in Italy. My grandfather is Italian.",
+    "I am going to Rome, you are going to Marseille; he is going home; we are going into the hotel.",
+    "I am in Rome, you are in Marseille, he is at home; we are in the hotel.",
+    "Grandmother is going to Lyon by-bicycle. In Lyon, she sees the Rhone.",
+    "I go, you go, he goes, we go, you[pl.] go, they go, to go. I act, you act, he acts, we act, you[pl.] act, they act, to act."
+  ],
+  "notes": {
+    "footnotes": [
+      "Romam and not Roma, further down, Italiam and not Italia. For a large number of nouns (masc. and fem.) this addition of the m corresponds both to movement towards something and to the form of the direct object. Visito Italiam, I am visiting Italy.",
+      "Rectá, in a straight line; …ne, interrogative particle (see L 3, N 3). Note the displacement of the accent: rectane.",
+      "In Italiam, further down (P 8), in Italiá. Whether it is the answer to the ubi? question or to the quo? question one puts the preposition in before the names of countries or things, but not in front of the names of cities, nor in front of domum or domi (home). We shall return to this point later.",
+      "Genuae, another form of Genua, Genoa. We already saw Romae, in Rome. In the same way, Massilia, Marseille; Lugdunum, Lyon; but Massiliae, in Marseille; Lugduni, in Lyon; domi, at home.",
+      "Agimus, we do; agemus, we will do (will pass [time], will act, etc.). The verb agere is, like faire (to do) in French or to get in English, a verb passkey. Of course, the different senses of these three verbs are far from tallying exactly. To better locate agere, be aware that its first sense is to drive before oneself: Pastor agit gregem, the shepherd leads (drives) the flock.",
+      "Birota, just as Italia in in Italiá is spelled as though it was the subject, but is pronounced differently: the final á is long (a line ¯ on the vowel is generally used, which is, nevertheless, properly, a sign created to mark long syllables in metrics, not specifically long vowels by nature, which creates a great amount of confusion in many dictionaries and other reference works). This difference in pronunciation indicates that it acts as an adverbial phrase."
+    ],
+    "comments": [
+      "The notes that we give you on each lesson are there to help you, or to draw your attention to certain points which will be explained to you more precisely in due time. They should not make you waste time nor complicate your task. Above all they should not be learnt by heart. If certain notes seem obscure to you, do not linger there: you will understand them better during your future revisions. Above all do not forget to recite aloud the text of the lessons and the exercises!"
+    ]
+  },
+  "exercises": {
+    "latin": [
+      "Raeda ad theatrum eunt.",
+      "Sorores in theatro cum avia adsunt.",
+      "Genuae italice loquor.",
+      "Lugduni gallice loqueris.",
+      "Puer stupidus irridet avum qui<sup>1</sup> Massiliam it birota.",
+      "Quid hodie agitis? Nihil agimus.",
+      "In cinematographio noctem agere volumus.",
+      "Homines graves<sup>2</sup> non estis."
+    ],
+    "english": [
+      "They are going to the theatre by car.",
+      "[My] sisters are in the theatre with grandmother.",
+      "In Genoa I speak Italian.",
+      "In Lyon you speak French (in-Gaulish).",
+      "The stupid boy mocks granddad who is going to Marseille by bicycle.",
+      "What are you[pl.] doing today? We aren't doing anything (we are doing nothing).",
+      "We want to pass the evening at the cinema.",
+      "You[pl.] are not serious people."
+    ],
+    "footnotes": [
+      "Qui (pronounced kwi), relative pronoun, who/which/that.",
+      "Gravis, pl., graves, adj., heavy, grave, serious."
+    ]
+  }
+}

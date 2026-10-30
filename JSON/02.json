@@ -1,0 +1,68 @@
+{
+  "meta": {
+    "lesson": 2,
+    "title": "Lectio secunda",
+    "subtitle": {
+      "latin": "",
+      "english": ""
+    },
+    "revision": false
+  },
+  "latin": [
+    "Quis venit?",
+    "Ego venio<sup>1</sup>: tabellarius sum!",
+    "Domum venis; epistulam mihi<sup>2</sup> das.",
+    "Ita Domne, epistulam tibi do.",
+    "Da, quaeso, poculum parvum caffei!",
+    "Illi poculum magnum vini do.",
+    "Ille non multum caffei dat.",
+    "Venio, venis, venit, venire.",
+    "Do, das, dat, dare.",
+    "Ego, tu, ille.",
+    "Mihi, tibi, illi."
+  ],
+  "english": [
+    "Who comes?",
+    "[It is] I [who] come: [I am the postman] (postman I-am)!",
+    "[You are coming home; you are giving me a letter.] (home you[sg.]-come; letter to-me you[sg.]-give).",
+    "[Yes, Sir, I'm giving you a letter] (l. to-you[sg.] I-give).",
+    "[Please give me] (Give, I-ask), [a little cup] (tumbler small) of-coffee!",
+    "I give him a big glass of wine.",
+    "He does not give a lot of coffee.",
+    "I come, you[sg.] come, he comes, to come.",
+    "I give, you[sg.] give, he gives, to give.",
+    "I, you[sg.], he.",
+    "To-me, to-you[sg.], to-him."
+  ],
+  "notes": {
+    "footnotes": [
+      "Venio, I come. Ego venio, *I* come. As the form of the verb is different for each person, it is not necessary to specify it by a pronoun (I, you, etc.) to know who performs the action. Nonetheless, if this pronoun is used, it is quite simply because one wants to draw special attention to the identity of the one who performs the action: venio, I come (without further specification), ego venio, *I* come, and I specify that it is definitely me, and not another, who comes; in English: *I* come, or: it is I who comes.",
+      "Mihi, to me, just as in English one says: I give, give me, etc., in the same way, in Latin, the pronoun changes form according to whether it is a subject (performs the action), direct object (undergoes the action), indirect object (receives the effects of the action), etc. It is said that in the two languages, the pronoun is declined. We will see that in Latin it is not only the pronoun which is declined; little by little this concept of declension will become very natural to you."
+    ],
+    "comments": [
+      "Do not forget to repeat each sentence aloud, initially while looking at the text, then without looking at it.",
+      "Before closing the book, reread this lesson once or twice again and also reread the first lesson.",
+      "If you have the audio recordings, do as you did for the first lesson and end your studying session by listening to the audio recording from the beginning, and this will substitute for the method of review recommended above. And do not forget that no one prevents you from letting the recording run after your review is done!",
+      "Henceforth each lesson will be followed by an exercise, intended to better familiarize you with the words and twists of the current lesson and of the preceding lessons. Study them like the lessons, by reading each sentence several times aloud, and then by reciting them without looking at the book:"
+    ]
+  },
+  "exercises": {
+    "latin": [
+      "Est mihi multum caffei.",
+      "Tabellarius domum venit.",
+      "Ego domum non venio.",
+      "Quis latine loquitur?",
+      "Latine non loqueris?",
+      "Tabellarius recte dicit."
+    ],
+    "english": [
+      "I have much coffee.",
+      "The postman comes home.",
+      "I don't come home.",
+      "Who speaks Latin?",
+      "You[sg.] don't speak Latin?",
+      "The postman is right (rightly says)."
+    ],
+    "footnotes": []
+  }
+}

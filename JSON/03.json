@@ -1,0 +1,75 @@
+{
+  "meta": {
+    "lesson": 3,
+    "title": "Lectio tertia",
+    "subtitle": {
+      "latin": "",
+      "english": ""
+    },
+    "revision": false
+  },
+  "latin": [
+    "Quid<sup>1</sup> quaeris?",
+    "Hanc epistulam non intellego.",
+    "Tibi auxilio esse possum<sup>2</sup>.",
+    "Potesne?<sup>3</sup> Hoc mihi magno gaudio<sup>4</sup> est.",
+    "Da illam!... lingua italica scripta est.",
+    "Amicus tuus Fabricius te Romam<sup>5</sup> invitat.",
+    "Familiam quoque tuam accipere potest.",
+    "Amicus meus generosus est.",
+    "Tu quoque, homo bonus es.",
+    "Sum, es, est, esse.",
+    "Possum, potes, potest, posse.",
+    "Amicus meus, familiam tuam.",
+    "Magno gaudio, lingua italica."
+  ],
+  "english": [
+    "What do-you[sg.]-seek?",
+    "I do not understand this letter (this l. not I-understand).",
+    "I can help you (to-you[sg.] for-assistance to-be I-can).",
+    "Can-you[sg.]? That gives me great pleasure (to-me for-great joy is).",
+    "Give it [to me]!… it is in Italian (in-language Italian written is).",
+    "Your[sg.] friend Fabrizio is inviting you to Rome.",
+    "He can also receive your family (family too yours[sg.] to-accept he-can).",
+    "My friend is generous.",
+    "You[sg.] too, you[sg.] are a good man.",
+    "I am, you[sg.] are, he is, to be.",
+    "I can, you[sg.] can, he can, to be able.",
+    "My friend, your[sg.] family.",
+    "for-great joy, [the] Italian language."
+  ],
+  "notes": {
+    "footnotes": [
+      "Quid and not quis, as in Quis venit of L 2, P 1 (lesson no. 2, phrase 1) because it is about a thing and not a person.",
+      "Possum, I can, is a verb composed with the verb sum, I am. We see that verbs do not all have the same ending: compare, for example, with loquor, I speak (L 1) venio, I come (L 2), do, I give (L 2). But do not be frightened, you will see with use that the forms of the Latin verb are actually simpler than those of the French verb.",
+      "Ne is particle placed at the end of a word to indicate a question: potes, you can; potesne, can you?",
+      "Magno gaudio: as in French, the adjective agrees with the noun to which it relates; this agreement is often marked by similar endings, as in the couple of words that you will find in sentences 12 and 13, but this is not a general rule.",
+      "You have already seen Roma (L 1, P 6). Here, saying Romam instead of Roma makes it possible to specify that Rome is the place where (whither) one goes. Also note that magno gaudio means something more than just great joy, which would actually be: magnum gaudium. Little by little, you will get used to these differences. For the time being, do not worry about them!"
+    ],
+    "comments": [
+      "You should be content with learning words and phrases the way young children do. If you do make a mistake, it will be no more serious than when a young child says, \"des chevals\" instead of saying \"des chevaux\". It is necessary to go through that!",
+      "Starting from the next lesson, you will find the final form of our lessons: on the left page will be the Latin text, and opposite this on the right page, the French equivalent as well as explanatory notes to which the numerals in brackets refer."
+    ]
+  },
+  "exercises": {
+    "latin": [
+      "Quid quaerit amicus tuus?",
+      "Amicus meus epistulam quaerit.",
+      "Tabellarius multum vini accipere potest.",
+      "Lingua italica difficilis non est.",
+      "Illi magno gaudio est latine loqui.",
+      "Potesne domum venire?",
+      "Ita, Domne, venire possum."
+    ],
+    "english": [
+      "What is your[sg.] friend seeking?",
+      "My friend [is looking for] (seeks) a letter.",
+      "The postman can accept a lot of wine.",
+      "The Italian language is not difficult.",
+      "It gives him great pleasure (to-him for-great joy is) to speak Latin.",
+      "Can you[sg.] come home?",
+      "Yes, Sir, I can come."
+    ],
+    "footnotes": []
+  }
+}

@@ -1,0 +1,117 @@
+{
+  "meta": {
+    "lesson": 27,
+    "title": "Lectio vicesima septima",
+    "subtitle": {
+      "latin": "Visne tympanum?",
+      "english": "Do you want a drum?"
+    },
+    "revision": false
+  },
+  "latin": [
+    "Mihi ignosce, Domne, ubi veneunt<sup>1</sup> crepundia<sup>2</sup>?",
+    "Cujuslibet generis crepundia in tabulato tertio invenietis.",
+    "Nolite hac<sup>3</sup> transire, Domnae! Potius per scalas mechanicas conscendite!",
+    "Ecce crepundiorum locus! Pretii modici munus<sup>4</sup> quaerimus.",
+    "Puerone an puellae dabitur<sup>5</sup> hoc munus?",
+    "Filio meo id donare volo.",
+    "Quot annos natus est?",
+    "Novem annorum est.",
+    "Visne ludicrum constructivum<sup>6</sup> ligneum? tubam aeream<sup>7</sup>? tympanum<sup>8</sup>?",
+    "Ludicrum illud ei non placebit; tuba autem et tympanum mihi displicent.",
+    "Hoc tramine<sup>9</sup> electrico delectabitur, vel illa nave<sup>10</sup> cum velis.",
+    "Quanti constant?",
+    "Pretium traminis HS (sestertiis)<sup>11</sup> septemdecim, navis novem.",
+    "Haec munera pulchra sed cara sunt. Filio globulos emam<sup>12</sup>.",
+    "At ego filiae pupam<sup>13</sup> comparabo<sup>14</sup>.",
+    "Globulos hic quoque habemus. Puparum locus haud procul<sup>15</sup> distat."
+  ],
+  "english": [
+    "Excuse me, sir, where are toys (rattles) sold?",
+    "You[pl.] will find toys of all kinds (of whatever kind you like) on the third floor.",
+    "Don't come (cross) through here (by this [way]), Ladies! Use the escalator instead (rather go up through the mechanical stairs).",
+    "Here's the toy department (behold the place of rattles). We are looking for a moderately priced present (gift of moderate price).",
+    "Will the present be given to a boy or girl?",
+    "I want to present my son with it (it to my son).",
+    "How old is he (how many years has he been born)?",
+    "He is nine (he is of nine years).",
+    "Do you want a wooden construction set (wooden constructive toy)? a copper trumpet? a drum?",
+    "He will not like that toy (that plaything will not please him). The trumpet and the drum, on the other hand, I do not like (displease me).",
+    "He will be delighted by this electric train or-if-you-prefer by that sailing ship (ship with sails).",
+    "How much do they cost?",
+    "The price of the train, 17 dollars (sesterces); of the ship, 9.",
+    "These gifts are nice (beautiful) but expensive. I will buy my son (to my son) marbles.",
+    "And I will get a doll for my daughter.",
+    "We also have marbles here. The dolls section (place of dolls) is not far away."
+  ],
+  "notes": {
+    "footnotes": [
+      "Veneo, -is, -ire, to be sold; an irregular verb conjugated like ire, to go.",
+      "Crepundia, -orum, n., toys [really rattle]; this 2nd declension neuter noun is used only in the plural.",
+      "Hác, through here (place through which one passes) Do not forget the long á!",
+      "Munus, -eris, n., gift (has other senses which we shall see later). Another (neuter) noun in -us of the 3rd declension.",
+      "Dabitur: pass. future of dare, to give (general sense); donare, to make a gift, a present.",
+      "Constructivus, -a, -um, adj., derived from construere, to build.",
+      "Æreus, -a, -um, of copper (brass) or more precisely of bronze, an alloy containing copper (and tin).",
+      "Tympanum, -i, n., drum or tympanum (in all senses of these words, that is to say a round membrane or body of scant thickness).",
+      "Tramen, -inis, n., the train, a word of recent creation coming (as the English word “train”) from trahere, to drag (Fr., traîner).",
+      "Navis, -is, f., gen. pl. navium, is one of those parisyllabics of which we will talk again next week.",
+      "Sestertius, -ii, m., sesterce (Roman currency). Its symbol HS seems to have that of the American dollar ($), hence the daring translation we have allowed ourselves! This currency having been devalued, the “heavy sesterce” (sestertium, -ii) was also used, which is worth a thousand “light sesterces”!",
+      "Emam: future of emere, to buy. Globulus, -i, m., the marble, diminutive of globus, -i, m., the sphere, the globe.",
+      "Pupa. Do we still need to tell you that this word belongs to the 1st declension?: pupa, -ae, f., the doll.",
+      "Comparare, to get hold of, to buy (cum + parare) gave rise to the Italian comprare (and also comperare), to buy.",
+      "Procul, adv., far. Haud is a negative adverb, but which negates only the following word, whereas non negates the entire clause."
+    ],
+    "comments": [
+      "Let us take advantage of the fact that the lesson is short to put our knowledge about adjectives in order.",
+      "The declension of adjectives.— Adjectives are divided into two classes:",
+      "1. The 1st class borrows its forms from the 1st and 2nd declension:",
+      "— masculine in -us or -er\t\tgen. in -i\t(2nd decl.)",
+      "— feminine in -a\t\t\tgen. in -ae\t(1st decl.)",
+      "— neuter in -um\t\t\tgen. in -i\t(2nd decl.)",
+      "Ex.:\tbonus medicus, the good doctor;",
+      "bona raeda, the good car;",
+      "bonum remedium, the good remedy (medicine).",
+      "2. The second class borrows all its forms from the third declension: therefore, these vary greatly in the nominative, but, of course, the genitive is always in -is.",
+      "a) parisyllabics:",
+      "nom.\tgravis homo\tgravis femina\tgrave onus",
+      "the serious person\tthe serious woman\tthe heavy burden (neuter)",
+      "gen.\tgravis hominis\tgravis feminae\tgravis oneris",
+      "abl.\tgravi homine\tgravi feminá\tgravi onere",
+      "gen. pl.\tgravium hominum\tgravium feminarum\tgravium onerum",
+      "b) imparisyllabics:",
+      "nom.\tingens equus\tingens locusta\tingens plaustrum",
+      "the huge horse\tthe huge lobster\tthe huge wagon (neuter)",
+      "gen.\tingentis equi\tingentis locustae\tingentis plaustri",
+      "abl.\tingenti equo\tingenti locustá\tingenti plaustro",
+      "gen. pl.\tingentium equorum\tingentium locustarum\tingentium plaustrorum",
+      "The declension of the adjectives of the 2nd class is even simpler than that of the nouns of the third declension: the ablative is almost always in -i, instead of -e, and the genitive plural in -ium. But there are some exceptions, such as vetus (old), gen. veteris, abl. vetere and gen. pl. veterum.",
+      "For the moment do not be surprised if you find one or the other form and wait until all that clears up through use."
+    ]
+  },
+  "exercises": {
+    "latin": [],
+    "english": [],
+    "footnotes": []
+  },
+  "song": {
+    "kind": "Carmen",
+    "title": {
+      "latin": "",
+      "english": ""
+    },
+    "latin": [
+      "Periit gallus proh dolor! (bis)",
+      "Numquam canet sic cirici cirici,",
+      "Nec sonabit vox cocori cococo.",
+      "Nec sonabit vox cocori coco!"
+    ],
+    "english": [
+      "The rooster perished, oh, sorrow! (twice)",
+      "Never will it sing thus: cock-a-doodle-doo, cock-a-doodle-doo (kee-ree-kee, kee-ree-kee),",
+      "Nor will [its] voice sound: cock-a-doodle-doo, cock-a-doodle-doo (ko-ko-ree ko-ko-ko).",
+      "Nor will [its] voice sound: cock-a-doodle-doo, cock-a-doodle-doo (ko-ko-ree ko-ko)!"
+    ],
+    "source": "From Palæstra Latina, nº 169."
+  }
+}

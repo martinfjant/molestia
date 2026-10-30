@@ -1,0 +1,14 @@
+{
+  "name": "sine-molestia",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "build": "eleventy",
+    "start": "eleventy --serve",
+    "macronize": "node scripts/macronize.mjs"
+  },
+  "devDependencies": {
+    "@11ty/eleventy": "3.1.7",
+    "fake-indexeddb": "^6.2.5"
+  }
+}

@@ -1,0 +1,98 @@
+{
+  "meta": {
+    "lesson": 34,
+    "title": "Lectio tricesima quarta",
+    "subtitle": {
+      "latin": "Nihil novi sub sole",
+      "english": "Nothing new under the sun"
+    },
+    "revision": false
+  },
+  "latin": [
+    "Quousque tandem abuteris<sup>1</sup> patientia nostra!",
+    "Quid tibi, optime Ciceronis discipule?",
+    "Homo gravis<sup>2</sup> non es, qui latine iterum iterumque nugari non dubitas.",
+    "Quae res nova est? Latine nugari<sup>3</sup> non licet! Nulla est ratio cur istam linguam efficiamus taediosam.",
+    "Audacter lingua mortua uteris cum de rebus<sup>4</sup> hodiernis agis. Audes enim latine loqui de caffeo, vel de ludis qui apud Anglos «football» et «rugby» nuncupantur<sup>5</sup>. Haec omnia romani antiqui ignorabant.",
+    "Mores antiqui a nostris minus quam credis differunt.",
+    "Exempli gratia<sup>6</sup>, equi qui raedas nostras trahunt vaporarii sunt, sed homines raedis semper vehuntur.",
+    "Folle, non omnino sicut hodie nos ludimus, antiqui ludebant, sed tamen follibus utebantur...",
+    "Quid arbitraris de hac sententia: «... exercitationes equorum et armorum omisit et ad pilam folliculumque transiit»?",
+    "Aliquid simile Suetonius<sup>7</sup> de Augusto Imperatore scripsit.",
+    "Vides proverbium «nihil novi sub sole» non mentiri<sup>8</sup>; et linguam latinam, qua hodie uteris, mortuam non esse."
+  ],
+  "english": [
+    "Up to what point, finally, will you abuse (by) our patience!",
+    "[What's wrong with you] (what to-you), most excellent disciple of Cicero?",
+    "You are not a serious person, [since you] (who) don't hesitate to talk trifles in Latin again and again.",
+    "What [revolution] (new thing) is [this]? Talking trifles in Latin is not allowed! There's no reason why we should make that language tedious.",
+    "You use (by) a dead language audaciously when you [speak about] (deal with) modern things. Indeed, you dare to speak in Latin about coffee, or about the games that are called “football” and “rubgy” among the English. The ancient Romans did not know [about] all these things.",
+    "Ancient customs differ from ours less than you [think] (believe).",
+    "For example, the horses that draw our [cars] (carriages) are steam-powered, but people always [go] (are transported) by [cars] (carriages).",
+    "The ancients played (by) ball not entirely as we play today, but nevertheless they used balls …",
+    "What do you think of this sentence: “… he abandoned [horse-riding and fencing] (sports of horses and of arms) and went over to [playing ball] (ball and large-inflated-ball)?”.",
+    "Suetonius wrote something similar concerning the Emperor Augustus.",
+    "You see [that] the proverb “nothing new under the sun” [does not lie] (not to lie); and [that] Latin (language), which you use today, [is not] dead (not to be)."
+  ],
+  "notes": {
+    "footnotes": [
+      "Abutor, -eris, -i, abusus sum, to abuse (ab + utor). Do you know that the 1st Catilinarian, a well-known speech by the orator Cicero directed against the conspirator Catilina, begins more or less like phrase 1? Cf. L. 86, P. 2.\n\nN.B.— The verbs uti and abuti are build with the ablative.",
+      "Gravis, heavy (literal sense), here, serious (figurative sense). The dictionary indicates no more than “gravis, -e”. You can nontheless deduce from it that it's a third declension adjective, parisyllabic, which has also gravis in the feminine, but grave in the neuter; nominative and acc. pl. m. and f. graves; n. gravia; gen. sg. gravis; gen. pl. gravium (cf. L. 27, Notes).",
+      "Nugor, -aris, -ari, to talk trifles; nuga, -ae, f., trifle, frivolity.",
+      "Rebus, ablative of res, whose declension we are going to see below. Think of the English word rebus, a series of drawings that represent words by means of things.",
+      "Nuncupo, -as, -are, -avi, -atum = nomen capio, to call (a thing by a name). It has a much more precise sense than voco, which means both to call something (or someone) by a certain name, and to call someone to come.",
+      "Exempli gratiá, for example. Written just e.g. This abbreviation is also used in English.",
+      "Gaius Suetonius Tranquillus, author of De Vita Caesarum (in English we call this book The Lives of the Twelve Caesars, that is to say of the first twelve Roman emperors). This historian wrote his work in the first half of the second century of the Common Era. The quote in phrase 9 is drawn from: Divus Augustus, § lxxxiii.",
+      "Mentiri, to lie, cheat; present ind., mentior, mentiris, mentitur; perfect mentitus sum."
+    ],
+    "comments": [
+      "Lauriger Horatius is an international students' song from the Middle Ages by an unknown author. The Horace in question is the laurel-crowned poet (65-8 B.C.E.) and not the vanquisher of the Curiatii. The Eurus is the south-east wind.",
+      "You can find the lyrics and the music of this song either in Carmina Latina — opus citatum, i.e. the cited work (L. 13) – or in Douze Chansons latines by M. Laverenne (Magnard, Paris).",
+      "And here now is the 5th and last declension. It includes a small number of feminine nouns, the most important of which is res, and also the equally common dies, day, a word sometimes masculine, sometimes feminine. Its compound meridies, noon, is the other masculine exception to the 5th declension.",
+      "Singular:\t\tPlural:",
+      "nom.\tres\t\tres",
+      "acc.\trem\t\tres",
+      "gen.\trei\t\trerum",
+      "dat.\trei\t\trébus",
+      "abl.\tré\t\trébus",
+      "This final declension is not really very difficult: it is enough to see that it is a sort of intermediary between the first and the third, in the same way that the fourth is intermediate between the second and the third.",
+      "Tomorrow we are going to devote our revision to a restatement that will further clarify our ideas on these matters.",
+      "And do not forget to reread from time to time one or another of the initial lessons, in particular those that may have seemed heavy going.",
+      "Isn't it true that they are now starting to seem easier to you?",
+      "How much progress already made in five weeks!"
+    ]
+  },
+  "exercises": {
+    "latin": [],
+    "english": [],
+    "footnotes": []
+  },
+  "song": {
+    "kind": "Carmen",
+    "title": {
+      "latin": "Lauriger Horatius",
+      "english": "Laurel-crowned Horace"
+    },
+    "latin": [
+      "Lauriger Horatius,",
+      "Quam dixisti verum!",
+      "Fugit Euro citius",
+      "Tempus edax rerum.",
+      "Ubi sunt, o, pocula",
+      "Dulciora melle?",
+      "Rixae, pax et oscula",
+      "Rubentis puellae?"
+    ],
+    "english": [
+      "Laurel-crowned Horace,",
+      "How [truly] (true) you spoke!",
+      "More swiftly than Eurus [flies] (flees)",
+      "Time, the eater of [all] things.",
+      "Where are, oh, the cups",
+      "Sweeter than honey?",
+      "The quarrels, peace and kisses",
+      "Of a blushing girl?"
+    ],
+    "source": ""
+  }
+}

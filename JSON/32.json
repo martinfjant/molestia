@@ -1,0 +1,87 @@
+{
+  "meta": {
+    "lesson": 32,
+    "title": "Lectio tricesima altera",
+    "subtitle": {
+      "latin": "Socrus martis die salutationi se dare solet",
+      "english": "My mother-in-law usually receives guests on Tuesdays"
+    },
+    "revision": false
+  },
+  "latin": [
+    "Guido<sup>1</sup>! Propera, quaeso! Indue pulchras vestes!",
+    "Vae mihi! Fessus ex officio redeo. Toto die focali constrictus<sup>2</sup> aestuare<sup>3</sup> coactus sum<sup>4</sup>.",
+    "Rector administros<sup>5</sup> suos vexare solet... et calcei novi mihi pedes urunt<sup>6</sup>.",
+    "Domi soleatus<sup>7</sup> et sine focali me quieturum esse sperabam. Tu omnia mea consilia perturbas.",
+    "Mel meum<sup>8</sup>, cur ita loqueris? Nonne scis matrem<sup>9</sup> meam hodie vespere filias et generos ad se recepturam?",
+    "Hujus molestiae oblitus eram.",
+    "Memento! Dominico die nos in perendinum diem invitavit, tute<sup>10</sup> promisisti.",
+    "Vera dixisti. Immo, heri eam in Via Regali offendi<sup>11</sup>, quae mihi dixit:",
+    "«Carissime gener, quanto gaudio nobis erit vos cras revisere»; nec recusavi.",
+    "Praeterea me fugere non debuit socrum Martis die salutationi se dare solere.",
+    "Hebeti memoria es ... si de rebus molestis agitur.",
+    "Dies hebdomadis<sup>12</sup> vocantur: Lunae dies, Martis dies, Mercurii dies, Jovis dies, Veneris dies, Saturni<sup>13</sup> dies, Dominicus dies vel Dominica.",
+    "Diis paganorum sex priores<sup>14</sup> dies dicati<sup>15</sup> sunt, scilicet: Lunae, Marti, Mercurio, Jovi, Veneri, Saturno.",
+    "Septimus autem dies a christianis Domino dicatus est quia «complevit Deus die septimo opus suum quod fecerat, et requievit»<sup>16</sup> (Liber Genesis, II, 2)."
+  ],
+  "english": [
+    "Guy! Hurry, please! Put on [your good] (beautiful) clothes!",
+    "Woe [is] (to) me! I'm coming back from the office exhausted. I've been forced to smother all day, constricted by [my] tie.",
+    "The boss is-in-the-habit-of tyrannizing his employees … and [my] new shoes [hurt my feet] (to-me feet burn).",
+    "At home, in sandals and without a tie, I was hoping to rest (fut. inf.). You are upsetting all my plans.",
+    "Honey (mine), why do you speak so? Don't you know [that] my mother (today in-the-evening) [will be receiving her] daughters and sons-in-law [this evening] (to herself going-to-receive)? (future part.).",
+    "I had forgotten (of) this bother.",
+    "Remember! On Sunday she invited us [around] (for) the day after tomorrow, [and] you yourself [promised] (accepted).",
+    "You spoke [truly] (true-things). What's more, yesterday I ran into her in the King's Road, [and she] (who) said to me:",
+    "“Dearest son-in-law, (for) what a great joy it will be to us to see you[pl.] again tomorrow”; and I did not demur.",
+    "Besides, [I should have known] (me to-flee not it-ought) [that my] mother-in-law is [in the habit of receiving guests] on Tuesday[s] (to-greetings herself to-give to-be-accustomed).",
+    "[You have a bad memory] (By dull memory you-are) … if [it has to do with] (concerning) bothering things (it-is-dealt [with]).",
+    "The days of the week are called: Monday (Moon's day), Tuesday (Mars' day, the Anglo-Saxon Tyr), Wednesday (Mercury's day, the Germanic Woden or Odin), Thursday (Jupiter's day, i.e. Thor), Friday (Venus' day, the goddess Frige or Freyja), Saturday (Saturn's day), [and] day of the Lord or Sunday (Sun’s day).",
+    "The first six days are dedicated to pagan gods, viz.: to the Moon, to Mars, to Mercury, to Juppiter, to Venus, [and] to Saturn.",
+    "The seventh day on the other hand was dedicated to the Lord by the Christians because “on the seventh day God ended his work which he had made, and he rested” (Book of Genesis II,2)."
+  ],
+  "notes": {
+    "footnotes": [
+      "Guido, gen. Guidonis, Guy (a French name, Italian Guido).",
+      "Focale, -is, n., item worn around the throat (fauces, -ium, f. pl.).",
+      "Æstuare (1st conj. present ind.: aestuo, aestuas, etc.) to be hot, to smother, a verb which is good to know and which has a commonly used derivative which we will find tomorrow.",
+      "Cogi, passive of cogo, -is, -ere, coegi, coactum, to force to…, which we have seen in L. 30, P. 6. The perfect participle clearly shows the origin of the verb (cum + agere).",
+      "(Ad)minister, -tri, m. (f. (ad)ministra, -ae), servant, employee: ministers are, or should be, the servants of the State, of rites, etc.",
+      "Urere, to burn, but also to make suffer, is a 3rd conjugation verb that we've seen L. 20, P. 9, and which we will see again.",
+      "Solea, -ae, f., light indoor footwear. Calceus, -i, m., footwear worn for going out and which is removed in the house.",
+      "Mel, mellis, n., honey. Compare mel meum to the way we also say in English honey or even sugar (because honey was formerly used to replace sugar) as a term of endearment!",
+      "Mater, -tris, f., (3rd declension), mother; but gener, -eri, m., (2nd decl.), son-in-law, perhaps from the same family as genus (L. 30, N. 12). Likewise socer, -eri, father-in-law; its feminine socrus, -us (see below, P. 10), mother-in-law, belongs to the 4th declension, which we will review tomorrow.",
+      "Perendinus dies, the day after tomorrow, posterus dies, the following day; hesternus dies, the preceding day. The corresponding adverbs are: perendié, the day after tomorrow; cras, tomorrow; heri, yesterday.— Tute, or tute ipse, yourself, in person.",
+      "Offendo, -is, -ere, -i, -sum (perfect offendi, offendisti; supine offensum), to meet suddenly.",
+      "Hebdomas, -adis, f., or hebdomada, -ae, f., week.",
+      "Luna, -ae, f., the Moon; Mars, Martis, m., Mars; Mercurius, -ii, m., Mercury; Jupiter, Jovis, m., Jupiter (note the brevity of the cases other than the nominative); Venus, -eris, f., Venus; Saturnus, -i, m, Saturn.\n\nN.B.— We have followed here the contemporary civil usage, which calls for weeks to begin on Monday. However, according to its biblical origins, the week begins Sunday, and, further down, the seventh day mentioned in P. 14 is, in fact, the Sabbath day, i.e. Saturday.",
+      "Primus, -a, -um, the first, that which is number 1. Here not this adjective but its comparative, prior, -oris (n. prius, -oris), should be used, since the first six days are compared with the last. Diis, abl. pl. of deus, -i, god.",
+      "Dicatus, -a, -um: past participle of dico, -as, -áre, -avi, -atum, to dedicate (1st conjugation), which should not be confused with díco, -is, -ere, dixi, dictum (3rd), to say. They can be distinguished by the pronunciation (short i and long á in the infinitive for the first, and long í and short e in the infinitive for the second). Note also the tonic accent: dicare and dicere. If you've forgotten the relationship between “quantity” and the tonic accent, reread the preface (p. XIV).",
+      "Requiesco, -is, -ere, -quievi, -quietum (3rd conjugation), to rest, perfect requievi, -isti, etc.; future requiescam, requiesces, requiescet, etc.: present subj. requiescam, requiescas, requiescat, etc. You know perhaps the formula requiescat in pace, may he/she rest in peace, which can be read on some tombstones (pronunciation: Italian: pache; Latin: pahke; requiescant if more than one person is meant). The simple verb: quiescere (same conjugation), means to be at rest."
+    ],
+    "comments": []
+  },
+  "exercises": {
+    "latin": [
+      "Lunae die in opere hebdomadem incipimus.",
+      "Martis die generi cum uxoribus socrus domum adeunt. A socru recipiuntur.",
+      "Mercurii die hesternae receptionis molestiarum obliti sunt.",
+      "Jovis die finem hebdomadis prospicere incipiunt.",
+      "Veneris die rectores multi administros suos convocant.",
+      "Quid diebus praeteritis fecerint quaerunt. Quae proxima hebdomade efficienda sint constituunt.",
+      "Saturni dies sabbatum quoque vocatur.",
+      "Dominico die quiescere debemus. Attamen proximam hebdomadem prospicere et quae praeterita hebdomade didicimus, revisere possumus."
+    ],
+    "english": [
+      "On Monday we begin the week at work.",
+      "On Tuesday the sons-in-law with [their] wives go to the home of [their] mother-in-law. They are received by [their] mother-in-law.",
+      "On Wednesday they have forgotten the annoyances of the previous day's reception.",
+      "On Thursday they begin to look forward to the end of the week.",
+      "On Friday many bosses convene their employees.",
+      "They ask what they have done (perf. subj.) on the [preceding] (past) days. They decide what is to be accomplished the next week.",
+      "Saturday is also called the Sabbath.",
+      "On Sundays we ought to be at rest. Nevertheless we can look ahead to the next week and review what we have learned on the preceding week."
+    ],
+    "footnotes": []
+  }
+}

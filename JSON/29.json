@@ -1,0 +1,111 @@
+{
+  "meta": {
+    "lesson": 29,
+    "title": "Lectio undetricesima",
+    "subtitle": {
+      "latin": "Nonne linguam habes?",
+      "english": "Don't you have a tongue?"
+    },
+    "revision": false
+  },
+  "latin": [
+    "In tribunali<sup>1</sup>: Praeses. — Cur hoc autocinetum furatus es<sup>2</sup>?",
+    "Reus. — Cum esset ad coemeterii portam, autocineti dominum mortuum<sup>3</sup> esse putavi.",
+    "Magister. — Quid fecit Christophorus Columbus, cum in Americam pervenit, postquam de nave descendens<sup>4</sup> pedem humi posuit?",
+    "Discipulus. — Alterum posuit et<sup>5</sup> pedem.",
+    "Pater. — Cur magister te in ludo<sup>6</sup> hodie retinuit?",
+    "Filius. — Quod nesciebam ubi Syracusae<sup>7</sup> essent<sup>8</sup>.",
+    "Pater. — Ne immemor<sup>9</sup> sis ubi res collocaveris.",
+    "Dum cenat, puer brachium<sup>10</sup> supra<sup>11</sup> mensam porrigit<sup>12</sup> ad cibum capiendum.",
+    "Mater. — Noli brachium supra mensam ita porrigere! Nonne linguam habes?",
+    "Filius. — Habeo, sed brachium longius<sup>13</sup> est.",
+    "Consuetudinis<sup>14</sup> magna vis est (aiebat Cicero).",
+    "Dulce et decorum est pro patria mori. (Horatius.)",
+    "Omnia vincit amor. (Vergilius.)"
+  ],
+  "english": [
+    "In court: the chairman. — Why did you steal this automobile?",
+    "The defendant. — Since it was (impf. subj.) at the gate of the cemetery, I thought the owner of the automobile was dead / had died (to be dead / to have died).",
+    "The teacher. — What did Christopher Columbus do, when he arrived in America, after, descending from the ship, he put his foot on the ground?",
+    "The pupil. — He put also his other foot.",
+    "The father. — Why did the teacher detained you in school today?",
+    "The son. — Because I didn't know where Syracuse was.",
+    "The father. — [You should pay attention] (don't be forgetful) where you have put [your] things.",
+    "While [having] (he has) dinner, a boy reaches his arm over the table to grab [some] food (for food taking).",
+    "The mother. — Don't reach ([your] arm) over the table! Don't you have a tongue?",
+    "The son. — I do (have), but [my] arm is longer.",
+    "The force of habit is strong (big) (Cicero used to say).",
+    "‘Tis sweet and honorable to die for the fatherland (Horace).",
+    "Love conquers all (Virgil)."
+  ],
+  "notes": {
+    "footnotes": [
+      "Tribunal, alis, n.; dat. and abl. sing. tribunali; nominative and acc. pl. tribunalia; gen. pl. tribunalium. Some nouns of the 3rd declension make the ablative in -i (as for the dative) and not in -e.",
+      "Furatus sum, furatus es, etc. (furata if the subject is a female), perfect of furor, -aris, -ari, to steal (deponent verb, cf. R. and N. 28). Autocinetum, -i, n., automobile vehicule (Greek origin).",
+      "Mortuus, -a, -um, perfect participle of morior, -eris, -i, to die; present inf. mori; perfect ind. mortuus (-a, -um) sum; perfect inf. mortuum (-am, -um) esse, to have died.",
+      "Descendens, -entis (for all three genders), present participle of descendo, -is, -ere, -i, sum (descensum), to go down.",
+      "Et, when it does not link two words or two sentences, means also.",
+      "Ludus, -i, m., means at the same time the game and the school! Ludi magister, the schoolmaster.",
+      "Syracusae, -arum, f. pl., Syracuse, formerly the greatest city of Sicily.",
+      "Essent, imperfect subj. of esse (essem, esses, esset, essemus, essetis, essent). Equally further down collocaverim, perfect subj. of collocare (collocaveris, collocaverit, etc.). We use the subjunctive in the indirect question and in some subordinate clauses. We shall discuss this again.",
+      "Immemor, -oris, opposite of memor, -oris, adj., who remembers.",
+      "Brachium, -ii, n., the arm.",
+      "Supra + acc., above, over.",
+      "Porrigo, -is, -ere, -rexi, -rectum, to stretch, tend, offer (perfect porrexi, porrexisti, porrexit, porreximus, porrexistis, porrexerunt; supine porrectum).",
+      "Longius, -ioris, longer: comparative of longus, -a, -um, long.",
+      "Consuetudo, -inis, f., the custom, the habit."
+    ],
+    "comments": [
+      "The only difficultlies of the 3rd declension are the ablative singular in -i instead of -e and the genitive plural in -ium instead of -um. Thus the parisyllabics such as aedes, gen. aedis, f., which means in the singular the temple and in the plural the house; navis, gen. navis, f., etc., make regularly their genitive plural in -ium: aedium, navium. However canis, gen. canis, m., and some others (cf. R. and N. 35) make it in -um: canum, of the dogs. We point out these features to you so that they do not surprise you. Do not try to remember them yet, but let yourself be guided by usage: don't we do the same to get used to the thousand and one features of our mother tongue?"
+    ]
+  },
+  "exercises": {
+    "latin": [
+      "Ubi est horum aedium dominus? — Mortuus est.",
+      "Pronus erat ad bibendum: bibendo moriturus erat.",
+      "«Ave Caesar, morituri te salutant!» aiebant gladiatores in circum intrantes.",
+      "Quantum pendis? — Nonaginta sex kilogrammata.",
+      "Nimis gravis es; nimis cerevisiae bibis.",
+      "Navis in magno periculo est: paulatim mergitur.",
+      "Consuetudine mea tramen jam profectum currendo assecutus sum.",
+      "Ad tramen assequendum cucurri.",
+      "Tramine Aquas Sextias perveni."
+    ],
+    "english": [
+      "Where is the owner of this house (these buildings)? — He is dead / He [has] died.",
+      "He was prone to drinking: he was to die from drinking.",
+      "“Hail Caesar! Those-who-are-about-to-die salute you”, the gladiators would say as they entered the arena (entering the circus).",
+      "How much do you weigh? — 96 kg.",
+      "You are too heavy; you drink too-much (of) beer.",
+      "The ship is in great danger: it is sinking little-by-little.",
+      "[As usual] (by my custom/habit) I caught the train on its way (already having-departed) by running.",
+      "I ran to catch the train.",
+      "I arrived in Aix-en-Provence by train."
+    ],
+    "footnotes": []
+  },
+  "sources": [
+    {
+      "after": 4,
+      "latin": "E Palaestra Latina, n° 169.",
+      "english": "From Palæstra Latina, nº 169"
+    },
+    {
+      "after": 7,
+      "latin": "Ex Actis Diurnis, LV.",
+      "english": "From Acta Diurna, nº 55"
+    },
+    {
+      "after": 10,
+      "latin": "Ex Actis Diurnis, LIV.",
+      "english": "From Acta Diurna, nº 54"
+    }
+  ],
+  "headings": [
+    {
+      "before": 11,
+      "latin": "Proverbia",
+      "english": "Proverbs"
+    }
+  ]
+}

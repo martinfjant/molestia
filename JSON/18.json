@@ -1,0 +1,86 @@
+{
+  "meta": {
+    "lesson": 18,
+    "title": "Lectio duodevicesima",
+    "subtitle": {
+      "latin": "Quid interest inter...?",
+      "english": "What is the difference between…?"
+    },
+    "revision": false
+  },
+  "latin": [
+    "Paulus. — Scisne<sup>1</sup> quid<sup>2</sup> intersit inter: birotam, sciurum, familiam?",
+    "Petrus. — Omnino nescio<sup>3</sup>! Invenire non possum.",
+    "Paulus. — Hoc tamen facile invenitur<sup>4</sup>: pone sciurum birotamque sub arbore et exspecta quid sit futurum<sup>5</sup>...",
+    "Petrus. — Non intellego! Quid dicere vis?",
+    "Paulus. — Qui primus ascendit in arborem, is est<sup>6</sup> sciurus!",
+    "Petrus. — Bene! Callidus es. Sed tantum dixisti quid interesset<sup>7</sup> inter sciurum et birotam. Quid autem de familia?",
+    "Paulus. — Familia valet! Tibi gratias ago!",
+    "Sciurus in arborem ascendit.",
+    "Simius de arbore descendit.",
+    "Sciuri in arbores ascendunt.",
+    "Simii de arboribus descendunt."
+  ],
+  "english": [
+    "Paul. — Do you know [what the difference is between] (what is in between): a bicycle, a squirrel [and] a family.",
+    "Peter. — I have no idea (I don’t know it at all). I can’t find [it] out.",
+    "Paul. — [But it is easy] (this however is easily found out): put a squirrel and a bicycle under a tree and wait [to see] what [happens] (is about to be).",
+    "Peter. — I don’t understand! What do you [mean] (want to say)?",
+    "Paul. — The one that climbs the tree first is the squirrel (which first ascends onto the tree, it is the squirrel).",
+    "Peter. — Good (Well)! You are clever. But you only said what [was the difference between] (was between) a squirrel and a bicycle. But what (what on-the-other-hand) about the family?",
+    "Paul. — They are fine! Thank you!",
+    "The squirrel climbs up the tree (the squirrel ascends onto the tree).",
+    "The ape climbs down from the tree (the ape descends from the tree).",
+    "The squirrels climb up the trees.",
+    "The apes descend from the trees."
+  ],
+  "notes": {
+    "footnotes": [
+      "Scisne, from scio (is, ire), to know. For the part. -ne, cf. L 3, N 3.",
+      "Quid: the interrogative adjective-pronoun has the following forms in the singular:\n\nmasculine\tfeminine\tneuter\n\nsubject\t\t\tquis\t\tquae\t\tquid\t\t: who/what?\n\ndirect object\t\t\tquem\t\tquam\t\tquid\t\t: whom/what?\n\npossessive phrase\t\tcujus\t\tcujus\t\tcujus\t\t: whose?\n\nindirect object\t\tcui\t\tcui\t\tcui\t\t: to whom/what?\n\nadverbial phrase\t\tquo\t\tquá\t\tquo\t\t: by whom/what?\n\nIt resembles oddly enough the relative adjective-pronoun which differs from it only by the forms qui and quod instead of quis and quid.\n\nAs their names indicate, these words can be either pronouns as the relative pronoun qui in phrase 5, or adjectives:\n\nquae res?, what thing? (subject)\n\nquam rem?, what thing? (object)\n\nquá ré?, by what thing? (why, how) (adverbial phrase)",
+      "Nescio = non scio, I do not know; scio, I know.",
+      "Invenio (is, ire), to find (active voice); invenior (iris, iri), be found (passive voice).",
+      "Sim, sis, sit: that I be, that you be, that it be (subj. of esse). Futurus (a, um), which will be, is the FUTURE participle of this same verb.",
+      "Is… qui, that which (when that replaces a masculine noun); ea… quae, that which (when that refers to a feminine noun); id… quod, that which (when that refers to a neuter noun). These words almost always come in pairs, but their order is often reversed; e.g.: is est sciurus, qui ascendit in arborem.",
+      "Interesset: another subjunctive! Interesse is a compound of the verb esse, a verb which we must begin knowing: Pres. ind.: sum, es, etc.; pres. subj.: sim (vid. sup. N 5); impf. subj.: essem, esses, esset, etc. Intersit, of P 1, is therefore the 3rd pers. sg. of the pres. subj. of interesse. Let us not yet search for the rules of use of the subjunctive, but content ourselves with gradually gaining familiarity with its forms.\n\nLet you start to see the differences between the prepositions:\n\na (ab in front of a vowel) which indicates distance, difference, or introduces the agent of a passive verb, if it represents a person (the one who actually performs the action);\n\ne (ex in front of a vowel) which indicates the exit;\n\nde, which indicates the source, the descent and means also: about. E.g.: «De bello Gallico», about the Gallic War, is the title of  «The War of the Gauls», by Julius Caesar."
+    ],
+    "comments": [
+      "N.B. — For the 2nd wave: do not translate descends in P 8 by descendit, which would not be very correct for this figurative sense.",
+      "To end this lesson, let us see the different forms which the words pater bonus (the good father) can take depending on their role in the sentence:",
+      "Singular\t\tPlural",
+      "#1 subject\t\t\t\tpater bonus\t\tpatres boni",
+      "#2 direct object\t\t\tpatrem bonum\tpatres bonos",
+      "#3 possessive phrase\t\tpatris boni\t\tpatrum bonorum",
+      "#4 indirect object\t\t\tpatri bono\t\tpatribus bonis",
+      "#5 adverbial phrase\t\t\tpatre bono\t\tpatribus bonis",
+      "Do not try to learn the table above by heart: simply know that the different words do not follow the same rules of change according to case, and that we have not yet seen all the tables of possible variations. Very fortunately, although there are several, as a whole they all have a quite remarkable family resemblance. Patience, all that will be cleared up!"
+    ]
+  },
+  "exercises": {
+    "latin": [
+      "Quid de Victore? — Victor valet.",
+      "Quid de equis? — Valent.",
+      "Avia Victoris in arbores ascendit.",
+      "Quis descendit de tabulato altero?",
+      "Nemo descendit de tabulato tertio.",
+      "In nemore vicino, sciurus difficile invenitur.",
+      "Quod respondes, id non intellego.",
+      "Homo a simio originem ducit.",
+      "Quis hanc rem stupidam scripsit?",
+      "Diurnarius facile scribit."
+    ],
+    "english": [
+      "How’s Victor doing (What about Victor)? — Victor is well.",
+      "What about the horses? — They are well.",
+      "Victor’s grandmother climbs onto trees.",
+      "Who is coming down from the second floor?",
+      "No one is descending from the third floor.",
+      "In the neighbouring wood, a squirrel is not found easily.",
+      "I don’t understand what you are answering (What you be answering, that I do not understand).",
+      "Man descends from the ape (Man leads his origin from the ape).",
+      "Who wrote this stupidity (stupid thing)?",
+      "The journalist writes easily."
+    ],
+    "footnotes": []
+  }
+}

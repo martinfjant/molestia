@@ -1,0 +1,93 @@
+{
+  "meta": {
+    "lesson": 25,
+    "title": "Lectio vicesima quinta",
+    "subtitle": {
+      "latin": "Fabellae insanae",
+      "english": "Crazy stories"
+    },
+    "revision": false
+  },
+  "latin": [
+    "Insanus quidam<sup>1</sup>, canem brevibus cruribus<sup>2</sup> aspiciens<sup>3</sup>, subito clamavit: «Canes terram praetervolant<sup>4</sup>: mox pluet<sup>5</sup>!».",
+    "Dicitur, quando hirundines demisse volant, imbrem imminentem esse.",
+    "Una hirundo ver non efficit.",
+    "Alter insanus se granum frumenti esse credebat: quotiescumque gallinam viderat, perterritus fugiebat: timebat enim ne a gallina voraretur<sup>6</sup>.",
+    "Medicus insanorum, multa cum perseverantia eum curavit<sup>7</sup>. Insanus tandem intellexit se granum frumenti non esse...",
+    "Postero die medicus, qui sanationem probare cupiebat, cum eo colloquebatur<sup>8</sup>.",
+    "At subito gallina quaedam ab insano visa est, qui statim se in pedes conjecit.",
+    "Cur fugis? ait medicus. Credebam te sanatum esse. Cur adhuc gallinas times?",
+    "Non dubito quin<sup>9</sup> me sanaveris: certus sum me granum frumenti non esse. Sed hoc gallina fortasse nondum novit!"
+  ],
+  "english": [
+    "A-(certain) madman, looking at a basset hound (see note), suddenly exclaimed: “Dogs are [flying low] (flying-along the-ground): soon it will rain!”.",
+    "It is said [that], when swallows fly low, [it's about to rain] (rain imminent to-be).",
+    "One swallow does not make a summer (spring).",
+    "Another madman believed himself to be a grain of wheat: whenever he had seen a hen, he fled [in terror] (thoroughly-frightened), for he feared [being eaten by the hen] (lest by hen he-might-be-eaten).",
+    "A psychiatrist (doctor of-the-insane) cured him with great perseverance. The madman at-last understood [that he was not a grain of wheat] (himself grain of-wheat not to-be)...",
+    "The following day the doctor, who wished to verify the cure, was speaking [to] (with) him.",
+    "But suddenly a (certain) hen was seen by the madman, who immediately [took to his heels] (himself to feet he-threw).",
+    "Why are you running away? says the doctor. I thought you had been cured. Why do you still fear hens?",
+    "I have no doubt [that] (but that) you have cured me: I'm sure [I'm not] (me not to-be) a grain of wheat. But the hen may not know this yet (this-thing hen maybe not-yet knows)!"
+  ],
+  "notes": {
+    "footnotes": [
+      "Quidam, a certain (see L. 23, P. 1). We said that Latin has no article, but that it replaces it when necessary with appropriate words: here is an example of that!",
+      "Brevibus cruribus: ablative (pl. 3rd declension) which is shows that short legs are a specific quality of the dog (canem): it is the ablative of quality.",
+      "Aspiciens: present participle of aspicio, -is, -ere, to behold.",
+      "Volo, -as, -are, to fly; praeter, along (with a second sense of except). Hence terram praetervolare, to fly low (to hedgehop). We can also say demissé volare (P. 2).",
+      "Pluet: future of pluit (it is raining), an impersonal verb. Rain is pluvia, -ae, f., for rain in general, but imber, -bris, m., downpour, falling or impending rain. This latter word is masculine (m.) and belongs to the 3rd declension.",
+      "Voro, -as, -are, to devour; voror, -aris, -ari, to be devoured; vorarer, vorareris, voraretur, etc., is the imperfect subjunctive passive.\n\nA galliná, ablative of agent (long á), because the hen is a living being, like the medicus of lession 23 (P. 3). Gallina, -ae, hen, whence gallinaceous. Gallus, -i, cockerel or Gaul: you now see where the famous cockerel symbol of France (and of Portugal) comes from!",
+      "Curo, -as, -are (to take care of) and sano, -as, -are, to cure, like most verbs in -a, have their perfect in -avi. But do, -as, -are, to give, for example, becomes dedi in the perfect.",
+      "Colloquebatur, imperfect of colloquor = cum + loquor (to speak with).",
+      "Non dubito quin + subjunctive: for the time being think of these words as an idiomatic expression: I have no doubt that. But you have already seen dubitare, to be uncertain, to hesitate (L. 22, P. 1)."
+    ],
+    "comments": [
+      "NB.— Fio, fis (infinitive fieri), to be made, to become, is used as the passive of facio, -is, -ere, to make (P. 2).",
+      "We reviewed the 1st declension in lesson 22. Today we are going to bring some order to our knowledge of the second. This declension includes nouns in -us, which are masculine with some rare exceptions (such as methodus from lesson 13, which is feminine), nouns in -er, equally masculine, and nouns in -um, which are all neuter. It also comprises adjectives in -us or -er in the masculine and -um in the neuter (and whose feminine is in -a).",
+      "The genitive of this declension is in -i.",
+      "1 st Let's look at masculine nouns in -er and in -us to start with (the generous smith):",
+      "Singular:\t\t\t\tPlural:",
+      "nom.\t\tFABeR GENEROSus\t\tFABRi GENEROSi",
+      "acc.\t\tFABRum GENEROSum\t\tFABRos GENEROSos",
+      "gen.\t\tFABRi GENEROSi\t\t\tFABRorum GENEROSorum",
+      "dat.\t\tFABRo GENEROSo\t\t\tFABRis GENEROSis",
+      "abl.\t\tFABRo GENEROSo\t\t\tFABRis GENEROSis",
+      "Notice that the only question to ask about nouns in er is whether their genitive is in eri (e.g.: PUER, PUERi), or whether on the other hand the e of the nom. disappears in the other cases (e.g.: AGeR, AGRi).",
+      "2nd Neuter nouns in -um differ from the preceding only by their nominative singular in -um (the same as the accusative for all neuter words) and by their nominative and accusative plural in -a:",
+      "GRANum: acc., GRANum; gen., GRANi; dat. and abl. GRANo. Plural: nominative and acc., GRANa; gen., GRANorum; dat. and abl. GRANis.",
+      "Adjectives of the first class are declined:",
+      "In the masculine, like the nouns in -us or in -er of the 2nd declension; in the feminine, like the nouns of the 1st declension (see L. 22); in the neuter, like the nouns in -um of the 2nd declension. Examples:",
+      "BONus, m.\t\tBONa, f.\t\tBONum, n.\t\tgood",
+      "NIGeR\t\tNIGRa\t\tNIGRum\t\tshiny black",
+      "TENeR\t\tTENERa\t\tTENERum\t\ttender",
+      "In the dictionary, you will find just: bonus, -a, -um; niger, -gra, -grum; tener, -era, -erum; which is enough to know the complete declension of all three genders.",
+      "For a few days the notes are going to be a bit longer. It will be enough for us to make a little supplementary effort in order happily to get through this passage of the declensions. You will soon see that this monster is rather less terrible than they would have liked to have us believe."
+    ]
+  },
+  "exercises": {
+    "latin": [
+      "Insani a medicis non semper sanantur.",
+      "Panis e frumento fit.",
+      "E frumento homines panem faciunt.",
+      "Gallina grana frumenti vorat.",
+      "Vorantne gallinas insani? — Gallinae insanis non conveniunt.",
+      "Medicus gallinam assam edit.",
+      "Verum dic mihi! Potestne medicus eum sanare?",
+      "Quid arbitramini de fabellis insanis?",
+      "Fabellae insanae non sunt omnes ridiculae."
+    ],
+    "english": [
+      "Madmen are not always cured by [their] doctors.",
+      "Bread is made out of wheat.",
+      "People make bread out of wheat.",
+      "The hen eats grains of wheat.",
+      "Do madmen eat hens? — Hens are not good for madmen.",
+      "The doctor is eating a roast hen.",
+      "Tell me the truth! Can the doctor cure him?",
+      "What do you[pl.] think of crazy stories?",
+      "Not all crazy stories are funny (laughable)."
+    ],
+    "footnotes": []
+  }
+}

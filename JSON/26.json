@@ -1,0 +1,93 @@
+{
+  "meta": {
+    "lesson": 26,
+    "title": "Lectio vicesima sexta",
+    "subtitle": {
+      "latin": "Fabellae insanae (concluduntur)",
+      "english": "Crazy stories [end] (are concluded)"
+    },
+    "revision": false
+  },
+  "latin": [
+    "Insanus quidam hortulanum<sup>1</sup> fraga colentem inspiciebat.",
+    "Quid, inquit<sup>2</sup>, in ea spargis<sup>3</sup>?",
+    "Ea stercore<sup>4</sup> sterno, respondit horti cultor.",
+    "At insanus: — Ergo sine ullo dubio insanus sum, nam ea saccharo conspersa ego comedo!",
+    "Insanorum nosocomii<sup>5</sup> moderator visitatoribus aedes<sup>6</sup> suas monstrat:",
+    "Hic omnia secundum morem recentissimum<sup>7</sup> instructa sunt.",
+    "Aegroti nostri nullo modo vitam tristem agunt, sicut in veteribus aedibus fiebat, sed libertate otioque maximo fruuntur<sup>8</sup>.",
+    "Exempli gratia, piscinam natatoriam instruximus, cum tabulatis urinatoriis pluribus, quorum altissimum decem metra<sup>9</sup> se attollit.",
+    "Mehercule! Piscinam insanis instruere inaudita videtur audacia. Dic mihi, quaeso, quot insani summo tabulato usi sint<sup>10</sup>?",
+    "Paucissimi... forte tres aut quattuor...",
+    "Sed multo plures<sup>11</sup> urinabuntur<sup>12</sup> postquam in piscinam<sup>13</sup> adduxerimus<sup>14</sup>... aquam."
+  ],
+  "english": [
+    "A-(certain) madman was watching a gardener cultivating strawberries.",
+    "What do you sprinkle on them? says he.",
+    "I cover them with manure, responded the cultivator of the garden.",
+    "Then the madman (says): — Then I am crazy without any doubt, for I eat them sprinkled with sugar!",
+    "The director of a [mental] hospital (of-insane-people) is showing his [facilities] (houses) to [some] visitors:",
+    "Here everything has been set up (all-things having-been-set-up are) according to the most modern practice (according-to latest fashion/manner).",
+    "Our patients (sick people) don't lead a sad life in any way, as [happened] (was-done) in the old homes, but [instead] enjoy the greatest liberty and leisure.",
+    "For example, we built a swimming pool with several diving boards, the highest of which is ten meters high (raises itself ten meters).",
+    "My goodness (by Hercules)! To build a pool for the insane seems (of) an unheard-of audacity. Tell me, please, how many madmen have used the highest board?",
+    "Very few… perhaps three or four…",
+    "But many more will dive after we bring (we-shall-have-brought) into the pool… the water."
+  ],
+  "notes": {
+    "footnotes": [
+      "Hortulanus, -i, m., gardener (derivative of hortus, -i, m., garden).",
+      "Inquit, quoth he (says he); pl. inquiunt, they say. This verb is not used in all persons.",
+      "Spargo, -is, -ere (perfect sparsi), to spread; sparsus, -a, -um, having been spread; derivative: conspergo, -is, -ere (perfect conspersi); p.p. conspersus, -a, -um (P. 4).",
+      "Stercus, -oris, n., manure; abl. stercore (3rd declension).",
+      "Nosocomium, -ii, n., hospital.",
+      "Aedes, -is, f., house, edifice. This word is mainly used in the plural (aedes, gen. aedium). In the singular it means rather temple.",
+      "Mos, moris, m., tradition; pl. mores, morum, the mores, morals. Recentissimus, -a, -um: superlative of recens, -entis, adj., new.",
+      "Fruor, -eris, frui, (perfect fructus sum) + abl.: to benefit from..., has given us: fruit, fructose…",
+      "Decem, 10, is indeclinable (always remains in the form decem). The complement of measure is here in the accusative, hence metra, plural of metrum, -i, n., measure, meter.",
+      "Utor, -eris, -i (perfect usus sum), is a quite important verb, meaning to use, and also to associate (with someone); it governs the ablative.",
+      "Multo, much, this adverb is used in front of the comparative (here plures, more numerous).",
+      "Urinor, -aris, -ari, to plunge; future: urinabor.",
+      "Piscina, which comes from piscis, -is, m., fish, means first of all fishpond.",
+      "Adduxerimus: future perfect of adducere."
+    ],
+    "comments": [
+      "And now let us try to clear up the mysteries of the 3rd declension. It is very important, because it is the one that corresponds to the most general and most varied forms.",
+      "Let us take for instance cultor felix, the happy gardener:",
+      "Singular:\t\t\tPlural:",
+      "nom.\t\t\tCULTOR FELIX\t\tCULTORes FELICes",
+      "acc.\t\t\tCULTORem FELICem\tCULTORes FELICes",
+      "gen.\t\t\tCULTORis FELICis\t\tCULTORum FELICium",
+      "dat.\t\t\tCULTORi FELICi\t\tCULTORibus FELICibus",
+      "abl.\t\t\tCULTORe FELICi\t\tCULTORibus FELICibus",
+      "The difficulties of the third declension are:",
+      "1st The change of form, sometimes important, which takes place between the nominative and the other cases. The nominative is often a shortened from, and sometimes even very shortened. E.g.: iter, itineris, the way, the route. Of course, in the “dictionary” presentation, it is the genitive which indicates to us the form of the other cases.",
+      "2nd The fact that the ablative singular is sometimes in -i instead of -e and the genitive plural in -ium instead of -um. We shall return to this point.",
+      "The 3rd declension consists of masculine nouns like cultor, feminine nouns like soror, -oris; mater, -tris (vid. L 4), or aedes, -is, that we have just seen (P. 5 and N. 6).",
+      "It also includes neuters, which differ from the preceding by an accusative which is the same as the nominative, both cases being in -a or -ia in the plural.",
+      "E.g.: stercus (N. 4), acc. stercus (and not stercorem!), nom. and acc. pl. stercora. We have already seen corpus (L. 20, P. 2); its genitive singular is corporis; nominative and acc. pl. corpora.",
+      "It will be noted that the majority of these words have at least a syllable less in the nominative than in the other cases. They are called imparisyllabic (impar, imparis, unequal, odd). On the contrary, the words like aedes, aedis, which keep the same number of syllables in all cases (other than the gen., dat., and abl. pl.), are said to be parisyllabic (par, paris, means equal or even). The declension of the parisyllabics introduces little peculiarities which we shall discuss again later."
+    ]
+  },
+  "exercises": {
+    "latin": [
+      "Hortulanus horti cultor est: fraga, mala variaque olera in horto colit.",
+      "Opus horti cultoris horti cultura dici potest.",
+      "Similiter agri cultores, seu agricolae, frumentum in agris colunt.",
+      "Da vinum agri cultori.",
+      "Date cerevisiam horti cultoribus.",
+      "Ubi est domus agri cultorum felicium?",
+      "Unam hirundinem ver non efficere ab agri cultoribus dicitur."
+    ],
+    "english": [
+      "A gardener is the cultivator of a garden: he grows (cultivates) strawberries, apples and various vegetables in the garden",
+      "The job of a gardener (cultivator of a garden) can be-called horticulture (cultivation of the garden).",
+      "Similarly, cultivators of the field, or farmers, grow (cultivate) grain in the fields.",
+      "Give wine to the cultivator of the field (farmer).",
+      "Give beer to the gardeners.",
+      "Where is the house of the happy farmers?",
+      "[Farmers say that] one swallow (is said by farmers) doesn’t make (not to make) a summer (spring)."
+    ],
+    "footnotes": []
+  }
+}

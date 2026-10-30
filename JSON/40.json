@@ -1,0 +1,78 @@
+{
+  "meta": {
+    "lesson": 40,
+    "title": "Lectio quadragesima",
+    "subtitle": {
+      "latin": "De corporis partibus (sequitur)",
+      "english": "On the Parts of the Body (continued)"
+    },
+    "revision": false
+  },
+  "latin": [
+    "De capite concludamus. Lingua loquelae<sup>1</sup> ministerio<sup>2</sup> fungitur<sup>3</sup>.",
+    "Dentibus manducamus<sup>4</sup>. Nonnunquam ipsi dolent eosque evellere debemus: dentis enim evulsio res jucunda non est.",
+    "Oculum pro oculo, dentem<sup>5</sup> pro dente, dicit Scriptura.",
+    "Matronae labra et genas saepe roseo vel rubro colore<sup>6</sup> pingunt. Non solum virgines, sed etiam omnes mulieres<sup>7</sup>, colores nitidi, quos natura sana praebet, multo magis decent.",
+    "Barba virile decus, femineum crines.",
+    "Caput cervicibus<sup>8</sup> seu collo sustinetur, collum autem humeris.",
+    "Pulmonibus spiramus. Tussis e faucium<sup>9</sup> inflammatione oritur.",
+    "Amor tussisque non celatur. Dum spiro, spero.",
+    "Cor est antlia quae sanguinem<sup>10</sup> per arterias et venas movet. Stomachus cibos digerit.",
+    "Jecur graviter laborat si mero vel potionibus<sup>11</sup> alcoholicis abutimur.",
+    "Fames optimus est coquus. Copia nauseam parit."
+  ],
+  "english": [
+    "Let’s finish [talking] about the head. The tongue [is the organ] of speech (the function performs).",
+    "We chew with [our] teeth. Sometimes they (themselves) hurt, and we must extract them: indeed the extraction of a tooth is not a pleasant thing.",
+    "An eye for an eye, a tooth for a tooth, says the Scripture.",
+    "Ladies often paint [their] lips and cheeks with [rouge] (rosy or red pigment). The bright colors that a healthy nature provides are much more becoming not only [to] maidens, but also all women.",
+    "The beard [is] a manly distinction, locks a womanly [one].",
+    "The head is supported by the (nape-of-the-)neck, otherwise-called neck; the neck, on the other hand, by the shoulders.",
+    "We breathe with [our] lungs. Coughing arises from an inflammation of the throat.",
+    "Love and coughing cannot be hidden. While I breathe, I hope (= where there is life there is hope).",
+    "The heart is a pump which moves the blood through the arteries and veins. The stomach digests food.",
+    "The liver is severely troubled if we overindulge in (pure) wine or alcoholic beverages.",
+    "Hunger is the best cook. Abundance begets nausea."
+  ],
+  "notes": {
+    "footnotes": [
+      "Loquela, -ae, f., speech, comes from loqui.",
+      "Ministerium, -i, n., service, office, function.",
+      "Fungor, -eris, -i, functus sum, to fulfill (a function), deponent verb governing the ablative (here ministerio) or the genitive.",
+      "Manducamus. Do we still need to point out that the verb is manducare? Here, as this verb is to all evidence in the present indicative, we see that it is a verb of the first conjugation (in -as, -are).\n\nHenceforth, when we give you no information about a new verb, it is because it is a regular verb of the first conjugation. Take, for example, sentence 8, celatur; you can see by the translation that this verb is in the passive. As we don’t say anything (and, into the bargain, you have noticed in it a very significant -a-), its active form is celo, -as, -are (-avi, -atum) and its passive form celor, -aris, -ari (-atus sum). Finally, if we mention neither the perfect nor the supine (the forms in brackets above), it’s because they are in -avi and -atum, but this formation is not a general rule.\n\nIt is amusing to note that manducare, which is derived from mando, -is, -ere, mandi, mansum, to chew, was formerly employed in the sense to eat only in vulgar speech. It is, however, this word that gave the French manger and the Italian mangiare. In the classical language to eat was edo, -is, ere, edi, esum (compare English “eat”, German “essen”). You should know that this verb has a series of irregular forms matching those of the verb to be: es, you are or you eat; equally in the third person est, he is or he eats, and in the infinitive esse, to be or to eat, used alongside the regular forms edis, edit, edere.",
+      "Oculum and dentem are here in the accusative because they function as direct objects of an understood verb (to remove). In the same way, if you order beer, you would not say cervisia! but cervisiam! because it is the object that you order, and not the subject of any sort of action.",
+      "Color, -oris, m. Generally, words in -or are masculine, as their equivalents in Italian and Spanish, unlike in French and, almost always, in Catalan (although not with the word color in particular).\n\nWhat are the singulars of labra and genas? Answer: Labrum, -i, n., lip; gena, -ae, f., cheek.",
+      "Mulier, -ieris, f., woman, in general; virgo, -inis, young woman; matrona, -ae, f., married woman.",
+      "Cervix, -icis, f., neck. Rather the plural cervices, gen. cervicum, is used in the sense of the English singular.",
+      "Fauces, -ium, f., throat, corridor, narrow passage, is used only in the plural. Pulmo, -onis, m., lung. Tussis, -is, f., just as turris, tower; vis, force, febris, fever and securis, axe, have accusatives in -im instead of -em and ablatives in -i instead of -e.",
+      "Cor, cordis, n., heart; sanguis, -inis, m., blood; antlia, -ae, f., pump (also the name of a constellation of the southern hemisphere).",
+      "Jecur, -oris (or jecinoris), n., liver; potio, -onis, f., drink; merus, -a, -um, pure; merum, -i, n., pure wine (without water)."
+    ],
+    "comments": [
+      "You should have noticed that the present lesson contained a respectable number of proverbs and proverbial expressions. It is not a bad thing to know such phrases: they have, in general, the interest of containing —sometimes in very concentrated form— useful and easy-to-remember expressions. We point to a treasure-house of these in the Bibliographical Index (p. 545, #2, Arthaber)."
+    ]
+  },
+  "exercises": {
+    "latin": [
+      "Jecur hujus hominis magnum est ut follis ovalis.",
+      "Quomodo id fieri potest? — Quia nimium meri bibit.",
+      "Venter aures non habet.",
+      "Mel in ore, fel in corde. Ita dicitur de viris et mulieribus qui eis dulcia dicunt quos in corde oderunt.",
+      "Quae est ista matrona? Est mater virginis quam heri vidisti.",
+      "Ejus vultum reddit: qualis mater, talis filia.",
+      "Ut domum faucibus intras, sic esca in stomachum faucibus intrat.",
+      "Praeterea aditus, quo naves in portum intrant, fauces quoque vocantur."
+    ],
+    "english": [
+      "This man’s liver is [as] large as a [rugby] ball (egg-shaped).",
+      "How can that happen? — Because he has drunk too-much (of) wine.",
+      "The belly does not have ears.",
+      "Honey in the mouth, gall in the heart. So it is said about men and women who say sweet-things to those whom they hate in their heart (odisse, cf. L. 30, N. 8).",
+      "Which is that lady? She is the mother of the maiden whom you saw yesterday.",
+      "[She resembles her] (her face she returns): like (as) mother, like (such) daughter.",
+      "As you enter the house by the corridor, so food enters (into) the stomach by the throat.",
+      "Moreover, the entrance by which ships enter the port is also called «fauces»."
+    ],
+    "footnotes": []
+  }
+}

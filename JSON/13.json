@@ -1,0 +1,92 @@
+{
+  "meta": {
+    "lesson": 13,
+    "title": "Lectio tertia decima",
+    "subtitle": {
+      "latin": "Cur difficile?",
+      "english": "Why difficult?"
+    },
+    "revision": false
+  },
+  "latin": [
+    "Quid tibi, Lucia? Tristis videris<sup>1</sup>. Num<sup>2</sup> aegrotas?",
+    "Omnia male se habent. Operam perdo. Difficile est lectiones discere.",
+    "Cur difficile? Num omnia ad verbum discis?",
+    "Minime, sed verborum<sup>3</sup> significationem et formam in memoria servare non possum.",
+    "Nil<sup>4</sup> mirum! Oportet verbi cujusque septies oblivisci antequam ejus optime memineris<sup>5</sup>.",
+    "Estne hoc proverbium apud Sarmatas? Talia enim legi in methodo sarmatica<sup>6</sup>.",
+    "Euge! Si jam linguam sarmaticam sine molestia didicisti, quanto facilius linguam latinam disces. Nonne sententias intellegere incipis?",
+    "Incipio quidem sententias cursim legere et paulatim intellegere.",
+    "Macte! Bonam viam sequeris. Etiam et etiam iterare oportet.",
+    "Lingua latina non omnino facilis est, sed nullo modo disci non potest.",
+    "Lectiones disco; linguam sarmaticam discis. Lectionum obliviscor; tabulae multiplicatoriae meministi<sup>7</sup>.",
+    "Disco, discis, discit, discunt, discere; discitur, discuntur, disci;",
+    "Didici, didicisti, didicit, didicerunt, didicisse; discam, disces, discet, discent."
+  ],
+  "english": [
+    "What’s wrong (what to-you), Lucy? You seem sad (sad you-are-seen). Surely you are not ill, are you (by-any-chance ill)?",
+    "Everything is going badly (all-things badly themselves they-have). I am wasting my time (effort). [It] is difficult to learn the lessons.",
+    "Why [is it] difficult? Surely you aren’t trying to learn everything by heart, are you (by-any-chance all-things to word you-learn)?",
+    "Not at all, but I can’t remember the meaning and form of the words (but of-words meaning and form in memory to-keep not I-am-able).",
+    "No wonder! You have to forget each word seven times before you can remember it well. (it-is-required of-word each seven-times to-forget before of-it the-best you-remember).",
+    "Is that a [Russian] proverb (among the Russians)? For I read something like that in a Russian textbook (such indeed I-read in a-method Russian).",
+    "Bravo! If you’ve already learned Russian with ease (if already language Russian without pain you-learned), you’ll learn the Latin language all the more easily (how-much more-easily language Latin you-will-learn). Aren’t you beginning to understand the sentences?",
+    "I am actually beginning to read the sentences swiftly and gradually to understand them (I-begin certainly sentences swiftly to-read and gradually to-understand).",
+    "Well-done! You are on the right road (good road you-follow). It is necessary to repeat again and again (again and again to-repeat it-is-required).",
+    "The Latin language is not absolutely easy, but by no means impossible to learn. (by-no manner to-be-learned not it-is-able).",
+    "I learn the lessons; you learn Russian (language Russian). I forget the lessons (of-the-lessons I-forget); you remember the multiplication table (of-table multiplicatory you-remember).",
+    "I learn, you learn, he learns, they learn, to learn; it is learned, they are learned, to be learned.",
+    "I learned, you learned, he learned, they learned, to have learned; I will learn, you will learn, he will learn, they will learn."
+  ],
+  "notes": {
+    "footnotes": [
+      "Video, I see (active voice); videor, I am seen (passive voice) and, with a predicative (here tristis), I seem, I appear…",
+      "Num; we have already seen the use of the particle …ne, ? (valesne, are you well?), to indicate the question. But in other cases the question can be made more precise. Thus, if it is thought that the answer will be no, one employs num, by-any-chance. If, on the contrary, it is thought that the answer will be yes, one employs nonne, don’t …?, as further down in phrase 7.",
+      "Verba, words (neuter plural); verborum, of words; in the singular: verbum, a word; verbi, of a word.",
+      "Nil: short form of nihil, nothing, in colloquial speech.",
+      "Ejus, is the form of the possessive phrase (the same in the three genders) of the adjective pronoun called relative: is (masculine), ea (feminine), id (neuter), which is used to designate the person or the object about which one has just spoken. Memini is a rather particular verb (like novi, I know, that we saw in lesson 6) since it takes the form of the perfect tense; it means: I recorded in memory (I remember). It is conjugated just like reliqui (L 11, P 12). Memineris is the corresponding subjunctive, but nothing presses you to remember this! Notice finally that Latin says: \"to remember of something\" and also \"to forget (oblivisci) of something\" whence verbi and not verbum.",
+      "Sarmata is, in spite of the a, a masculine noun; methodus, in spite of the us, is a feminine noun. Be assured that there are only few exceptions of this kind; they are, in general, easy to remember and affect only nouns, never adjectives. The corresponding adjective is sarmaticus, feminine: sarmatica, neuter: sarmaticum.",
+      "Disco, I learn, requires a direct object, whereas memini is constructed with an indirect object, just as its opposite obliviscor (see note 5 above). Do not seek to remember all these aspects accurately: try simply to think in Latin, which will bring you to understand that the turns which English uses cannot always be transposed literally into other languages."
+    ],
+    "comments": [
+      "In our translations, we prefer to follow as closely as possible the Latin text. The two languages having a rather different structure, the English text can seem to you sometimes strange. It is because it is there only to help you understand: as soon as you understood, try to forget the English and to remember only the Latin construction.",
+      "Do you know the Russian Assimil, and did you notice that we made this lesson correspond very closely to its Russian counterpart? For both languages, because of these famous declensions of which it will soon be necessary that we begin speaking to you, the beginning is relatively more difficult.",
+      "If, in spite of its declensions and its quite peculiar alphabet, you managed to learn Russian with ease, don't you think it must be the same with Latin, which poses no delicate problems of reading or pronunciation, and which especially is much closer to our language?",
+      "Perhaps you will reproach Latin for its remarkable wealth of forms, in which you fear getting lost. Do not complain about this abundance: you will see little by little the usefulness of each thing, usefulness which you can't grab all at once. For the time being, content yourself with following the guide, by opening your eyes well, but without trying too hard to deepen your understanding. All that will be cleared up later.",
+      "You certainly know the carmen which ends our lesson today. It is an old French song, whose words were put in Latin by and Englishman, Sydney Morris, author of the collection Carmina Latina (Centaur Books, editor). Do not forget that France is not the only country where Latin is spoken!"
+    ]
+  },
+  "exercises": {
+    "latin": [],
+    "english": [],
+    "footnotes": []
+  },
+  "song": {
+    "kind": "Carmen",
+    "title": {
+      "latin": "Luna dum in caelo",
+      "english": "By the moonlight"
+    },
+    "latin": [
+      "Luna dum in caelo",
+      "Lucet, opus est",
+      "Ad scribendum stilo.",
+      "Dare quis potest?",
+      "Lucerna exstincta,",
+      "Me miserrimum!",
+      "Janua reclusa,",
+      "Da auxilium."
+    ],
+    "english": [
+      "While the moon in the sky",
+      "shines, [I] need",
+      "a stylus for writing.",
+      "Who can give [me one]?",
+      "The lamp is out,",
+      "Oh most poor me!",
+      "With the door wide open (the-door having-been-opened-up),",
+      "help [me] (give assistance)."
+    ],
+    "source": "(Taken from Carmina Latina, songs collected by Sydney Morris. Editor: Centaur Books, Slough (England).)"
+  }
+}

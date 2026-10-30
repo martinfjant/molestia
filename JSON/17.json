@@ -1,0 +1,78 @@
+{
+  "meta": {
+    "lesson": 17,
+    "title": "Lectio septima decima",
+    "subtitle": {
+      "latin": "Cupio locustam",
+      "english": "I want lobster"
+    },
+    "revision": false
+  },
+  "latin": [
+    "Ubi prandere possumus?",
+    "Hospites in triclinio prandent. Quot estis?",
+    "Quattuor sumus.",
+    "Assidite ad hanc mensam<sup>1</sup>.",
+    "Maria! Affer<sup>2</sup> omnia ad prandium quattuor convivarum necessaria<sup>3</sup>. Convivae in triclinio sunt.",
+    "Maria est nomen famulae. Famula quattuor catinos affert...",
+    "Apud unumquemque catinum, ponit poculum, cultrum, cochlear, fuscinulamque<sup>4</sup> unam.",
+    "Quid edere cupitis? Hic est ciborum index.",
+    "Parvus Victor indicem capit et respondet:",
+    "Ego cupio locustam<sup>5</sup> jure armoricano, deinde leporem<sup>6</sup> vel cuniculum assum venatorio more, denique crustulum<sup>7</sup> cum malis.",
+    "Mater irata colaphum Victori ducit, dicens:",
+    "Nimia<sup>8</sup> cupis! Nobis satis erunt, panis, ova, caseum<sup>9</sup>."
+  ],
+  "english": [
+    "Where can we have lunch?",
+    "Guests have lunch in the dining room. How many are you?",
+    "We are four.",
+    "Sit down at this table.",
+    "Maria! Bring everything (all-things) necessary for lunch for (of) four guests (table-companions). The guests (table-companions) are in the dining room.",
+    "Maria is the name of the servant. The servant brings four plates…",
+    "Next to each plate, she places one glass, knife, spoon, and fork.",
+    "What do you wish to eat? Here is the menu (list of-foods).",
+    "Little Victor takes the menu and answers:",
+    "I want (wish-for) lobster à la armoricaine (in Armorican sauce), then roasted hare or rabbit chasseur (in hunting manner), [and] finally apple pie (pastry with apples).",
+    "The angered mother slaps Victor (leads a slap to Victor), saying:",
+    "You want too many things. Bread, eggs, [and] cheese will be enough for us."
+  ],
+  "notes": {
+    "footnotes": [
+      "Assidite: imperative, 2nd pers. pl. of assido (is, ere), to sit down. Mensa, the table on which one eats; do you recall the tabula multiplicatoria (L 6, N 1).",
+      "Affer, imperative, 2nd pers. sg. of affero, composed of ad, towards, and fero (fers, ferre), to carry; and conjugated as the latter. Fero and its compounds have their place in the series of irregular verbs. Do not forget that in all languages, by virtue of the law of maximum inconvenience, it is precisely the irregular verbs that are the most often used (if they were not used much, they would be replaced sooner or later by regular verbs). Moreover, you should not be afraid to use them, even if you get muddled in their conjugation. Little by little, they will become familiar to you, and as these verbs are very useful, your efforts will be rewarded.",
+      "Omnia necessaria is a neuter plural: all things necessary. You will see later that this form is easily recognizable from the form in a of the feminine singular, thanks to the other words of the sentence, and even here thanks to omnia which can only be the neuter plural of the pronoun omnis that we saw in the previous lesson.",
+      "Fuscinulamque = et fuscinulam. Note that the adjective unam agrees in gender and number with the last term of the enumeration. This is not the only possible construction: we will return to this later. Also notice that the accent migrates to the syllable which precedes the particle que!",
+      "Locusta means at the same time lobster (notice the resemblance of both words) and locust.",
+      "Leporem, hare, direct object; if it were a subject, it would be lepus; whereas portus, subject, makes portum, object: all words do not vary in the same way. Have patience! What seems disturbing now will soon seem natural to you.",
+      "Crustulum, cake, (diminutive of crusta, the crust) is neuter.",
+      "Nimia, literally too many things, is a neuter adjective: vide supra notam tertiam (see note 3 above). Vid. sup., see above, is a frequent abbreviation.",
+      "Ova. Still a neuter plural (n. pl.). The singular is ovum. If you know Italian, think that the plural of uovo, the egg, is irregular: uova; but it comes directly from a regular Latin form.\n\nFor Caseum, think of the German Käse or the English cheese. Whereas the French word (fromage) and its Italian counterpart (formaggio) come from another Latin root: forma, form, mould.\n\nYou can definitely see that we do not leave the European family!"
+    ],
+    "comments": []
+  },
+  "exercises": {
+    "latin": [
+      "Mater ponit crustulum in catino.",
+      "Famula leporem in triclinium affert.",
+      "Famulae lepores in triclinia afferunt.",
+      "Lepus sex francis constat.",
+      "Lepores in triclinio prandere non cupiunt.",
+      "Quanti constat locusta? — Decem francis!",
+      "Nimio constat.",
+      "Quis est hic cibus?",
+      "Cibum quem cupio, in indice non invenio."
+    ],
+    "english": [
+      "Mother puts a pastry on the plate.",
+      "The servant brings the hare into the dining room.",
+      "The servants bring the hares into the dining rooms.",
+      "The hare costs six francs.",
+      "The hares don’t wish to have lunch in the dining room.",
+      "How much does the lobster cost? — Ten francs!",
+      "It costs too much.",
+      "What is this dish (food)?",
+      "I can’t find the dish I want (wish) on the menu."
+    ],
+    "footnotes": []
+  }
+}
