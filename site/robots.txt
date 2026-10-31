@@ -1,0 +1,4 @@
+# Crawlers may fetch pages only to read their "noindex" tag; blocking them here
+# would hide that tag, and a blocked URL can still be listed if linked elsewhere.
+User-agent: *
+Allow: /

@@ -15,6 +15,9 @@ export default function (eleventyConfig) {
   // Rebuild when lesson data changes (it lives outside the input dir).
   eleventyConfig.addWatchTarget("JSON/");
 
+  // Ask search engines to stay away.
+  eleventyConfig.addPassthroughCopy("site/robots.txt");
+
   // Latin/English pairs, one per row of the parallel grid: numbered sentences,
   // plus any mid-lesson headings ("before" sentence n) and source lines
   // ("after" sentence n). Latin comes with its accented twin.
