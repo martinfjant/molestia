@@ -3,21 +3,33 @@
     "lesson": 47,
     "title": "Lectio quadragesima septima",
     "subtitle": {
-      "latin": "Equum disjungamus (concluditur)",
+      "latin": "Equum disjungāmus (conclūditur)",
+      "latinAccented": "Equum disjungā́mus (conclū́ditur)",
       "english": "Let's unhitch the horse (end)"
     },
     "revision": false
   },
   "latin": [
-    "Amici ambo<sup>1</sup> equum compedibus<sup>2</sup> illigant<sup>3</sup> eumque pedibus sublevatum subito in labrum dejiciunt.",
-    "Equus his omnibus actis ita obstupefit ut<sup>4</sup> nullam vocem edere audeat.",
-    "Amici ambo valvas cellae balneariae januamque habitationis claudunt; suspenso gradu silentes exeunt.",
-    "In via tandem alter ex altero quaerit: «Dic mihi nunc qua causa haec omnia perfecerimus.»",
-    "Planissimum est: Haec est domus hominis qui mihi maxime molestus est...",
-    "cottidie enim talia mihi proponit aenigmata<sup>5</sup> qualibus nihil unquam respondere possum.",
-    "Ei demonstrem oportet me non tam stupidum esse quam ipse<sup>6</sup> arbitratur.",
-    "Sine ullo dubio, cras iste<sup>7</sup> mihi novissimum<sup>8</sup> aenigma proponet: «Possisne mihi dicere quid in labro hodie mane invenerim?»",
-    "At ei respondebo: «Equum!»"
+    "Amīcī ambō<sup>1</sup> equum compedibus<sup>2</sup> illigant<sup>3</sup> eumque pedibus sublevātum subitō in lābrum dējiciunt.",
+    "Equus hīs omnibus actīs ita obstupefit ut<sup>4</sup> nūllam vōcem edere audeat.",
+    "Amīcī ambō valvās cellae balneāriae jānuamque habitātiōnis claudunt; suspēnsō gradū silentēs exeunt.",
+    "In viā tandem alter ex alterō quaerit: «Dīc mihi nunc quā causā haec omnia perfēcerimus.»",
+    "Plānissimum est: Haec est domus hominis quī mihi maximē molestus est...",
+    "cottīdiē enim tālia mihi prōpōnit aenigmata<sup>5</sup> quālibus nihil unquam respondēre possum.",
+    "Ēī dēmōnstrem oportet mē nōn tam stupidum esse quam ipse<sup>6</sup> arbitrātur.",
+    "Sine ūllō dubiō, crās iste<sup>7</sup> mihi novissimum<sup>8</sup> aenigma prōpōnet: «Possīsne mihi dīcere quid in labrō hodiē manē invēnerim?»",
+    "At eī respondēbō: «Equum!»"
+  ],
+  "latinAccented": [
+    "Amī́cī ambō<sup>1</sup> equum compédibus<sup>2</sup> ílligant<sup>3</sup> eúmque pédibus sublevā́tum súbitō in lābrum dējíciunt.",
+    "Equus hīs ómnibus actīs ita obstúpefit ut<sup>4</sup> nūllam vōcem édere áudeat.",
+    "Amī́cī ambō valvās cellae balneā́riae jānuámque habitātiṓnis claudunt; suspḗnsō gradū siléntēs éxeunt.",
+    "In viā tandem alter ex álterō quaerit: «Dīc mihi nunc quā causā haec ómnia perfēcérimus.»",
+    "Plāníssimum est: Haec est domus hóminis quī mihi máximē moléstus est...",
+    "cottī́diē enim tā́lia mihi prōpṓnit aenígmata<sup>5</sup> quā́libus nihil unquam respondḗre possum.",
+    "Ēī dēmṓnstrem opórtet mē nōn tam stúpidum esse quam ipse<sup>6</sup> arbitrā́tur.",
+    "Sine ūllō dúbiō, crās iste<sup>7</sup> mihi novíssimum<sup>8</sup> aenígma prōpṓnet: «Possī́sne mihi dī́cere quid in labrō hódiē manē invḗnerim?»",
+    "At eī respondḗbō: «Equum!»"
   ],
   "english": [
     "The two friends tie the horse with hobbles, and, [lifting it] by its feet (to it by feet lifted), [suddenly tip it] into the bathtub.",
@@ -48,16 +60,28 @@
   },
   "exercises": {
     "latin": [
-      "Adestne cella balnearia in domo tua?",
-      "Ita! domi meae est cella balnearia.",
-      "Hac addita, membra domus nostrae quinque sunt.",
-      "Alia sunt: culina, triclinium et cubicula duo.",
-      "Quot sunt inquilini in aedibus?",
-      "Sunt duodecim familiae: sex tabulata et duae habitationes (vel cenacula) in singulis tabulatis.",
-      "Quomodo calefitis?",
-      "Ab imo calefimus.",
-      "Pulcherrime! haec est calefactionis ratio recentissima.",
-      "Ita, sed antiquissima quoque, nam a Romanis inventa est."
+      "Adestne cellā balneāriā in domō tuā?",
+      "Ita! domī meae est cellā balneāriā.",
+      "Hāc addita, membra domūs nostrae quīnque sunt.",
+      "Alia sunt: culīna, trīclīnium et cubicula duo.",
+      "Quot sunt inquilīnī in aedibus?",
+      "Sunt duodecim familiae: sex tabulāta et duae habitātiōnēs (vel cēnācula) in singulīs tabulātīs.",
+      "Quōmodo calefitis?",
+      "Ab īmō calefimus.",
+      "Pulcherrimē! haec est calefactiōnis ratiō recentissima.",
+      "Ita, sed antīquissima quoque, nam ā Rōmānīs inventa est."
+    ],
+    "latinAccented": [
+      "Adéstne cellā balneā́riā in domō tuā?",
+      "Ita! domī meae est cellā balneā́riā.",
+      "Hāc áddita, membra domūs nostrae quīnque sunt.",
+      "Ália sunt: culī́na, trīclī́nium et cubícula duo.",
+      "Quot sunt inquilī́nī in áedibus?",
+      "Sunt duódecim famíliae: sex tabulā́ta et duae habitātiṓnēs (vel cēnā́cula) in síngulīs tabulā́tīs.",
+      "Quṓmodo caléfitis?",
+      "Ab īmō caléfimus.",
+      "Pulchérrimē! haec est calefactiṓnis rátiō recentíssima.",
+      "Ita, sed antīquíssima quoque, nam ā Rōmā́nīs invénta est."
     ],
     "english": [
       "Is there a bathroom in your house?",

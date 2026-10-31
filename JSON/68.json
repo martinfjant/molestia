@@ -3,26 +3,43 @@
     "lesson": 68,
     "title": "Lectio duodeseptuagesima",
     "subtitle": {
-      "latin": "Necdum litterarum quicquam",
+      "latin": "Necdum litterārum quicquam",
+      "latinAccented": "Necdum litterā́rum quicquam",
       "english": "Still no letter"
     },
     "revision": false
   },
   "latin": [
-    "Josephus. — Quid adeo te sollicitat, pater? Maerore<sup>1</sup> videris ultra<sup>2</sup> morem occupatus.",
-    "Pater. — Enimvero<sup>3</sup> tabellarii hora est, nonne?",
-    "J. — Ita, profecto. Quid inde<sup>4</sup> non capio.",
-    "P. — Ah, fili mi! nescisne quattuor ipsos esse dies ex quo Antonius pericula<sup>5</sup>, Barcinone<sup>6</sup>, subire* debuit, necdum ad nos litterarum quicquam<sup>7</sup>.",
-    "J. — Equidem non putaram<sup>8</sup>. Certo, pater, scribere potuerat.",
-    "P. — Quin immo<sup>9</sup>, si bene omnia cessissent, et apud nos esse. Pulsantur fores<sup>10</sup> a tabellario.",
-    "J. — Ad nos tabellarius! E vestigio<sup>11</sup> curro. Ad vestibulum domus properat.",
-    "P. desuper filium adloquitur. — Numquidnam boni, Josephe?",
-    "J. — Antonius, Antonius qui scripsit ipse. Demitte centesimas triginta quas tabellario tribuam.",
-    "P. — Trade mihi epistulam: involucrum ego aperiam.",
-    "Voce jucunda: «Antonius Patri suo carissimo salutem dat. Maturius<sup>12</sup> scribere optabam; quod quidem non licuit.",
-    "Ceterum<sup>13</sup> fausta<sup>14</sup> omnia. Lauream sum adsecutus. Tramine adveniam quod nonae puncto Barcinone discedit. Vale mi pater<sup>15</sup>!",
-    "Datum Barcinone, die Junii vicesimo sexto.»",
-    "Deo gratias! Nunc demum animum recipio."
+    "Jōsēphus. — Quid adeō tē sollicitat, pater? Maerōre<sup>1</sup> vīderīs ultrā<sup>2</sup> mōrem occupātūs.",
+    "Pater. — Enimvērō<sup>3</sup> tabellāriī hōra est, nōnne?",
+    "J. — Ita, profectō. Quid inde<sup>4</sup> nōn capiō.",
+    "P. — Āh, fīlī mī! nescīsne quattuor ipsōs esse diēs ex quō Antōnius perīcula<sup>5</sup>, Barcinōne<sup>6</sup>, subīre* dēbuit, necdum ad nōs litterārum quicquam<sup>7</sup>.",
+    "J. — Equidem nōn putāram<sup>8</sup>. Certō, pater, scrībere potuerat.",
+    "P. — Quīn immō<sup>9</sup>, sī bene omnia cessissent, et apud nōs esse. Pulsantur forēs<sup>10</sup> ā tabellāriō.",
+    "J. — Ad nōs tabellārius! Ē vestīgiō<sup>11</sup> currō. Ad vestibulum domūs properat.",
+    "P. dēsuper fīlium adloquitur. — Numquidnam bonī, Jōsēphe?",
+    "J. — Antōnius, Antōnius quī scrīpsit ipse. Dēmitte centēsimās trīgintā quās tabellāriō tribuam.",
+    "P. — Trāde mihi epistulam: involūcrum ego aperiam.",
+    "Vōce jūcundā: «Antōnius Patrī suō cārissimō salūtem dat. Mātūrius<sup>12</sup> scrībere optābam; quod quidem nōn licuit.",
+    "Cēterum<sup>13</sup> fausta<sup>14</sup> omnia. Lauream sum adsecūtus. Tramīne adveniam quod nōnae pūnctō Barcinōne discēdit. Valē mī pater<sup>15</sup>!",
+    "Datum Barcīnōne, diē Jūniī vīcēsimō sextō.»",
+    "Deō grātiās! Nunc dēmum animum recipiō."
+  ],
+  "latinAccented": [
+    "Jōsḗphus. — Quid ádeō tē sollícitat, pater? Maerṓre<sup>1</sup> vī́derīs ultrā<sup>2</sup> mōrem occupā́tūs.",
+    "Pater. — Enimvḗrō<sup>3</sup> tabellā́riī hōra est, nōnne?",
+    "J. — Ita, proféctō. Quid inde<sup>4</sup> nōn cápiō.",
+    "P. — Āh, fīlī mī! nescī́sne quáttuor ipsōs esse diēs ex quō Antṓnius perī́cula<sup>5</sup>, Barcinṓne<sup>6</sup>, subī́re* dḗbuit, necdum ad nōs litterā́rum quicquam<sup>7</sup>.",
+    "J. — Équidem nōn putā́ram<sup>8</sup>. Certō, pater, scrī́bere potúerat.",
+    "P. — Quīn immō<sup>9</sup>, sī bene ómnia cessíssent, et apud nōs esse. Pulsántur forēs<sup>10</sup> ā tabellā́riō.",
+    "J. — Ad nōs tabellā́rius! Ē vestī́giō<sup>11</sup> currō. Ad vestíbulum domūs próperat.",
+    "P. dḗsuper fī́lium adlóquitur. — Numquídnam bonī, Jōsḗphe?",
+    "J. — Antṓnius, Antṓnius quī scrīpsit ipse. Dēmítte centḗsimās trīgíntā quās tabellā́riō tríbuam.",
+    "P. — Trāde mihi epístulam: involū́crum ego apériam.",
+    "Vōce jūcúndā: «Antṓnius Patrī suō cāríssimō salū́tem dat. Mātū́rius<sup>12</sup> scrī́bere optā́bam; quod quidem nōn lícuit.",
+    "Cḗterum<sup>13</sup> fausta<sup>14</sup> ómnia. Láuream sum adsecū́tus. Tramī́ne advéniam quod nōnae pūnctō Barcinṓne discḗdit. Valē mī pater<sup>15</sup>!",
+    "Datum Barcīnṓne, diē Jū́niī vīcḗsimō sextō.»",
+    "Deō grā́tiās! Nunc dēmum ánimum recípiō."
   ],
   "english": [
     "Joseph. — What is worrying you so much, papa? You seem [more preoccupied] (busy) by [worry] than [usual] (beyond habit).",
@@ -65,16 +82,28 @@
   },
   "exercises": {
     "latin": [
-      "Cur Desiderius maerore adeo videtur occupatus?",
-      "Socrus ejus e vita decessit: qua re maestus est.",
+      "Cūr Desidērius maerōre adeō vidētur occupātus?",
+      "Socrus ejus ē vītā dēcessit: quā rē maestus est.",
       "Hic est maeror magnus.",
-      "Majoris tamen est maeroris orbum patre aut matre fieri.",
-      "Mihi omnium dolorum maximus est pecunia carere.",
-      "Vir es turpis et cupidus: non ceterorum miseriam, sed tantum fortunam tuam curas.",
-      "Villicus est dives agris.",
-      "Famulus, cui nulla sunt bona, tamen contentus sorte sua videtur.",
-      "Homines civitati utiles honorantur, fures autem digni verbere in carcerem conjiciuntur.",
-      "Ut fures in nundinis, ita inter se intellegunt."
+      "Majōris tamen est maerōris orbum patre aut mātre fierī.",
+      "Mihi omnium dolōrum maximus est pecūniā carēre.",
+      "Vir es turpis et cupidus: nōn cēterōrum miseriam, sed tantum fortūnam tuam cūrās.",
+      "Villicus est dīves agrīs.",
+      "Famulus, cui nūlla sunt bona, tamen contentus sorte suā vidētur.",
+      "Hominēs cīvitātī ūtilēs honōrantur, fūrēs autem dignī verbere in carcerem cōnjiciuntur.",
+      "Ut fūrēs in nūndinīs, ita inter sē intellegunt."
+    ],
+    "latinAccented": [
+      "Cūr Desidḗrius maerṓre ádeō vidḗtur occupā́tus?",
+      "Socrus ejus ē vītā dēcéssit: quā rē maestus est.",
+      "Hic est maeror magnus.",
+      "Majṓris tamen est maerṓris orbum patre aut mātre fíerī.",
+      "Mihi ómnium dolṓrum máximus est pecū́niā carḗre.",
+      "Vir es turpis et cúpidus: nōn cēterṓrum misériam, sed tantum fortū́nam tuam cūrās.",
+      "Víllicus est dīves agrīs.",
+      "Fámulus, cui nūlla sunt bona, tamen conténtus sorte suā vidḗtur.",
+      "Hóminēs cīvitā́tī ū́tilēs honōrántur, fūrēs autem dignī vérbere in cárcerem cōnjiciúntur.",
+      "Ut fūrēs in nū́ndinīs, ita inter sē intéllegunt."
     ],
     "english": [
       "Why does Didier seem so absorbed by grief?",
@@ -93,7 +122,8 @@
   "sources": [
     {
       "after": 14,
-      "latin": "E Vita Latina (sept. 1957, Emmanuel Jove).",
+      "latin": "Ē Vīta Latīna (sept. 1957, Emmanuēl Jove).",
+      "latinAccented": "Ē Vīta Latī́na (sept. 1957, Emmánuēl Jove).",
       "english": "(From Vita Latina (Sept. 1957, Emmanuel Jove).)"
     }
   ]

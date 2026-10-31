@@ -3,24 +3,39 @@
     "lesson": 81,
     "title": "Lectio octogesima prima",
     "subtitle": {
-      "latin": "Male me contuderunt<sup>1</sup>",
+      "latin": "Male mē contudērunt<sup>1</sup>",
+      "latinAccented": "Male mē contudḗrunt<sup>1</sup>",
       "english": "What a thrashing!"
     },
     "revision": false
   },
   "latin": [
-    "Euclio<sup>2</sup>, senex avarissimus, qui aurum suum in aulula quadam abscondit; secum loquitur. — Volui* animum tandem confirmare hodie meum, ut bene haberem me filiae nuptiis<sup>3</sup>.",
-    "Venio ad macellum, rogito pisces: indicant caros, agninam caram, caram bubulam, vitulinam, cetum, porcinam<sup>4</sup>, cara omnia.",
-    "Atque eo fuerunt cariora quod<sup>5</sup> aes<sup>6</sup> non erat.",
-    "Abeo* iratus illinc, quoniam nihil est quod emere possim.",
-    "Accessit animus ad meam sententiam, quam minimo<sup>7</sup> sumptu filiam ut nuptum<sup>8</sup> darem.",
-    "Nunc tusculum<sup>9</sup> emi hoc et coronas floreas<sup>10</sup>,",
-    "Haec imponentur in foco nostro Lari<sup>11</sup>,",
-    "ut fortunatas faciat natae<sup>12</sup> nuptias.",
-    "Sed quid ego conspicor<sup>13</sup>? Apertas aedes nostras! — Vox in aedibus auditur.",
-    "Et strepitust intus<sup>14</sup>. Num ego compilor<sup>15</sup> miser?",
-    "Congrio, coquus, ad cenam parandam missus, jam pridem in Euclionis culina satagit<sup>16</sup>. — Aulam majorem si potes e vicinia pete: haec parva est; capere non quit*<sup>17</sup>.",
-    "Euclio. — Ei mihi. Perii Hercle! Aurum rapitur, aula quaeritur. Apollo, quaeso subveni mihi atque adjuva! Confige<sup>18</sup> sagittis<sup>19</sup> fures<sup>20</sup> thesaurarios<sup>21</sup>! — Domum irruit; clamores verberaque audiuntur."
+    "Eucliō<sup>2</sup>, senex avārissimus, quī aurum suum in aululā quādam abscondit; sēcum loquitur. — Voluī* animum tandem cōnfirmāre hodiē meum, ut bene habērem mē fīliae nūptiīs<sup>3</sup>.",
+    "Veniō ad macellum, rogitō piscēs: indicant cārōs, agnīnam cāram, cāram būbulam, vitulīnam, cētum, porcīnam<sup>4</sup>, cāra omnia.",
+    "Atque eō fuērunt cāriōra quod<sup>5</sup> aes<sup>6</sup> nōn erat.",
+    "Abeō* īrātus illinc, quoniam nihil est quod emere possim.",
+    "Accessit animus ad meam sententiam, quam minimō<sup>7</sup> sūmptū fīliam ut nūptum<sup>8</sup> darem.",
+    "Nunc tusculum<sup>9</sup> ēmī hoc et corōnās flōreās<sup>10</sup>,",
+    "Haec impōnentur in focō nostrō Lārī<sup>11</sup>,",
+    "ut fortūnātās faciat nātae<sup>12</sup> nūptiās.",
+    "Sed quid ego cōnspicor<sup>13</sup>? Apertās aedēs nostrās! — Vōx in aedibus audītur.",
+    "Et strepitūst intus<sup>14</sup>. Num ego compīlor<sup>15</sup> miser?",
+    "Congriō, coquus, ad cēnam parandam missus, jam prīdem in Euclīonis culīna satagit<sup>16</sup>. — Aulam majōrem sī potes ē vīcīniā pete: haec parva est; capere nōn quit*<sup>17</sup>.",
+    "Eucliō. — Ēī mihi. Periī Hercle! Aurum rapitur, aula quaeritur. Apollō, quaesō subvenī mihi atque adjuvā! Cōnfīge<sup>18</sup> sagittīs<sup>19</sup> fūrēs<sup>20</sup> thēsaurāriōs<sup>21</sup>! — Domum irruit; clāmōrēs verberaque audiuntur."
+  ],
+  "latinAccented": [
+    "Eúcliō<sup>2</sup>, senex avāríssimus, quī aurum suum in áululā quādam abscóndit; sēcum lóquitur. — Vóluī* ánimum tandem cōnfirmā́re hódiē meum, ut bene habḗrem mē fī́liae nū́ptiīs<sup>3</sup>.",
+    "Véniō ad macéllum, rógitō piscēs: índicant cārōs, agnī́nam cāram, cāram bū́bulam, vitulī́nam, cētum, porcī́nam<sup>4</sup>, cāra ómnia.",
+    "Atque eō fuḗrunt cāriṓra quod<sup>5</sup> aes<sup>6</sup> nōn erat.",
+    "Ábeō* īrā́tus illinc, quóniam nihil est quod émere possim.",
+    "Accéssit ánimus ad meam senténtiam, quam mínimō<sup>7</sup> sūmptū fī́liam ut nūptum<sup>8</sup> darem.",
+    "Nunc túsculum<sup>9</sup> ēmī hoc et corṓnās flṓreās<sup>10</sup>,",
+    "Haec impōnéntur in focō nostrō Lārī<sup>11</sup>,",
+    "ut fortūnā́tās fáciat nātae<sup>12</sup> nū́ptiās.",
+    "Sed quid ego cṓnspicor<sup>13</sup>? Apértās aedēs nostrās! — Vōx in áedibus audī́tur.",
+    "Et strepítūst intus<sup>14</sup>. Num ego compī́lor<sup>15</sup> miser?",
+    "Cóngriō, coquus, ad cēnam parándam missus, jam prīdem in Euclī́onis culī́na sátagit<sup>16</sup>. — Aulam majṓrem sī potes ē vīcī́niā pete: haec parva est; cápere nōn quit*<sup>17</sup>.",
+    "Eúcliō. — Ēī mihi. Périī Hercle! Aurum rápitur, aula quáeritur. Apóllō, quaesō súbvenī mihi atque ádjuvā! Cōnfī́ge<sup>18</sup> sagíttīs<sup>19</sup> fūrēs<sup>20</sup> thēsaurā́riōs<sup>21</sup>! — Domum írruit; clāmṓrēs verberáque audiúntur."
   ],
   "english": [
     "Euclio, a very miserly old man, who has hidden his gold in a little pot; he speaks [alone] (with himself). — At last I have [taken my courage in both hands] (wanted to fortify my mind) today, in order to [treat myself well] (subj. impft) for my daughter's wedding.",
@@ -68,18 +83,32 @@
   },
   "exercises": {
     "latin": [
-      "Quando vivebat Plautus?",
-      "Titus Maccius Plautus natus anno 500° A.U.C. (ab Urbe condita), i.e. anno 254 A.C. (ante Christum natum) et anno 184 A.C. mortuus esse creditur.",
-      "Quamdiu vixit? Si haec tempora sine errore constant 70 annos vixit.",
-      "Qualis fuit ejus vita?",
-      "De ea non multa sane novimus.",
-      "Juvenis histrio fuisse dicitur, e quodam comoedorum grege.",
-      "Deinde comoedias ipse scripsit, in quibus graecos auctores imitatus est.",
-      "Quam pecuniam theatro acquisivit, eam negotiando perdidit.",
-      "Quare tali difficultate nummaria laboravit ut apud pistorem victum quaerere debuerit.",
-      "Dicunt eum ante furnum, quotiescumque otium adesset, comoedias etiam scripsisse.",
-      "Vita et opera ejus haud dissimilia sunt vitae et operibus Johannis-Baptistae Poquelin, qui apud Gallos Molière vocatur.",
-      "Exempli gratia, auctor ille Gallus in ea comoedia, quae Avarus inscribitur, Plauti Aululariam imitatus est."
+      "Quandō vīvēbat Plautus?",
+      "Titus Maccius Plautus nātus annō 500° Ā.Ū.C. (ab Urbe conditā), ī.ē. annō 254 Ā.C. (ante Chrīstum nātum) et annō 184 Ā.C. mortuus esse crēditur.",
+      "Quamdiū vīxit? Sī haec tempora sine errōre cōnstant 70 annōs vīxit.",
+      "Quālīs fuit ejus vīta?",
+      "Dē eā nōn multa sānē nōvimus.",
+      "Juvenis histriō fuisse dīcitur, ē quōdam cōmoedōrum grege.",
+      "Deinde cōmoediās ipse scrīpsit, in quibus graecōs auctōrēs imitātus est.",
+      "Quam pecūniam theātrō acquīsīvit, eam negōtiandō perdidit.",
+      "Quārē tālī difficultāte nummāria labōrāvit ut apud pistōrem vīctum quaerere dēbuerit.",
+      "Dīcunt eum ante furnum, quotiēscumque ōtium adesset, cōmoediās etiam scrīpsisse.",
+      "Vīta et opera ejus haud dissimilia sunt vītae et operibus Johannis-Baptistae Poquelin, quī apud Gallōs Molière vocātur.",
+      "Exemplī grātia, auctor ille Gallus in eā cōmoediā, quae Avārus īnscrībitur, Plautī Aululāriam imitātus est."
+    ],
+    "latinAccented": [
+      "Quandō vīvḗbat Plautus?",
+      "Titus Máccius Plautus nātus annō 500° Ā.Ū.C. (ab Urbe cónditā), ī.ē. annō 254 Ā.C. (ante Chrīstum nātum) et annō 184 Ā.C. mórtuus esse crḗditur.",
+      "Quámdiū vīxit? Sī haec témpora sine errṓre cōnstant 70 annōs vīxit.",
+      "Quālīs fuit ejus vīta?",
+      "Dē eā nōn multa sānē nṓvimus.",
+      "Júvenis hístriō fuísse dī́citur, ē quōdam cōmoedṓrum grege.",
+      "Deínde cōmóediās ipse scrīpsit, in quibus graecōs auctṓrēs imitā́tus est.",
+      "Quam pecū́niam theā́trō acquīsī́vit, eam negōtiándō pérdidit.",
+      "Quārē tālī difficultā́te nummā́ria labōrā́vit ut apud pistṓrem vīctum quáerere dēbúerit.",
+      "Dīcunt eum ante furnum, quotiēscúmque ṓtium adésset, cōmóediās étiam scrīpsísse.",
+      "Vīta et ópera ejus haud dissimília sunt vītae et opéribus Johánnis-Baptístae Póquelin, quī apud Gallōs Molíère vocā́tur.",
+      "Exémplī grā́tia, auctor ille Gallus in eā cōmóediā, quae Avā́rus īnscrī́bitur, Plautī Aululā́riam imitā́tus est."
     ],
     "english": [
       "When did Plautus live?",
@@ -100,7 +129,8 @@
   "sources": [
     {
       "after": 12,
-      "latin": "E Plauti Aulularia (versus: 371...395).",
+      "latin": "Ē Plautī Aululāria (versus: 371...395).",
+      "latinAccented": "Ē Plautī Aululā́ria (versus: 371...395).",
       "english": "(From the Aulularia (the [play] relating to the little pot) of Plautus (lines 371...395).)"
     }
   ]

@@ -3,21 +3,33 @@
     "lesson": 45,
     "title": "Lectio quadragesima quinta",
     "subtitle": {
-      "latin": "Equum disjungamus!",
+      "latin": "Equum disjungāmus!",
+      "latinAccented": "Equum disjungā́mus!",
       "english": "Let's unhitch the horse!"
     },
     "revision": false
   },
   "latin": [
-    "Adulescens quidam amicum rogat nonne<sup>1</sup> sibi<sup>2</sup> auxilium ferre possit.",
-    "Alteri annuenti dixit: «Veni mecum!».",
-    "In viis suburbanis<sup>3</sup> obscurisque progrediuntur<sup>4</sup>, donec<sup>5</sup> adulescens equum carpento junctum<sup>6</sup> amico ostendit<sup>7</sup>.",
-    "Oportet equum disjungamus et ad domum quamdam perducamus.",
+    "Adulēscēns quīdam amīcum rogat nōnne<sup>1</sup> sibi<sup>2</sup> auxilium ferre possit.",
+    "Alterī annuentī dīxit: «Vēnī mēcum!».",
+    "In viīs suburbānīs<sup>3</sup> obscūrīsque prōgrediuntur<sup>4</sup>, dōnec<sup>5</sup> adulēscēns equum carpentō jūnctum<sup>6</sup> amīcō ostendit<sup>7</sup>.",
+    "Oportet equum disjungāmus et ad domum quamdam perdūcāmus.",
     "Equum disjungunt<sup>8</sup> et ad domum dictam perveniunt.",
-    "Nullum est hic<sup>9</sup> stabulum<sup>10</sup>! Quo equum ducere debemus?",
-    "Ad tabulatum quintum. Haec est ratio cur a te auxilium petierim<sup>11</sup>. Nihil tamen timueris: adest scansorium pegma<sup>12</sup>.",
-    "Amicus miratur. Nihilominus auxilium fert atque ambo<sup>13</sup> non sine multo sudore equum in pegmate collocant.",
-    "Amico et equo in cella inclusis<sup>14</sup> (tres personas cella capere non poterat) adulescens ad tabulatum quintum gradibus ascendit et inde scansorio electrico pulsorio attollit."
+    "Nūllum est hīc<sup>9</sup> stabulum<sup>10</sup>! Quō equum dūcere dēbēmus?",
+    "Ad tabulātum quīntum. Haec est ratiō cūr ā tē auxilium petierim<sup>11</sup>. Nihil tamen timuerīs: adest scānsōrium pēgma<sup>12</sup>.",
+    "Amīcus mīrātur. Nihilōminus auxilium fert atque ambō<sup>13</sup> nōn sine multō sūdōre equum in pēgmate collocant.",
+    "Amīcō et equō in cellā inclūsīs<sup>14</sup> (trēs persōnās cellā capere nōn poterat) adulēscēns ad tabulātum quīntum gradibus ascendit et inde scansōriō electrīcō pulsōriō attollit."
+  ],
+  "latinAccented": [
+    "Adulḗscēns quīdam amī́cum rogat nōnne<sup>1</sup> sibi<sup>2</sup> auxílium ferre possit.",
+    "Álterī annuéntī dīxit: «Vēnī mēcum!».",
+    "In viīs suburbā́nīs<sup>3</sup> obscūrī́sque prōgrediúntur<sup>4</sup>, dōnec<sup>5</sup> adulḗscēns equum carpéntō jūnctum<sup>6</sup> amī́cō osténdit<sup>7</sup>.",
+    "Opórtet equum disjungā́mus et ad domum quamdam perdūcā́mus.",
+    "Equum disjúngunt<sup>8</sup> et ad domum dictam pervéniunt.",
+    "Nūllum est hīc<sup>9</sup> stábulum<sup>10</sup>! Quō equum dū́cere dēbḗmus?",
+    "Ad tabulā́tum quīntum. Haec est rátiō cūr ā tē auxílium petíerim<sup>11</sup>. Nihil tamen timúerīs: adest scānsṓrium pēgma<sup>12</sup>.",
+    "Amī́cus mīrā́tur. Nihilṓminus auxílium fert atque ambō<sup>13</sup> nōn sine multō sūdṓre equum in pḗgmate cóllocant.",
+    "Amī́cō et equō in cellā inclū́sīs<sup>14</sup> (trēs persṓnās cellā cápere nōn póterat) adulḗscēns ad tabulā́tum quīntum grádibus ascéndit et inde scansṓriō electrī́cō pulsṓriō attóllit."
   ],
   "english": [
     "A certain young man asks a friend whether he could not [do him a favour] (to himself help bring).",
@@ -54,15 +66,26 @@
   },
   "exercises": {
     "latin": [
-      "Visne cras domi prandere?",
-      "Id libentissime accipiam, sed nescio ubi sit domus tua.",
-      "Est in via Portuaria numero decimo septimo (distincta), tabulato octavo, janua altera sinistrorsum.",
-      "Ubi est via Portuaria?",
-      "Eam facile invenies: incipit ante stationem ferriviariam et ad portum ducit.",
-      "Estne longe a statione?",
-      "Minime! Non amplius quam trecenta metra.",
-      "Optime! Cras igitur te revisam. Vale!",
-      "Vale tu quoque!"
+      "Vīsne crās domī prandēre?",
+      "Id libentissimē accipiam, sed nesciō ubi sit domus tua.",
+      "Est in viā Portuāriā numerō decimō septimō (distīncta), tabulātō octāvō, jānuā alterā sinistrōrsum.",
+      "Ubi est via Portuāria?",
+      "Eam facile inveniēs: incipit ante statiōnem ferriviāriam et ad portum dūcit.",
+      "Estne longē ā statiōne?",
+      "Minimē! Nōn amplius quam trecenta metra.",
+      "Optimē! Crās igitur tē revīsam. Valē!",
+      "Valē tū quoque!"
+    ],
+    "latinAccented": [
+      "Vīsne crās domī prandḗre?",
+      "Id libentíssimē accípiam, sed nésciō ubi sit domus tua.",
+      "Est in viā Portuā́riā númerō décimō séptimō (distī́ncta), tabulā́tō octā́vō, jā́nuā álterā sinistrṓrsum.",
+      "Ubi est via Portuā́ria?",
+      "Eam fácile invéniēs: íncipit ante statiṓnem ferriviā́riam et ad portum dūcit.",
+      "Estne longē ā statiṓne?",
+      "Mínimē! Nōn ámplius quam trecénta metra.",
+      "Óptimē! Crās ígitur tē revī́sam. Valē!",
+      "Valē tū quoque!"
     ],
     "english": [
       "Do you want to have lunch at [my] house tomorrow?",

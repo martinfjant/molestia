@@ -3,20 +3,31 @@
     "lesson": 46,
     "title": "Lectio quadragesima sexta",
     "subtitle": {
-      "latin": "Equum disjungamus (sequitur)",
+      "latin": "Equum disjungāmus (sequitur)",
+      "latinAccented": "Equum disjungā́mus (séquitur)",
       "english": "Let's unhitch the horse (continued)"
     },
     "revision": false
   },
   "latin": [
-    "Cella ad tabulatum evecta<sup>1</sup>, adulescens valvam<sup>2</sup> aperit<sup>3</sup>. Equus et amicus e carcere suo<sup>4</sup> erumpunt<sup>5</sup>.",
-    "Equum firmiter tene! Cave<sup>6</sup> ne strepat neve<sup>7</sup> inquilinos<sup>8</sup> excitet dum<sup>9</sup> in loco ancipiti<sup>10</sup> sumus.",
-    "Haec verba proferens adulescens januam quamdam cautissime<sup>11</sup> unco<sup>12</sup> aperire conatur<sup>13</sup>.",
-    "Irascitur amicus, equum tamen mutum cogens<sup>14</sup>: «Nolo, inquit, furti<sup>15</sup> conscius esse<sup>16</sup>».",
-    "Esto<sup>17</sup> quietus! Nihil furabimur. Nihil inhonesti agemus. Tibi postea rem explicabo.",
-    "Ecce! Janua aperta est: intremus!",
-    "Equum per fauces<sup>18</sup> angustas propellunt. Tandem in cellam quamdam balneariam perveniunt.",
-    "Nunc praecipue auxilium tuum necessarium est."
+    "Cella ad tabulātum ēvecta<sup>1</sup>, adulēscēns valvam<sup>2</sup> aperit<sup>3</sup>. Equus et amīcus ē carcere suō<sup>4</sup> ērumpunt<sup>5</sup>.",
+    "Equum firmiter tenē! Cave<sup>6</sup> nē strepat nēve<sup>7</sup> inquilīnōs<sup>8</sup> excitet dum<sup>9</sup> in locō ancipitī<sup>10</sup> sumus.",
+    "Haec verba prōferēns adulēscēns jānuam quamdam cautissimē<sup>11</sup> uncō<sup>12</sup> aperīre cōnātur<sup>13</sup>.",
+    "Īrāscitur amīcus, equum tamen mūtum cōgēns<sup>14</sup>: «Nōlō, inquit, fūrtī<sup>15</sup> cōnscius esse<sup>16</sup>».",
+    "Ēsto<sup>17</sup> quiētus! Nihil fūrābimur. Nihil inhonestī agēmus. Tibi posteā rem explicābō.",
+    "Ecce! Jānua aperta est: intrēmus!",
+    "Equum per faucēs<sup>18</sup> angustās prōpellunt. Tandem in cellam quamdam balneāriam perveniunt.",
+    "Nunc praecipuē auxilium tuum necessārium est."
+  ],
+  "latinAccented": [
+    "Cella ad tabulā́tum ēvécta<sup>1</sup>, adulḗscēns valvam<sup>2</sup> áperit<sup>3</sup>. Equus et amī́cus ē cárcere suō<sup>4</sup> ērúmpunt<sup>5</sup>.",
+    "Equum fírmiter tenē! Cave<sup>6</sup> nē strepat nēve<sup>7</sup> inquilī́nōs<sup>8</sup> éxcitet dum<sup>9</sup> in locō ancípitī<sup>10</sup> sumus.",
+    "Haec verba prṓferēns adulḗscēns jā́nuam quamdam cautíssimē<sup>11</sup> uncō<sup>12</sup> aperī́re cōnā́tur<sup>13</sup>.",
+    "Īrā́scitur amī́cus, equum tamen mūtum cōgēns<sup>14</sup>: «Nōlō, inquit, fūrtī<sup>15</sup> cṓnscius esse<sup>16</sup>».",
+    "Ēsto<sup>17</sup> quiḗtus! Nihil fūrā́bimur. Nihil inhonéstī agḗmus. Tibi pósteā rem explicā́bō.",
+    "Ecce! Jā́nua apérta est: intrḗmus!",
+    "Equum per faucēs<sup>18</sup> angústās prōpéllunt. Tandem in cellam quamdam balneā́riam pervéniunt.",
+    "Nunc praecípuē auxílium tuum necessā́rium est."
   ],
   "english": [
     "The cabin having arrived at the floor, the young man opens the door. The horse and the friend [come out] of their prison (burst out).",
@@ -56,15 +67,26 @@
   },
   "exercises": {
     "latin": [
-      "Amicus certus in re incerta cernitur.",
-      "Estne vir ille lectionis 45ae et sequentium, a quo adulescens auxilium petivit, amicus certus?",
-      "Hoc scies postquam totam fabellam legeris.",
-      "Sine dubio adulescens in locum ancipitem eum induxit.",
-      "Nonne res est incerta equum ad tabulatum quintum pegmate scansorio ducere?",
-      "Ergo si in tali casu auxilium alteri tulit, certus est amicus.",
-      "Ita non arbitror. Adulescens equum furatus est: is non est amicus certus qui furti conscius est.",
-      "Qui equum furabitur, is in carcerem conjicietur.",
-      "Quae cum ita sint, nescis cujus sit equus quem adulescens surripuit."
+      "Amīcus certus in rē incertā cernitur.",
+      "Estne vir ille lēctiōnis 45ae et sequentium, ā quō adulēscēns auxilium petīvit, amīcus certus?",
+      "Hoc sciēs postquam tōtam fābellam lēgerīs.",
+      "Sine dubiō adulēscēns in locum ancipitem eum indūxit.",
+      "Nōnne rēs est incerta equum ad tabulātum quīntum pēgmate scansōriō dūcere?",
+      "Ergō sī in tālī cāsū auxilium alterī tulit, certus est amīcus.",
+      "Ita nōn arbitror. Adulēscēns equum fūrātus est: is nōn est amīcus certus quī fūrtī cōnscius est.",
+      "Quī equum fūrābitur, is in carcerem cōnjiciētur.",
+      "Quae cum ita sint, nescīs cujus sit equus quem adulēscēns surripuit."
+    ],
+    "latinAccented": [
+      "Amī́cus certus in rē incértā cérnitur.",
+      "Estne vir ille lēctiṓnis 45ae et sequéntium, ā quō adulḗscēns auxílium petī́vit, amī́cus certus?",
+      "Hoc sciēs postquam tōtam fābéllam lḗgerīs.",
+      "Sine dúbiō adulḗscēns in locum ancípitem eum indū́xit.",
+      "Nōnne rēs est incérta equum ad tabulā́tum quīntum pḗgmate scansṓriō dū́cere?",
+      "Ergō sī in tālī cāsū auxílium álterī tulit, certus est amī́cus.",
+      "Ita nōn árbitror. Adulḗscēns equum fūrā́tus est: is nōn est amī́cus certus quī fūrtī cṓnscius est.",
+      "Quī equum fūrā́bitur, is in cárcerem cōnjiciḗtur.",
+      "Quae cum ita sint, nescīs cujus sit equus quem adulḗscēns surrípuit."
     ],
     "english": [
       "One recognizes a sure friend in [a tricky situation] (an uncertain thing).",

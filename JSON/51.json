@@ -3,22 +3,35 @@
     "lesson": 51,
     "title": "Lectio quinquagesima prima",
     "subtitle": {
-      "latin": "Unde loqui didicerat",
+      "latin": "Unde loquī didicerat",
+      "latinAccented": "Unde loquī didícerat",
       "english": "How he had learnt to speak"
     },
     "revision": false
   },
   "latin": [
-    "Primum discemus, e magistro vere<sup>1</sup> latino, nomine Aurelio Augustino, qua methodo ad linguam latinam discendam<sup>2</sup> pueri romani usi sint.",
-    "«Non enim eram infans<sup>3</sup>, qui non farer<sup>4</sup>, sed jam puer loquens eram.",
-    "Non enim docebant me majores<sup>5</sup> homines...",
-    "praebentes<sup>6</sup> mihi verba certo aliquo ordine doctrinae<sup>7</sup>, sicut paulo post litteras<sup>8</sup>...",
-    "sed ego ipse, cum appellabant rem aliquam et cum secundum<sup>9</sup> eam vocem<sup>10</sup> corpus ad aliquid<sup>11</sup> movebant<sup>12</sup>...",
-    "videbam et tenebam hoc<sup>13</sup> ab eis vocari rem illam quod sonabant, cum eam vellent ostendere.",
-    "Ita, verba in variis sententiis locis suis posita et crebro<sup>14</sup> audita...",
-    "quarum rerum signa<sup>15</sup> essent<sup>16</sup> paulatim<sup>17</sup> colligebam<sup>18</sup>...",
-    "measque jam<sup>19</sup> voluntates per haec enuntiabam.»",
-    "Hae sententiae Augustini, quas paulo breviores reddidimus, satis monstrant eum linguam latinam non aliter didicisse quam nos linguam patriam<sup>20</sup> didicimus."
+    "Prīmum discēmus, ē magistrō vērē<sup>1</sup> latīnō, nōmine Aurēliō Augustīnō, quā methodō ad linguam latīnam discendam<sup>2</sup> puerī rōmānī ūsī sint.",
+    "«Nōn enim eram infāns<sup>3</sup>, quī nōn fārer<sup>4</sup>, sed jam puer loquēns eram.",
+    "Nōn enim docēbant mē majōrēs<sup>5</sup> hominēs...",
+    "praebentēs<sup>6</sup> mihi verba certō aliquō ōrdine doctrīnae<sup>7</sup>, sīcut paulō post litterās<sup>8</sup>...",
+    "sed ego ipse, cum appellābant rem aliquam et cum secundum<sup>9</sup> eam vōcem<sup>10</sup> corpus ad aliquid<sup>11</sup> movēbant<sup>12</sup>...",
+    "vidēbam et tenēbam hoc<sup>13</sup> ab eīs vocārī rem illam quod sonābant, cum eam vellent ostendere.",
+    "Ita, verba in variīs sententiīs locīs suīs posita et crēbrō<sup>14</sup> audīta...",
+    "quārum rērum signa<sup>15</sup> essent<sup>16</sup> paulātim<sup>17</sup> colligēbam<sup>18</sup>...",
+    "meāsque jam<sup>19</sup> voluntātēs per haec ēnūntiābam.»",
+    "Hae sententiae Augustīnī, quās paulō breviōrēs reddidimus, satis mōnstrant eum linguam latīnam nōn aliter didicisse quam nōs linguam patriam<sup>20</sup> didicimus."
+  ],
+  "latinAccented": [
+    "Prīmum discḗmus, ē magístrō vērē<sup>1</sup> latī́nō, nṓmine Aurḗliō Augustī́nō, quā méthodō ad linguam latī́nam discéndam<sup>2</sup> púerī rōmā́nī ūsī sint.",
+    "«Nōn enim eram infāns<sup>3</sup>, quī nōn fārer<sup>4</sup>, sed jam puer loquēns eram.",
+    "Nōn enim docḗbant mē majṓrēs<sup>5</sup> hóminēs...",
+    "praebéntēs<sup>6</sup> mihi verba certō áliquō ṓrdine doctrī́nae<sup>7</sup>, sīcut paulō post lítterās<sup>8</sup>...",
+    "sed ego ipse, cum appellā́bant rem áliquam et cum secúndum<sup>9</sup> eam vōcem<sup>10</sup> corpus ad áliquid<sup>11</sup> movḗbant<sup>12</sup>...",
+    "vidḗbam et tenḗbam hoc<sup>13</sup> ab eīs vocā́rī rem illam quod sonā́bant, cum eam vellent osténdere.",
+    "Ita, verba in váriīs senténtiīs locīs suīs pósita et crēbrō<sup>14</sup> audī́ta...",
+    "quārum rērum signa<sup>15</sup> essent<sup>16</sup> paulā́tim<sup>17</sup> colligḗbam<sup>18</sup>...",
+    "meā́sque jam<sup>19</sup> voluntā́tēs per haec ēnūntiā́bam.»",
+    "Hae senténtiae Augustī́nī, quās paulō breviṓrēs reddídimus, satis mōnstrant eum linguam latī́nam nōn áliter didicísse quam nōs linguam pátriam<sup>20</sup> didícimus."
   ],
   "english": [
     "First, we shall learn from a truly Latin teacher, [called] (by name) Aurelius Augustinus, [by] what method Roman children [used to] (subj. perf.) learn Latin.",
@@ -62,14 +75,24 @@
   },
   "exercises": {
     "latin": [
-      "Cur pueri tam facile linguam patriam loquuntur?",
-      "Quia eam secundum naturam sine molestia discunt.",
-      "Verba sententiasque ad res vitae cottidianae pertinentia tam saepe audiunt...",
-      "ut voces cum rerum notitia facile colligantur et memoria serventur.",
-      "Mihi est amicus cujus pater anglus, mater itala erat; in Gallia vivebant.",
-      "Quam ob rem ille sine ulla difficultate tres linguas didicit.",
-      "Ei favit summa fortuna qua multi non tam feliciter uti sciunt.",
-      "Mihi est fortuna minor, nam discis non tanta virtus est quanta parentum sermoni sed eis tamen quam optime possum uti cupio."
+      "Cūr puerī tam facile linguam patriam loquuntur?",
+      "Quia eam secundum nātūram sine molestiā discunt.",
+      "Verba sententiāsque ad rēs vītae cottīdiānae pertinentia tam saepe audiunt...",
+      "ut vōcēs cum rērum nōtitiā facile colligantur et memoriā serventur.",
+      "Mihi est amīcus cujus pater anglus, māter itala erat; in Galliā vīvēbant.",
+      "Quam ob rem ille sine ūllā difficultāte trēs linguās didicit.",
+      "Ēī fāvit summa fortūna quā multī nōn tam fēlīciter ūtī sciunt.",
+      "Mihi est fortūna minor, nam discis nōn tanta virtūs est quanta parentum sermōnī sed eīs tamen quam optimē possum utī cupiō."
+    ],
+    "latinAccented": [
+      "Cūr púerī tam fácile linguam pátriam loquúntur?",
+      "Quia eam secúndum nātū́ram sine moléstiā discunt.",
+      "Verba sententiā́sque ad rēs vītae cottīdiā́nae pertinéntia tam saepe áudiunt...",
+      "ut vōcēs cum rērum nōtítiā fácile colligántur et memóriā servéntur.",
+      "Mihi est amī́cus cujus pater anglus, māter ítala erat; in Gálliā vīvḗbant.",
+      "Quam ob rem ille sine ūllā difficultā́te trēs linguās dídicit.",
+      "Ēī fāvit summa fortū́na quā multī nōn tam fēlī́citer ūtī sciunt.",
+      "Mihi est fortū́na minor, nam discis nōn tanta virtūs est quanta paréntum sermṓnī sed eīs tamen quam óptimē possum utī cúpiō."
     ],
     "english": [
       "Why do children speak their native language so easily?",
@@ -86,7 +109,8 @@
   "sources": [
     {
       "after": 10,
-      "latin": "Ex Aurelii Augustini Confessionibus, I, VIII.",
+      "latin": "Ex Aurēliī Augustīnī Cōnfessiōnibus, I, VIII.",
+      "latinAccented": "Ex Aurḗliī Augustī́nī Cōnfessiṓnibus, I, VIII.",
       "english": "(From the Confessions of Saint Augustine, I, VIII.)"
     }
   ]

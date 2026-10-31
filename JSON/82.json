@@ -3,29 +3,49 @@
     "lesson": 82,
     "title": "Lectio octogesima altera",
     "subtitle": {
-      "latin": "Male me contuderunt! (Sequitur)",
+      "latin": "Male mē contudērunt! (Sequitur)",
+      "latinAccented": "Male mē contudḗrunt! (Séquitur)",
       "english": "What a thrashing! (continued)"
     },
     "revision": false
   },
   "latin": [
-    "Congrio, domo Euclionis erumpit. — Optati cives<sup>1</sup>, populares<sup>2</sup>, incolae, accolae, advenae, omnes...",
-    "Date viam qua fugere<sup>3</sup> liceat, facite totae plateae<sup>4</sup> pateant<sup>5</sup>.",
-    "Neque ego unquam nisi hodie ad Bacchas veni in Bacchanal<sup>6</sup> coquinatum<sup>7</sup>.",
-    "Ita me miserum et meos discipulos fustibus<sup>8</sup> male contuderunt.",
-    "Totus doleo atque oppido<sup>9</sup> perii*, ita me iste senex habuit gymnasium.",
-    "Neque ligna ego usquam<sup>10</sup> gentium praeberi vidi pulchrius...",
-    "Attat, perii hercle ego miser; adest*, sequitur!",
-    "Scio quam rem geram: hoc ipse magister me docuit.",
-    "Euclio. — Redi! Quo fugis nunc? Tene, tene!",
-    "Cong. — Quid, stolide, clamas?",
-    "Eucl. — Quia ad tresviros<sup>11</sup> jam ego deferam* nomen tuum.",
+    "Congriō, domō Euclīonis ērumpit. — Optātī cīvēs<sup>1</sup>, populārēs<sup>2</sup>, incolae, accolae, advenae, omnēs...",
+    "Datē viam quā fugere<sup>3</sup> liceat, facite tōtae platēae<sup>4</sup> pateant<sup>5</sup>.",
+    "Neque ego unquam nisi hodiē ad Bacchās venī in Bacchānal<sup>6</sup> coquinātum<sup>7</sup>.",
+    "Ita mē miserum et meōs discipulōs fustibus<sup>8</sup> male contudērunt.",
+    "Tōtus doleō atque oppidō<sup>9</sup> periī*, ita mē iste senex habuit gymnasium.",
+    "Neque ligna ego usquam<sup>10</sup> gentium praebērī vīdī pulchrius...",
+    "Attat, periī hercle ego miser; adest*, sequitur!",
+    "Sciō quam rem geram: hoc ipse magister mē docuit.",
+    "Eucliō. — Redī! Quō fugis nunc? Tēne, tenē!",
+    "Cong. — Quid, stolidē, clāmās?",
+    "Eucl. — Quia ad trēsvirōs<sup>11</sup> jam ego dēferam* nōmen tuum.",
     "Cong. — Quam ob rem<sup>12</sup>?",
-    "Eucl. — Quia cultrum habes.",
+    "Eucl. — Quia cultrum habēs.",
     "Cong. — Coquum decet*.",
-    "Eucl. — Quid comminatus es<sup>13</sup> mihi?",
-    "Cong. — Istud male factum arbitror, quia non latus fodi.",
-    "Eucl. — Homo nullust (= nullus est) te scelestior<sup>14</sup> qui vivat hodie!"
+    "Eucl. — Quid comminātus es<sup>13</sup> mihi?",
+    "Cong. — Istud male factum arbitror, quia nōn latus fōdī.",
+    "Eucl. — Homō nullust (= nūllus est) tē scelestior<sup>14</sup> quī vīvat hodiē!"
+  ],
+  "latinAccented": [
+    "Cóngriō, domō Euclī́onis ērúmpit. — Optā́tī cīvēs<sup>1</sup>, populā́rēs<sup>2</sup>, íncolae, áccolae, ádvenae, omnēs...",
+    "Datē viam quā fúgere<sup>3</sup> líceat, fácite tōtae platḗae<sup>4</sup> páteant<sup>5</sup>.",
+    "Neque ego unquam nisi hódiē ad Bacchās venī in Bacchā́nal<sup>6</sup> coquinā́tum<sup>7</sup>.",
+    "Ita mē míserum et meōs discípulōs fústibus<sup>8</sup> male contudḗrunt.",
+    "Tōtus dóleō atque óppidō<sup>9</sup> périī*, ita mē iste senex hábuit gymnásium.",
+    "Neque ligna ego usquam<sup>10</sup> géntium praebḗrī vīdī púlchrius...",
+    "Attat, périī hercle ego miser; adest*, séquitur!",
+    "Sciō quam rem geram: hoc ipse magíster mē dócuit.",
+    "Eúcliō. — Redī! Quō fugis nunc? Tēne, tenē!",
+    "Cong. — Quid, stólidē, clāmās?",
+    "Eucl. — Quia ad trḗsvirōs<sup>11</sup> jam ego dḗferam* nōmen tuum.",
+    "Cong. — Quam ob rem<sup>12</sup>?",
+    "Eucl. — Quia cultrum habēs.",
+    "Cong. — Coquum decet*.",
+    "Eucl. — Quid comminā́tus es<sup>13</sup> mihi?",
+    "Cong. — Istud male factum árbitror, quia nōn latus fōdī.",
+    "Eucl. — Homō nullust (= nūllus est) tē sceléstior<sup>14</sup> quī vīvat hódiē!"
   ],
   "english": [
     "Congrio [bursts out] of Euclio's house. — Dear citizens, fellow countrymen, inhabitants [of the quarter] (neighbours) [and of the neighbourhood], foreigners [all of you]...",
@@ -71,15 +91,26 @@
   },
   "exercises": {
     "latin": [
-      "Qua ratione potum qui «vhiskeum» apud anglos vocatur tam copiose bibere assuefactus es*?",
-      "Explicabo tibi: imprimis cum aqua; postea sine aqua; denique sicut aquam.",
-      "Quo tam celeriter vadis?",
-      "Domum, nam mater verbera mihi pollicita est.",
-      "Ego vero non intellego cur sic properes.",
-      "Ut domum perveniam antequam pater redeat*: ille enim multo validius verberat.",
-      "Oliva gloriatur quod lacus in patria sua piscibus sunt refertissimi:",
-      "«Edepol, inquit, in his lacubus tam multi sunt pisces ut, aqua tantum remota, apprehendi possint*».",
-      "Marius autem: «Quod nihil est, inquit, Massiliae tot sunt pisces in Portu Vetere ut removendi sint ad aquam navigandi causa liberandam»."
+      "Quā ratiōne pōtum quī «vhiskeum» apud anglōs vocātur tam cōpiōsē bibere assuēfactus es*?",
+      "Explicābō tibi: imprīmīs cum aquā; posteā sine aquā; dēnique sīcut aquam.",
+      "Quō tam celeriter vādis?",
+      "Domum, nam māter verbera mihi pollicita est.",
+      "Ego vērō nōn intellegō cūr sīc properēs.",
+      "Ut domum perveniam antequam pater redeat*: ille enim multō validius verberat.",
+      "Olīva glōriātur quod lacus in patriā sua piscibus sunt refertissimī:",
+      "«Edepol, inquit, in hīs lacubus tam multī sunt piscēs ut, aqua tantum remōtā, apprehendī possint*».",
+      "Marius autem: «Quod nihil est, inquit, Massiliae tot sunt piscēs in Portū Vetēre ut removendī sint ad aquam nāvigandī causā līberandam»."
+    ],
+    "latinAccented": [
+      "Quā ratiṓne pōtum quī «vhískeum» apud anglōs vocā́tur tam cōpiṓsē bíbere assuēfáctus es*?",
+      "Explicā́bō tibi: imprī́mīs cum aquā; pósteā sine aquā; dḗnique sīcut aquam.",
+      "Quō tam celériter vādis?",
+      "Domum, nam māter vérbera mihi pollícita est.",
+      "Ego vērō nōn intéllegō cūr sīc próperēs.",
+      "Ut domum pervéniam ántequam pater rédeat*: ille enim multō valídius vérberat.",
+      "Olī́va glōriā́tur quod lacus in pátriā sua píscibus sunt refertíssimī:",
+      "«Édepol, inquit, in hīs lácubus tam multī sunt piscēs ut, aqua tantum remṓtā, apprehéndī possint*».",
+      "Márius autem: «Quod nihil est, inquit, Massíliae tot sunt piscēs in Portū Vetḗre ut removéndī sint ad aquam nāvigándī causā līberándam»."
     ],
     "english": [
       "How did you get into the habit of drinking so copiously [the] drink which is called «whisky» among the English?",
@@ -97,7 +128,8 @@
   "sources": [
     {
       "after": 17,
-      "latin": "Ibidem, 406... 419.",
+      "latin": "Ibīdem, 406... 419.",
+      "latinAccented": "Ibī́dem, 406... 419.",
       "english": "(Same work, 406... 419.)"
     }
   ]

@@ -4,20 +4,32 @@
     "title": "Lectio undesexagesima",
     "subtitle": {
       "latin": "Molae hydraulicae",
+      "latinAccented": "Molae hydráulicae",
       "english": "The water mill"
     },
     "revision": false
   },
   "latin": [
-    "Ursus abbas<sup>1</sup> monasterium statuit, situm scilicet<sup>2</sup> apud flumen Angerem<sup>3</sup>...",
-    "in recessu<sup>4</sup> montis cui nunc castrum<sup>5</sup> imminet, eodem nomine quo monasterium appellatum.",
-    "Cum fratres molam manu vertentes, triticum<sup>6</sup> ad victum<sup>7</sup> necessarium comminuerent<sup>8</sup>...",
-    "pro<sup>9</sup> labore fratrum visum est ei molendinum<sup>10</sup> in ipso Angeris fluvii alveo<sup>11</sup>, instituere.",
-    "Defixis<sup>12</sup> in flumine sublicis, congregatis lapidum magnorum acervis<sup>13</sup>, claustra<sup>14</sup> fecit...",
-    "atque aquam canali<sup>15</sup> collegit<sup>16</sup>, cujus impetu fabricae<sup>17</sup> rota magna volubilitate circumacta est<sup>18</sup>.",
-    "Hoc opere laborem monachorum relevavit, atque id uni<sup>19</sup> fratrum delegavit.",
-    "Ita opus necessarium implebatur.",
-    "Quae sententiae e Vitis Patrum excerptae sunt, qui liber a Gregorio Turonensi scriptus est."
+    "Ursus abbās<sup>1</sup> monastērium statuit, situm scīlicet<sup>2</sup> apud flūmen Angerem<sup>3</sup>...",
+    "in recessū<sup>4</sup> montis cui nunc castrum<sup>5</sup> imminet, eōdem nōmine quō monastērium appellātum.",
+    "Cum frātrēs molam manū vertentēs, trīticum<sup>6</sup> ad vīctum<sup>7</sup> necessārium comminuerent<sup>8</sup>...",
+    "prō<sup>9</sup> labōre frātrum vīsum est eī molendīnum<sup>10</sup> in ipsō Angēris fluviī alveō<sup>11</sup>, īnstituere.",
+    "Dēfīxīs<sup>12</sup> in flūmine sublicīs, congregātīs lapidum magnōrum acervīs<sup>13</sup>, claustra<sup>14</sup> fēcit...",
+    "atque aquam canālī<sup>15</sup> collēgit<sup>16</sup>, cujus impetū fabricae<sup>17</sup> rotā magnā volūbilitāte circumācta est<sup>18</sup>.",
+    "Hōc opere labōrem monachōrum relevāvit, atque id ūnī<sup>19</sup> frātrum dēlēgāvit.",
+    "Ita opus necessārium implēbatur.",
+    "Quae sententiae ē Vītis Patrum excerptae sunt, quī līber ā Gregoriō Turonensī scrīptus est."
+  ],
+  "latinAccented": [
+    "Ursus abbās<sup>1</sup> monastḗrium státuit, situm scī́licet<sup>2</sup> apud flūmen Ángerem<sup>3</sup>...",
+    "in recéssū<sup>4</sup> montis cui nunc castrum<sup>5</sup> ímminet, eṓdem nṓmine quō monastḗrium appellā́tum.",
+    "Cum frātrēs molam manū verténtēs, trī́ticum<sup>6</sup> ad vīctum<sup>7</sup> necessā́rium comminúerent<sup>8</sup>...",
+    "prō<sup>9</sup> labṓre frātrum vīsum est eī molendī́num<sup>10</sup> in ipsō Angḗris flúviī álveō<sup>11</sup>, īnstitúere.",
+    "Dēfī́xīs<sup>12</sup> in flū́mine súblicīs, congregā́tīs lápidum magnṓrum acérvīs<sup>13</sup>, claustra<sup>14</sup> fēcit...",
+    "atque aquam canā́lī<sup>15</sup> collḗgit<sup>16</sup>, cujus ímpetū fábricae<sup>17</sup> rotā magnā volūbilitā́te circumā́cta est<sup>18</sup>.",
+    "Hōc ópere labṓrem monachṓrum relevā́vit, atque id ūnī<sup>19</sup> frātrum dēlēgā́vit.",
+    "Ita opus necessā́rium implḗbatur.",
+    "Quae senténtiae ē Vītis Patrum excérptae sunt, quī līber ā Gregóriō Turonénsī scrīptus est."
   ],
   "english": [
     "Abbot Ursus had established a monastery, [situated] (namely) on the bank of the river Indre...",
@@ -62,12 +74,20 @@
   },
   "exercises": {
     "latin": [
-      "Triticum seu frumentum mola teritur, id est in farinam redigitur.",
-      "Molae antiquae vi hominum vel animalium agebantur.",
-      "Medio aevo, molae vi fluminum actae jam divulgatae erant.",
-      "In Batavia autem vis venti, quae machinarum haud dissimilium alas movet, non solum ad triticum molendum, sed etiam ad aquam rivorum paludumque exhauriendam, usurpabatur.",
-      "Nunc haec omnia obsoleverunt et in imaginibus tantum videntur.",
-      "Molae enim hodiernae vi electrica aguntur."
+      "Trīticum seu frūmentum mola teritur, id est in farīnam redigitur.",
+      "Molae antīquae vī hominum vel animālium agēbantur.",
+      "Mediō aevō, molae vī flūminum actae jam dīvulgātae erant.",
+      "In Batāviā autem vīs ventī, quae māchinārum haud dissimilium ālās movet, nōn sōlum ad trīticum molendum, sed etiam ad aquam rīvōrum palūdumque exhauriendam, usurpābatur.",
+      "Nunc haec omnia obsolēvērunt et in imāginibus tantum videntur.",
+      "Molae enim hodiernae vī electrica aguntur."
+    ],
+    "latinAccented": [
+      "Trī́ticum seu frūméntum mola téritur, id est in farī́nam redígitur.",
+      "Molae antī́quae vī hóminum vel animā́lium agēbántur.",
+      "Médiō aevō, molae vī flū́minum actae jam dīvulgā́tae erant.",
+      "In Batā́viā autem vīs ventī, quae māchinā́rum haud dissimílium ālās movet, nōn sōlum ad trī́ticum moléndum, sed étiam ad aquam rīvṓrum palūdúmque exhauriéndam, usurpā́batur.",
+      "Nunc haec ómnia obsolēvḗrunt et in imāgínibus tantum vidéntur.",
+      "Molae enim hodiérnae vī eléctrica agúntur."
     ],
     "english": [
       "Wheat or corn is crushed by the millstone, that is [to say] it is reduced to flour.",

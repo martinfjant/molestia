@@ -3,22 +3,35 @@
     "lesson": 64,
     "title": "Lectio sexagesima quarta",
     "subtitle": {
-      "latin": "Volatus probativus<sup>1</sup>",
+      "latin": "Volātus probātīvus<sup>1</sup>",
+      "latinAccented": "Volā́tus probātī́vus<sup>1</sup>",
       "english": "Test flight"
     },
     "revision": false
   },
   "latin": [
-    "Aëronavis quaedam vectoria ad aëroportum appropinquat. Vectores lucidis litteris scriptum vident: «Zonis cingimini»<sup>2</sup>.",
-    "Quod praeceptum megaphonio iteratur. Vectores zonis cinguntur, ne, si quid acciderit, alii super alios projiciantur neve<sup>3</sup> ita gravius vulnerentur.",
-    "Iterum vox megaphonii. — Optimi vectores! Testes<sup>4</sup> primi eritis inauditi antehac experimenti. Hic est enim volatus vectorius<sup>5</sup> qui primus sine gubernatore fit.",
-    "Navis qua vehimini gubernatorio<sup>6</sup> automato regitur et nunc undis radioëlectricis usque ad aëroportum perducetur.",
-    "Nullus est gubernator apud vos, sed tantum famulus et famula qui vobis commoda ministrant<sup>7</sup>.",
-    "Haec, propter aemulationem, usque ad id temporis ceteras societates celare debuimus. Sed nihil timueritis, optimi vectores!...",
-    "Omnia sollertissime provisa sunt; omnes apparatus, quamquam tutissimi, tamen duplices<sup>8</sup> comparati sunt<sup>9</sup>.",
-    "Si, quod vix possibile videtur, unus ex his deficiat, alter ejus ministerio statim fungetur.",
-    "Ergo quieti estote, nihil necopinati accidere<sup>10</sup> pot... Silentium sepulcrale sequitur...",
-    "Etsi vox megaphonii repente deficeret, contigit ut aeronavis vectores metu pallidos, tamen incolumes, ad aëroportum adveheret."
+    "Aëronavis quaedam vectōria ad aëroportum appropinquat. Vectōrēs lūcidīs litterīs scrīptum vident: «Zōnīs cingiminī»<sup>2</sup>.",
+    "Quod praeceptum megaphōniō iterātur. Vectōrēs zōnīs cinguntur, nē, sī quid acciderit, aliī super aliōs prōjiciantur nēve<sup>3</sup> ita gravius vulnerentur.",
+    "Iterum vōx megaphōniī. — Optimī vectōrēs! Testēs<sup>4</sup> prīmī eritis inaudītī antehāc experīmentī. Hic est enim volātus vectōrius<sup>5</sup> quī prīmus sine gubernātōre fit.",
+    "Nāvīs quā vehiminī gubernātōriō<sup>6</sup> automātō regitur et nunc undīs radioëlectrīcīs usque ad aëroportum perdūcētur.",
+    "Nūllus est gubernātor apud vōs, sed tantum famulus et famula quī vōbīs commoda ministrant<sup>7</sup>.",
+    "Haec, propter aemulātiōnem, usque ad id temporis cēterās societātēs cēlāre dēbuimus. Sed nihil timuerītis, optimī vectōrēs!...",
+    "Omnia sollertissimē prōvīsa sunt; omnēs apparātūs, quamquam tūtissimī, tamen duplicēs<sup>8</sup> comparātī sunt<sup>9</sup>.",
+    "Sī, quod vix possibile vidētur, ūnus ex hīs dēficiat, alter ejus ministeriō statim fungētur.",
+    "Ergō quiētī ēstote, nihil necopīnātī accidere<sup>10</sup> pot... Silentium sepulcrāle sequitur...",
+    "Etsī vōx megaphōniī repente dēficeret, contigit ut aeronavis vectōrēs metū pallidōs, tamen incolumēs, ad aëroportum adveheret."
+  ],
+  "latinAccented": [
+    "Aërónavis quaedam vectṓria ad aëropórtum appropínquat. Vectṓrēs lū́cidīs lítterīs scrīptum vident: «Zōnīs cingíminī»<sup>2</sup>.",
+    "Quod praecéptum megaphṓniō iterā́tur. Vectṓrēs zōnīs cingúntur, nē, sī quid accíderit, áliī super áliōs prōjiciántur nēve<sup>3</sup> ita grávius vulneréntur.",
+    "Íterum vōx megaphṓniī. — Óptimī vectṓrēs! Testēs<sup>4</sup> prīmī éritis inaudī́tī ántehāc experīméntī. Hic est enim volā́tus vectṓrius<sup>5</sup> quī prīmus sine gubernātṓre fit.",
+    "Nāvīs quā vehíminī gubernātṓriō<sup>6</sup> automā́tō régitur et nunc undīs radioëlectrī́cīs usque ad aëropórtum perdūcḗtur.",
+    "Nūllus est gubernā́tor apud vōs, sed tantum fámulus et fámula quī vōbīs cómmoda minístrant<sup>7</sup>.",
+    "Haec, propter aemulātiṓnem, usque ad id témporis cḗterās societā́tēs cēlā́re dēbúimus. Sed nihil timuerī́tis, óptimī vectṓrēs!...",
+    "Ómnia sollertíssimē prōvī́sa sunt; omnēs apparā́tūs, quamquam tūtíssimī, tamen dúplicēs<sup>8</sup> comparā́tī sunt<sup>9</sup>.",
+    "Sī, quod vix possíbile vidḗtur, ūnus ex hīs dēfíciat, alter ejus ministériō statim fungḗtur.",
+    "Ergō quiḗtī ḗstote, nihil necopīnā́tī accídere<sup>10</sup> pot... Siléntium sepulcrā́le séquitur...",
+    "Etsī vōx megaphṓniī repénte dēfíceret, cóntigit ut aerónavis vectṓrēs metū pállidōs, tamen incólumēs, ad aëropórtum advéheret."
   ],
   "english": [
     "An [airliner] (transporting aeroplane) is approaching the airport. The passengers see an inscription in luminous letters: «Fasten your seat belts (be attached by belts)».",
@@ -55,14 +68,24 @@
   },
   "exercises": {
     "latin": [
-      "Quod est hoc instrumentum?",
-      "Hoc est grammophonium quod avunculus mihi muneri obtulit*.",
-      "Musicane delectaris?",
-      "Ita, musica delector, praecipue classica.",
-      "Ego musicam hodiernam malo*, in primis nigritas aeneatores citharasque electricas.",
-      "Ego vero clavichordium, fidiculas, organum malo*, et in concentibus maxime versor.",
-      "De gustibus non est disputandum.",
-      "Aliis concentus symphoniaci placent, aliis musica saltatoria, aliis clamor et tumultus."
+      "Quod est hoc īnstrūmentum?",
+      "Hoc est grammophōnium quod avunculus mihi mūnerī obtulit*.",
+      "Mūsicane dēlectāris?",
+      "Ita, mūsicā dēlector, praecipuē classica.",
+      "Ego mūsicam hodiernam mālō*, in prīmīs nigrītās aeneātōrēs citharāsque electrīcās.",
+      "Ego vērō clavichordium, fidiculās, organum mālō*, et in concentibus maximē versor.",
+      "Dē gustibus nōn est disputandum.",
+      "Aliīs concentūs symphōniacī placent, aliīs mūsica saltātōria, aliīs clāmor et tumultus."
+    ],
+    "latinAccented": [
+      "Quod est hoc īnstrūméntum?",
+      "Hoc est grammophṓnium quod avúnculus mihi mū́nerī óbtulit*.",
+      "Mūsicáne dēlectā́ris?",
+      "Ita, mū́sicā dēléctor, praecípuē clássica.",
+      "Ego mū́sicam hodiérnam mālō*, in prīmīs nigrī́tās aeneātṓrēs citharā́sque electrī́cās.",
+      "Ego vērō clavichórdium, fidículās, órganum mālō*, et in concéntibus máximē versor.",
+      "Dē gústibus nōn est disputándum.",
+      "Áliīs concéntūs symphōníacī placent, áliīs mū́sica saltātṓria, áliīs clāmor et tumúltus."
     ],
     "english": [
       "What is this instrument?",

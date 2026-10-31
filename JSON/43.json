@@ -3,22 +3,35 @@
     "lesson": 43,
     "title": "Lectio quadragesima tertia",
     "subtitle": {
-      "latin": "In carcere hodierno",
+      "latin": "In carcere hodiernō",
+      "latinAccented": "In cárcere hodiérnō",
       "english": "In a modern prison"
     },
     "revision": false
   },
   "latin": [
-    "In hoc carcere hodierno, captivi non totum diem otiosi<sup>1</sup> manent, sed laborant; quo labore<sup>2</sup> speratur fore ut<sup>3</sup> meliores fiant<sup>4</sup>.",
-    "Unusquisque cum<sup>5</sup> in carcerem conjicitur, interrogatur quod opus suscipere malit<sup>6</sup>.",
-    "Alii<sup>7</sup> artem<sup>8</sup> lignariam praeferunt, alii ferrariam, alii sutrinam<sup>9</sup>, etc.<sup>10</sup>.",
-    "Quaerit custos ab aliquo<sup>11</sup>, nuper ingresso<sup>12</sup>, quid velit facere.",
-    "Respondet hic: «Mercandi causa peregrinari<sup>13</sup>!»",
-    "Petrus, septimum annum agens, matrimonio primum<sup>14</sup> adest.",
-    "Mamma, inquit, cur alba stola induta est<sup>15</sup> nupta<sup>16</sup>?",
-    "Quia color albus, fili mi<sup>17</sup>, felicitatis signum est, et dies matrimonii totius vitae felicissimus est.",
-    "Paucis post momentis<sup>18</sup>, iterum<sup>19</sup> interrogat Petrus:",
-    "Mamma, cur nigra veste indutus est maritus?"
+    "In hōc carcere hodiernō, captīvī nōn tōtum diem ōtiōsī<sup>1</sup> manent, sed labōrant; quō labōre<sup>2</sup> spērātur fore ut<sup>3</sup> meliōrēs fīant<sup>4</sup>.",
+    "Ūnusquisque cum<sup>5</sup> in carcerem cōnjicitur, interrogātur quod opus suscipere mālit<sup>6</sup>.",
+    "Aliī<sup>7</sup> artem<sup>8</sup> lignāriam praeferunt, aliī ferrāriam, aliī sūtrīnam<sup>9</sup>, etc.<sup>10</sup>.",
+    "Quaerit cūstōs ab aliquō<sup>11</sup>, nūper ingressō<sup>12</sup>, quid velit facere.",
+    "Respondet hīc: «Mercandī causā peregrīnārī<sup>13</sup>!»",
+    "Petrus, septimum annum agēns, mātrimōniō prīmum<sup>14</sup> adest.",
+    "Mamma, inquit, cūr alba stola indūta est<sup>15</sup> nūpta<sup>16</sup>?",
+    "Quia color albus, fīlī mī<sup>17</sup>, fēlīcitātis signum est, et diēs mātrimōniī tōtīus vītae fēlīcissimus est.",
+    "Paucīs post mōmentīs<sup>18</sup>, iterum<sup>19</sup> interrogat Petrus:",
+    "Mammā, cūr nigrā veste indūtus est marītus?"
+  ],
+  "latinAccented": [
+    "In hōc cárcere hodiérnō, captī́vī nōn tōtum diem ōtiṓsī<sup>1</sup> manent, sed labṓrant; quō labṓre<sup>2</sup> spērā́tur fore ut<sup>3</sup> meliṓrēs fīant<sup>4</sup>.",
+    "Ūnusquísque cum<sup>5</sup> in cárcerem cōnjícitur, interrogā́tur quod opus suscípere mālit<sup>6</sup>.",
+    "Áliī<sup>7</sup> artem<sup>8</sup> lignā́riam práeferunt, áliī ferrā́riam, áliī sūtrī́nam<sup>9</sup>, etc.<sup>10</sup>.",
+    "Quaerit cūstōs ab áliquō<sup>11</sup>, nūper ingréssō<sup>12</sup>, quid velit fácere.",
+    "Respóndet hīc: «Mercándī causā peregrīnā́rī<sup>13</sup>!»",
+    "Petrus, séptimum annum agēns, mātrimṓniō prīmum<sup>14</sup> adest.",
+    "Mamma, inquit, cūr alba stola indū́ta est<sup>15</sup> nūpta<sup>16</sup>?",
+    "Quia color albus, fīlī mī<sup>17</sup>, fēlīcitā́tis signum est, et diēs mātrimṓniī tōtī́us vītae fēlīcíssimus est.",
+    "Paucīs post mōméntīs<sup>18</sup>, íterum<sup>19</sup> intérrogat Petrus:",
+    "Mammā, cūr nigrā veste indū́tus est marī́tus?"
   ],
   "english": [
     "In this modern prison, the prisoners do not remain idle the whole day, but they work; [through this work] (by which work) it is hoped that they will become (be made) better.",
@@ -60,17 +73,30 @@
   },
   "exercises": {
     "latin": [
-      "Mercator emit calceos quos sutor conficit eosque emptoribus vendit.",
-      "Lignarius tabulas multiplicatorias non conficit, sed mensas super quas prandemus et cenamus.",
-      "Lignarium ut mensam conficeret, rogavi; spero fore ut ea uxori conveniat.",
-      "Quis est iste peregrinus?",
-      "Est agricola quidam qui filiam sutoris in matrimonium ducere cupit.",
-      "Ingreditur in tabernam ad vestem nigram et petasum turritum emendum.",
-      "Felix videtur homo: spero fore ut post matrimonium felix semper sit.",
-      "Hoc fieri non potest: ignorasne Horatii versum: «melius nil caelibe vita»?",
-      "Mulier malum sed malum necessarium.",
+      "Mercātor emit calceōs quōs sūtor cōnficit eōsque ēmptōribus vēndit.",
+      "Lignārius tabulās multiplicātōriās nōn cōnficit, sed mēnsās super quās prandēmus et cēnāmus.",
+      "Lignārium ut mēnsam cōnficeret, rogāvī; spērō fore ut eā uxōrī conveniat.",
+      "Quis est iste peregrīnus?",
+      "Est agricola quīdam quī fīliam sūtōris in mātrimōnium dūcere cupit.",
+      "Ingreditur in tabernam ad vestem nigram et petasum turrītum emendum.",
+      "Fēlīx vidētur homō: spērō fore ut post mātrimōnium fēlīx semper sit.",
+      "Hoc fierī nōn potest: ignōrāsne Horātiī versum: «melius nīl caelibe vītā»?",
+      "Mulier malum sed malum necessārium.",
       "Mel melius est quam fel.",
       "Mel melius est felle."
+    ],
+    "latinAccented": [
+      "Mercā́tor emit cálceōs quōs sūtor cṓnficit eṓsque ēmptṓribus vēndit.",
+      "Lignā́rius tábulās multiplicātṓriās nōn cṓnficit, sed mēnsās super quās prandḗmus et cēnā́mus.",
+      "Lignā́rium ut mēnsam cōnfíceret, rogā́vī; spērō fore ut eā uxṓrī convéniat.",
+      "Quis est iste peregrī́nus?",
+      "Est agrícola quīdam quī fī́liam sūtṓris in mātrimṓnium dū́cere cupit.",
+      "Ingréditur in tabérnam ad vestem nigram et pétasum turrī́tum eméndum.",
+      "Fēlīx vidḗtur homō: spērō fore ut post mātrimṓnium fēlīx semper sit.",
+      "Hoc fíerī nōn potest: ignōrā́sne Horā́tiī versum: «mélius nīl cáelibe vītā»?",
+      "Múlier malum sed malum necessā́rium.",
+      "Mel mélius est quam fel.",
+      "Mel mélius est felle."
     ],
     "english": [
       "The merchant buys the shoes that the shoemaker makes and sells them to customers (buyers).",
@@ -90,7 +116,8 @@
   "sources": [
     {
       "after": 10,
-      "latin": "E Vita Latina, A. Rodot, sept. 1961.",
+      "latin": "Ē Vīta Latīna, Ā. Rodot, sept. 1961.",
+      "latinAccented": "Ē Vīta Latī́na, Ā. Rodot, sept. 1961.",
       "english": "(From Vita Latina, A. Rodot, September 1961.)"
     }
   ]

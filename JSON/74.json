@@ -3,28 +3,47 @@
     "lesson": 74,
     "title": "Lectio septuagesima quarta",
     "subtitle": {
-      "latin": "Regulus (sequitur)",
+      "latin": "Rēgulus (sequitur)",
+      "latinAccented": "Rḗgulus (séquitur)",
       "english": "The Little Prince (continued)"
     },
     "revision": false
   },
   "latin": [
-    "Regulus. — Solem occidentem spectare cupio... Gratum mihi feceris si solem occidere jusseris.",
-    "Rex. — Si ducem<sup>1</sup>, papilionis more, circum flosculos<sup>2</sup> volitare, vel tragoediam scribere, vel se in marinam avem<sup>3</sup> convertere juberem...",
-    "dux autem imperatum non faceret, utrius vitium esset<sup>4</sup> meum an ejus?",
-    "Reg., constanti voce. — Tuum!",
-    "Rex. — Recte dicis. Tantum enim ab unoquoque exigendum est, quantum<sup>5</sup> dare unusquisque potest*.",
-    "Nempe auctoritas in ratione nititur<sup>6</sup>.",
-    "Si populares tuos juberes se in mare abjicere, rem publicam commutarent<sup>7</sup>.",
-    "Reg. — Quid igitur de meo solis occasu? (nunquam enim omittebat quod semel quaesiverat).",
-    "Rex. — Occasus solis iste tibi dabitur. Exigam<sup>8</sup> enim. Sed ut qui rei publicae ministrandae peritus sim, tempus exspectabo.",
-    "Reg. — Quota hora id futurum est?",
-    "Rex, postquam ingentes fastos<sup>9</sup> inspexit. — Hem! Hem!... Hem! Hem!... fiet* hodie vespere... fiet... quadragesima minuta post septimam horam,",
-    "ac videbis quam mihi sedulo pareatur...",
-    "Reg. — Nihil jam mihi negotii hic est. Mox proficiscar.",
-    "Rex. — Noli proficisci!",
-    "Reg. — O, summe rex, si tibi sedulo oboediri<sup>10</sup> cupis, mihi rationi consentanea impera. Me proficisci jube. Omnia enim tempestiva videntur esse.",
-    "Rex, regulum jam evolantem videns. — Te legatum<sup>11</sup> meum esse jubeo!"
+    "Rēgulus. — Sōlem occidentem spectāre cupiō... Grātum mihi fēcerīs sī sōlem occīdere jusserīs.",
+    "Rēx. — Sī ducem<sup>1</sup>, pāpiliōnis mōre, circum flōsculōs<sup>2</sup> volitāre, vel tragoediam scrībere, vel sē in marīnam avem<sup>3</sup> convertere jubērem...",
+    "dux autem imperātum nōn faceret, utrīus vitium esset<sup>4</sup> meum an ejus?",
+    "Reg., cōnstantī vōce. — Tuum!",
+    "Rēx. — Rēctē dīcis. Tantum enim ab ūnōquoque exigendum est, quantum<sup>5</sup> dare ūnusquisque potest*.",
+    "Nempe auctōritās in ratiōne nītitur<sup>6</sup>.",
+    "Sī populārēs tuōs jubērēs sē in mare abjicere, rem pūblicam commūtārent<sup>7</sup>.",
+    "Reg. — Quid igitur dē meō sōlis occāsū? (nunquam enim omittēbat quod semel quaesīverat).",
+    "Rēx. — Occāsus sōlis iste tibi dabitur. Exigam<sup>8</sup> enim. Sed ut quī reī pūblicae ministrandae perītus sim, tempus exspectābō.",
+    "Reg. — Quotā hōrā id futūrum est?",
+    "Rēx, postquam ingentēs fāstōs<sup>9</sup> īnspexit. — Hem! Hem!... Hem! Hem!... fīet* hodiē vespere... fīet... quadrāgēsima minūta post septimam hōram,",
+    "ac vidēbis quam mihi sēdulō pāreātur...",
+    "Reg. — Nihil jam mihi negōtiī hic est. Mox proficīscar.",
+    "Rēx. — Nōlī proficīscī!",
+    "Reg. — Ō, summē rēx, sī tibi sēdulō oboediri<sup>10</sup> cupis, mihi ratiōnī cōnsentānea imperā. Mē proficīscī jubē. Omnia enim tempestīva videntur esse.",
+    "Rēx, rēgulum jam ēvolantem vidēns. — Tē lēgātum<sup>11</sup> meum esse jubeō!"
+  ],
+  "latinAccented": [
+    "Rḗgulus. — Sōlem occidéntem spectā́re cúpiō... Grātum mihi fḗcerīs sī sōlem occī́dere jússerīs.",
+    "Rēx. — Sī ducem<sup>1</sup>, pāpiliṓnis mōre, circum flṓsculōs<sup>2</sup> volitā́re, vel tragóediam scrī́bere, vel sē in marī́nam avem<sup>3</sup> convértere jubḗrem...",
+    "dux autem imperā́tum nōn fáceret, utrī́us vítium esset<sup>4</sup> meum an ejus?",
+    "Reg., cōnstántī vōce. — Tuum!",
+    "Rēx. — Rēctē dīcis. Tantum enim ab ūnṓquoque exigéndum est, quantum<sup>5</sup> dare ūnusquísque potest*.",
+    "Nempe auctṓritās in ratiṓne nī́titur<sup>6</sup>.",
+    "Sī populā́rēs tuōs jubḗrēs sē in mare abjícere, rem pū́blicam commūtā́rent<sup>7</sup>.",
+    "Reg. — Quid ígitur dē meō sōlis occā́sū? (nunquam enim omittḗbat quod semel quaesī́verat).",
+    "Rēx. — Occā́sus sōlis iste tibi dábitur. Éxigam<sup>8</sup> enim. Sed ut quī reī pū́blicae ministrándae perī́tus sim, tempus exspectā́bō.",
+    "Reg. — Quotā hōrā id futū́rum est?",
+    "Rēx, postquam ingéntēs fāstōs<sup>9</sup> īnspéxit. — Hem! Hem!... Hem! Hem!... fīet* hódiē véspere... fīet... quadrāgḗsima minū́ta post séptimam hōram,",
+    "ac vidḗbis quam mihi sḗdulō pāreā́tur...",
+    "Reg. — Nihil jam mihi negṓtiī hic est. Mox proficī́scar.",
+    "Rēx. — Nōlī proficī́scī!",
+    "Reg. — Ō, summē rēx, sī tibi sḗdulō obóediri<sup>10</sup> cupis, mihi ratiṓnī cōnsentā́nea ímperā. Mē proficī́scī jubē. Ómnia enim tempestī́va vidéntur esse.",
+    "Rēx, rḗgulum jam ēvolántem vidēns. — Tē lēgā́tum<sup>11</sup> meum esse júbeō!"
   ],
   "english": [
     "The little prince. — I want to see the setting sun... You would make me grateful if you [ordered] (will have ordered) the sun to set.",
@@ -65,19 +84,34 @@
   },
   "exercises": {
     "latin": [
-      "Qua in arte te exerces?",
-      "Ego sum centurio e sparteolis urbanis.",
-      "Quale est ministerium tuum? — Sparteolis impero ut incendia exstinguant.",
-      "Saepene in hac urbe incendia exstinguis?",
-      "Nimis saepe! In aedibus nostris contabulationes ligneae, supellex, vela, textilia, facile incenduntur.",
-      "Homines praecipueque mulieres cum igne incaute saepissime agunt.",
-      "Machinasne recentes possidetis?",
-      "Duas habemus antlias autocinetas optimas.",
-      "In utramvis aurem nunc dormiam, qui urbis nostrae sparteolos, te duce, optime instructos esse, nunc non ignoro.",
-      "Et tu, bone, quo ministerio fungeris?",
-      "Ego libitinarius sum.",
-      "Optime! Sine ullo tandem timore ad ignem exstinguendum adire* possum, quia scio a te me bene sepultum iri.",
-      "Quam quisque norit* artem, in hac se exerceat."
+      "Quā in arte tē exercēs?",
+      "Ego sum centuriō ē sparteolīs urbānīs.",
+      "Quāle est ministerium tuum? — Sparteolīs imperō ut incendia exstinguant.",
+      "Saepene in hāc urbe incendia exstinguis?",
+      "Nimis saepe! In aedibus nostrīs contabulātiōnēs ligneae, supellex, vēla, textilia, facile incenduntur.",
+      "Hominēs praecipuēque mulierēs cum igne incautē saepissimē agunt.",
+      "Māchināsne recentēs possidētis?",
+      "Duās habēmus antliās autocinētās optimās.",
+      "In utramvis aurem nunc dormiam, quī urbis nostrae sparteolōs, tē duce, optimē īnstrūctōs esse, nunc nōn ignōrō.",
+      "Et tū, bone, quō ministeriō fungeris?",
+      "Ego libitīnārius sum.",
+      "Optimē! Sine ūllō tandem timōre ad ignem exstinguendum adīre* possum, quia sciō ā tē mē bene sepultum īrī.",
+      "Quam quisque nōrit* artem, in hāc sē exerceat."
+    ],
+    "latinAccented": [
+      "Quā in arte tē exércēs?",
+      "Ego sum centúriō ē spartéolīs urbā́nīs.",
+      "Quāle est ministérium tuum? — Spartéolīs ímperō ut incéndia exstínguant.",
+      "Saepéne in hāc urbe incéndia exstínguis?",
+      "Nimis saepe! In áedibus nostrīs contabulātiṓnēs lígneae, supéllex, vēla, textília, fácile incendúntur.",
+      "Hóminēs praecipuḗque mulíerēs cum igne incáutē saepíssimē agunt.",
+      "Māchinā́sne recéntēs possidḗtis?",
+      "Duās habḗmus ántliās autocinḗtās óptimās.",
+      "In utrámvis aurem nunc dórmiam, quī urbis nostrae spartéolōs, tē duce, óptimē īnstrū́ctōs esse, nunc nōn ignṓrō.",
+      "Et tū, bone, quō ministériō fúngeris?",
+      "Ego libitīnā́rius sum.",
+      "Óptimē! Sine ūllō tandem timṓre ad ignem exstinguéndum adī́re* possum, quia sciō ā tē mē bene sepúltum īrī.",
+      "Quam quisque nōrit* artem, in hāc sē exérceat."
     ],
     "english": [
       "[What is your job] (in what job do you exercise)?",
@@ -99,7 +133,8 @@
   "sources": [
     {
       "after": 16,
-      "latin": "Ibidem.",
+      "latin": "Ibīdem.",
+      "latinAccented": "Ibī́dem.",
       "english": "(Same work.)"
     }
   ]

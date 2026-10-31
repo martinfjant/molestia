@@ -3,22 +3,35 @@
     "lesson": 86,
     "title": "Lectio octogesima sexta",
     "subtitle": {
-      "latin": "Patere tua consilia non sentis?",
+      "latin": "Patēre tua cōnsilia nōn sentīs?",
+      "latinAccented": "Patḗre tua cōnsília nōn sentīs?",
       "english": "Don't you see that your plans are discovered?"
     },
     "revision": false
   },
   "latin": [
-    "Marcus Tullius Cicero, patronus clarissimus oratorque vehementissimus, in Senatu Romano Catilinae conjurationem<sup>1</sup> malefactaque denuntiat:",
-    "«Quousque tandem abutere<sup>2</sup>, Catilina, patientia nostra?",
-    "Quamdiu etiam furor iste tuus nos eludet? Quem ad finem sese effrenata<sup>3</sup> iactabit<sup>4</sup> audacia?",
-    "Nihilne te nocturnum praesidium Palati<sup>5</sup>, nihil urbis uigiliae, nihil timor populi, nihil concursus bonorum omnium, nihil hic munitissimus habendi senatus locus, nihil horum ora uoltusque mouerunt?",
-    "Patere<sup>6</sup> tua consilia non sentis? Constrictam iam horum omnium scientia<sup>7</sup> teneri coniurationem tuam non uides?",
-    "Quid proxima, quid superiore nocte egeris, ubi fueris, quos conuocaueris, quid consili ceperis, quem nostrum<sup>8</sup> ignorare arbitraris?",
-    "O tempora! o mores! Senatus haec intellegit, consul uidet; hic tamen uiuit.",
-    "Viuit? Immo uero etiam in senatum uenit, fit publici consili particeps<sup>9</sup>, notat et designat oculis ad caedem unumquemque nostrum.",
-    "Nos autem, fortes<sup>10</sup> uiri, satis facere rei publicae uidemur, si istius furorem ac tela<sup>11</sup> uitamus.",
-    "Ad mortem te, Catilina, duci iussu<sup>12</sup> consulis iam pridem oportebat*, in te conferri* pestem quam tu in nos omnis<sup>13</sup> iam diu machinaris<sup>14</sup>.»"
+    "Mārcus Tullius Cicerō, patrōnus clārissimus ōrātorque vehementissimus, in Senātū Rōmānō Catilīnae conjūrātiōnem<sup>1</sup> malefactaque dēnūntiat:",
+    "«Quousque tandem abūtere<sup>2</sup>, Catilīna, patientiā nostrā?",
+    "Quamdiū etiam furor iste tuus nōs ēlūdet? Quem ad fīnem sēsē effrēnāta<sup>3</sup> iactābit<sup>4</sup> audācia?",
+    "Nihilne tē nocturnum praesidium Palātī<sup>5</sup>, nihil urbis uigiliae, nihil timor populī, nihil concursus bonōrum omnium, nihil hic mūnītissimus habendī senātūs locus, nihil hōrum ōra uoltūsque mōuērunt?",
+    "Patēre<sup>6</sup> tua cōnsilia nōn sentīs? Cōnstrictam iam hōrum omnium scientiā<sup>7</sup> tenērī coniūrātiōnem tuam nōn uidēs?",
+    "Quid proxima, quid superiōre nocte ēgerīs, ubi fuerīs, quōs conuocāuerīs, quid cōnsilī cēperīs, quem nostrum<sup>8</sup> ignōrāre arbitrāris?",
+    "Ō tempora! ō mōrēs! Senātus haec intellegit, cōnsul uidet; hīc tamen uīuit.",
+    "Vīuit? Immō uērō etiam in senātum uēnit, fit pūblicī cōnsilī particeps<sup>9</sup>, notat et dēsignat oculīs ad caedem ūnumquemque nostrum.",
+    "Nōs autem, fortēs<sup>10</sup> uirī, satis facere reī pūblicae uidēmur, sī istīus furōrem ac tēla<sup>11</sup> uītāmus.",
+    "Ad mortem tē, Catilīna, dūcī iussū<sup>12</sup> cōnsulis iam prīdem oportēbat*, in tē cōnferrī* pestem quam tū in nōs omnīs<sup>13</sup> iam diū māchināris<sup>14</sup>.»"
+  ],
+  "latinAccented": [
+    "Mārcus Túllius Cícerō, patrṓnus clāríssimus ōrātórque vehementíssimus, in Senā́tū Rōmā́nō Catilī́nae conjūrātiṓnem<sup>1</sup> malefactáque dēnū́ntiat:",
+    "«Quoúsque tandem abū́tere<sup>2</sup>, Catilī́na, patiéntiā nostrā?",
+    "Quámdiū étiam furor iste tuus nōs ēlū́det? Quem ad fīnem sēsē effrēnā́ta<sup>3</sup> iactā́bit<sup>4</sup> audā́cia?",
+    "Nihílne tē noctúrnum praesídium Palā́tī<sup>5</sup>, nihil urbis uigíliae, nihil timor pópulī, nihil concúrsus bonṓrum ómnium, nihil hic mūnītíssimus habéndī senā́tūs locus, nihil hōrum ōra uoltū́sque mōuḗrunt?",
+    "Patḗre<sup>6</sup> tua cōnsília nōn sentīs? Cōnstríctam iam hōrum ómnium sciéntiā<sup>7</sup> tenḗrī coniūrātiṓnem tuam nōn úidēs?",
+    "Quid próxima, quid superiṓre nocte ḗgerīs, ubi fúerīs, quōs conuocā́uerīs, quid cṓnsilī cḗperīs, quem nostrum<sup>8</sup> ignōrā́re arbitrā́ris?",
+    "Ō témpora! ō mōrēs! Senā́tus haec intéllegit, cōnsul úidet; hīc tamen uī́uit.",
+    "Vī́uit? Immō uḗrō étiam in senā́tum uḗnit, fit pū́blicī cṓnsilī párticeps<sup>9</sup>, notat et dēsígnat óculīs ad caedem ūnumquémque nostrum.",
+    "Nōs autem, fortēs<sup>10</sup> úirī, satis fácere reī pū́blicae uidḗmur, sī istī́us furṓrem ac tēla<sup>11</sup> uītā́mus.",
+    "Ad mortem tē, Catilī́na, dūcī iússū<sup>12</sup> cṓnsulis iam prīdem oportḗbat*, in tē cōnférrī* pestem quam tū in nōs omnīs<sup>13</sup> iam diū māchinā́ris<sup>14</sup>.»"
   ],
   "english": [
     "Marcus Tullius Cicero, very famous lawyer and orator full of fire, denounces before the Roman Senate the conspiracy and the misdeeds of Catiline:",
@@ -63,16 +76,29 @@
   "exercises": {
     "latin": [
       "Quid interest* inter optimismum et pessimismum?",
-      "Optimismus omnia in meliorem, pessimismus in pejorem partem accipit.",
-      "Potesne* ambarum doctrinarum exempla dare?",
-      "Philosophi duo per solitudinem quamdam siti confecti transeunt*.",
-      "Inveniunt lagonam litri magnitudine sed in qua aqua ad dimidium tantum continetur.",
-      "Primus, qui optimismum colit: «Euge! inquit! fortuna nos juvat, ecce lagona semiplena est!».",
-      "Alter autem qui pessimismum: «Eheu! ait, fortuna nos deficit: semivacua est ista lagona!»",
-      "In via custos urbanus raedarum discursionem moderatur.",
-      "Rectori cuidam: «Tu, inquit, prorsus progredere».",
-      "Rector, vir satis litteratus: «Quid aures meae audiunt? Pleonasmum!»",
-      "Custos autem qui hujus vocis significationem non intellexit: «Quid? maledicta in magistratum conjicis: pecunia te multabo!»"
+      "Optimismus omnia in meliōrem, pessimismus in pejōrem partem accipit.",
+      "Potesne* ambārum doctrīnārum exempla dare?",
+      "Philosophī duo per sōlitūdinem quamdam sitī cōnfectī trānseunt*.",
+      "Inveniunt lagōnam litrī magnitūdine sed in quā aquā ad dīmidium tantum continētur.",
+      "Prīmus, quī optimismum colit: «Eugē! inquit! fortūna nōs juvat, ecce lagōna sēmiplēna est!».",
+      "Alter autem quī pessimismum: «Ēheu! ait, fortūna nōs dēficit: semivacua est ista lagōna!»",
+      "In viā cūstōs urbānus raedārum discursiōnem moderātur.",
+      "Rēctōrī cuidam: «Tū, inquit, prōrsus prōgredere».",
+      "Rēctor, vir satis litterātus: «Quid aurēs meae audiunt? Pleonasmum!»",
+      "Cūstōs autem quī hujus vōcis significātiōnem nōn intellēxit: «Quid? maledicta in magistrātum cōnjicis: pecūniā tē multābō!»"
+    ],
+    "latinAccented": [
+      "Quid intérest* inter optimísmum et pessimísmum?",
+      "Optimísmus ómnia in meliṓrem, pessimísmus in pejṓrem partem áccipit.",
+      "Potésne* ambā́rum doctrīnā́rum exémpla dare?",
+      "Philósophī duo per sōlitū́dinem quamdam sitī cōnféctī trā́nseunt*.",
+      "Invéniunt lagṓnam litrī magnitū́dine sed in quā aquā ad dīmídium tantum continḗtur.",
+      "Prīmus, quī optimísmum colit: «Éugē! inquit! fortū́na nōs juvat, ecce lagṓna sēmiplḗna est!».",
+      "Alter autem quī pessimísmum: «Ḗheu! ait, fortū́na nōs dḗficit: semivácua est ista lagṓna!»",
+      "In viā cūstōs urbā́nus raedā́rum discursiṓnem moderā́tur.",
+      "Rēctṓrī cúidam: «Tū, inquit, prōrsus prōgrédere».",
+      "Rēctor, vir satis litterā́tus: «Quid aurēs meae áudiunt? Pleonásmum!»",
+      "Cūstōs autem quī hujus vōcis significātiṓnem nōn intellḗxit: «Quid? maledícta in magistrā́tum cṓnjicis: pecū́niā tē multā́bō!»"
     ],
     "english": [
       "What is the difference between optimism and pessimism?",
@@ -92,7 +118,8 @@
   "sources": [
     {
       "after": 10,
-      "latin": "M. Tulli Ciceronis in L. Catilinam oratio prima in Senatu habita.",
+      "latin": "M. Tullī Cicerōnis in L. Catilīnam ōrātiō prīma in Senātū habitā.",
+      "latinAccented": "M. Tullī Cicerṓnis in L. Catilī́nam ōrā́tiō prīma in Senā́tū hábitā.",
       "english": "(First speech of M. Tullius Cicero against L. Catiline, delivered in the Senate (Cicero, First Catilinarian).)"
     }
   ]

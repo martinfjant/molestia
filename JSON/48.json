@@ -3,24 +3,39 @@
     "lesson": 48,
     "title": "Lectio duodequinquagesima",
     "subtitle": {
-      "latin": "Binae sunt caligae",
+      "latin": "Bīnae sunt caligae",
+      "latinAccented": "Bīnae sunt cáligae",
       "english": "It's a pair of shoes"
     },
     "revision": false
   },
   "latin": [
-    "Decurio<sup>1</sup> quidam cum milite gregario<sup>2</sup> sub tegmine<sup>3</sup> arboris cujusdam bellum atrox<sup>4</sup> agebat.",
-    "In caespite<sup>5</sup> recubantes<sup>6</sup>, lagona in promptu posita<sup>7</sup>, summas cogitationes<sup>8</sup> philosophicas agitabant<sup>9</sup>.",
-    "Decurio. — Dic mihi, Miles, quid habemus quod omnes homines habent?",
-    "Miles. — Haec, Decurio, amplissima est quaestio quae intellectum meum omnino superat: solve<sup>10</sup> mihi hoc aenigma.",
-    "Dec. — Sunt binae caligae<sup>11</sup>: ambo enim, sicut ceteri homines, binas habemus caligas.",
-    "Mil. — Hoc nimis astutum est: propone aliud aenigma, quod nunc forte solvam.",
-    "Dec. — Si aenigmata quaeris, ecce alterum: «Quid habemus nos, quod non omnes homines habent?»",
-    "Mil. — Hoc etiam astutius<sup>12</sup> videtur... non inveniam!",
-    "Dec. — Sunt bis binae caligae, nam nos binas habemus ad exercitationes<sup>13</sup> et binas ad decursus<sup>14</sup> accommodatas, sed non omnes homines bis binas habent caligas.",
-    "Mil. — Astutissimum! Hoc tamen solvere debui<sup>15</sup>. Dic, quaeso, ultimum quod ipse solvere conabor.",
-    "Dec., secum cogitans subito vidit cerasa<sup>16</sup> quibus cerasus, cujus umbra tegebantur, onusta erat. — Miles! quae rubro<sup>17</sup> sunt colore<sup>18</sup>, et petiolo viridi bina pendunt?",
-    "Mil. — Ter me non deludes: sunt ter binae caligae!"
+    "Decuriō<sup>1</sup> quīdam cum mīlite gregāriō<sup>2</sup> sub tegmine<sup>3</sup> arboris cujusdam bellum atrōx<sup>4</sup> agēbat.",
+    "In caespite<sup>5</sup> recubantēs<sup>6</sup>, lagōna in prōmptū posita<sup>7</sup>, summās cōgitātiōnēs<sup>8</sup> philosophicās agitābant<sup>9</sup>.",
+    "Decuriō. — Dīc mihi, Mīles, quid habēmus quod omnēs hominēs habent?",
+    "Mīles. — Haec, Decuriō, amplissima est quaestiō quae intellēctum meum omnīnō superat: solve<sup>10</sup> mihi hoc aenigma.",
+    "Dec. — Sunt bīnae caligae<sup>11</sup>: ambō enim, sīcut cēterī hominēs, bīnās habēmus caligās.",
+    "Mil. — Hoc nimis astūtum est: prōpōne aliud aenigma, quod nunc forte solvam.",
+    "Dec. — Sī aenigmata quaeris, ecce alterum: «Quid habēmus nōs, quod nōn omnēs hominēs habent?»",
+    "Mil. — Hoc etiam astūtius<sup>12</sup> vidētur... nōn inveniam!",
+    "Dec. — Sunt bis bīnae caligae, nam nōs bīnās habēmus ad exercitātiōnēs<sup>13</sup> et bīnās ad dēcursūs<sup>14</sup> accommodātās, sed nōn omnēs hominēs bis bīnās habent caligās.",
+    "Mil. — Astutissimum! Hoc tamen solvere dēbuī<sup>15</sup>. Dīc, quaesō, ultimum quod ipse solvere cōnābor.",
+    "Dec., sēcum cōgitāns subitō vīdit cerasa<sup>16</sup> quibus cerasus, cujus umbrā tegēbantur, onusta erat. — Mīles! quae rubrō<sup>17</sup> sunt colōre<sup>18</sup>, et petiolō viridī bīna pendunt?",
+    "Mil. — Ter mē nōn dēlūdēs: sunt ter bīnae caligae!"
+  ],
+  "latinAccented": [
+    "Decúriō<sup>1</sup> quīdam cum mī́lite gregā́riō<sup>2</sup> sub tégmine<sup>3</sup> árboris cujúsdam bellum atrōx<sup>4</sup> agḗbat.",
+    "In cáespite<sup>5</sup> recubántēs<sup>6</sup>, lagṓna in prōmptū pósita<sup>7</sup>, summās cōgitātiṓnēs<sup>8</sup> philosóphicās agitā́bant<sup>9</sup>.",
+    "Decúriō. — Dīc mihi, Mīles, quid habḗmus quod omnēs hóminēs habent?",
+    "Mīles. — Haec, Decúriō, amplíssima est quáestiō quae intellḗctum meum omnī́nō súperat: solve<sup>10</sup> mihi hoc aenígma.",
+    "Dec. — Sunt bīnae cáligae<sup>11</sup>: ambō enim, sīcut cḗterī hóminēs, bīnās habḗmus cáligās.",
+    "Mil. — Hoc nimis astū́tum est: prōpṓne áliud aenígma, quod nunc forte solvam.",
+    "Dec. — Sī aenígmata quaeris, ecce álterum: «Quid habḗmus nōs, quod nōn omnēs hóminēs habent?»",
+    "Mil. — Hoc étiam astū́tius<sup>12</sup> vidḗtur... nōn invéniam!",
+    "Dec. — Sunt bis bīnae cáligae, nam nōs bīnās habḗmus ad exercitātiṓnēs<sup>13</sup> et bīnās ad dēcúrsūs<sup>14</sup> accommodā́tās, sed nōn omnēs hóminēs bis bīnās habent cáligās.",
+    "Mil. — Astutíssimum! Hoc tamen sólvere dḗbuī<sup>15</sup>. Dīc, quaesō, últimum quod ipse sólvere cōnā́bor.",
+    "Dec., sēcum cṓgitāns súbitō vīdit cérasa<sup>16</sup> quibus cérasus, cujus umbrā tegēbántur, onústa erat. — Mīles! quae rubrō<sup>17</sup> sunt colṓre<sup>18</sup>, et petíolō víridī bīna pendunt?",
+    "Mil. — Ter mē nōn dēlū́dēs: sunt ter bīnae cáligae!"
   ],
   "english": [
     "A corporal, in the company of a second-class soldier, was waging an atrocious war in the shade of a tree.",
@@ -70,18 +85,29 @@
   "song": {
     "kind": "Carmen",
     "title": {
-      "latin": "Gaudeamus igitur!",
+      "latin": "Gaudeāmus igitur!",
+      "latinAccented": "Gaudeā́mus ígitur!",
       "english": "Let us rejoice, then!"
     },
     "latin": [
-      "Gaudeamus igitur, juvenes dum sumus! (bis)",
-      "Post jucundam juventutem,",
-      "Post molestam senectutem,",
-      "Nos habebit humus. (bis)",
-      "Ubi sunt qui ante nos in mundo fuere? (bis)",
-      "Vadite ad superos,",
-      "Transite ad inferos,",
-      "Ubi jam fuere. (bis)"
+      "Gaudeāmus igitur, juvenēs dum sumus! (bis)",
+      "Post jūcundam juventūtem,",
+      "Post molestam senectūtem,",
+      "Nōs habēbit humus. (bis)",
+      "Ubi sunt quī ante nōs in mundō fuēre? (bis)",
+      "Vādite ad superōs,",
+      "Trānsīte ad īnferōs,",
+      "Ubi jam fuēre. (bis)"
+    ],
+    "latinAccented": [
+      "Gaudeā́mus ígitur, júvenēs dum sumus! (bis)",
+      "Post jūcúndam juventū́tem,",
+      "Post moléstam senectū́tem,",
+      "Nōs habḗbit humus. (bis)",
+      "Ubi sunt quī ante nōs in mundō fuḗre? (bis)",
+      "Vā́dite ad súperōs,",
+      "Trānsī́te ad ī́nferōs,",
+      "Ubi jam fuḗre. (bis)"
     ],
     "english": [
       "Let us rejoice then while we are young!",

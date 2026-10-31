@@ -4,20 +4,32 @@
     "title": "Lectio quinquagesima quarta",
     "subtitle": {
       "latin": "Carolus Magnus",
+      "latinAccented": "Cárolus Magnus",
       "english": "Charlemagne"
     },
     "revision": false
   },
   "latin": [
-    "Carolus Magnus<sup>1</sup> corpore fuit amplo atque robusto, statura eminenti<sup>2</sup> quae tamen justam non excederet<sup>3</sup>...",
-    "apice<sup>4</sup> capitis rotundo, oculis praegrandibus<sup>5</sup> ac vegetis, naso paululum mediocritatem excedenti, canitie<sup>6</sup> pulchra, facie laeta et hilari<sup>7</sup>.",
-    "Exercebatur adsidue equitando et venando<sup>8</sup>... delectabatur frequenti natatu<sup>9</sup>.",
-    "Nec patrio tantum<sup>10</sup> sermone<sup>11</sup> contentus, etiam peregrinis linguis ediscendis operam impendit<sup>12</sup>...",
-    "in quibus Latinam ita didicit ut aeque<sup>13</sup> illa ac patria lingua orare<sup>14</sup> sit solitus<sup>15</sup>.",
-    "Graecam vero melius intellegere quam pronuntiare poterat.",
-    "Delectabatur libris Sancti Augustini praecipueque his qui De Civitate Dei praetitulati sunt.",
-    "Artes liberales studiosissime coluit earumque doctores plurimum veneratus magnis adficiebat honoribus...",
-    "Temptabat et scribere<sup>16</sup>, sed parum successit labor praeposterus<sup>17</sup> et sero<sup>18</sup> inchoatus<sup>19</sup>..."
+    "Carolus Magnus<sup>1</sup> corpore fuit amplō atque rōbustō, statūrā ēminentī<sup>2</sup> quae tamen jūstam nōn excēderet<sup>3</sup>...",
+    "apice<sup>4</sup> capitis rotundō, oculīs praegrandibus<sup>5</sup> ac vegetīs, nāsō paululum mediocritātem excēdentī, cānitiē<sup>6</sup> pulchrā, faciē laetā et hilarī<sup>7</sup>.",
+    "Exercēbātur adsiduē equitandō et vēnandō<sup>8</sup>... dēlectābātur frequentī natātū<sup>9</sup>.",
+    "Nec patriō tantum<sup>10</sup> sermōne<sup>11</sup> contentus, etiam peregrīnīs linguīs ēdiscendīs operam impendit<sup>12</sup>...",
+    "in quibus Latīnam ita didicit ut aequē<sup>13</sup> illa ac patriā linguā ōrāre<sup>14</sup> sit solitus<sup>15</sup>.",
+    "Graecam vērō melius intellegere quam prōnūntiāre poterat.",
+    "Dēlectābātur librīs Sānctī Augustīnī praecipuēque hīs quī Dē Cīvitāte Deī praetitulātī sunt.",
+    "Artēs līberālēs studiōsissimē coluit eārumque doctōrēs plūrimum venerātus magnīs adficiēbat honōribus...",
+    "Temptābat et scrībere<sup>16</sup>, sed parum successit labor praeposterus<sup>17</sup> et sērō<sup>18</sup> inchoātus<sup>19</sup>..."
+  ],
+  "latinAccented": [
+    "Cárolus Magnus<sup>1</sup> córpore fuit amplō atque rōbústō, statū́rā ēminéntī<sup>2</sup> quae tamen jūstam nōn excḗderet<sup>3</sup>...",
+    "ápice<sup>4</sup> cápitis rotúndō, óculīs praegrándibus<sup>5</sup> ac végetīs, nāsō páululum mediocritā́tem excēdéntī, cānítiē<sup>6</sup> pulchrā, fáciē laetā et hílarī<sup>7</sup>.",
+    "Exercēbā́tur adsíduē equitándō et vēnándō<sup>8</sup>... dēlectābā́tur frequéntī natā́tū<sup>9</sup>.",
+    "Nec pátriō tantum<sup>10</sup> sermṓne<sup>11</sup> conténtus, étiam peregrī́nīs linguīs ēdiscéndīs óperam impéndit<sup>12</sup>...",
+    "in quibus Latī́nam ita dídicit ut aequē<sup>13</sup> illa ac pátriā linguā ōrā́re<sup>14</sup> sit sólitus<sup>15</sup>.",
+    "Graecam vērō mélius intellégere quam prōnūntiā́re póterat.",
+    "Dēlectābā́tur librīs Sānctī Augustī́nī praecipuḗque hīs quī Dē Cīvitā́te Deī praetitulā́tī sunt.",
+    "Artēs līberā́lēs studiōsíssimē cóluit eārúmque doctṓrēs plū́rimum venerā́tus magnīs adficiḗbat honṓribus...",
+    "Temptā́bat et scrī́bere<sup>16</sup>, sed parum succéssit labor praepósterus<sup>17</sup> et sērō<sup>18</sup> inchoā́tus<sup>19</sup>..."
   ],
   "english": [
     "Charlemagne [had a large and robust frame] (by body was large and robust), of a tall stature which nevertheless did not exceed the right [measure]...",
@@ -65,14 +77,24 @@
   },
   "exercises": {
     "latin": [
-      "Quid tibi accidit? Cur crus gypso alligatum est?",
-      "Hoc Feriis Natalicis accidit. In Alpibus nartabam et pessime cecidi.",
-      "Crus fregisti?",
-      "Ita est. Duos menses cum crure gypso vestito agam oportet; priorem mensem in lecto egi.",
-      "Nunc ambulare possum sed magna cum cautione: semper mihi cavendum est ne cadam.",
-      "Qua re natando exerceri non potes.",
-      "Nullius est momenti: hieme sumus.",
-      "Erras! Nonnullius est momenti. In urbe nostra omnibus anni temporibus natare possumus: piscina municipalis hieme calefit."
+      "Quid tibi accidit? Cūr crūs gypsō alligātum est?",
+      "Hoc Fēriīs Nātālīcīs accidit. In Alpibus nartābam et pessimē cecidī.",
+      "Crūs frēgistī?",
+      "Ita est. Duōs mēnsēs cum crūre gypsō vestītō agam oportet; priōrem mēnsem in lectō ēgī.",
+      "Nunc ambulāre possum sed magna cum cautiōne: semper mihi cavendum est nē cadam.",
+      "Quā rē natandō exercērī nōn potes.",
+      "Nūllīus est mōmentī: hieme sumus.",
+      "Errās! Nōnnūllius est mōmentī. In urbe nostrā omnibus annī temporibus natāre possumus: piscīna mūnicipālis hieme calefit."
+    ],
+    "latinAccented": [
+      "Quid tibi áccidit? Cūr crūs gypsō alligā́tum est?",
+      "Hoc Fḗriīs Nātālī́cīs áccidit. In Álpibus nartā́bam et péssimē cécidī.",
+      "Crūs frēgístī?",
+      "Ita est. Duōs mēnsēs cum crūre gypsō vestī́tō agam opórtet; priṓrem mēnsem in lectō ēgī.",
+      "Nunc ambulā́re possum sed magna cum cautiṓne: semper mihi cavéndum est nē cadam.",
+      "Quā rē natándō exercḗrī nōn potes.",
+      "Nūllī́us est mōméntī: híeme sumus.",
+      "Errās! Nōnnū́llius est mōméntī. In urbe nostrā ómnibus annī tempóribus natā́re póssumus: piscī́na mūnicipā́lis híeme cálefit."
     ],
     "english": [
       "What happened to you? Why is [your] leg in plaster (with plaster bound)?",
@@ -89,7 +111,8 @@
   "sources": [
     {
       "after": 9,
-      "latin": "Einhardus (775-840), Vita Karoli Magni Imperatoris (23 ad 25).",
+      "latin": "Einhardus (775-840), Vīta Karōlī Magnī Imperātōris (23 ad 25).",
+      "latinAccented": "Einhárdus (775-840), Vīta Karṓlī Magnī Imperātṓris (23 ad 25).",
       "english": "(From Einhard (775-840), Life of the Emperor Charlemagne (23 to 25).)"
     }
   ]

@@ -3,26 +3,43 @@
     "lesson": 88,
     "title": "Lectio duodenonagesima",
     "subtitle": {
-      "latin": "Estne tibi otium?",
+      "latin": "Estne tibi ōtium?",
+      "latinAccented": "Estne tibi ṓtium?",
       "english": "Do you have the time?"
     },
     "revision": false
   },
   "latin": [
-    "Cicero Filius. — Studeo, mi pater<sup>1</sup>, latine audire ea quae mihi tu de ratione dicendi graece tradidisti<sup>2</sup>, si modo tibi est otium et si vis*.",
-    "Cicero Pater. — An est, mi Cicero, quod ego malim*, quam te quam doctissimum esse?",
-    "Otium autem primum est summum, quoniam aliquando Roma exeundi* potestas data est,",
-    "deinde ista tua studia vel maximis<sup>3</sup> occupationibus meis anteferrem* libenter.",
-    "Fil. — Visne* igitur, ut<sup>4</sup> me graece<sup>5</sup> soles ordine interrogare, sic ego te vicissim eisdem<sup>6</sup> de rebus latine interrogem.",
-    "Pat. — Sane, si placet. Sic enim et ego te meminisse* intellegam quae accepisti, et tu ordine audies quae requires...",
-    "Fil. — In quo est ipsa vis oratoris?",
-    "Pat. — In rebus et in verbis. Sed et res et verba invenienda sunt et collocanda.",
-    "Vox, motus, vultus, atque omnis actio eloquendi comes<sup>7</sup> est; earum rerum omnium custos est memoria...",
-    "Fil. — Quoniam igitur invenire primum est oratoris, quid quaeret?",
-    "Pat. — Ut inveniat quem ad modum fidem faciat eis quibus volet*<sup>8</sup> persuadere<sup>9</sup>, et quem ad modum motum eorum animis adferat*...",
-    "Fil. — Testimoniorum quae genera sunt?",
-    "Pat. — Divinum et humanum. Divinum est, ut oracula, auspicia, ut vaticinationes et responsa sacerdotum<sup>10</sup>.",
-    "Humanum, quod spectatur ex auctoritate, ex voluntate, ex oratione aut libera aut expressa<sup>11</sup> in quo insunt* scripta, pacta<sup>12</sup>, promissa, jurata, quaesita<sup>13</sup>."
+    "Cicerō Fīlius. — Studeō, mī pater<sup>1</sup>, latīne audīre eā quae mihi tū dē ratiōne dīcendī graece trādidistī<sup>2</sup>, sī modo tibi est ōtium et sī vīs*.",
+    "Cicerō Pater. — An est, mī Cicerō, quod ego mālim*, quam tē quam doctissimum esse?",
+    "Ōtium autem prīmum est summum, quoniam aliquandō Rōma exeundī* potestās data est,",
+    "deinde ista tua studia vel maximīs<sup>3</sup> occupātiōnibus meīs anteferrem* libenter.",
+    "Fil. — Vīsne* igitur, ut<sup>4</sup> mē graece<sup>5</sup> solēs ōrdine interrogāre, sīc ego tē vicissim eīsdem<sup>6</sup> dē rēbus latīne interrogem.",
+    "Pat. — Sāne, sī placet. Sīc enim et ego tē meminisse* intellegam quae accēpistī, et tū ōrdine audiēs quae requīrēs...",
+    "Fil. — In quō est ipsa vīs ōrātōris?",
+    "Pat. — In rēbus et in verbīs. Sed et rēs et verba invenienda sunt et collocanda.",
+    "Vōx, mōtus, vultus, atque omnis āctiō ēloquendī comes<sup>7</sup> est; eārum rērum omnium cūstōs est memoriā...",
+    "Fil. — Quoniam igitur invenīre prīmum est ōrātōris, quid quaeret?",
+    "Pat. — Ut inveniat quem ad modum fidem faciat eīs quibus volet*<sup>8</sup> persuādēre<sup>9</sup>, et quem ad modum mōtum eōrum animīs adferat*...",
+    "Fil. — Testimōniōrum quae genera sunt?",
+    "Pat. — Dīvīnum et hūmānum. Dīvīnum est, ut ōrācula, auspicia, ut vāticinātiōnēs et respōnsa sacerdōtum<sup>10</sup>.",
+    "Hūmānum, quod spectātur ex auctōritāte, ex voluntāte, ex ōrātiōne aut lībera aut expressa<sup>11</sup> in quō īnsunt* scrīpta, pacta<sup>12</sup>, prōmissa, jūrāta, quaesīta<sup>13</sup>."
+  ],
+  "latinAccented": [
+    "Cícerō Fī́lius. — Stúdeō, mī pater<sup>1</sup>, latī́ne audī́re eā quae mihi tū dē ratiṓne dīcéndī graece trādidístī<sup>2</sup>, sī modo tibi est ṓtium et sī vīs*.",
+    "Cícerō Pater. — An est, mī Cícerō, quod ego mālim*, quam tē quam doctíssimum esse?",
+    "Ṓtium autem prīmum est summum, quóniam aliquándō Rōma exeúndī* potéstās data est,",
+    "deínde ista tua stúdia vel máximīs<sup>3</sup> occupātiṓnibus meīs anteférrem* libénter.",
+    "Fil. — Vīsne* ígitur, ut<sup>4</sup> mē graece<sup>5</sup> solēs ṓrdine interrogā́re, sīc ego tē vicíssim eī́sdem<sup>6</sup> dē rēbus latī́ne intérrogem.",
+    "Pat. — Sāne, sī placet. Sīc enim et ego tē meminísse* intéllegam quae accēpístī, et tū ṓrdine áudiēs quae requī́rēs...",
+    "Fil. — In quō est ipsa vīs ōrātṓris?",
+    "Pat. — In rēbus et in verbīs. Sed et rēs et verba inveniénda sunt et collocánda.",
+    "Vōx, mōtus, vultus, atque omnis ā́ctiō ēloquéndī comes<sup>7</sup> est; eā́rum rērum ómnium cūstōs est memóriā...",
+    "Fil. — Quóniam ígitur invenī́re prīmum est ōrātṓris, quid quaeret?",
+    "Pat. — Ut invéniat quem ad modum fidem fáciat eīs quibus volet*<sup>8</sup> persuādḗre<sup>9</sup>, et quem ad modum mōtum eṓrum ánimīs ádferat*...",
+    "Fil. — Testimōniṓrum quae génera sunt?",
+    "Pat. — Dīvī́num et hūmā́num. Dīvī́num est, ut ōrā́cula, auspícia, ut vāticinātiṓnēs et respṓnsa sacerdṓtum<sup>10</sup>.",
+    "Hūmā́num, quod spectā́tur ex auctōritā́te, ex voluntā́te, ex ōrātiṓne aut lī́bera aut expréssa<sup>11</sup> in quō īnsunt* scrīpta, pacta<sup>12</sup>, prōmíssa, jūrā́ta, quaesī́ta<sup>13</sup>."
   ],
   "english": [
     "Cicero junior. — Papa, I am keen to hear from you in Latin what you have [told] (reported) me in Greek [about the principles of eloquence] (means of saying), if however [you have the time] (to you is leisure) and if you want.",
@@ -63,17 +80,30 @@
   },
   "exercises": {
     "latin": [
-      "Cur taces? Nonne domi meae otio leniter frueris?",
-      "Hic otio lenissime fruor.",
-      "Vos autem summa voluptate audio qui de rebus ad delectationem aptis tam diserte colloquimini.",
-      "Nos colloquentes irrides.",
-      "Immo! Verecundiores estis. Ambo pertinenter et nonnunquam facete locuti estis.",
-      "Nonnullis tamen in quibus dissensimus exceptis! — Ad Foederatarum Nationum Societatem pertinentibus.",
-      "In verbis modo dissensistis; re vera sententia nostra eadem est: in terra pax hominibus bonae voluntatis!",
-      "De viis tantum ad pacem condendam confirmandamque disputavimus.",
-      "Tali modo ante bellum praeteritum disputastis (Assimil Germanicum, L. 101).",
-      "Timeo ne bellum vitari non possit*: homo homini lupus.",
-      "A sententia tua omnino dissentio: ex illo tempore in via bona multum progressi sumus."
+      "Cūr tacēs? Nōnne domī meae ōtiō lēniter frueris?",
+      "Hīc ōtiō lēnissimē fruor.",
+      "Vōs autem summā voluptāte audiō quī dē rēbus ad dēlectātiōnem aptīs tam disertē colloquimini.",
+      "Nōs colloquentēs irrīdēs.",
+      "Immō! Verēcundiōrēs estis. Ambō pertinenter et nōnnunquam facētē locūtī estis.",
+      "Nōnnūllīs tamen in quibus dissēnsimus exceptīs! — Ad Foederātārum Nātiōnum Societātem pertinentibus.",
+      "In verbīs modo dissensistis; rē vērā sententia nostra eadem est: in terrā pāx hominibus bonae voluntātis!",
+      "Dē viīs tantum ad pācem condendam cōnfirmandamque disputāvimus.",
+      "Tālī modo ante bellum praeteritum disputastis (Assimil Germānicum, L. 101).",
+      "Timeō nē bellum vītārī nōn possit*: homō hominī lupus.",
+      "Ā sententiā tuā omnīnō dissentiō: ex illō tempore in viā bonā multum prōgressī sumus."
+    ],
+    "latinAccented": [
+      "Cūr tacēs? Nōnne domī meae ṓtiō lḗniter frúeris?",
+      "Hīc ṓtiō lēníssimē fruor.",
+      "Vōs autem summā voluptā́te áudiō quī dē rēbus ad dēlectātiṓnem aptīs tam disértē colloquímini.",
+      "Nōs colloquéntēs irrī́dēs.",
+      "Immō! Verēcundiṓrēs estis. Ambō pertinénter et nōnnúnquam facḗtē locū́tī estis.",
+      "Nōnnū́llīs tamen in quibus dissḗnsimus excéptīs! — Ad Foederātā́rum Nātiṓnum Societā́tem pertinéntibus.",
+      "In verbīs modo dissensístis; rē vērā senténtia nostra éadem est: in terrā pāx homínibus bonae voluntā́tis!",
+      "Dē viīs tantum ad pācem condéndam cōnfirmandámque disputā́vimus.",
+      "Tālī modo ante bellum praetéritum disputástis (Ássimil Germā́nicum, L. 101).",
+      "Tímeō nē bellum vītā́rī nōn possit*: homō hóminī lupus.",
+      "Ā senténtiā tuā omnī́nō disséntiō: ex illō témpore in viā bonā multum prōgréssī sumus."
     ],
     "english": [
       "Why don't you say anything? [Aren't you having a good time] at my place (of a tranquil leisure gently you profit)?",
@@ -93,7 +123,8 @@
   "sources": [
     {
       "after": 14,
-      "latin": "E Ciceronis, Partitionibus Oratoriis (I, 1 ad II, 6).",
+      "latin": "Ē Cicerōnis, Partītiōnibus Ōrātōriīs (I, 1 ad II, 6).",
+      "latinAccented": "Ē Cicerṓnis, Partītiṓnibus Ōrātṓriīs (I, 1 ad II, 6).",
       "english": "(From Cicero, The Divisions of the Oratorical Art (I, 1 to II, 6).)"
     }
   ]

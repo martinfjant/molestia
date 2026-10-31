@@ -3,22 +3,35 @@
     "lesson": 65,
     "title": "Lectio sexagesima quinta",
     "subtitle": {
-      "latin": "Mihi prandio apposita sunt",
+      "latin": "Mihi prandiō apposita sunt",
+      "latinAccented": "Mihi prándiō appósita sunt",
       "english": "I had for lunch"
     },
     "revision": false
   },
   "latin": [
-    "Bene prandisti? — Ita, mihi prandio apposita sunt<sup>1</sup>:",
-    "Promulsis<sup>2</sup> varia, praecipue artocreas<sup>3</sup> suillum, bis duodenae cochleae<sup>4</sup>, gallus in vino coctus<sup>5</sup> cum cepulis<sup>6</sup>, haec omnia mero burgundico large perfusa<sup>7</sup>.",
-    "Nonne cerritus es? Jam mihi dixisti te stomacho laborare. Pinguior<sup>8</sup> es, vultus tuus purpura tinctus<sup>9</sup> videtur, nasus papulis gemmat<sup>10</sup>. Num ver appropinquat?",
-    "Num tu te facetum esse arbitraris?",
-    "Tantum tibi dicam, rectius te, istorum ciborum plumbeorum<sup>11</sup> loco, comesturum fuisse assulam bubulam<sup>12</sup> cum solanis frictis<sup>13</sup>.",
-    "Nihil timueris, vetus amice, postea enim assulam bubulam cum solanis frictis habui.",
-    "In aedibus urbanissimis, aes<sup>14</sup> telephonii tinnit<sup>15</sup>.",
-    "Nestor, famulus cubicularius, cum ea dignitate quam in omnibus actis domesticis adhibere<sup>16</sup> solet, instrumentum capit.",
-    "Vox in telephonio. — Salve funge! Esne tu, vetule<sup>17</sup> asine?",
-    "Nestor, aucta etiam dignitate. — Veniam mihi da, Domne, ego sum Nestor, cubicularius. Erus<sup>18</sup> autem abest!"
+    "Bene prandistī? — Ita, mihi prandiō apposita sunt<sup>1</sup>:",
+    "Prōmulsis<sup>2</sup> varia, praecipuē artocreās<sup>3</sup> suillum, bis duodēnae cochleae<sup>4</sup>, gallus in vīnō coctus<sup>5</sup> cum cepulīs<sup>6</sup>, haec omnia merō burgundīcō largē perfūsa<sup>7</sup>.",
+    "Nōnne cerrītus es? Jam mihi dīxistī tē stomachō labōrāre. Pinguior<sup>8</sup> es, vultus tuus purpurā tīnctus<sup>9</sup> vidētur, nāsus papulīs gemmat<sup>10</sup>. Num vēr appropinquat?",
+    "Num tū tē facētum esse arbitrāris?",
+    "Tantum tibi dīcam, rēctius tē, istōrum cibōrum plumbeōrum<sup>11</sup> locō, comesturum fuisse assulam būbulam<sup>12</sup> cum sōlānīs frictīs<sup>13</sup>.",
+    "Nihil timuerīs, vetus amīce, posteā enim assulam būbulam cum sōlānīs frictīs habuī.",
+    "In aedibus urbānissimīs, aes<sup>14</sup> telephōniī tinnit<sup>15</sup>.",
+    "Nestor, famulus cubiculārius, cum eā dignitāte quam in omnibus actīs domesticīs adhibēre<sup>16</sup> solet, īnstrūmentum capit.",
+    "Vōx in telephōniō. — Salvē funge! Esne tū, vetule<sup>17</sup> asine?",
+    "Nestor, aucta etiam dignitāte. — Veniam mihi dā, Domne, ego sum Nestor, cubiculārius. Erus<sup>18</sup> autem abest!"
+  ],
+  "latinAccented": [
+    "Bene prandístī? — Ita, mihi prándiō appósita sunt<sup>1</sup>:",
+    "Prōmúlsis<sup>2</sup> vária, praecípuē artócreās<sup>3</sup> suíllum, bis duodḗnae cóchleae<sup>4</sup>, gallus in vīnō coctus<sup>5</sup> cum cépulīs<sup>6</sup>, haec ómnia merō burgundī́cō largē perfū́sa<sup>7</sup>.",
+    "Nōnne cerrī́tus es? Jam mihi dīxístī tē stómachō labōrā́re. Pínguior<sup>8</sup> es, vultus tuus púrpurā tīnctus<sup>9</sup> vidḗtur, nāsus pápulīs gemmat<sup>10</sup>. Num vēr appropínquat?",
+    "Num tū tē facḗtum esse arbitrā́ris?",
+    "Tantum tibi dīcam, rḗctius tē, istṓrum cibṓrum plumbeṓrum<sup>11</sup> locō, comésturum fuísse ássulam bū́bulam<sup>12</sup> cum sōlā́nīs frictīs<sup>13</sup>.",
+    "Nihil timúerīs, vetus amī́ce, pósteā enim ássulam bū́bulam cum sōlā́nīs frictīs hábuī.",
+    "In áedibus urbāníssimīs, aes<sup>14</sup> telephṓniī tinnit<sup>15</sup>.",
+    "Nestor, fámulus cubiculā́rius, cum eā dignitā́te quam in ómnibus actīs domésticīs adhibḗre<sup>16</sup> solet, īnstrūméntum capit.",
+    "Vōx in telephṓniō. — Salvē funge! Esne tū, vétule<sup>17</sup> ásine?",
+    "Nestor, aucta étiam dignitā́te. — Véniam mihi dā, Domne, ego sum Nestor, cubiculā́rius. Erus<sup>18</sup> autem abest!"
   ],
   "english": [
     "Did you lunch well? — Yes, [I had] for lunch (to me for lunch have been served):",
@@ -60,18 +73,32 @@
   },
   "exercises": {
     "latin": [
-      "Quota hora est?",
-      "Undecima et dimidia hora est.",
-      "Nondum tempus est prandendi. Sed quid arbitraris* de quodam propomate sumendo?",
-      "Omnis occasio ad bibendum tibi idonea videtur.",
-      "Non a te quaero utrum avia tua birota utatur necne, sed quid bibere velis*: anisum, absinthium, merum, an gallicaudam?",
-      "Malo* aurantii aut uvae sucum.",
-      "Ecce! Aurantium premo ejusque sucum in poculum fundo. Visne* saccharum?",
-      "Ita: da cubos duos. Potionem cochleari agito.",
-      "Prosit*! — Bene tibi! — Bene tibi quoque!",
-      "Quid olfacio? Optime olet! Hic odor e culina venit.",
-      "Pullus gallinaceus in culina coquitur: odorem pulli olfacimus.",
-      "Eamus pransum!"
+      "Quota hōra est?",
+      "Ūndecima et dīmidia hōra est.",
+      "Nōndum tempus est prandendī. Sed quid arbitrāris* dē quōdam propomate sūmendō?",
+      "Omnis occāsiō ad bibendum tibi idōnea vidētur.",
+      "Nōn ā tē quaerō utrum avia tua birota ūtātur necne, sed quid bibere velīs*: anīsum, absinthium, merum, an gallicaudam?",
+      "Mālō* aurantīī aut ūvae sūcum.",
+      "Ecce! Aurantium premō ejusque sūcum in pōculum fundō. Vīsne* saccharum?",
+      "Ita: dā cubōs duōs. Pōtiōnem cochleārī agitō.",
+      "Prōsit*! — Bene tibi! — Bene tibi quoque!",
+      "Quid olfacīō? Optime olet! Hic odor ē culīnā venit.",
+      "Pullus gallīnāceus in culīnā coquitur: odōrem pullī olfacimus.",
+      "Eāmus prānsum!"
+    ],
+    "latinAccented": [
+      "Quota hōra est?",
+      "Ūndécima et dīmídia hōra est.",
+      "Nōndum tempus est prandéndī. Sed quid arbitrā́ris* dē quōdam propómate sūméndō?",
+      "Omnis occā́siō ad bibéndum tibi idṓnea vidḗtur.",
+      "Nōn ā tē quaerō utrum ávia tua bírota ūtā́tur necne, sed quid bíbere velīs*: anī́sum, absínthium, merum, an gallicáudam?",
+      "Mālō* aurantī́ī aut ūvae sūcum.",
+      "Ecce! Aurántium premō ejúsque sūcum in pṓculum fundō. Vīsne* sáccharum?",
+      "Ita: dā cubōs duōs. Pōtiṓnem cochleā́rī ágitō.",
+      "Prōsit*! — Bene tibi! — Bene tibi quoque!",
+      "Quid olfacī́ō? Óptime olet! Hic odor ē culī́nā venit.",
+      "Pullus gallīnā́ceus in culī́nā cóquitur: odṓrem pullī olfácimus.",
+      "Eā́mus prānsum!"
     ],
     "english": [
       "What time is it?",

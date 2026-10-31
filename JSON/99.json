@@ -3,25 +3,41 @@
     "lesson": 99,
     "title": "Lectio undecentesima",
     "subtitle": {
-      "latin": "Tot aquarum molibus!",
+      "latin": "Tot aquārum mōlibus!",
+      "latinAccented": "Tot aquā́rum mṓlibus!",
       "english": "Nothing but water!"
     },
     "revision": false
   },
   "latin": [
-    "Cum omnis res ab imperatore delegata intentiorem<sup>1</sup> exigat<sup>2</sup> curam, sitque nunc mihi a Nerva Augusto<sup>3</sup>, nescio diligentiore an amantiore rei publicae imperatore<sup>4</sup>,",
-    "aquarum injunctum officium, cum ad usum tum ad salubritatem atque etiam securitatem urbis pertinens<sup>5</sup>,",
-    "primum ac potissimum existimo<sup>6</sup>, sicut in ceteris negotiis institueram, nosse quod suscepi<sup>7</sup>.",
-    "Quapropter<sup>8</sup> hujus commentarii pertinebit fortassis<sup>9</sup> et ad successorem utilitas,",
-    "sed cum inter initia administrationis meae scriptus sit, in primis ad meam institutionem regulamque<sup>10</sup> proficiet...",
-    "...Agrippa<sup>11</sup> Virginem<sup>12</sup> in agro Lucullano collectam Romam perduxit.",
-    "Virgo adpellata est quod quaerentibus aquam militibus virguncula<sup>13</sup> venas quasdam monstravit,",
-    "quas secuti, qui foderant, ingentem aquae modum invenerunt.",
-    "Concipitur<sup>14</sup> Virgo palustribus locis, signino<sup>15</sup> circumjecto continendarum scaturiginum<sup>16</sup> causa...",
-    "...Ductus Anionis novi efficit passuum quinquaginta octo milia septingentos, ex eo, rivo subterraneo passuum quadraginta novem milia trecentos,",
-    "et propius urbem opere arcuato<sup>17</sup> passuum sex milia quadringentos nonaginta unum.",
-    "Hi sunt arcus altissimi, sublevati in quibusdam locis pedes centum novem.",
-    "Tot aquarum tam multis necessariis molibus pyramidas<sup>18</sup> videlicet otiosas compares, aut cetera inertia sed fama celebrata graecorum!"
+    "Cum omnis rēs ab imperātōre dēlēgāta intentiōrem<sup>1</sup> exigat<sup>2</sup> cūram, sitque nunc mihi ā Nervā Augustō<sup>3</sup>, nesciō dīligentiōre an amantiōre reī pūblicae imperātōre<sup>4</sup>,",
+    "aquārum injūnctum officium, cum ad ūsum tum ad salūbritātem atque etiam sēcūritātem urbis pertinēns<sup>5</sup>,",
+    "prīmum ac potissimum exīstimō<sup>6</sup>, sīcut in cēterīs negōtiīs īnstitueram, nōsse quod suscēpī<sup>7</sup>.",
+    "Quāpropter<sup>8</sup> hujus commentāriī pertinēbit fortassis<sup>9</sup> et ad successōrem ūtilitās,",
+    "sed cum inter initia administrātiōnis meae scrīptus sit, in prīmīs ad meam īnstitūtiōnem rēgulamque<sup>10</sup> prōficiet...",
+    "...Agrippā<sup>11</sup> Virginem<sup>12</sup> in agrō Lūcullānō collēctam Rōmam perdūxit.",
+    "Virgō adpellāta est quod quaerentibus aquam mīlitibus virgunculā<sup>13</sup> vēnās quāsdam mōnstrāvit,",
+    "quās secūtī, quī fōderant, ingentem aquae modum invēnērunt.",
+    "Concipitur<sup>14</sup> Virgō palūstribus locīs, signīnō<sup>15</sup> circumjectō continendārum scatūrīginum<sup>16</sup> causa...",
+    "...Ductus Anīonis novī efficit passuum quīnquāgintā octo mīlia septingentōs, ex eō, rīvō subterrāneō passuum quadrāgintā novem mīlia trecentōs,",
+    "et propius urbem opere arcuātō<sup>17</sup> passuum sex mīlia quadringentōs nōnāgintā ūnum.",
+    "Hī sunt arcūs altissimī, sublevātī in quibusdam locīs pedēs centum novem.",
+    "Tot aquārum tam multīs necessāriīs mōlibus pyramidās<sup>18</sup> vidēlicet ōtiōsās comparēs, aut cētera inertia sed fāma celebrāta graecōrum!"
+  ],
+  "latinAccented": [
+    "Cum omnis rēs ab imperātṓre dēlēgā́ta intentiṓrem<sup>1</sup> éxigat<sup>2</sup> cūram, sitque nunc mihi ā Nervā Augústō<sup>3</sup>, nésciō dīligentiṓre an amantiṓre reī pū́blicae imperātṓre<sup>4</sup>,",
+    "aquā́rum injū́nctum offícium, cum ad ūsum tum ad salūbritā́tem atque étiam sēcūritā́tem urbis pértinēns<sup>5</sup>,",
+    "prīmum ac potíssimum exī́stimō<sup>6</sup>, sīcut in cḗterīs negṓtiīs īnstitúeram, nōsse quod suscḗpī<sup>7</sup>.",
+    "Quāprópter<sup>8</sup> hujus commentā́riī pertinḗbit fortássis<sup>9</sup> et ad successṓrem ūtílitās,",
+    "sed cum inter inítia administrātiṓnis meae scrīptus sit, in prīmīs ad meam īnstitūtiṓnem rēgulámque<sup>10</sup> prōfíciet...",
+    "...Agríppā<sup>11</sup> Vírginem<sup>12</sup> in agrō Lūcullā́nō collḗctam Rōmam perdū́xit.",
+    "Virgō adpellā́ta est quod quaeréntibus aquam mīlítibus virgúnculā<sup>13</sup> vēnās quāsdam mōnstrā́vit,",
+    "quās secū́tī, quī fṓderant, ingéntem aquae modum invēnḗrunt.",
+    "Concípitur<sup>14</sup> Virgō palū́stribus locīs, signī́nō<sup>15</sup> circumjéctō continendā́rum scatūrī́ginum<sup>16</sup> causa...",
+    "...Ductus Anī́onis novī éfficit pássuum quīnquāgíntā octo mī́lia septingéntōs, ex eō, rīvō subterrā́neō pássuum quadrāgíntā novem mī́lia trecéntōs,",
+    "et própius urbem ópere arcuā́tō<sup>17</sup> pássuum sex mī́lia quadringéntōs nōnāgíntā ūnum.",
+    "Hī sunt arcūs altíssimī, sublevā́tī in quibúsdam locīs pedēs centum novem.",
+    "Tot aquā́rum tam multīs necessā́riīs mṓlibus pyrámidās<sup>18</sup> vidḗlicet ōtiṓsās cómparēs, aut cḗtera inértia sed fāma celebrā́ta graecṓrum!"
   ],
   "english": [
     "As every [function] (thing) delegated by the Emperor requires a [particularly] (more) attentive care, and as now has been [entrusted to me] by Nerva (Augustus), an emperor [of whom] I do not know [whether he is] more devoted or more friendly to the State,",
@@ -69,20 +85,36 @@
   },
   "exercises": {
     "latin": [
-      "Nec multo post, illa nubes descendere in terras, operire<sup>1</sup> maria;",
-      "cinxerat Capreas et absconderat<sup>2</sup>.",
-      "Jam cinis<sup>3</sup>, adhuc tamen rarus.",
-      "Respicio<sup>4</sup>: densa caligo<sup>5</sup> tergis imminebat, quae nos torrentis modo infusa<sup>6</sup> terrae sequebatur.",
-      "Audires ululatus<sup>7</sup> feminarum, infantium quiritatus<sup>8</sup>, clamores virorum.",
-      "Alii parentes, alii liberos, alii conjuges<sup>9</sup> vocibus requirebant, vocibus noscitabant<sup>10</sup>.",
-      "Hi suum casum, illi suorum miserabantur<sup>11</sup>; erant qui metu mortis mortem precarentur<sup>12</sup>.",
-      "Paulum reluxit<sup>13</sup>, quod non dies nobis, sed adventantis<sup>14</sup> ignis indicium videbatur.",
-      "Et ignis quidem longius substitit<sup>15</sup>; tenebrae rursus<sup>16</sup>, cinis rursus, multus et gravis.",
-      "Hunc identidem<sup>17</sup> adsurgentes<sup>18</sup> excutiebamus<sup>19</sup>; operti alioqui<sup>20</sup> atque etiam oblisi<sup>21</sup> pondere essemus.",
-      "Tandem illa caligo tenuata<sup>22</sup> quasi in fumum nebulamve excessit.",
-      "Mox dies verus; sol etiam effulsit<sup>23</sup>, luridus<sup>24</sup> tamen, qualis esse, cum deficit, solet.",
-      "Occursabant trepidantibus adhuc oculis mutata omnia altoque cinere tanquam nive obducta.",
-      "Regressi tamen Misenum curatisque utcumque<sup>25</sup> corporibus, suspensam dubiamque noctem spe ac metu exegimus."
+      "Nec multō post, illa nūbēs dēscendere in terrās, operīre<sup>1</sup> maria;",
+      "cīnxerat Capreās et absconderat<sup>2</sup>.",
+      "Jam cinis<sup>3</sup>, adhūc tamen rārus.",
+      "Respiciō<sup>4</sup>: dēnsa cālīgō<sup>5</sup> tergīs imminēbat, quae nōs torrentīs modo īnfūsa<sup>6</sup> terrae sequēbātur.",
+      "Audīrēs ululātūs<sup>7</sup> fēminārum, infantium quirītātūs<sup>8</sup>, clāmōrēs virōrum.",
+      "Aliī parentēs, aliī līberōs, aliī conjugēs<sup>9</sup> vōcibus requīrēbant, vōcibus nōscitābant<sup>10</sup>.",
+      "Hī suum cāsum, illī suōrum miserābantur<sup>11</sup>; erant quī metū mortis mortem precārentur<sup>12</sup>.",
+      "Paulum relūxit<sup>13</sup>, quod nōn diēs nōbīs, sed adventantis<sup>14</sup> ignis indicium vidēbātur.",
+      "Et ignis quidem longius substitit<sup>15</sup>; tenebrae rūrsus<sup>16</sup>, cinis rūrsus, multus et gravis.",
+      "Hunc identidem<sup>17</sup> adsurgentēs<sup>18</sup> excutiēbāmus<sup>19</sup>; opertī aliōquī<sup>20</sup> atque etiam oblīsī<sup>21</sup> pondere essēmus.",
+      "Tandem illa cālīgō tenuāta<sup>22</sup> quasi in fūmum nebulamve excessit.",
+      "Mox diēs vērus; sōl etiam effulsit<sup>23</sup>, lūridus<sup>24</sup> tamen, quālis esse, cum dēficit, solet.",
+      "Occursābant trepidantibus adhūc oculīs mūtāta omnia altōque cinere tanquam nive obductā.",
+      "Regressī tamen Mīsēnum cūrātisque utcumque<sup>25</sup> corporibus, suspēnsam dubiamque noctem spē ac metū exēgimus."
+    ],
+    "latinAccented": [
+      "Nec multō post, illa nūbēs dēscéndere in terrās, operī́re<sup>1</sup> maría;",
+      "cī́nxerat Cápreās et abscónderat<sup>2</sup>.",
+      "Jam cinis<sup>3</sup>, adhūc tamen rārus.",
+      "Respíciō<sup>4</sup>: dēnsa cālī́gō<sup>5</sup> tergīs imminḗbat, quae nōs torréntīs modo īnfū́sa<sup>6</sup> terrae sequēbā́tur.",
+      "Audī́rēs ululā́tūs<sup>7</sup> fēminā́rum, infántium quirītā́tūs<sup>8</sup>, clāmṓrēs virṓrum.",
+      "Áliī paréntēs, áliī lī́berōs, áliī cónjugēs<sup>9</sup> vṓcibus requīrḗbant, vṓcibus nōscitā́bant<sup>10</sup>.",
+      "Hī suum cāsum, illī suṓrum miserābántur<sup>11</sup>; erant quī metū mortis mortem precāréntur<sup>12</sup>.",
+      "Paulum relū́xit<sup>13</sup>, quod nōn diēs nōbīs, sed adventántis<sup>14</sup> ignis indícium vidēbā́tur.",
+      "Et ignis quidem lóngius súbstitit<sup>15</sup>; ténebrae rūrsus<sup>16</sup>, cinis rūrsus, multus et gravis.",
+      "Hunc idéntidem<sup>17</sup> adsurgéntēs<sup>18</sup> excutiēbā́mus<sup>19</sup>; opértī aliṓquī<sup>20</sup> atque étiam oblī́sī<sup>21</sup> póndere essḗmus.",
+      "Tandem illa cālī́gō tenuā́ta<sup>22</sup> quasi in fūmum nebulámve excéssit.",
+      "Mox diēs vērus; sōl étiam effúlsit<sup>23</sup>, lū́ridus<sup>24</sup> tamen, quālis esse, cum dḗficit, solet.",
+      "Occursā́bant trepidántibus adhūc óculīs mūtā́ta ómnia altṓque cínere tanquam nive obdúctā.",
+      "Regréssī tamen Mīsḗnum cūrātísque utcúmque<sup>25</sup> corpóribus, suspḗnsam dubiámque noctem spē ac metū exḗgimus."
     ],
     "english": [
       "And [a little] (not much) after, this cloud [descended] towards the land, [covered] the sea(s).",
@@ -132,33 +164,39 @@
     {
       "before": 1,
       "latin": "I",
+      "latinAccented": "I",
       "english": "I"
     },
     {
       "before": 4,
       "latin": "II",
+      "latinAccented": "II",
       "english": "II"
     },
     {
       "before": 6,
       "latin": "X",
+      "latinAccented": "X",
       "english": "X"
     },
     {
       "before": 10,
       "latin": "XV",
+      "latinAccented": "XV",
       "english": "XV"
     },
     {
       "before": 13,
       "latin": "XVI",
+      "latinAccented": "XVI",
       "english": "XVI"
     }
   ],
   "sources": [
     {
       "after": 13,
-      "latin": "Ex Julii Frontini, De Aquaeductu urbis Romae.",
+      "latin": "Ex Jūliī Frontīnī, Dē Aquaeductū urbis Rōmae.",
+      "latinAccented": "Ex Jū́liī Frontī́nī, Dē Aquaedúctū urbis Rōmae.",
       "english": "(After J. Frontinus, The Aqueducts of the City of Rome.)"
     }
   ]

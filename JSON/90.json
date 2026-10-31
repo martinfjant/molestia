@@ -3,24 +3,39 @@
     "lesson": 90,
     "title": "Lectio nonagesima",
     "subtitle": {
-      "latin": "Casus est timendus (sequitur)",
+      "latin": "Cāsus est timendus (sequitur)",
+      "latinAccented": "Cāsus est timéndus (séquitur)",
       "english": "Great risks are run (continued)"
     },
     "revision": false
   },
   "latin": [
-    "Circiter CCXX (ducentae viginti)<sup>1</sup> naves eorum paratissimae atque omni genere armorum ornatissimae, e portu profectae<sup>2</sup>, nostris adversae constiterunt.",
-    "Neque satis Bruto, qui classi praeerat*, neque tribunis militum centurionibusque, quibus singulae naves erant attributae<sup>3</sup>, constabat quid agerent aut quam rationem pugnae insisterent<sup>4</sup>.",
-    "Una erat magno usui res praeparata a nostris: falces<sup>5</sup> praeacutae, insertae adfixaeque longuriis<sup>6</sup>, non absimili<sup>7</sup> forma muralium<sup>8</sup> falcium.",
-    "His, cum funes, qui antemnas<sup>9</sup> ad malos<sup>10</sup> destinabant, comprehensi adductique erant, navigio remis incitato, praerumpebantur<sup>11</sup>.",
-    "Quibus abscissis<sup>12</sup>, antemnae necessario concidebant<sup>13</sup>, ut, cum omnis gallicis navibus spes<sup>14</sup> in velis armamentisque consisteret,",
-    "his ereptis omnis usus navium uno tempore eriperetur<sup>15</sup>.",
-    "Reliquum<sup>16</sup> erat certamen positum in virtute, qua nostri milites facile superabant...",
-    "Disjectis<sup>17</sup>, ut diximus, antemnis, cum<sup>18</sup> singulas binae ac ternae naves circumsteterant, milites summa vi transcendere in hostium naves contendebant.",
-    "Quod<sup>19</sup> postquam<sup>20</sup> barbari fieri* animadverterunt, expugnatis compluribus navibus, cum ei rei nullum reperiretur auxilium, fuga salutem petere contenderunt<sup>21</sup>.",
-    "Ac jam conversis in eam partem navibus quo ventus ferebat*, tanta subito malacia<sup>22</sup> ac tranquillitas exstitit<sup>23</sup>, ut se ex loco movere non possent*.",
-    "Quae quidem res ad negotium conficiendum maxime fuit opportuna,",
-    "nam singulas nostri consectati<sup>24</sup> expugnaverunt, ut perpaucae noctis interventu ad terram pervenerint, cum ab hora fere quarta<sup>25</sup> usque ad solis occasum pugnaretur."
+    "Circiter CCXX (ducentae vīgintī)<sup>1</sup> nāvēs eōrum parātissimae atque omnī genere armōrum ōrnātissimae, ē portū profectae<sup>2</sup>, nostrīs adversae cōnstitērunt.",
+    "Neque satis Brūtō, quī classī praeerat*, neque tribūnīs mīlitum centuriōnibusque, quibus singulae nāvēs erant attribūtae<sup>3</sup>, cōnstābat quid agerent aut quam ratiōnem pugnae īnsisterent<sup>4</sup>.",
+    "Ūna erat magnō ūsuī rēs praeparāta ā nostrīs: falcēs<sup>5</sup> praeacūtae, īnsertae adfīxaeque longuriīs<sup>6</sup>, nōn absimilī<sup>7</sup> fōrmā mūrālium<sup>8</sup> falcium.",
+    "Hīs, cum fūnēs, quī antemnās<sup>9</sup> ad malōs<sup>10</sup> dēstinābant, comprehēnsī adductīque erant, nāvigiō rēmīs incitātō, praerumpēbantur<sup>11</sup>.",
+    "Quibus abscissīs<sup>12</sup>, antemnae necessāriō concidēbant<sup>13</sup>, ut, cum omnīs gallicīs nāvibus spēs<sup>14</sup> in vēlīs armāmentīsque cōnsisteret,",
+    "hīs ēreptīs omnīs ūsūs nāvium ūnō tempore ēriperētur<sup>15</sup>.",
+    "Reliquum<sup>16</sup> erat certāmen positum in virtūte, quā nostrī mīlitēs facile superābant...",
+    "Disjectīs<sup>17</sup>, ut dīximus, antemnīs, cum<sup>18</sup> singulās bīnae ac ternae nāvēs circumsteterant, mīlitēs summā vī trānscendēre in hostium nāvēs contendēbant.",
+    "Quod<sup>19</sup> postquam<sup>20</sup> barbarī fierī* animadvertērunt, expugnātīs complūribus nāvibus, cum eī reī nūllum reperīrētur auxilium, fugā salūtem petere contendērunt<sup>21</sup>.",
+    "Ac jam conversīs in eam partem nāvibus quō ventus ferēbat*, tanta subitō malacia<sup>22</sup> ac tranquillitās exstitit<sup>23</sup>, ut sē ex locō movēre nōn possent*.",
+    "Quae quidem rēs ad negōtium cōnficiendum maximē fuit opportūna,",
+    "nam singulās nostrī cōnsectātī<sup>24</sup> expugnāvērunt, ut perpaucae noctis interventū ad terram pervēnerint, cum ab hōrā ferē quārta<sup>25</sup> usque ad sōlis occāsum pugnārētur."
+  ],
+  "latinAccented": [
+    "Círciter CCXX (ducéntae vīgíntī)<sup>1</sup> nāvēs eṓrum parātíssimae atque omnī génere armṓrum ōrnātíssimae, ē portū proféctae<sup>2</sup>, nostrīs advérsae cōnstitḗrunt.",
+    "Neque satis Brūtō, quī classī práeerat*, neque tribū́nīs mī́litum centuriōnibúsque, quibus síngulae nāvēs erant attribū́tae<sup>3</sup>, cōnstā́bat quid ágerent aut quam ratiṓnem pugnae īnsísterent<sup>4</sup>.",
+    "Ūna erat magnō ū́suī rēs praeparā́ta ā nostrīs: falcēs<sup>5</sup> praeacū́tae, īnsértae adfīxáeque longúriīs<sup>6</sup>, nōn absímilī<sup>7</sup> fōrmā mūrā́lium<sup>8</sup> fálcium.",
+    "Hīs, cum fūnēs, quī antémnās<sup>9</sup> ad malōs<sup>10</sup> dēstinā́bant, comprehḗnsī adductī́que erant, nāvígiō rēmīs incitā́tō, praerumpēbántur<sup>11</sup>.",
+    "Quibus abscíssīs<sup>12</sup>, antémnae necessā́riō concidḗbant<sup>13</sup>, ut, cum omnīs gállicīs nā́vibus spēs<sup>14</sup> in vēlīs armāmentī́sque cōnsísteret,",
+    "hīs ēréptīs omnīs ūsūs nā́vium ūnō témpore ēriperḗtur<sup>15</sup>.",
+    "Réliquum<sup>16</sup> erat certā́men pósitum in virtū́te, quā nostrī mī́litēs fácile superā́bant...",
+    "Disjéctīs<sup>17</sup>, ut dī́ximus, antémnīs, cum<sup>18</sup> síngulās bīnae ac ternae nāvēs circumstéterant, mī́litēs summā vī trānscendḗre in hóstium nāvēs contendḗbant.",
+    "Quod<sup>19</sup> postquam<sup>20</sup> bárbarī fíerī* animadvertḗrunt, expugnā́tīs complū́ribus nā́vibus, cum eī reī nūllum reperīrḗtur auxílium, fugā salū́tem pétere contendḗrunt<sup>21</sup>.",
+    "Ac jam convérsīs in eam partem nā́vibus quō ventus ferḗbat*, tanta súbitō malácia<sup>22</sup> ac tranquíllitās éxstitit<sup>23</sup>, ut sē ex locō movḗre nōn possent*.",
+    "Quae quidem rēs ad negṓtium cōnficiéndum máximē fuit opportū́na,",
+    "nam síngulās nostrī cōnsectā́tī<sup>24</sup> expugnāvḗrunt, ut perpáucae noctis intervéntū ad terram pervḗnerint, cum ab hōrā ferē quārta<sup>25</sup> usque ad sōlis occā́sum pugnārḗtur."
   ],
   "english": [
     "About 220 of their ships, [in excellent condition] (very prepared) and [perfectly] (very) equipped with weapons of every sort, having come out of the port, took up position [opposite] ours.",
@@ -82,21 +97,38 @@
       "english": "Sailors' song"
     },
     "latin": [
-      "Vergebat sol ad septembrem (bis)",
-      "Conspeximus cum trierem",
-      "Punica terra quae profecta",
-      "Spumas salis infindebat:",
-      "Trinacriam intendebat",
-      "Chorus: Bibendum est e lagona! (bis)",
-      "Amatoribus propina!",
-      "Prosit Senatui Romano",
-      "Plebique. Poeni sed malam",
-      "Omnes ad crucem abeant*!",
-      "Cum navarchus vidit Poenos (bis)",
-      "Ad concursum advocat nos.",
-      "Rostro trierem percussimus.",
-      "Securi gladioque istos",
-      "Demisimus ad inferos."
+      "Vergēbat sōl ad septembrem (bis)",
+      "Cōnspeximus cum triērem",
+      "Pūnica terra quae profecta",
+      "Spūmās salis infindēbat:",
+      "Trīnacriam intendēbat",
+      "Chorus: Bibendum est ē lagōnā! (bis)",
+      "Amātōribus propīna!",
+      "Prōsit Senātuī Rōmānō",
+      "Plēbīque. Poenī sed mālam",
+      "Omnēs ad crucem abeant*!",
+      "Cum nāvarchus vīdit Poenōs (bis)",
+      "Ad concursum advocat nōs.",
+      "Rōstrō triērem percussimus.",
+      "Secūrī gladiōque istōs",
+      "Dēmīsimus ad īnferōs."
+    ],
+    "latinAccented": [
+      "Vergḗbat sōl ad septémbrem (bis)",
+      "Cōnspéximus cum triḗrem",
+      "Pū́nica terra quae profécta",
+      "Spūmās salis infindḗbat:",
+      "Trīnácriam intendḗbat",
+      "Chorus: Bibéndum est ē lagṓnā! (bis)",
+      "Amātṓribus propī́na!",
+      "Prōsit Senā́tuī Rōmā́nō",
+      "Plēbī́que. Poenī sed mālam",
+      "Omnēs ad crucem ábeant*!",
+      "Cum nāvárchus vīdit Poenōs (bis)",
+      "Ad concúrsum ádvocat nōs.",
+      "Rōstrō triḗrem percússimus.",
+      "Secū́rī gladiṓque istōs",
+      "Dēmī́simus ad ī́nferōs."
     ],
     "english": [
       "[Towards the end of the month of August] (the sun was turning towards September)",
@@ -120,7 +152,8 @@
   "sources": [
     {
       "after": 12,
-      "latin": "Ibidem.",
+      "latin": "Ibīdem.",
+      "latinAccented": "Ibī́dem.",
       "english": "(Same work.)"
     }
   ]

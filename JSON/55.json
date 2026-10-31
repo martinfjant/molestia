@@ -3,23 +3,37 @@
     "lesson": 55,
     "title": "Lectio quinquagesima quinta",
     "subtitle": {
-      "latin": "Me laborantem impedires",
+      "latin": "Mē labōrantem impedīrēs",
+      "latinAccented": "Mē labōrántem impedī́rēs",
       "english": "You would stop me working"
     },
     "revision": false
   },
   "latin": [
-    "Victor, sex annos natus<sup>1</sup>, optat ut pater sibi tympanum emat.",
-    "Pater autem: «Nolo, nam me laborantem impedires<sup>2</sup>».",
-    "Nequaquam, respondet Victor, tibi enim polliceor<sup>3</sup> me tantum te dormiente tympanum pulsaturum esse<sup>4</sup>.",
-    "Mater. — Nolo, Jacobe<sup>5</sup>, ludas cum Leone, nam puerulus est male educatus.",
-    "Jacobus. — Tunc, Mater, visne Leonem mecum ludere<sup>6</sup>, nam ego puerulus<sup>7</sup> sum bene educatus?",
-    "Cum bellum<sup>8</sup> omnium gentium alterum ageretur, cibariorum<sup>9</sup> tanta facta est inopia...",
-    "ut<sup>10</sup> vir quidam, fame<sup>11</sup> laborans, canem suum, quem multum amabat, edere coactus sit<sup>12</sup>.",
-    "Postquam manducavit, ossa aspiciens, secum exclamavit:",
-    "Miselle<sup>13</sup> Mordax, quam bene cenares, si hic adesses<sup>14</sup>.",
+    "Victor, sex annōs nātus<sup>1</sup>, optat ut pater sibi tympanum emat.",
+    "Pater autem: «Nōlō, nam mē labōrantem impedīrēs<sup>2</sup>».",
+    "Nēquāquam, respondet Victor, tibi enim polliceor<sup>3</sup> mē tantum tē dormiente tympanum pulsāturum esse<sup>4</sup>.",
+    "Māter. — Nōlō, Jacobe<sup>5</sup>, lūdās cum Leōne, nam puerulus est male ēducātus.",
+    "Jacobus. — Tunc, Māter, vīsne Leōnem mēcum lūdere<sup>6</sup>, nam ego puerulus<sup>7</sup> sum bene ēducātus?",
+    "Cum bellum<sup>8</sup> omnium gentium alterum agerētur, cibāriōrum<sup>9</sup> tanta facta est inopia...",
+    "ut<sup>10</sup> vir quīdam, famē<sup>11</sup> labōrāns, canem suum, quem multum amābat, edere coāctus sit<sup>12</sup>.",
+    "Postquam mandūcāvit, ossa aspiciēns, sēcum exclāmāvit:",
+    "Misellē<sup>13</sup> Mordāx, quam bene cēnārēs, sī hic adessēs<sup>14</sup>.",
     "Asinus asinum fricat.",
-    "Canes qui vehementius latrant, habentur viliores."
+    "Canēs quī vehementius lātrant, habentur vīliōrēs."
+  ],
+  "latinAccented": [
+    "Victor, sex annōs nātus<sup>1</sup>, optat ut pater sibi týmpanum emat.",
+    "Pater autem: «Nōlō, nam mē labōrántem impedī́rēs<sup>2</sup>».",
+    "Nēquā́quam, respóndet Victor, tibi enim pollíceor<sup>3</sup> mē tantum tē dormiénte týmpanum pulsā́turum esse<sup>4</sup>.",
+    "Māter. — Nōlō, Jácobe<sup>5</sup>, lūdās cum Leṓne, nam puérulus est male ēducā́tus.",
+    "Jácobus. — Tunc, Māter, vīsne Leṓnem mēcum lū́dere<sup>6</sup>, nam ego puérulus<sup>7</sup> sum bene ēducā́tus?",
+    "Cum bellum<sup>8</sup> ómnium géntium álterum agerḗtur, cibāriṓrum<sup>9</sup> tanta facta est inópia...",
+    "ut<sup>10</sup> vir quīdam, famē<sup>11</sup> labṓrāns, canem suum, quem multum amā́bat, édere coā́ctus sit<sup>12</sup>.",
+    "Postquam mandūcā́vit, ossa aspíciēns, sēcum exclāmā́vit:",
+    "Miséllē<sup>13</sup> Mordāx, quam bene cēnā́rēs, sī hic adéssēs<sup>14</sup>.",
+    "Ásinus ásinum fricat.",
+    "Canēs quī veheméntius lātrant, habéntur vīliṓrēs."
   ],
   "english": [
     "Victor, [aged] six (born six years), [would like] (wishes) his father to buy him a drum.",
@@ -64,18 +78,29 @@
   "song": {
     "kind": "Carmen",
     "title": {
-      "latin": "Gaudeamus igitur (sequitur)",
+      "latin": "Gaudeāmus igitur (sequitur)",
+      "latinAccented": "Gaudeā́mus ígitur (séquitur)",
       "english": "Let us rejoice, then (continued)"
     },
     "latin": [
-      "Vita nostra brevis est, brevi finietur. (bis)",
-      "Venit mors velociter,",
-      "Rapit nos atrociter,",
-      "Nemini parcetur! (bis)",
-      "Vivat Academia, vivant professores! (bis)",
-      "Vivat membrum quodlibet!",
-      "Vivant membra quaelibet!",
-      "Semper sint in flore! (bis)"
+      "Vīta nostra brevis est, brevī fīniētur. (bis)",
+      "Venit mors vēlōciter,",
+      "Rapit nōs atrōciter,",
+      "Nēminī parcētur! (bis)",
+      "Vīvat Acadēmia, vīvant professōrēs! (bis)",
+      "Vīvat membrum quodlibet!",
+      "Vīvant membra quaelibet!",
+      "Semper sint in flōre! (bis)"
+    ],
+    "latinAccented": [
+      "Vīta nostra brevis est, brevī fīniḗtur. (bis)",
+      "Venit mors vēlṓciter,",
+      "Rapit nōs atrṓciter,",
+      "Nḗminī parcḗtur! (bis)",
+      "Vīvat Acadḗmia, vīvant professṓrēs! (bis)",
+      "Vīvat membrum quódlibet!",
+      "Vīvant membra quáelibet!",
+      "Semper sint in flōre! (bis)"
     ],
     "english": [
       "Our life is short, it will soon end.",
@@ -92,14 +117,16 @@
   "headings": [
     {
       "before": 10,
-      "latin": "Proverbia",
+      "latin": "Prōverbia",
+      "latinAccented": "Prōvérbia",
       "english": "Proverbs"
     }
   ],
   "sources": [
     {
       "after": 9,
-      "latin": "E Vita Latina, A. Rodot, sept. 1961.",
+      "latin": "Ē Vīta Latīna, Ā. Rodot, sept. 1961.",
+      "latinAccented": "Ē Vīta Latī́na, Ā. Rodot, sept. 1961.",
       "english": "(From Vita Latina, A. Rodot, September 1961.)"
     }
   ]

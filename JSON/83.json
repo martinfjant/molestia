@@ -3,26 +3,43 @@
     "lesson": 83,
     "title": "Lectio octogesima tertia",
     "subtitle": {
-      "latin": "Male me contuderunt! (Concluditur)",
+      "latin": "Male mē contudērunt! (Conclūditur)",
+      "latinAccented": "Male mē contudḗrunt! (Conclū́ditur)",
       "english": "What a thrashing! (end)"
     },
     "revision": false
   },
   "latin": [
-    "Euclio. — Sed in aedibus quid tibi meis erat negotii<sup>1</sup>, me absente, nisi ego jusseram<sup>2</sup>? Volo* scire.",
-    "Congrio. — Tace ergo! Quia venimus coctum<sup>3</sup> ad nuptias.",
-    "Eucl. — Quid tu, malum, curas, utrum crudum an coctum edam, nisi<sup>4</sup> es tutor?",
-    "Cong. — Volo scire utrum sinas an non sinas nos coquere hic cenam<sup>5</sup>.",
-    "Eucl. — Volo scire ego item meae domi meane salva futura<sup>6</sup>.",
-    "Cong. — Utinam mea mihi modo auferam* quae ad te tuli*<sup>7</sup> salva: tua non expeto<sup>8</sup>.",
-    "Eucl., per ludibrium. — Scio, ne doceas, novi*.",
-    "Cong. — Quid est qua gratia prohibes nunc nos coquere hic cenam.",
-    "Eucl. — Etiam rogitas<sup>9</sup>, sceleste homo, qui angulos omnes mearum aedium et conclavium mihi pervium facis<sup>10</sup>.",
-    "Ibi ubi tibi erat negotium ad focum<sup>11</sup> si adfuisses*, non fissile<sup>12</sup> auferres* caput; merito id tibi factum est*.",
-    "Adeo ut tu meam sententiam jam noscere possis: si ad januam huc accesseris, nisi jussero, propius, ego te faciam miserrimus mortalis uti sis<sup>13</sup>.",
-    "Cong. — Quid ego nunc agam? Ego edepol<sup>14</sup> veni huc<sup>15</sup> auspicio malo: nummo sum conductus; plus jam medico mercede<sup>16</sup> opus est.",
-    "Eucl., secum aululam quae aurum suum continet ferens*. — Hoc quidem hercle, quoquo ibo, mecum erit, mecum feram, neque istic in tantis periclis unquam committam ut sit.",
-    "Ita sane nunc intro<sup>17</sup> omnes, et coqui et tibicinae<sup>18</sup>. Coquite, facite, festinate<sup>19</sup> quantum libet*."
+    "Eucliō. — Sed in aedibus quid tibi meīs erat negōtiī<sup>1</sup>, mē absente, nisi ego jusseram<sup>2</sup>? Volō* scīre.",
+    "Congriō. — Tacē ergō! Quia vēnimus coctum<sup>3</sup> ad nūptiās.",
+    "Eucl. — Quid tū, malum, cūrās, utrum crūdum an coctum edam, nisi<sup>4</sup> es tūtor?",
+    "Cong. — Volō scīre utrum sinās an nōn sinās nōs coquere hīc cēnam<sup>5</sup>.",
+    "Eucl. — Volō scīre ego item meae domī meane salva futūra<sup>6</sup>.",
+    "Cong. — Utinam mea mihi modo auferam* quae ad tē tulī*<sup>7</sup> salvā: tua nōn expetō<sup>8</sup>.",
+    "Eucl., per lūdibrium. — Sciō, nē doceās, nōvī*.",
+    "Cong. — Quid est quā grātiā prohibēs nunc nōs coquere hīc cēnam.",
+    "Eucl. — Etiam rogitās<sup>9</sup>, scelestē homō, quī angulōs omnēs meārum aedium et conclāvium mihi pervium facis<sup>10</sup>.",
+    "Ibi ubi tibi erat negōtium ad focum<sup>11</sup> sī adfuissēs*, nōn fissile<sup>12</sup> auferrēs* caput; meritō id tibi factum est*.",
+    "Adeō ut tū meam sententiam jam nōscere possīs: sī ad jānuam hūc accesserīs, nisi jusserō, propius, ego tē faciam miserrimus mortālīs ūtī sīs<sup>13</sup>.",
+    "Cong. — Quid ego nunc agam? Ego edepol<sup>14</sup> venī hūc<sup>15</sup> auspiciō mālō: nummō sum conductus; plūs jam medicō mercēde<sup>16</sup> opus est.",
+    "Eucl., sēcum aululam quae aurum suum continet ferēns*. — Hoc quidem hercle, quōquō ībō, mēcum erit, mēcum feram, neque istīc in tantīs perīclīs unquam committam ut sit.",
+    "Ita sānē nunc intrō<sup>17</sup> omnēs, et coquī et tībīcinae<sup>18</sup>. Coquite, facite, festīnātē<sup>19</sup> quantum libet*."
+  ],
+  "latinAccented": [
+    "Eúcliō. — Sed in áedibus quid tibi meīs erat negṓtiī<sup>1</sup>, mē absénte, nisi ego jússeram<sup>2</sup>? Volō* scīre.",
+    "Cóngriō. — Tacē ergō! Quia vḗnimus coctum<sup>3</sup> ad nū́ptiās.",
+    "Eucl. — Quid tū, malum, cūrās, utrum crūdum an coctum edam, nisi<sup>4</sup> es tūtor?",
+    "Cong. — Volō scīre utrum sinās an nōn sinās nōs cóquere hīc cēnam<sup>5</sup>.",
+    "Eucl. — Volō scīre ego item meae domī meáne salva futū́ra<sup>6</sup>.",
+    "Cong. — Útinam mea mihi modo áuferam* quae ad tē tulī*<sup>7</sup> salvā: tua nōn éxpetō<sup>8</sup>.",
+    "Eucl., per lūdíbrium. — Sciō, nē dóceās, nōvī*.",
+    "Cong. — Quid est quā grā́tiā próhibēs nunc nōs cóquere hīc cēnam.",
+    "Eucl. — Étiam rógitās<sup>9</sup>, sceléstē homō, quī ángulōs omnēs meā́rum áedium et conclā́vium mihi pérvium facis<sup>10</sup>.",
+    "Ibi ubi tibi erat negṓtium ad focum<sup>11</sup> sī adfuíssēs*, nōn físsile<sup>12</sup> auférrēs* caput; méritō id tibi factum est*.",
+    "Ádeō ut tū meam senténtiam jam nṓscere possīs: sī ad jā́nuam hūc accésserīs, nisi jússerō, própius, ego tē fáciam misérrimus mortā́līs ūtī sīs<sup>13</sup>.",
+    "Cong. — Quid ego nunc agam? Ego édepol<sup>14</sup> venī hūc<sup>15</sup> auspíciō mālō: nummō sum condúctus; plūs jam médicō mercḗde<sup>16</sup> opus est.",
+    "Eucl., sēcum áululam quae aurum suum cóntinet ferēns*. — Hoc quidem hercle, quōquō ībō, mēcum erit, mēcum feram, neque istīc in tantīs perī́clīs unquam commíttam ut sit.",
+    "Ita sānē nunc intrō<sup>17</sup> omnēs, et coquī et tībī́cinae<sup>18</sup>. Cóquite, fácite, festīnā́tē<sup>19</sup> quantum libet*."
   ],
   "english": [
     "Euclio. — But what [were you doing] in my house [in my absence] (me absent), [if I had not ordered it] (unless I had ordered)? I want to know [it].",
@@ -79,22 +96,38 @@
     "kind": "Carmen",
     "title": {
       "latin": "Barbapus",
+      "latinAccented": "Bárbapus",
       "english": "Barbapou"
     },
     "latin": [
-      "Erat in Aethiopia",
-      "Rex olim Ras Sejum.",
-      "Barbam magnam habebat.",
-      "Vocabant Barbapum.",
-      "Cum hoste magnum proelians,",
-      "Movebat strepitum.",
-      "Tum milites clamabant:",
-      "Videte Barbapum!",
-      "Sed telo tandem obiit,",
-      "Confossus hostium.",
-      "Sit gloriae Aethiopiae.",
+      "Erat in Aethiopiā",
+      "Rēx ōlim Rās Sejum.",
+      "Barbam magnam habēbat.",
+      "Vocābant Barbapum.",
+      "Cum hoste magnum proeliāns,",
+      "Movēbat strepitum.",
+      "Tum mīlitēs clāmābant:",
+      "Vidēte Barbapum!",
+      "Sed tēlō tandem obiit,",
+      "Cōnfossus hostium.",
+      "Sit glōriae Aethiopiae.",
       "Sit quoque Barbapum.",
       "Chorus: Barbapum, Barbapum, &c."
+    ],
+    "latinAccented": [
+      "Erat in Aethiópiā",
+      "Rēx ōlim Rās Sejum.",
+      "Barbam magnam habḗbat.",
+      "Vocā́bant Bárbapum.",
+      "Cum hoste magnum próeliāns,",
+      "Movḗbat strépitum.",
+      "Tum mī́litēs clāmā́bant:",
+      "Vidḗte Bárbapum!",
+      "Sed tēlō tandem óbiit,",
+      "Cōnfóssus hóstium.",
+      "Sit glṓriae Aethiópiae.",
+      "Sit quoque Bárbapum.",
+      "Chorus: Bárbapum, Bárbapum, &c."
     ],
     "english": [
       "There was in Ethiopia",
@@ -116,7 +149,8 @@
   "sources": [
     {
       "after": 14,
-      "latin": "Ibidem, 427... 453.",
+      "latin": "Ibīdem, 427... 453.",
+      "latinAccented": "Ibī́dem, 427... 453.",
       "english": "(Same work, 427... 453.)"
     }
   ]

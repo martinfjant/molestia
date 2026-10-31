@@ -3,27 +3,45 @@
     "lesson": 80,
     "title": "Lectio octogesima",
     "subtitle": {
-      "latin": "Porcellus (concluditur)",
+      "latin": "Porcellus (conclūditur)",
+      "latinAccented": "Porcéllus (conclū́ditur)",
       "english": "Piglet (end)"
     },
     "revision": false
   },
   "latin": [
-    "Porcellus, simul ac loqui potuit*, ore titubante dixit<sup>1</sup>. — Tu...tu... consulto fecisti. — Casu accidit ut iterum pannum quasi loreum et saponatum in os reciperet.",
-    "Canga. — Optime carissime, mitte loqui<sup>2</sup>. — Post punctum temporis Porcellus lautus<sup>3</sup> linteo abstersus est.",
-    "... Age, sume hanc medicinam, postea cubitum ibis*.",
-    "Por. — Qu... qu..., qua de causa medicinam sumam?",
-    "Can. — Ad te corroborandum<sup>4</sup> et firmandum. Num est tibi in animo parvulum et debilem sicut Porcellum manere? Accede istuc!",
-    "Tum vero ostium pulsatum est — Veni intro! — Christophorus Robinus ingressus est.",
-    "Por. — Christophore Robine, Christophore Robine! Dic Cangae quis sim! Non desinit dicere me Ruum esse. Ego non sum Ruus, nonne?",
-    "Christophorus Robinus, eum accurate inspicit et abnuit. — Non potes Ruus esse, quia modo Ruum ludentem in domo Leporis vidi.",
-    "Can. — Heu! Mentibus fingite! Quantum me opinio fefellit<sup>5</sup>.",
-    "Chris., denuo abnuens<sup>6</sup>. — Porcellus non est. Porcellum intus et in cute novi*<sup>7</sup>: colorem diversissimum habet!",
-    "Can. — Non ignoravi eum Porcellum non esse. Aveo<sup>8</sup> scire quis sit.",
-    "Chris. — Forsitan unus ex stirpe<sup>9</sup> Pui. Filius aut patruus aut aliquis.",
-    "Porcellus se e complexu Cangae expedivit et humum desiluit<sup>10</sup>. Ingenti ejus gaudio Christophorus Robinus fores apertas reliquerat.",
-    "Nunquam tanta velocitate, quanta tunc currebat, cucurrerat, neque prius a cursu destitit quam<sup>11</sup> ad domum suam fere pervenit.",
-    "Sed cum ducentis pedibus a domo abesset*, constitit et reliquo itinere in luto<sup>12</sup> se volvit ut colorem suum jucundum et assuetum<sup>13</sup> restitueret<sup>14</sup>!"
+    "Porcellus, simul ac loquī potuit*, ōre titubante dīxit<sup>1</sup>. — Tū...tū... cōnsultō fēcistī. — Cāsū accidit ut iterum pannum quasi lōreum et sāpōnātum in os reciperet.",
+    "Cangā. — Optime cārissime, mitte loquī<sup>2</sup>. — Post pūnctum temporis Porcellus lautus<sup>3</sup> linteō abstersus est.",
+    "... Age, sūme hanc medicīnam, posteā cubitum ībis*.",
+    "Por. — Qu... qū..., quā dē causā medicīnam sūmam?",
+    "Can. — Ad tē corrōborandum<sup>4</sup> et firmandum. Num est tibi in animō parvulum et dēbilem sīcut Porcellum manēre? Accēde istuc!",
+    "Tum vērō ōstium pulsātum est — Vēnī intrō! — Christophorus Robīnus ingressus est.",
+    "Por. — Christophore Robīne, Christophore Robīne! Dīc Cangae quis sim! Nōn dēsinit dīcere mē Ruum esse. Ego nōn sum Ruus, nōnne?",
+    "Christophorus Robīnus, eum accūrātē īnspicit et abnuit. — Nōn potes Ruus esse, quia modo Ruum lūdentem in domō Lepōris vīdī.",
+    "Can. — Heu! Mentibus fingite! Quantum mē opīniō fefellit<sup>5</sup>.",
+    "Chris., dēnuō abnuēns<sup>6</sup>. — Porcellus nōn est. Porcellum intus et in cute nōvī*<sup>7</sup>: colōrem diversissimum habet!",
+    "Can. — Nōn ignōrāvī eum Porcellum nōn esse. Aveō<sup>8</sup> scīre quis sit.",
+    "Chris. — Forsitan ūnus ex stirpe<sup>9</sup> Puī. Fīlius aut patruus aut aliquis.",
+    "Porcellus sē ē complexū Cangae expedīvit et humum dēsiluit<sup>10</sup>. Ingentī ejus gaudiō Christophorus Robīnus forēs apertās relīquerat.",
+    "Nunquam tantā vēlōcitāte, quanta tunc currēbat, cucurrerat, neque prius ā cursū dēstitit quam<sup>11</sup> ad domum suam ferē pervēnit.",
+    "Sed cum ducentīs pedibus ā domō abesset*, cōnstitit et reliquō itinere in lutō<sup>12</sup> sē volvit ut colōrem suum jūcundum et assuētum<sup>13</sup> restitueret<sup>14</sup>!"
+  ],
+  "latinAccented": [
+    "Porcéllus, simul ac loquī pótuit*, ōre titubánte dīxit<sup>1</sup>. — Tū...tū... cōnsúltō fēcístī. — Cāsū áccidit ut íterum pannum quasi lṓreum et sāpōnā́tum in os recíperet.",
+    "Cangā. — Óptime cāríssime, mitte loquī<sup>2</sup>. — Post pūnctum témporis Porcéllus lautus<sup>3</sup> línteō abstérsus est.",
+    "... Age, sūme hanc medicī́nam, pósteā cúbitum ībis*.",
+    "Por. — Qu... qū..., quā dē causā medicī́nam sūmam?",
+    "Can. — Ad tē corrōborándum<sup>4</sup> et firmándum. Num est tibi in ánimō párvulum et dḗbilem sīcut Porcéllum manḗre? Accḗde istuc!",
+    "Tum vērō ṓstium pulsā́tum est — Vēnī intrō! — Christóphorus Robī́nus ingréssus est.",
+    "Por. — Christóphore Robī́ne, Christóphore Robī́ne! Dīc Cangae quis sim! Nōn dḗsinit dī́cere mē Ruum esse. Ego nōn sum Ruus, nōnne?",
+    "Christóphorus Robī́nus, eum accūrā́tē ī́nspicit et ábnuit. — Nōn potes Ruus esse, quia modo Ruum lūdéntem in domō Lepṓris vīdī.",
+    "Can. — Heu! Méntibus fíngite! Quantum mē opī́niō feféllit<sup>5</sup>.",
+    "Chris., dḗnuō ábnuēns<sup>6</sup>. — Porcéllus nōn est. Porcéllum intus et in cute nōvī*<sup>7</sup>: colṓrem diversíssimum habet!",
+    "Can. — Nōn ignōrā́vī eum Porcéllum nōn esse. Áveō<sup>8</sup> scīre quis sit.",
+    "Chris. — Fórsitan ūnus ex stirpe<sup>9</sup> Puī. Fī́lius aut pátruus aut áliquis.",
+    "Porcéllus sē ē compléxū Cangae expedī́vit et humum dēsíluit<sup>10</sup>. Ingéntī ejus gáudiō Christóphorus Robī́nus forēs apértās relī́querat.",
+    "Nunquam tantā vēlōcitā́te, quanta tunc currḗbat, cucúrrerat, neque prius ā cursū dḗstitit quam<sup>11</sup> ad domum suam ferē pervḗnit.",
+    "Sed cum ducéntīs pédibus ā domō abésset*, cṓnstitit et réliquō itínere in lutō<sup>12</sup> sē volvit ut colṓrem suum jūcúndum et assuḗtum<sup>13</sup> restitúeret<sup>14</sup>!"
   ],
   "english": [
     "Piglet, as soon as he could speak, said (1) [stammering] (by a stammering mouth). — You... you've done it on purpose. — By chance it happened that he received the towel hard as leather and full of soap in his mouth once again.",
@@ -66,17 +84,30 @@
   },
   "exercises": {
     "latin": [
-      "Paule! E piscina natatoria exeas* oportet*! Quamdiu in aqua mansisti?",
-      "Aliquandiu in aqua mansi, sed non tamdiu natavi quamdiu Aemilia.",
-      "Jam pridem illa exire* debebat.",
-      "Quamdudum in piscina est? — Jamdudum! Tertiam horam in piscina est.",
-      "Horae dodrante piscinae longitudinem centies tranavit.",
-      "Cum piscina 25 m (viginti quinque metra) sit longa, duo kilometra et dimidium percurrit.",
-      "Postquam ex aqua exieris*, manutergio te abstergeto.",
-      "Corpora abstergetote! Nolite* in pulvere vos volvere dum gausapae madidae sunt.",
-      "Noli* te gerere tanquam porcellus.",
-      "Si porcelli mores imitaberis nulla crepundia accipies.",
-      "Proverbium: Nolite* projicere margaritas ante porcos."
+      "Paulē! Ē piscīnā natātōriā exeās* oportet*! Quamdiū in aquā mānsistī?",
+      "Aliquandiū in aquā mānsī, sed nōn tamdiū natāvī quamdiū Aemilia.",
+      "Jam prīdem illa exīre* dēbēbat.",
+      "Quamdudum in piscīnā est? — Jamdūdum! Tertiam hōram in piscīnā est.",
+      "Hōrae dōdrante piscīnae longitūdinem centiēs trānāvit.",
+      "Cum piscīna 25 m (vīgintī quīnque metra) sit longa, duo kilometra et dīmidium percurrit.",
+      "Postquam ex aquā exierīs*, manutergiō tē abstergētō.",
+      "Corpora abstergētōte! Nōlīte* in pulvere vōs volvere dum gausapae madidae sunt.",
+      "Nōlī* tē gerere tanquam porcellus.",
+      "Sī porcellī mōrēs imitāberis nūlla crepundia accipiēs.",
+      "Prōverbium: Nōlīte* prōjicere margarītās ante porcōs."
+    ],
+    "latinAccented": [
+      "Paulē! Ē piscī́nā natātṓriā éxeās* opórtet*! Quámdiū in aquā mānsístī?",
+      "Aliquándiū in aquā mānsī, sed nōn támdiū natā́vī quámdiū Aemília.",
+      "Jam prīdem illa exī́re* dēbḗbat.",
+      "Quámdudum in piscī́nā est? — Jamdū́dum! Tértiam hōram in piscī́nā est.",
+      "Hōrae dōdránte piscī́nae longitū́dinem céntiēs trānā́vit.",
+      "Cum piscī́na 25 m (vīgíntī quīnque metra) sit longa, duo kilómetra et dīmídium percúrrit.",
+      "Postquam ex aquā exíerīs*, manutérgiō tē abstergḗtō.",
+      "Córpora abstergētṓte! Nōlī́te* in púlvere vōs vólvere dum gáusapae mádidae sunt.",
+      "Nōlī* tē gérere tanquam porcéllus.",
+      "Sī porcéllī mōrēs imitā́beris nūlla crepúndia accípiēs.",
+      "Prōvérbium: Nōlī́te* prōjícere margarī́tās ante porcōs."
     ],
     "english": [
       "Paul! You must come out of the swimming pool! How long have you been in the water?",
@@ -96,7 +127,8 @@
   "sources": [
     {
       "after": 15,
-      "latin": "Ibidem.",
+      "latin": "Ibīdem.",
+      "latinAccented": "Ibī́dem.",
       "english": "(Same work.)"
     }
   ]

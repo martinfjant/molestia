@@ -3,27 +3,45 @@
     "lesson": 79,
     "title": "Lectio undeoctogesima",
     "subtitle": {
-      "latin": "Porcellus balneorum non est amator",
+      "latin": "Porcellus balneōrum nōn est amātor",
+      "latinAccented": "Porcéllus balneṓrum nōn est amā́tor",
       "english": "Piglet doesn't like baths"
     },
     "revision": false
   },
   "latin": [
-    "Canga, marsupialis femina, mater Rui, in marsupio<sup>1</sup> Porcellum pro Ruo secum ferens*. — Age! veni, Rue carissime. Cubandi tempus est. — Porcellum<sup>2</sup> e marsupio trahit.",
-    "Porcellus. — Eheu!",
-    "Can., evidenter non intellexit quid Porcelli querimonia<sup>3</sup> significaret. — Imprimis balneum!",
-    "Por. — Eheu! — Socios timide oculis quaerit, sed ceteri absunt*.",
-    "Can. — Anceps haereo<sup>4</sup> et dubito an sapiens propositum non sit, balneo hodie frigido uti. Amasne balnea frigida, Rue carissime?",
-    "Por., qui nunquam fuerat amator balneorum, graviter anhelans horret<sup>5</sup>. — Canga, intellego tempus instare sincera fide<sup>6</sup> loquendi.",
-    "Magna voce. — Non sum Ruus, Porcellus sum!",
-    "Can. — Ita est, corculum<sup>7</sup> meum, ita; etiam vocem Porcelli imitaris. — Saponem permagnum ex armario sumit.",
-    "Por. — Nonne vides? Num caligas<sup>8</sup>? Adspice!",
-    "Can. — Video te, Rue carissime. Et scis quod tibi de sannis<sup>9</sup> dixi:",
-    "«Porcellum imitans, adultus<sup>10</sup> porcellus videberis; et mente finge quantum id te pigere*<sup>11</sup> possit*».",
-    "Age! In balneum! Cave ne idem saepius<sup>12</sup> iterum dicam.",
-    "Antequam quid fiat* intellegat, Porcellus in balneo est. Canga eum panno<sup>13</sup> crasso<sup>14</sup> et saponato et quasi loreo vehementer fricat.",
-    "Por. — Ai! Sine me abire*! Porcellus sum!",
-    "Can. — Noli* os<sup>15</sup> aperire, carissime, aut sapo intrabit. Ecce! Quod erat demonstrandum<sup>16</sup>!"
+    "Canga, marsupiālis fēmina, māter Ruī, in marsūpiō<sup>1</sup> Porcellum prō Ruō sēcum ferēns*. — Age! venī, Rue cārissime. Cubandī tempus est. — Porcellum<sup>2</sup> ē marsūpiō trahit.",
+    "Porcellus. — Ēheu!",
+    "Can., ēvidenter nōn intellēxit quid Porcellī querimōnia<sup>3</sup> significāret. — Imprīmīs balneum!",
+    "Por. — Ēheu! — Sociōs timidē oculīs quaerit, sed cēterī absunt*.",
+    "Can. — Anceps haereō<sup>4</sup> et dubitō an sapiēns prōpositum nōn sit, balneō hodiē frīgidō ūtī. Amāsne balnea frīgida, Rue cārissime?",
+    "Por., quī nunquam fuerat amātor balneōrum, graviter anhēlāns horret<sup>5</sup>. — Canga, intellegō tempus īnstāre sincērā fide<sup>6</sup> loquendī.",
+    "Magna vōce. — Nōn sum Ruus, Porcellus sum!",
+    "Can. — Ita est, corculum<sup>7</sup> meum, ita; etiam vōcem Porcellī imitārīs. — Sāpōnem permagnum ex armāriō sūmit.",
+    "Por. — Nōnne vidēs? Num cālīgās<sup>8</sup>? Adspice!",
+    "Can. — Videō tē, Rue cārissime. Et scīs quod tibi dē sannīs<sup>9</sup> dīxī:",
+    "«Porcellum imitāns, adultus<sup>10</sup> porcellus vidēberis; et mente finge quantum id tē pigēre*<sup>11</sup> possit*».",
+    "Age! In balneum! Cave nē idem saepius<sup>12</sup> iterum dīcam.",
+    "Antequam quid fīat* intellegat, Porcellus in balneō est. Cangā eum pannō<sup>13</sup> crassō<sup>14</sup> et sāpōnātō et quasi lōreō vehementer fricat.",
+    "Por. — Ai! Sine mē abīre*! Porcellus sum!",
+    "Can. — Nōlī* os<sup>15</sup> aperīre, cārissime, aut sāpō intrābit. Ecce! Quod erat dēmōnstrandum<sup>16</sup>!"
+  ],
+  "latinAccented": [
+    "Canga, marsupiā́lis fḗmina, māter Ruī, in marsū́piō<sup>1</sup> Porcéllum prō Ruō sēcum ferēns*. — Age! venī, Rue cāríssime. Cubándī tempus est. — Porcéllum<sup>2</sup> ē marsū́piō trahit.",
+    "Porcéllus. — Ḗheu!",
+    "Can., ēvidénter nōn intellḗxit quid Porcéllī querimṓnia<sup>3</sup> significā́ret. — Imprī́mīs bálneum!",
+    "Por. — Ḗheu! — Sóciōs tímidē óculīs quaerit, sed cḗterī absunt*.",
+    "Can. — Anceps háereō<sup>4</sup> et dúbitō an sápiēns prōpósitum nōn sit, bálneō hódiē frī́gidō ūtī. Amā́sne bálnea frī́gida, Rue cāríssime?",
+    "Por., quī nunquam fúerat amā́tor balneṓrum, gráviter anhḗlāns horret<sup>5</sup>. — Canga, intéllegō tempus īnstā́re sincḗrā fide<sup>6</sup> loquéndī.",
+    "Magna vōce. — Nōn sum Ruus, Porcéllus sum!",
+    "Can. — Ita est, córculum<sup>7</sup> meum, ita; étiam vōcem Porcéllī imitā́rīs. — Sāpṓnem permágnum ex armā́riō sūmit.",
+    "Por. — Nōnne vidēs? Num cālī́gās<sup>8</sup>? Ádspice!",
+    "Can. — Vídeō tē, Rue cāríssime. Et scīs quod tibi dē sannīs<sup>9</sup> dīxī:",
+    "«Porcéllum ímitāns, adúltus<sup>10</sup> porcéllus vidḗberis; et mente finge quantum id tē pigḗre*<sup>11</sup> possit*».",
+    "Age! In bálneum! Cave nē idem sáepius<sup>12</sup> íterum dīcam.",
+    "Ántequam quid fīat* intéllegat, Porcéllus in bálneō est. Cangā eum pannō<sup>13</sup> crassō<sup>14</sup> et sāpōnā́tō et quasi lṓreō veheménter fricat.",
+    "Por. — Ai! Sine mē abī́re*! Porcéllus sum!",
+    "Can. — Nōlī* os<sup>15</sup> aperī́re, cāríssime, aut sāpō intrā́bit. Ecce! Quod erat dēmōnstrándum<sup>16</sup>!"
   ],
   "english": [
     "Kanga, female kangaroo, mother of Roo, carrying with her in her pouch Piglet instead of Roo. — Come on! Come, Roo my darling. It is time [to go] to sleep. — She takes Piglet out of her pouch.",
@@ -68,18 +86,32 @@
   },
   "exercises": {
     "latin": [
-      "Quo it villicus? — Porcis escam affert*.",
-      "Oves et vaccae in pratis vagantur.",
-      "Ubicumque herbam esculentam inveniunt, ibidem pascendi causa manent.",
-      "Quis est ille Puus vel Pu?",
-      "Ursus pueri Christophori est.",
-      "Quid! Potestne* puerulus ursum habere?",
-      "Ursi sunt saevissima animalia.",
-      "Ita! Ursi feri sunt saevissimi, ursi e gausapa autem mitissimi.",
-      "Animal e gausapa animal verum non est: anima ei deest*.",
-      "Talia dicunt physici; auctores autem qui ad puerorum delectationem scribunt aliter sentiunt.",
-      "In libris ad usum puerorum, tam animalibus veris quam animalibus commenticiis non solum animus, sed etiam humani sunt mores.",
-      "Noli manus in marsupiis tenere!"
+      "Quō it villicus? — Porcīs ēscam affert*.",
+      "Ovēs et vaccae in prātīs vagantur.",
+      "Ubicumque herbam esculentam inveniunt, ibīdem pāscendī causā manent.",
+      "Quis est ille Puus vel Pū?",
+      "Ursus puerī Christophorī est.",
+      "Quid! Potestne* puerulus ursum habēre?",
+      "Ursī sunt saevissima animālia.",
+      "Ita! Ursī ferī sunt saevissimī, ursī ē gausapā autem mītissimī.",
+      "Animal ē gausapā animal vērum nōn est: animā eī deest*.",
+      "Tālia dīcunt physicī; auctōrēs autem quī ad puerōrum dēlectātiōnem scrībunt aliter sentiunt.",
+      "In librīs ad ūsum puerōrum, tam animālibus vērīs quam animālibus commentīciīs nōn sōlum animus, sed etiam hūmānī sunt mōrēs.",
+      "Nōlī manūs in marsūpiīs tenēre!"
+    ],
+    "latinAccented": [
+      "Quō it víllicus? — Porcīs ēscam affert*.",
+      "Ovēs et vaccae in prātīs vagántur.",
+      "Ubicúmque herbam esculéntam invéniunt, ibī́dem pāscéndī causā manent.",
+      "Quis est ille Puus vel Pū?",
+      "Ursus púerī Christóphorī est.",
+      "Quid! Potéstne* puérulus ursum habḗre?",
+      "Ursī sunt saevíssima animā́lia.",
+      "Ita! Ursī ferī sunt saevíssimī, ursī ē gáusapā autem mītíssimī.",
+      "Ánimal ē gáusapā ánimal vērum nōn est: ánimā eī deest*.",
+      "Tā́lia dīcunt phýsicī; auctṓrēs autem quī ad puerṓrum dēlectātiṓnem scrībunt áliter séntiunt.",
+      "In librīs ad ūsum puerṓrum, tam animā́libus vērīs quam animā́libus commentī́ciīs nōn sōlum ánimus, sed étiam hūmā́nī sunt mōrēs.",
+      "Nōlī manūs in marsū́piīs tenḗre!"
     ],
     "english": [
       "Where is the farmer going? — He is bringing food to the pigs.",
@@ -100,7 +132,8 @@
   "sources": [
     {
       "after": 15,
-      "latin": "Ex Winnie ille Pu, auctore A. A. Milnes; in latinum converso ab Alexandro Lenard (Edidit Methuen, Londinii).",
+      "latin": "Ex Winnie ille Pū, auctōre Ā. Ā. Milnēs; in latīnum conversō ab Alexandrō Lenard (Ēdidit Methuen, Londīniī).",
+      "latinAccented": "Ex Wínnie ille Pū, auctṓre Ā. Ā. Milnēs; in latī́num convérsō ab Alexándrō Lenard (Ḗdidit Méthuen, Londī́niī).",
       "english": "(From Winnie the Pooh, by A. Milne; translated into Latin by Alexander Lenard (Ed. Methuen, London).)"
     }
   ]

@@ -3,26 +3,43 @@
     "lesson": 61,
     "title": "Lectio sexagesima prima",
     "subtitle": {
-      "latin": "Prosit<sup>1</sup>",
+      "latin": "Prōsit<sup>1</sup>",
+      "latinAccented": "Prōsit<sup>1</sup>",
       "english": "Your health"
     },
     "revision": false
   },
   "latin": [
-    "Appius. — Ebibat<sup>2</sup> igitur suum quisque<sup>3</sup> calicem. A me exemplum capietis. Tibi hoc propino<sup>4</sup>, Marce!",
-    "Marcus. — Accipio abs<sup>5</sup> te libenter. Pro quo vulgus<sup>6</sup> «Praestolor<sup>7</sup>!» dicit.",
-    "Equidem<sup>8</sup> non recuso. Nihil tua causa recusabo.",
-    "Appius. — Tu deinde ceteris propina.",
-    "Marcus. — Tite, praebibo<sup>9</sup> tibi dimidiam pateram!",
-    "Titus. — Precor<sup>10</sup> ut tibi bono sit. Sit tibi bonum atque commodum.",
-    "Prosit tibi! (Proficiat<sup>11</sup> durius dicitur).",
-    "Appius. — Sed cur cessat<sup>12</sup> patera? Cur non obambulat<sup>13</sup>?",
-    "Deficit nos vinum<sup>14</sup>? Ubi sunt oculi tui, puer? Vola, affer ejusdem generis sextarios duos!",
-    "Delia. — Ego vellem nupsisse<sup>15</sup> fungo<sup>16</sup>, potius quam meo nuberem Marco.",
-    "Cynthia. — Quid ita, quaeso? Tam cito male convenit inter vos?",
-    "Delia. — Nec unquam<sup>17</sup> conveniet cum tali viro. Vides quam sim pannosa! Sic patitur<sup>18</sup> uxorem suam domo egredi.",
-    "Dispeream nisi saepe pudet me prodire in publicum, cum video quam cultae sint aliae...",
-    "quae multo pauperioribus<sup>19</sup> nupsere<sup>20</sup> maritis."
+    "Appius. — Ēbibat<sup>2</sup> igitur suum quisque<sup>3</sup> calicem. Ā mē exemplum capiētis. Tibi hoc propīnō<sup>4</sup>, Mārce!",
+    "Mārcus. — Accipiō abs<sup>5</sup> tē libenter. Prō quō vulgus<sup>6</sup> «Praestōlor<sup>7</sup>!» dīcit.",
+    "Equidem<sup>8</sup> nōn recūsō. Nihil tuā causā recūsābō.",
+    "Appius. — Tū deinde cēterīs propīnā.",
+    "Mārcus. — Tite, praebibō<sup>9</sup> tibi dīmidiam pateram!",
+    "Titus. — Precor<sup>10</sup> ut tibi bonō sit. Sit tibi bonum atque commodum.",
+    "Prōsit tibi! (Prōficiat<sup>11</sup> dūrius dīcitur).",
+    "Appius. — Sed cūr cessat<sup>12</sup> patera? Cūr nōn obambulat<sup>13</sup>?",
+    "Dēficit nōs vīnum<sup>14</sup>? Ubi sunt oculī tuī, puer? Vola, affer ejusdem generis sextāriōs duōs!",
+    "Dēlia. — Ego vellem nūpsisse<sup>15</sup> fungō<sup>16</sup>, potius quam meō nūberem Mārcō.",
+    "Cynthia. — Quid ita, quaesō? Tam cito male convenit inter vōs?",
+    "Dēlia. — Nec unquam<sup>17</sup> conveniet cum tālī vīrō. Vidēs quam sim pannōsa! Sīc patitur<sup>18</sup> uxōrem suam domō ēgredī.",
+    "Dispeream nisi saepe pudet mē prōdīre in pūblicum, cum videō quam cultae sint aliae...",
+    "quae multō pauperiōribus<sup>19</sup> nūpsēre<sup>20</sup> marītīs."
+  ],
+  "latinAccented": [
+    "Áppius. — Ḗbibat<sup>2</sup> ígitur suum quisque<sup>3</sup> cálicem. Ā mē exémplum capiḗtis. Tibi hoc propī́nō<sup>4</sup>, Mārce!",
+    "Mārcus. — Accípiō abs<sup>5</sup> tē libénter. Prō quō vulgus<sup>6</sup> «Praestṓlor<sup>7</sup>!» dīcit.",
+    "Équidem<sup>8</sup> nōn recū́sō. Nihil tuā causā recūsā́bō.",
+    "Áppius. — Tū deínde cḗterīs propī́nā.",
+    "Mārcus. — Tite, práebibō<sup>9</sup> tibi dīmídiam páteram!",
+    "Titus. — Precor<sup>10</sup> ut tibi bonō sit. Sit tibi bonum atque cómmodum.",
+    "Prōsit tibi! (Prōfíciat<sup>11</sup> dū́rius dī́citur).",
+    "Áppius. — Sed cūr cessat<sup>12</sup> pátera? Cūr nōn obámbulat<sup>13</sup>?",
+    "Dḗficit nōs vīnum<sup>14</sup>? Ubi sunt óculī tuī, puer? Vola, affer ejúsdem géneris sextā́riōs duōs!",
+    "Dḗlia. — Ego vellem nūpsísse<sup>15</sup> fungō<sup>16</sup>, pótius quam meō nū́berem Mārcō.",
+    "Cýnthia. — Quid ita, quaesō? Tam cito male cónvenit inter vōs?",
+    "Dḗlia. — Nec unquam<sup>17</sup> convéniet cum tālī vīrō. Vidēs quam sim pannṓsa! Sīc pátitur<sup>18</sup> uxṓrem suam domō ḗgredī.",
+    "Dispéream nisi saepe pudet mē prōdī́re in pū́blicum, cum vídeō quam cultae sint áliae...",
+    "quae multō pauperiṓribus<sup>19</sup> nūpsḗre<sup>20</sup> marī́tīs."
   ],
   "english": [
     "Appius. — So let each one finish his glass. You will [follow my example] (take from me the example). I drink this to your health, Marcus!",
@@ -73,17 +90,30 @@
   },
   "exercises": {
     "latin": [
-      "Quod vinum bibere vis, atrum an album?",
-      "Atrum malo. Album enim cruditatem creat.",
-      "Melius est te aquam medicatam bibere.",
-      "Quid dixisti? Non aegroto nec ullam medicinam sumere cupio.",
-      "Te fortuna juvat, ego multis morbis laboro.",
-      "Saepe cum febri jaceo; rauca tussi tussio.",
-      "Arthriticus et podagrosus sum.",
-      "Tota cute prurio.",
-      "A cane rabido morsus sum. Canis rabidus me momordit.",
-      "Qui semper aegrotant diutissime vivunt.",
-      "Qui aegroti sibi semper videntur medicos pharmacopolasque locupletant."
+      "Quod vīnum bibere vīs, ātrum an album?",
+      "Ātrum mālō. Album enim crūditātem creat.",
+      "Mēlius est tē aquam medicātam bibere.",
+      "Quid dīxistī? Nōn aegrōtō nec ūllam medicīnam sūmere cupiō.",
+      "Tē fortūna juvat, ego multīs morbīs labōrō.",
+      "Saepe cum febrī jaceō; raucā tussī tussiō.",
+      "Arthrīticus et podagrōsus sum.",
+      "Tōtā cute prūriō.",
+      "Ā cane rabidō morsus sum. Canis rabidus mē momordit.",
+      "Quī semper aegrōtant diūtissimē vīvunt.",
+      "Quī aegrōtī sibi semper videntur medicōs pharmacopōlāsque locuplētant."
+    ],
+    "latinAccented": [
+      "Quod vīnum bíbere vīs, ātrum an album?",
+      "Ātrum mālō. Album enim crūditā́tem creat.",
+      "Mḗlius est tē aquam medicā́tam bíbere.",
+      "Quid dīxístī? Nōn aegrṓtō nec ūllam medicī́nam sū́mere cúpiō.",
+      "Tē fortū́na juvat, ego multīs morbīs labṓrō.",
+      "Saepe cum febrī jáceō; raucā tussī tússiō.",
+      "Arthrī́ticus et podagrṓsus sum.",
+      "Tōtā cute prū́riō.",
+      "Ā cane rábidō morsus sum. Canis rábidus mē momórdit.",
+      "Quī semper aegrṓtant diūtíssimē vīvunt.",
+      "Quī aegrṓtī sibi semper vidéntur médicōs pharmacopōlā́sque locuplḗtant."
     ],
     "english": [
       "What wine do you want to drink, [red] (dark black) or white?",
@@ -103,7 +133,8 @@
   "sources": [
     {
       "after": 14,
-      "latin": "Ex Erasmo.",
+      "latin": "Ex Erasmō.",
+      "latinAccented": "Ex Erásmō.",
       "english": "(From Erasmus. You will find more complete extracts of these texts in Exercices latins 4e/3e, by A. Bourgeois and J. Lupin (Ed. Hachette, Paris).)"
     }
   ]

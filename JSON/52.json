@@ -3,20 +3,31 @@
     "lesson": 52,
     "title": "Lectio quinquagesima altera",
     "subtitle": {
-      "latin": "Graecam grammaticam oderat",
+      "latin": "Graecam grammaticam ōderat",
+      "latinAccented": "Graecam grammáticam ṓderat",
       "english": "He hated Greek grammar"
     },
     "revision": false
   },
   "latin": [
-    "Cur ego graecam grammaticam oderam<sup>1</sup>? Homerus mihi amarus erat.",
-    "Credo etiam graecis pueris Vergilium talem esse, cum eum sic discere coguntur ut ego Homerum<sup>2</sup>.",
-    "Difficultas ediscendae<sup>3</sup> linguae peregrinae quasi felle aspergebat omnes suavitates graecas fabulosarum narrationum.",
-    "Nulla enim verba illa noveram, et saevis terroribus ac poenis, ut nossem<sup>4</sup>, instabatur mihi vehementer.",
-    "Nam et latina aliquando infans utique<sup>5</sup> nulla noveram...",
-    "et tamen advertendo<sup>6</sup> didici sine ullo metu<sup>7</sup> atque cruciatu<sup>8</sup>...",
-    "inter blandimenta<sup>9</sup> nutricum<sup>10</sup> et joca arridentium<sup>11</sup> et laetitias<sup>12</sup> alludentium.",
-    "Hinc satis elucet<sup>13</sup> majorem habere vim<sup>14</sup> ad discenda ista, liberam curiositatem quam meticulosam<sup>15</sup> necessitatem."
+    "Cūr ego graecam grammaticam ōderam<sup>1</sup>? Homērus mihi amārus erat.",
+    "Crēdō etiam graecīs puerīs Vergilium tālem esse, cum eum sīc discere cōguntur ut ego Homērum<sup>2</sup>.",
+    "Difficultās ēdiscendae<sup>3</sup> linguae peregrīnae quasi felle aspergēbat omnēs suāvitātēs graecās fābulōsārum nārrātiōnum.",
+    "Nūlla enim verba illa nōveram, et saevīs terrōribus ac poenīs, ut nōssem<sup>4</sup>, īnstābātur mihi vehementer.",
+    "Nam et latīnā aliquandō infāns utique<sup>5</sup> nūlla nōveram...",
+    "et tamen advertendō<sup>6</sup> didicī sine ūllō metū<sup>7</sup> atque cruciātū<sup>8</sup>...",
+    "inter blandīmenta<sup>9</sup> nūtrīcum<sup>10</sup> et joca arrīdentium<sup>11</sup> et laetitiās<sup>12</sup> allūdentium.",
+    "Hinc satis ēlūcet<sup>13</sup> majōrem habēre vim<sup>14</sup> ad discenda ista, līberam cūriōsitātem quam meticulōsam<sup>15</sup> necessitātem."
+  ],
+  "latinAccented": [
+    "Cūr ego graecam grammáticam ṓderam<sup>1</sup>? Homḗrus mihi amā́rus erat.",
+    "Crēdō étiam graecīs púerīs Vergílium tālem esse, cum eum sīc díscere cōgúntur ut ego Homḗrum<sup>2</sup>.",
+    "Difficúltās ēdiscéndae<sup>3</sup> linguae peregrī́nae quasi felle aspergḗbat omnēs suāvitā́tēs graecās fābulōsā́rum nārrātiṓnum.",
+    "Nūlla enim verba illa nṓveram, et saevīs terrṓribus ac poenīs, ut nōssem<sup>4</sup>, īnstābā́tur mihi veheménter.",
+    "Nam et latī́nā aliquándō infāns útique<sup>5</sup> nūlla nṓveram...",
+    "et tamen adverténdō<sup>6</sup> dídicī sine ūllō metū<sup>7</sup> atque cruciā́tū<sup>8</sup>...",
+    "inter blandīménta<sup>9</sup> nūtrī́cum<sup>10</sup> et joca arrīdéntium<sup>11</sup> et laetítiās<sup>12</sup> allūdéntium.",
+    "Hinc satis ēlū́cet<sup>13</sup> majṓrem habḗre vim<sup>14</sup> ad discénda ista, lī́beram cūriōsitā́tem quam meticulṓsam<sup>15</sup> necessitā́tem."
   ],
   "english": [
     "Why did I hate Greek grammar? Homer was [bitter to me] (for me bitter).",
@@ -53,14 +64,24 @@
   },
   "exercises": {
     "latin": [
-      "Pueri malunt ludere quam scholam adire.",
-      "Alumni qui discenda nesciunt vel pensa male perficiunt, nonnunquam vapulant.",
-      "Si in schola luseris nec pensa perfeceris, recte vapulabis.",
-      "Ludendo tamen multa discuntur.",
-      "Pueri ludentes nonnulla ad artem humanam pertinentia discunt, praecipue vitam communem, simul ac linguam suam.",
-      "Linguarum classicarum studium non est molestia taediosa, sed ludus jucundus.",
-      "Hoc verum non est nisi ludendo discitur.",
-      "Cur id fieri non possit?"
+      "Puerī mālunt lūdere quam scholam adīre.",
+      "Alumnī quī discenda nesciunt vel pēnsa male perficiunt, nōnnunquam vāpulant.",
+      "Sī in scholā lūserīs nec pēnsa perfēcerīs, rēctē vāpulābis.",
+      "Lūdendō tamen multa discuntur.",
+      "Puerī lūdentēs nōnnūlla ad artem hūmānam pertinentia discunt, praecipuē vītam commūnem, simul ac linguam suam.",
+      "Linguārum classicārum studium nōn est molestia taediōsa, sed lūdus jūcundus.",
+      "Hoc vērum nōn est nisi lūdendō discitur.",
+      "Cūr id fierī nōn possit?"
+    ],
+    "latinAccented": [
+      "Púerī mālunt lū́dere quam scholam adī́re.",
+      "Alúmnī quī discénda nésciunt vel pēnsa male perfíciunt, nōnnúnquam vā́pulant.",
+      "Sī in scholā lū́serīs nec pēnsa perfḗcerīs, rēctē vāpulā́bis.",
+      "Lūdéndō tamen multa discúntur.",
+      "Púerī lūdéntēs nōnnū́lla ad artem hūmā́nam pertinéntia discunt, praecípuē vītam commū́nem, simul ac linguam suam.",
+      "Linguā́rum classicā́rum stúdium nōn est moléstia taediṓsa, sed lūdus jūcúndus.",
+      "Hoc vērum nōn est nisi lūdéndō díscitur.",
+      "Cūr id fíerī nōn possit?"
     ],
     "english": [
       "Children prefer playing to going to school.",
@@ -77,7 +98,8 @@
   "sources": [
     {
       "after": 8,
-      "latin": "Ibidem, I, XIV.",
+      "latin": "Ibīdem, I, XIV.",
+      "latinAccented": "Ibī́dem, I, XIV.",
       "english": "(Same work, I, XIV.)"
     }
   ],

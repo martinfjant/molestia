@@ -3,25 +3,41 @@
     "lesson": 67,
     "title": "Lectio sexagesima septima",
     "subtitle": {
-      "latin": "Vincula inter populos artiora fiunt",
+      "latin": "Vincula inter populōs artiōra fīunt",
+      "latinAccented": "Víncula inter pópulōs artiṓra fīunt",
       "english": "The ties between peoples are becoming closer"
     },
     "revision": false
   },
   "latin": [
-    "... Praecipuae tres technicae artes, quibus auribus voces, oculis autem rerum imagines, ex longinquo proponuntur,",
+    "... Praecipuae trēs technicae artēs, quibus auribus vōcēs, oculīs autem rērum imāginēs, ex longinquō prōpōnuntur,",
     "hoc est cinematographica, radiophonica ac televisifica ars,",
-    "non ad homines tantummodo recreandos relaxandosque pertinent,",
-    "quamvis non pauci hoc solum requirant auditores spectatoresque,",
-    "sed ad ea potissimum propaganda, quae, cum ad animi culturam, et ad virtutem alendam attineant<sup>1</sup>,",
-    "non parum possunt ad civilem nostrorum temporum societatem recte instituendam conformandamque conferre*.",
-    "Faciliores modo quam typis edita<sup>2</sup>, id profecto hae technicae artes efficere possunt",
-    "ut homines nempe inter se communicent sibique sociam praestent operam.",
-    "Veritati autem propagandae ea ratione inserviant<sup>3</sup>",
-    "ut vincula inter populos artiora<sup>4</sup> cottidie fiant,",
-    "ut iidem mutua rerum aestimatione se intellegant,",
-    "ut in quovis<sup>5</sup> rerum discrimine<sup>6</sup> inter se adjuvent,",
-    "ut denique inter rei publicae moderatores singulosque cives adjutrix<sup>7</sup> intercedat<sup>8</sup> opera."
+    "nōn ad hominēs tantummodo recreandōs relaxandōsque pertinent,",
+    "quamvīs nōn paucī hoc sōlum requīrant audītōrēs spectātōrēsque,",
+    "sed ad eā potissimum propāganda, quae, cum ad animī cultūram, et ad virtūtem alendam attineant<sup>1</sup>,",
+    "nōn parum possunt ad cīvīlem nostrōrum temporum societātem rēctē īnstituendam conformandamque cōnferre*.",
+    "Faciliōrēs modo quam typīs ēdita<sup>2</sup>, id profectō hae technicae artēs efficere possunt",
+    "ut hominēs nempe inter sē commūnicent sibique sociam praestent operam.",
+    "Vēritātī autem propāgandae eā ratiōne īnserviant<sup>3</sup>",
+    "ut vincula inter populōs artiōra<sup>4</sup> cottīdiē fīant,",
+    "ut iīdem mūtua rērum aestimātiōne sē intellegant,",
+    "ut in quōvīs<sup>5</sup> rērum discrīmine<sup>6</sup> inter sē adjuvent,",
+    "ut dēnique inter reī pūblicae moderātōrēs singulōsque cīvēs adjūtrīx<sup>7</sup> intercēdat<sup>8</sup> opera."
+  ],
+  "latinAccented": [
+    "... Praecípuae trēs téchnicae artēs, quibus áuribus vōcēs, óculīs autem rērum imā́ginēs, ex longínquō prōpōnúntur,",
+    "hoc est cinematográphica, radiophónica ac televisífica ars,",
+    "nōn ad hóminēs tantúmmodo recreándōs relaxandṓsque pértinent,",
+    "quamvīs nōn paucī hoc sōlum requī́rant audītṓrēs spectātōrḗsque,",
+    "sed ad eā potíssimum propāgánda, quae, cum ad ánimī cultū́ram, et ad virtū́tem aléndam attíneant<sup>1</sup>,",
+    "nōn parum possunt ad cīvī́lem nostrṓrum témporum societā́tem rēctē īnstituéndam conformandámque cōnférre*.",
+    "Faciliṓrēs modo quam typīs ḗdita<sup>2</sup>, id proféctō hae téchnicae artēs effícere possunt",
+    "ut hóminēs nempe inter sē commū́nicent sibíque sóciam praestent óperam.",
+    "Vēritā́tī autem propāgándae eā ratiṓne īnsérviant<sup>3</sup>",
+    "ut víncula inter pópulōs artiṓra<sup>4</sup> cottī́diē fīant,",
+    "ut iī́dem mū́tua rērum aestimātiṓne sē intéllegant,",
+    "ut in quōvīs<sup>5</sup> rērum discrī́mine<sup>6</sup> inter sē ádjuvent,",
+    "ut dḗnique inter reī pū́blicae moderātṓrēs singulṓsque cīvēs adjū́trīx<sup>7</sup> intercḗdat<sup>8</sup> ópera."
   ],
   "english": [
     "The three principal [technical arts], by which words [are transmitted] to the ears and images to the eyes (of things) (from far are presented),",
@@ -65,16 +81,28 @@
   },
   "exercises": {
     "latin": [
-      "Haec est aëronavis «Alpha Delta» vocans Novi Eboraci aëroportum! Quemadmodum me audis?",
-      "Aëronavis «Alpha Delta» a Novi Eboraci aëroportu: te valde et clare audio. Unde venis et quo vadis?",
-      "Novum Eboracum ab A.D.: Londinio Novum Eboracum, altitudine pedum 30 000 (triginta milia), cursu 275 (pr. duo, septem, quinque) in nubibus volans.",
-      "A.D. a N.E.: Radari contingeris, cursu ad aeroportum 230 (duo, tria, zero), distantia 50 milia nautica. Usque ad pedum sex milia (6 000) descende.",
-      "N.E. ab A.D.: cursu 230, descendens... nunc altitudine pedum 6 000.",
-      "A.D. a N.E.: Altitudinem et cursum serva, aëroportus 20 milia distat, rotas educ* (appulsus) valvas ad libitum.",
-      "N.E. ab A.D.: Rotis eductis* valvisque probatis.",
-      "A.D. a N.E.: Quinque gradibus dextrorsum, descensionem ultimam incipe, sescentis pedibus per minutam... duobus gradibus sinistrorsum; descensione optima.",
-      "N.E. ab A.D.: O.C. (omnia correcta) (Appulsus) plateam conspicio.",
-      "A.D. a N.E.: Visu appelle, platea libera est!"
+      "Haec est aëronavis «Alpha Delta» vocāns Novī Eborācī aëroportum! Quemadmodum mē audīs?",
+      "Aëronavis «Alpha Delta» ā Novī Eborācī aëroportū: tē valdē et clārē audiō. Unde venīs et quō vādis?",
+      "Novum Eborācum ab Ā.D.: Londīniō Novum Eborācum, altitūdine pedum 30 000 (trīgintā mīlia), cursū 275 (pr. duo, septem, quīnque) in nūbibus volāns.",
+      "Ā.D. ā N.Ē.: Radārī contingēris, cursū ad aeroportum 230 (duo, tria, zerō), distantia 50 milia nautica. Usque ad pedum sex mīlia (6 000) dēscende.",
+      "N.Ē. ab Ā.D.: cursū 230, dēscendēns... nunc altitūdine pedum 6 000.",
+      "Ā.D. ā N.Ē.: Altitūdinem et cursum servā, aëroportus 20 milia distat, rotās ēdūc* (appulsus) valvās ad libitum.",
+      "N.Ē. ab Ā.D.: Rotīs ēductīs* valvīsque probātis.",
+      "Ā.D. ā N.Ē.: Quīnque gradibus dextrōrsum, dēscēnsiōnem ultimam incipe, sēscentīs pedibus per minūtam... duōbus gradibus sinistrōrsum; dēscēnsiōne optimā.",
+      "N.Ē. ab Ā.D.: Ō.C. (omnia corrēcta) (Appulsus) platēam cōnspiciō.",
+      "Ā.D. ā N.Ē.: Vīsū appelle, platēa lībera est!"
+    ],
+    "latinAccented": [
+      "Haec est aërónavis «Alpha Delta» vocāns Novī Eborā́cī aëropórtum! Quemádmodum mē audīs?",
+      "Aërónavis «Alpha Delta» ā Novī Eborā́cī aëropórtū: tē valdē et clārē áudiō. Unde venīs et quō vādis?",
+      "Novum Eborā́cum ab Ā.D.: Londī́niō Novum Eborā́cum, altitū́dine pedum 30 000 (trīgíntā mī́lia), cursū 275 (pr. duo, septem, quīnque) in nū́bibus volāns.",
+      "Ā.D. ā N.Ē.: Radā́rī contingḗris, cursū ad aeropórtum 230 (duo, tria, zerō), distántia 50 mília náutica. Usque ad pedum sex mī́lia (6 000) dēscénde.",
+      "N.Ē. ab Ā.D.: cursū 230, dēscéndēns... nunc altitū́dine pedum 6 000.",
+      "Ā.D. ā N.Ē.: Altitū́dinem et cursum servā, aëropórtus 20 mília distat, rotās ēdūc* (appúlsus) valvās ad líbitum.",
+      "N.Ē. ab Ā.D.: Rotīs ēdúctīs* valvī́sque probā́tis.",
+      "Ā.D. ā N.Ē.: Quīnque grádibus dextrṓrsum, dēscēnsiṓnem últimam íncipe, sēscéntīs pédibus per minū́tam... duṓbus grádibus sinistrṓrsum; dēscēnsiṓne óptimā.",
+      "N.Ē. ab Ā.D.: Ō.C. (ómnia corrḗcta) (Appúlsus) platḗam cōnspíciō.",
+      "Ā.D. ā N.Ē.: Vīsū appélle, platḗa lī́bera est!"
     ],
     "english": [
       "[This is] (this one is) the aeroplane «Alpha Delta» calling New York airport! How do you [read me] (hear)?",
@@ -93,7 +121,8 @@
   "sources": [
     {
       "after": 13,
-      "latin": "E Pii XIIi, litteris encyclicis Miranda Prorsus.",
+      "latin": "Ē Piī XIIī, litterīs encyclīcīs Mīrandā Prōrsus.",
+      "latinAccented": "Ē Piī XÍIī, lítterīs encyclī́cīs Mīrándā Prōrsus.",
       "english": "(From Pius XII, encyclical letter Miranda Prorsus. This passage is also found in Textes latins modernes, by J. Delannoy (O.C.D.L., Paris). The original texts of the encyclicals are published by the Vatican.)"
     }
   ]

@@ -4,20 +4,32 @@
     "title": "Lectio quadragesima quarta",
     "subtitle": {
       "latin": "Docilis discipulus",
+      "latinAccented": "Dócilis discípulus",
       "english": "The diligent pupil"
     },
     "revision": false
   },
   "latin": [
-    "Magister in tabula scribit: «Dum lupus currit ad agnum, hic fugit ab<sup>1</sup> illo.»",
-    "Marcelle, interrogat, quem designat «hic» et quem «ille»<sup>2</sup>?",
-    "«Hic» est agnus, quia propior<sup>3</sup> est, «ille» est lupus, quia remotior<sup>4</sup> est.",
-    "Bene! Hodie vespere<sup>5</sup> aliquid sponte tua scribes<sup>6</sup> in quo eamdem regulam serves<sup>7</sup>.",
-    "Die sequenti Marcellus pensum magistro porrigit<sup>8</sup>.",
-    "Haec legit magister: «Mane papilionem frater meus arripuit<sup>9</sup>. Hic pulcherrimas<sup>10</sup> alas habet. Ille birota profectus est<sup>11</sup>.»",
-    "Marcelle! Numquid<sup>12</sup> fratri sunt alae pulcherrimae? Numquid papilio birota profectus est? Regulam non observavisti<sup>13</sup>.",
-    "Contra, magister! Regulam observavi, nam hic papilio, quem in ipsa<sup>14</sup> tabula in qua scribebam fibula<sup>15</sup> fixi<sup>16</sup>, propior me<sup>17</sup> erat...",
-    "birota autem frater ille jam longe a me erat."
+    "Magister in tabulā scrībit: «Dum lupus currit ad agnum, hic fugit ab<sup>1</sup> illō.»",
+    "Mārcelle, interrogat, quem dēsignat «hic» et quem «ille»<sup>2</sup>?",
+    "«Hic» est agnus, quia propior<sup>3</sup> est, «ille» est lupus, quia remōtior<sup>4</sup> est.",
+    "Bene! Hodiē vespere<sup>5</sup> aliquid sponte tuā scrībēs<sup>6</sup> in quō eamdem rēgulam servēs<sup>7</sup>.",
+    "Dīē sequentī Mārcellus pēnsum magistrō porrigit<sup>8</sup>.",
+    "Haec legit magister: «Māne pāpiliōnem frāter meus arripuit<sup>9</sup>. Hic pulcherrimās<sup>10</sup> ālās habet. Ille birotā profectus est<sup>11</sup>.»",
+    "Mārcelle! Numquid<sup>12</sup> frātrī sunt ālae pulcherrimae? Numquid pāpiliō birotā profectus est? Rēgulam nōn observāvistī<sup>13</sup>.",
+    "Contrā, magister! Rēgulam observāvī, nam hic pāpiliō, quem in ipsā<sup>14</sup> tabulā in quā scrībēbam fībulā<sup>15</sup> fīxī<sup>16</sup>, propior mē<sup>17</sup> erat...",
+    "birota autem frāter ille jam longē ā mē erat."
+  ],
+  "latinAccented": [
+    "Magíster in tábulā scrībit: «Dum lupus currit ad agnum, hic fugit ab<sup>1</sup> illō.»",
+    "Mārcélle, intérrogat, quem dēsígnat «hic» et quem «ille»<sup>2</sup>?",
+    "«Hic» est agnus, quia própior<sup>3</sup> est, «ille» est lupus, quia remṓtior<sup>4</sup> est.",
+    "Bene! Hódiē véspere<sup>5</sup> áliquid sponte tuā scrībēs<sup>6</sup> in quō eámdem rḗgulam servēs<sup>7</sup>.",
+    "Dīē sequéntī Mārcéllus pēnsum magístrō pórrigit<sup>8</sup>.",
+    "Haec legit magíster: «Māne pāpiliṓnem frāter meus arrípuit<sup>9</sup>. Hic pulchérrimās<sup>10</sup> ālās habet. Ille bírotā proféctus est<sup>11</sup>.»",
+    "Mārcélle! Numquid<sup>12</sup> frātrī sunt ālae pulchérrimae? Numquid pāpíliō bírotā proféctus est? Rḗgulam nōn observāvístī<sup>13</sup>.",
+    "Contrā, magíster! Rḗgulam observā́vī, nam hic pāpíliō, quem in ipsā<sup>14</sup> tábulā in quā scrībḗbam fī́bulā<sup>15</sup> fīxī<sup>16</sup>, própior mē<sup>17</sup> erat...",
+    "bírota autem frāter ille jam longē ā mē erat."
   ],
   "english": [
     "The teacher writes on the blackboard: “While the wolf runs towards the lamb, the latter flees from the former.”",
@@ -56,15 +68,26 @@
   },
   "exercises": {
     "latin": [
-      "A quibus conficiuntur tabulae in quibus magistri scribunt?",
-      "A lignariis conficiuntur; sicut mensae, supellex, variaque lignea.",
-      "Hae tabulae, quae sunt ligneae, multo differunt a tabulis multiplicatoriis, quae in papyro sunt scriptae.",
-      "Videsne maritum cum nupta? Haec stola alba induta est, ille tristis videtur.",
-      "Victor calceos suos ipse polit; mater ejus ancillae personam sustinere non vult.",
-      "Victor matri suae scribebat; ejus litteras mater accipiebat.",
-      "Marcellus se non erravisse credebat.",
-      "Postquam a magistro Marcellus interrogatus est, se erravisse intellexit.",
-      "Postquam eum interrogavit, magister dixit Marcellum regulam non observavisse."
+      "Ā quibus cōnficiuntur tabulae in quibus magistrī scrībunt?",
+      "Ā lignāriīs cōnficiuntur; sīcut mēnsae, supellex, variaque lignea.",
+      "Hae tabulae, quae sunt ligneae, multō differunt ā tabulīs multiplicatōriīs, quae in papȳrō sunt scrīptae.",
+      "Vidēsne marītum cum nūptā? Haec stola alba indūta est, ille trīstis vidētur.",
+      "Victor calceōs suōs ipse polit; māter ejus ancillae persōnam sustinēre nōn vult.",
+      "Victor mātrī suae scrībēbat; ejus litterās māter accipiēbat.",
+      "Mārcellus sē nōn errāvisse crēdēbat.",
+      "Postquam ā magistrō Mārcellus interrogātus est, sē errāvisse intellēxit.",
+      "Postquam eum interrogāvit, magister dīxit Mārcellum rēgulam nōn observāvisse."
+    ],
+    "latinAccented": [
+      "Ā quibus cōnficiúntur tábulae in quibus magístrī scrībunt?",
+      "Ā lignā́riīs cōnficiúntur; sīcut mēnsae, supéllex, variáque lígnea.",
+      "Hae tábulae, quae sunt lígneae, multō dífferunt ā tábulīs multiplicatṓriīs, quae in papȳ́rō sunt scrīptae.",
+      "Vidḗsne marī́tum cum nūptā? Haec stola alba indū́ta est, ille trīstis vidḗtur.",
+      "Victor cálceōs suōs ipse polit; māter ejus ancíllae persṓnam sustinḗre nōn vult.",
+      "Victor mātrī suae scrībḗbat; ejus lítterās māter accipiḗbat.",
+      "Mārcéllus sē nōn errāvísse crēdḗbat.",
+      "Postquam ā magístrō Mārcéllus interrogā́tus est, sē errāvísse intellḗxit.",
+      "Postquam eum interrogā́vit, magíster dīxit Mārcéllum rḗgulam nōn observāvísse."
     ],
     "english": [
       "By whom are the blackboards on which the teachers write made?",
@@ -82,7 +105,8 @@
   "sources": [
     {
       "after": 9,
-      "latin": "E Vita Latina, Gregorius Joseph, nov. 1963.",
+      "latin": "Ē Vīta Latīna, Gregorius Joseph, nov. 1963.",
+      "latinAccented": "Ē Vīta Latī́na, Gregórius Joseph, nov. 1963.",
       "english": "(From Vita Latina, Grégoire Joseph, November 1963.)"
     }
   ]

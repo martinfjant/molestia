@@ -3,26 +3,43 @@
     "lesson": 73,
     "title": "Lectio septuagesima tertia",
     "subtitle": {
-      "latin": "Regulus (sequitur)",
+      "latin": "Rēgulus (sequitur)",
+      "latinAccented": "Rḗgulus (séquitur)",
       "english": "The Little Prince (continued)"
     },
     "revision": false
   },
   "latin": [
-    "Regulus. — Isto modo tu quoque de caelo venis? In qua stella erranti natus es<sup>1</sup>?",
-    "Antonius. — Ergo tu, de stella alia venis?",
-    "Ille autem non respondit: nam leviter renuens<sup>2</sup> machinam meam intuebatur<sup>3</sup>.",
-    "Reg. — Enimvero ista machina e locis non valde longinquis advehi potuisti*...",
-    "Regulus ex Antonio multa percontatus est quae, propter loci inopiam, omittere debuimus. De peregrinationibus ejus astronauticis aliquantula excerpere maluimus*.",
-    "... Cum ille ad stellulas 325, 326, 327, 328, 329, 330 (prononcez trecentesimam vicesimam quintam, etc... trecentesimam tricesimam) propius accessisset, eas visere instituit ut et occupationem quaereret et doctrina se exornare posset<sup>4</sup>.",
-    "Primam rex incolebat. Sedebat rex purpura pellibusque muris pontici<sup>5</sup> indutus, in solio<sup>6</sup> simplicissime facto, sed tamen magnifico.",
-    "Rex. — Attat! Ecce parens qui mihi paret<sup>7</sup>.",
-    "Regulus. — Quomodo me agnoscere<sup>8</sup> potest*, quoniam<sup>9</sup> me nunquam vidit?",
-    "Rex. — Accede propius ut te melius adspiciam...",
-    "Reg. — O, Rex, quae imperio<sup>10</sup> regis?",
-    "Rex, simplicissime. — Universa.",
-    "Reg. — Stellaene tibi parent?",
-    "Rex. — Sane quidem, et statim parent; neglegi jussa mea<sup>11</sup> non patior."
+    "Rēgulus. — Istō modo tū quoque dē caelō venīs? In quā stēllā errantī nātus es<sup>1</sup>?",
+    "Antōnius. — Ergō tū, dē stēllā aliā venīs?",
+    "Ille autem nōn respondit: nam leviter renuēns<sup>2</sup> māchinam meam intuēbātur<sup>3</sup>.",
+    "Reg. — Enimvērō ista māchinā ē locīs nōn valdē longinquīs advehī potuistī*...",
+    "Rēgulus ex Antōniō multa percontātus est quae, propter locī inopiam, omittere dēbuimus. Dē peregrīnātiōnibus ejus astronautīcīs aliquantula excerpere māluimus*.",
+    "... Cum ille ad stellulās 325, 326, 327, 328, 329, 330 (prononcez trecentēsimam vīcēsimam quīntam, etc... trecentēsimam trīcēsimam) propius accessisset, eās vīsere īnstituit ut et occupātiōnem quaereret et doctrīnā sē exōrnāre posset<sup>4</sup>.",
+    "Prīmam rēx incolēbat. Sedēbat rēx purpurā pellibusque mūris ponticī<sup>5</sup> indūtus, in soliō<sup>6</sup> simplicissimē factō, sed tamen magnificō.",
+    "Rēx. — Attat! Ecce parēns quī mihi pāret<sup>7</sup>.",
+    "Rēgulus. — Quōmodo mē agnōscere<sup>8</sup> potest*, quoniam<sup>9</sup> mē nunquam vīdit?",
+    "Rēx. — Accēde propius ut tē melius adspiciam...",
+    "Reg. — Ō, Rēx, quae imperiō<sup>10</sup> rēgis?",
+    "Rēx, simplicissimē. — Ūniversa.",
+    "Reg. — Stēllaene tibi pārent?",
+    "Rēx. — Sānē quidem, et statim pārent; neglegī jussa mea<sup>11</sup> nōn patior."
+  ],
+  "latinAccented": [
+    "Rḗgulus. — Istō modo tū quoque dē caelō venīs? In quā stēllā errántī nātus es<sup>1</sup>?",
+    "Antṓnius. — Ergō tū, dē stēllā áliā venīs?",
+    "Ille autem nōn respóndit: nam léviter rénuēns<sup>2</sup> mā́chinam meam intuēbā́tur<sup>3</sup>.",
+    "Reg. — Enimvḗrō ista mā́chinā ē locīs nōn valdē longínquīs ádvehī potuístī*...",
+    "Rḗgulus ex Antṓniō multa percontā́tus est quae, propter locī inópiam, omíttere dēbúimus. Dē peregrīnātiṓnibus ejus astronautī́cīs aliquántula excérpere mālúimus*.",
+    "... Cum ille ad stéllulās 325, 326, 327, 328, 329, 330 (pronóncez trecentḗsimam vīcḗsimam quīntam, etc... trecentḗsimam trīcḗsimam) própius accessísset, eās vī́sere īnstítuit ut et occupātiṓnem quáereret et doctrī́nā sē exōrnā́re posset<sup>4</sup>.",
+    "Prīmam rēx incolḗbat. Sedḗbat rēx púrpurā pellibúsque mūris pónticī<sup>5</sup> indū́tus, in sóliō<sup>6</sup> simplicíssimē factō, sed tamen magníficō.",
+    "Rēx. — Attat! Ecce parēns quī mihi pāret<sup>7</sup>.",
+    "Rḗgulus. — Quṓmodo mē agnṓscere<sup>8</sup> potest*, quóniam<sup>9</sup> mē nunquam vīdit?",
+    "Rēx. — Accḗde própius ut tē mélius adspíciam...",
+    "Reg. — Ō, Rēx, quae impériō<sup>10</sup> rēgis?",
+    "Rēx, simplicíssimē. — Ūnivérsa.",
+    "Reg. — Stēlláene tibi pārent?",
+    "Rēx. — Sānē quidem, et statim pārent; néglegī jussa mea<sup>11</sup> nōn pátior."
   ],
   "english": [
     "The little prince. — [So] (in this way), you too come from the sky? [On] which [planet] (wandering star) were you born?",
@@ -62,18 +79,32 @@
   },
   "exercises": {
     "latin": [
-      "Quis hunc libellum proposuit?",
-      "Primum sine eum legam!",
-      "Aediles monent: heri post mercatum in foro boario inventa sunt;",
-      "anulus videlicet aureus; pileus laneus; crepida tritissima;",
-      "ebrius quidam oblitus nominis sui;",
-      "asinus vinctus ad columnam (fortasse ebrii, sed neuter loquitur);",
-      "culter rubiginosus; pupa lignea;",
-      "volumen philosophicum plenum intiborum;",
-      "canis flavus sine cauda;",
-      "infans nudus in acervo foliorum brassicarum.",
-      "Haec omnia repetenda sunt a scribis rerum inventarum.",
-      "Respondet ad quaestionem tuam ultima sententia: scriba quidam libellum proposuit."
+      "Quis hunc libellum prōposuit?",
+      "Prīmum sine eum legam!",
+      "Aedīlēs monent: heri post mercātum in forō boāriō inventa sunt;",
+      "ānulus vidēlicet aureus; pileus lāneus; crepida trītissima;",
+      "ēbrius quīdam oblītus nōminis suī;",
+      "asinus vīnctus ad columnam (fortasse ēbriī, sed neuter loquitur);",
+      "culter rūbīginōsus; pūpa lignea;",
+      "volūmen philosophicum plēnum intibōrum;",
+      "canis flāvus sine caudā;",
+      "infāns nūdus in acervō foliōrum brassicārum.",
+      "Haec omnia repetenda sunt ā scrībīs rērum inventārum.",
+      "Respondet ad quaestiōnem tuam ultima sententia: scrība quīdam libellum prōposuit."
+    ],
+    "latinAccented": [
+      "Quis hunc libéllum prōpósuit?",
+      "Prīmum sine eum legam!",
+      "Aedī́lēs monent: heri post mercā́tum in forō boā́riō invénta sunt;",
+      "ā́nulus vidḗlicet áureus; píleus lā́neus; crépida trītíssima;",
+      "ḗbrius quīdam oblī́tus nṓminis suī;",
+      "ásinus vīnctus ad colúmnam (fortásse ḗbriī, sed néuter lóquitur);",
+      "culter rūbīginṓsus; pūpa lígnea;",
+      "volū́men philosóphicum plēnum intibṓrum;",
+      "canis flāvus sine caudā;",
+      "infāns nūdus in acérvō foliṓrum brassicā́rum.",
+      "Haec ómnia repeténda sunt ā scrībīs rērum inventā́rum.",
+      "Respóndet ad quaestiṓnem tuam última senténtia: scrība quīdam libéllum prōpósuit."
     ],
     "english": [
       "Who put up this notice?",
@@ -94,7 +125,8 @@
   "sources": [
     {
       "after": 14,
-      "latin": "Ibidem.",
+      "latin": "Ibīdem.",
+      "latinAccented": "Ibī́dem.",
       "english": "(Same work.)"
     }
   ]

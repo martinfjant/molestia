@@ -3,23 +3,37 @@
     "lesson": 53,
     "title": "Lectio quinquagesima tertia",
     "subtitle": {
-      "latin": "Methodum naturalem laudavit",
+      "latin": "Methodum nātūrālem laudāvit",
+      "latinAccented": "Méthodum nātūrā́lem laudā́vit",
       "english": "He praised the natural method"
     },
     "revision": false
   },
   "latin": [
-    "In lectione superiore<sup>1</sup> vidistis virum doctum, non solum ad suam linguam discendam methodis naturalibus puerum nescium usum esse...",
-    "sed etiam<sup>2</sup> hominem factum has methodos conscium laudavisse.",
-    "Linguam graecam jam puer amavisset, si discos quibus illam sine molestia discere potuisset in promptu habuisset<sup>3</sup>.",
-    "Aurelius Augustinus quarto saeculo aetatis nostrae vivebat<sup>4</sup>.",
-    "Juvenis rhetoricam docuerat. Senior<sup>5</sup> episcopus Hipponis, in Numidia, creatus est<sup>6</sup>.",
-    "Praecipua ejus<sup>7</sup> opera sunt Confessiones, unde sententias superiores excerpsimus, et libri de Civitate Dei.",
-    "Ejus scribendi genus quamquam purae latinitatis est, a nobis satis facile legitur, itaque ab eo incepimus.",
-    "Non tamen semper facillimus est, saepe enim problemata difficilia proponit.",
-    "Deinde auctores recentiores videbimus, antequam cum veteribus nonnullis consuetudinem jungamus.",
-    "Quae excerpta<sup>8</sup> cum lectionibus consuetis, varietatis causa<sup>9</sup>, miscebimus<sup>10</sup>.",
-    "Nondum enim de vita cottidiana sententias verbaque satis multa didicimus."
+    "In lēctiōne superiōre<sup>1</sup> vīdistis virum doctum, nōn sōlum ad suam linguam discendam methodīs nātūrālibus puerum nescium ūsum esse...",
+    "sed etiam<sup>2</sup> hominem factum hās methodōs cōnscium laudāvisse.",
+    "Linguam graecam jam puer amāvisset, sī discōs quibus illam sine molestiā discere potuisset in prōmptū habuisset<sup>3</sup>.",
+    "Aurēlius Augustīnus quārtō saeculō aetātis nostrae vīvēbat<sup>4</sup>.",
+    "Juvenis rhētoricam docuerat. Senior<sup>5</sup> epīscopus Hippōnis, in Numidiā, creātus est<sup>6</sup>.",
+    "Praecipua ejus<sup>7</sup> opera sunt Cōnfessiōnēs, unde sententiās superiōrēs excerpsimus, et librī dē Cīvitāte Deī.",
+    "Ejus scrībendī genus quamquam pūrae latīnitātis est, ā nōbīs satis facile legitur, itaque ab eō incēpimus.",
+    "Nōn tamen semper facillimus est, saepe enim problēmata difficilia prōpōnit.",
+    "Deinde auctōrēs recentiōrēs vidēbimus, antequam cum veteribus nōnnūllīs cōnsuētūdinem jungāmus.",
+    "Quae excerpta<sup>8</sup> cum lēctiōnibus cōnsuētīs, varietātis causā<sup>9</sup>, miscēbimus<sup>10</sup>.",
+    "Nōndum enim dē vītā cottīdiānā sententiās verbaque satis multa didicimus."
+  ],
+  "latinAccented": [
+    "In lēctiṓne superiṓre<sup>1</sup> vīdístis virum doctum, nōn sōlum ad suam linguam discéndam méthodīs nātūrā́libus púerum néscium ūsum esse...",
+    "sed étiam<sup>2</sup> hóminem factum hās méthodōs cṓnscium laudāvísse.",
+    "Linguam graecam jam puer amāvísset, sī discōs quibus illam sine moléstiā díscere potuísset in prōmptū habuísset<sup>3</sup>.",
+    "Aurḗlius Augustī́nus quārtō sáeculō aetā́tis nostrae vīvḗbat<sup>4</sup>.",
+    "Júvenis rhētóricam docúerat. Sénior<sup>5</sup> epī́scopus Hippṓnis, in Numídiā, creā́tus est<sup>6</sup>.",
+    "Praecípua ejus<sup>7</sup> ópera sunt Cōnfessiṓnēs, unde senténtiās superiṓrēs excérpsimus, et librī dē Cīvitā́te Deī.",
+    "Ejus scrībéndī genus quamquam pūrae latīnitā́tis est, ā nōbīs satis fácile légitur, ítaque ab eō incḗpimus.",
+    "Nōn tamen semper facíllimus est, saepe enim problḗmata difficília prōpṓnit.",
+    "Deínde auctṓrēs recentiṓrēs vidḗbimus, ántequam cum vetéribus nōnnū́llīs cōnsuētū́dinem jungā́mus.",
+    "Quae excérpta<sup>8</sup> cum lēctiṓnibus cōnsuḗtīs, varietā́tis causā<sup>9</sup>, miscḗbimus<sup>10</sup>.",
+    "Nōndum enim dē vītā cottīdiā́nā senténtiās verbáque satis multa didícimus."
   ],
   "english": [
     "In the [previous] (higher) lesson you saw [that] a learned man not only [had used] natural methods unconsciously when he was a child (not knowing) to learn his own language...",
@@ -54,15 +68,26 @@
   },
   "exercises": {
     "latin": [
-      "Salve! Quid agis?",
-      "Non bene me habeo.",
-      "Quid mali est tibi?",
-      "Capite laboro.",
-      "Capite laboras? Nonne ferias habuisti Januario mense?",
-      "Nullas habui, sed si habuissem, libenter in montes profecta essem.",
-      "In montes? Equidem Bergintri, in Alpibus, octo dierum ferias egi.",
-      "Quid ibi fecisti?",
-      "Montes scandi et per nives narta lapsa sum."
+      "Salvē! Quid agis?",
+      "Nōn bene mē habeō.",
+      "Quid malī est tibi?",
+      "Capite labōrō.",
+      "Capite labōrās? Nōnne fēriās habuistī Jānuāriō mēnse?",
+      "Nūllās habuī, sed sī habuissem, libenter in montēs profecta essem.",
+      "In montēs? Equidem Bergintrī, in Alpibus, octo diērum fēriās ēgī.",
+      "Quid ibi fēcistī?",
+      "Montēs scandī et per nivēs narta lāpsa sum."
+    ],
+    "latinAccented": [
+      "Salvē! Quid agis?",
+      "Nōn bene mē hábeō.",
+      "Quid malī est tibi?",
+      "Cápite labṓrō.",
+      "Cápite labṓrās? Nōnne fḗriās habuístī Jānuā́riō mēnse?",
+      "Nūllās hábuī, sed sī habuíssem, libénter in montēs profécta essem.",
+      "In montēs? Équidem Bergíntrī, in Álpibus, octo diḗrum fḗriās ēgī.",
+      "Quid ibi fēcístī?",
+      "Montēs scandī et per nivēs narta lāpsa sum."
     ],
     "english": [
       "Hello! [How are you] (what are you doing)?",

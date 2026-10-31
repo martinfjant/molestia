@@ -3,28 +3,47 @@
     "lesson": 92,
     "title": "Lectio nonagesima altera",
     "subtitle": {
-      "latin": "Vasa escaria lavi",
+      "latin": "Vāsa ēscāria lāvī",
+      "latinAccented": "Vāsa ēscā́ria lāvī",
       "english": "I washed the dishes"
     },
     "revision": false
   },
   "latin": [
-    "Inquilinus qui plures jam abhinc menses habitationis mercedem non solverat<sup>1</sup>,",
-    "erum adiit* eique difficultates suas nummarias tanta eloquentia explanavit,",
-    "ut ille se benevolentissimum ostenderit et dimidiam partem de mercede se libenter detracturum promiserit<sup>2</sup>.",
-    "— At ego, inquit* debitor, nolo* a te benevolentia vinci<sup>3</sup>.",
-    "Itaque alteram dimidiam partem libentissime detraham.",
-    "Viator quidam, cum nondum navigavisset unquam<sup>4</sup>, in navem ascendens tremorem difficulter reprimebat<sup>5</sup>.",
-    "Ut se confirmaret, nautam interrogavit num hujuscemodi naves saepe naufragio<sup>6</sup> mergerentur.",
-    "Nauta autem: «Nequaquam saepe, sed semel tantum!».",
-    "Mater, postquam obsonata<sup>7</sup> domum redierat* liberos interrogavit num recte egissent.",
-    "Qui pueri laude<sup>8</sup> dignissimi responderunt.",
-    "Primus. — Ego vasa escaria<sup>9</sup> lavi<sup>10</sup>. Alter. — Ego autem ea abstersi. Ultimus. — Ego vero fragmenta<sup>11</sup> collegi et glutine<sup>12</sup> piscario conglutinavi.",
-    "Vir ejusque conjux in magna taberna varia emunt sibi necessaria.",
-    "Sed turba magis magisque affluente, alter ab altera prorsus<sup>13</sup> separantur, neque ullo modo vir uxorem reperire potest* neque uxor virum.",
-    "Quem conturbatum interrogat venditrix<sup>14</sup>: «Quid quaeris, Domne?».",
-    "Ille, suspirans. — Uxorem amisi!",
-    "Statim venditrix, imperturbata. — Vestimenta funebria<sup>15</sup> in superiore tabulato, a dextera parte!"
+    "Inquilīnus quī plūrēs jam abhinc mēnsēs habitātiōnis mercēdem nōn solverat<sup>1</sup>,",
+    "erum adiit* eīque difficultātēs suās nummāriās tanta ēloquentia explānāvit,",
+    "ut ille sē benevolentissimum ostenderit et dīmidiam partem dē mercēde sē libenter dētractūrum prōmīserit<sup>2</sup>.",
+    "— At ego, inquit* dēbitor, nōlō* ā tē benevolentiā vincī<sup>3</sup>.",
+    "Itaque alteram dīmidiam partem libentissimē dētraham.",
+    "Viātor quīdam, cum nōndum nāvigāvisset unquam<sup>4</sup>, in nāvem ascendēns tremōrem difficulter reprimēbat<sup>5</sup>.",
+    "Ut sē cōnfirmāret, nautam interrogāvit num hujuscemodī nāvēs saepe naufragiō<sup>6</sup> mergerentur.",
+    "Nauta autem: «Nēquāquam saepe, sed semel tantum!».",
+    "Māter, postquam obsōnāta<sup>7</sup> domum redierat* līberōs interrogāvit num rēctē ēgissent.",
+    "Quī puerī laude<sup>8</sup> dignissimī respondērunt.",
+    "Prīmus. — Ego vāsa ēscāria<sup>9</sup> lāvī<sup>10</sup>. Alter. — Ego autem eā abstersī. Ultimus. — Ego vērō fragmenta<sup>11</sup> collēgī et glūtine<sup>12</sup> piscāriō conglūtināvī.",
+    "Vir ejusque conjux in magnā tabernā varia emunt sibi necessāria.",
+    "Sed turba magis magisque affluente, alter ab alterā prōrsus<sup>13</sup> sēparantur, neque ūllō modō vir uxōrem reperīre potest* neque uxor virum.",
+    "Quem conturbātum interrogat vēnditrīx<sup>14</sup>: «Quid quaeris, Domne?».",
+    "Ille, suspīrāns. — Uxōrem āmīsī!",
+    "Statim vēnditrīx, imperturbāta. — Vestīmenta fūnebria<sup>15</sup> in superiōre tabulātō, ā dexterā parte!"
+  ],
+  "latinAccented": [
+    "Inquilī́nus quī plūrēs jam abhinc mēnsēs habitātiṓnis mercḗdem nōn sólverat<sup>1</sup>,",
+    "erum ádiit* eī́que difficultā́tēs suās nummā́riās tanta ēloquéntia explānā́vit,",
+    "ut ille sē benevolentíssimum osténderit et dīmídiam partem dē mercḗde sē libénter dētractū́rum prōmī́serit<sup>2</sup>.",
+    "— At ego, inquit* dḗbitor, nōlō* ā tē benevoléntiā vincī<sup>3</sup>.",
+    "Ítaque álteram dīmídiam partem libentíssimē dḗtraham.",
+    "Viā́tor quīdam, cum nōndum nāvigāvísset unquam<sup>4</sup>, in nāvem ascéndēns tremṓrem difficúlter reprimḗbat<sup>5</sup>.",
+    "Ut sē cōnfirmā́ret, nautam interrogā́vit num hujuscémodī nāvēs saepe naufrágiō<sup>6</sup> mergeréntur.",
+    "Nauta autem: «Nēquā́quam saepe, sed semel tantum!».",
+    "Māter, postquam obsōnā́ta<sup>7</sup> domum redíerat* lī́berōs interrogā́vit num rēctē ēgíssent.",
+    "Quī púerī laude<sup>8</sup> digníssimī respondḗrunt.",
+    "Prīmus. — Ego vāsa ēscā́ria<sup>9</sup> lāvī<sup>10</sup>. Alter. — Ego autem eā abstérsī. Últimus. — Ego vērō fragménta<sup>11</sup> collḗgī et glū́tine<sup>12</sup> piscā́riō conglūtinā́vī.",
+    "Vir ejúsque conjux in magnā tabérnā vária emunt sibi necessā́ria.",
+    "Sed turba magis magísque affluénte, alter ab álterā prōrsus<sup>13</sup> sēparántur, neque ūllō modō vir uxṓrem reperī́re potest* neque uxor virum.",
+    "Quem conturbā́tum intérrogat vḗnditrīx<sup>14</sup>: «Quid quaeris, Domne?».",
+    "Ille, suspī́rāns. — Uxṓrem āmī́sī!",
+    "Statim vḗnditrīx, imperturbā́ta. — Vestīménta fūnébria<sup>15</sup> in superiṓre tabulā́tō, ā déxterā parte!"
   ],
   "english": [
     "A tenant who [for] several months [already] had not paid his [rent] (wage of the dwelling),",
@@ -70,19 +89,34 @@
   },
   "exercises": {
     "latin": [
-      "Quid accidit? Quem fragorem audivimus?",
-      "Ancilla lavando vasa escaria fregit.",
-      "Catinorum fictilium strues e manibus ejus lapsa decidit.",
-      "Nihil aliud est faciendum quam fragmenta verrere et ea in purgamenta rejicere.",
-      "Nunc quomodo mensam sternam? Quid in manteli apponam? Num vasa castrensia exponam?",
-      "Hospitibus nostris in vasis castrensibus cibos praebere non decet*.",
-      "Potius vasa appone quae Ludovicus avunculus matrimonii nostri tempore nobis donavit.",
-      "Johanna! Noli* hos botulos in ista atra sartagine porrigere! Lances in abaco non desunt*.",
-      "Vae! Lux nos deficit.",
-      "Cessant opifices electrici.",
-      "Ubi sunt candelae? Da mihi sulphuratorum capsulam!",
-      "Euge! Antiquo illuminandi modo epulabimur.",
-      "Mel meum, ne tali modo vociferata sis! Parietes aures habent."
+      "Quid accidit? Quem fragōrem audīvimus?",
+      "Ancilla lavandō vāsa ēscāria frēgit.",
+      "Catīnōrum fictilium struēs ē manibus ejus lāpsa dēcidit.",
+      "Nihil aliud est faciendum quam fragmenta verrere et ea in pūrgāmenta rejicere.",
+      "Nunc quōmodo mēnsam sternam? Quid in mantēlī appōnam? Num vāsa castrēnsia expōnam?",
+      "Hospitibus nostrīs in vāsīs castrēnsibus cibōs praebēre nōn decet*.",
+      "Potius vāsa appōne quae Ludovicus avunculus mātrimōniī nostrī tempore nōbīs dōnāvit.",
+      "Johannā! Nōlī* hōs botulōs in istā ātrā sartāgine porrigere! Lancēs in abacō nōn dēsunt*.",
+      "Vae! Lūx nōs dēficit.",
+      "Cessant opificēs ēlēctrīcī.",
+      "Ubi sunt candēlae? Dā mihi sulphuratorum capsulam!",
+      "Eugē! Antīquō illūminandī modo epulābimur.",
+      "Mel meum, nē tālī modo vōciferāta sīs! Parietēs aurēs habent."
+    ],
+    "latinAccented": [
+      "Quid áccidit? Quem fragṓrem audī́vimus?",
+      "Ancílla lavándō vāsa ēscā́ria frēgit.",
+      "Catīnṓrum fictílium struēs ē mánibus ejus lāpsa dḗcidit.",
+      "Nihil áliud est faciéndum quam fragménta vérrere et ea in pūrgāménta rejícere.",
+      "Nunc quṓmodo mēnsam sternam? Quid in mantḗlī appṓnam? Num vāsa castrḗnsia expṓnam?",
+      "Hospítibus nostrīs in vāsīs castrḗnsibus cibōs praebḗre nōn decet*.",
+      "Pótius vāsa appṓne quae Ludóvicus avúnculus mātrimṓniī nostrī témpore nōbīs dōnā́vit.",
+      "Johánnā! Nōlī* hōs bótulōs in istā ātrā sartā́gine porrígere! Lancēs in ábacō nōn dēsunt*.",
+      "Vae! Lūx nōs dḗficit.",
+      "Cessant opíficēs ēlēctrī́cī.",
+      "Ubi sunt candḗlae? Dā mihi sulphurátorum cápsulam!",
+      "Éugē! Antī́quō illūminándī modo epulā́bimur.",
+      "Mel meum, nē tālī modo vōciferā́ta sīs! Paríetēs aurēs habent."
     ],
     "english": [
       "What is happening (bad)? What crash did we hear?",
@@ -104,7 +138,8 @@
   "sources": [
     {
       "after": 16,
-      "latin": "E Vita Latina (maj. 1961, A. Rodot).",
+      "latin": "Ē Vīta Latīna (maj. 1961, Ā. Rodot).",
+      "latinAccented": "Ē Vīta Latī́na (maj. 1961, Ā. Rodot).",
       "english": "(From Vita Latina (May 1961, A. Rodot).)"
     }
   ]

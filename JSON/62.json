@@ -3,22 +3,35 @@
     "lesson": 62,
     "title": "Lectio sexagesima altera",
     "subtitle": {
-      "latin": "Ultimum votum",
+      "latin": "Ultimum vōtum",
+      "latinAccented": "Últimum vōtum",
       "english": "The last wish"
     },
     "revision": false
   },
   "latin": [
-    "Nec rhumii pocillum<sup>1</sup> nec hispanicam accipere vis?",
-    "Sed age, forsitan<sup>2</sup> tibi sit in votis aliud quid<sup>3</sup>, aiebat magistratus cuidam condemnato, quinque minutis ante supplicium ejus.",
-    "Nempe, Domne Judex<sup>4</sup>, is respondit, a pueritia tota semper mente<sup>5</sup> linguam hebraicam discere optavi!",
-    "Diarium<sup>6</sup> cujusdam civitatis, cum<sup>7</sup> hunc matrimonialem libellum publicavisset:",
-    "«Villici<sup>8</sup> filia, 30 annos nata, formoso<sup>9</sup> corpore, dulcissima natura, multa sperans, recentissimamque villam possidens<sup>10</sup>, adulescenti nubere cupit, etc.»",
-    "Rescripsit quidam: «Speratorum indicem<sup>11</sup> mitte, villaeque imaginem<sup>12</sup> photographicam».",
-    "Autoraedarius quidam, cum, albis alis ornatus, Sanctum Petrum adiret<sup>13</sup>, a paradisi janitore quidnam sibi accidisset<sup>14</sup> interrogatus, ita respondit:",
-    "Quid acciderit non intellego: paucas vix<sup>15</sup> abhinc minutas cum uxore autoraedam beatus regebam<sup>16</sup>...",
+    "Nec rhumīī pōcillum<sup>1</sup> nec hispānicam accipere vīs?",
+    "Sed age, forsitan<sup>2</sup> tibi sit in vōtīs aliud quid<sup>3</sup>, aiēbat magistrātus cuidam condemnātō, quīnque minūtīs ante supplicium ejus.",
+    "Nempe, Domne Jūdex<sup>4</sup>, is respondit, ā pueritiā tōtā semper mente<sup>5</sup> linguam hebraicam discere optāvī!",
+    "Diārium<sup>6</sup> cujusdam cīvitātis, cum<sup>7</sup> hunc mātrimōniālem libellum pūblicāvisset:",
+    "«Villicī<sup>8</sup> fīlia, 30 annōs nāta, fōrmōsō<sup>9</sup> corpore, dulcissimā nātūrā, multa spērāns, recentissimamque vīllam possidēns<sup>10</sup>, adulēscentī nūbere cupit, etc.»",
+    "Rescrīpsit quīdam: «Spērātōrum indicem<sup>11</sup> mitte, vīllaeque imāginem<sup>12</sup> photographicam».",
+    "Autoraedārius quīdam, cum, albīs ālīs ōrnātus, Sānctum Petrum adīret<sup>13</sup>, ā paradīsī jānitōre quidnam sibi accidisset<sup>14</sup> interrogātus, ita respondit:",
+    "Quid acciderit nōn intellegō: paucās vix<sup>15</sup> abhinc minūtās cum uxōre autoraedam beātus regēbam<sup>16</sup>...",
     "Ejus ultima verba tantum recordor:",
-    "«Si gubernaculum<sup>17</sup> mihi commodare velis, angelus vere sis!»"
+    "«Sī gubernāculum<sup>17</sup> mihi commodāre velīs, angelus vērē sīs!»"
+  ],
+  "latinAccented": [
+    "Nec rhumī́ī pōcíllum<sup>1</sup> nec hispā́nicam accípere vīs?",
+    "Sed age, fórsitan<sup>2</sup> tibi sit in vōtīs áliud quid<sup>3</sup>, aiḗbat magistrā́tus cúidam condemnā́tō, quīnque minū́tīs ante supplícium ejus.",
+    "Nempe, Domne Jūdex<sup>4</sup>, is respóndit, ā puerítiā tōtā semper mente<sup>5</sup> linguam hebráicam díscere optā́vī!",
+    "Diā́rium<sup>6</sup> cujúsdam cīvitā́tis, cum<sup>7</sup> hunc mātrimōniā́lem libéllum pūblicāvísset:",
+    "«Víllicī<sup>8</sup> fī́lia, 30 annōs nāta, fōrmṓsō<sup>9</sup> córpore, dulcíssimā nātū́rā, multa spērāns, recentissimámque vīllam póssidēns<sup>10</sup>, adulēscéntī nū́bere cupit, etc.»",
+    "Rescrī́psit quīdam: «Spērātṓrum índicem<sup>11</sup> mitte, vīlláeque imā́ginem<sup>12</sup> photográphicam».",
+    "Autoraedā́rius quīdam, cum, albīs ālīs ōrnā́tus, Sānctum Petrum adī́ret<sup>13</sup>, ā paradī́sī jānitṓre quidnam sibi accidísset<sup>14</sup> interrogā́tus, ita respóndit:",
+    "Quid accíderit nōn intéllegō: paucās vix<sup>15</sup> abhinc minū́tās cum uxṓre autoráedam beā́tus regḗbam<sup>16</sup>...",
+    "Ejus última verba tantum recórdor:",
+    "«Sī gubernā́culum<sup>17</sup> mihi commodā́re velīs, ángelus vērē sīs!»"
   ],
   "english": [
     "You don't want [to take] a little glass of rum or a cigarette?",
@@ -65,18 +78,29 @@
   "song": {
     "kind": "Carmen",
     "title": {
-      "latin": "Gaudeamus igitur (concluditur)",
+      "latin": "Gaudeāmus igitur (conclūditur)",
+      "latinAccented": "Gaudeā́mus ígitur (conclū́ditur)",
       "english": "Let us rejoice, then (end)"
     },
     "latin": [
-      "Vivant omnes virgines, faciles, formosae! (bis)",
-      "Vivant et mulieres",
-      "Tenerae, amabiles",
-      "Bonae, laboriosae! (bis)",
-      "Vivat et res publica, et qui illam regit! (bis)",
-      "Vivat nostra civitas!",
-      "Maecenatum caritas",
-      "Quae nos hic protegit! (bis)"
+      "Vīvant omnēs virginēs, facilēs, fōrmōsae! (bis)",
+      "Vīvant et mulierēs",
+      "Tenerae, amābilēs",
+      "Bonae, labōriōsae! (bis)",
+      "Vīvat et rēs pūblica, et quī illam regit! (bis)",
+      "Vīvat nostra cīvitās!",
+      "Maecēnātum cāritās",
+      "Quae nōs hīc prōtegit! (bis)"
+    ],
+    "latinAccented": [
+      "Vīvant omnēs vírginēs, fácilēs, fōrmṓsae! (bis)",
+      "Vīvant et mulíerēs",
+      "Ténerae, amā́bilēs",
+      "Bonae, labōriṓsae! (bis)",
+      "Vīvat et rēs pū́blica, et quī illam regit! (bis)",
+      "Vīvat nostra cī́vitās!",
+      "Maecēnā́tum cā́ritās",
+      "Quae nōs hīc prṓtegit! (bis)"
     ],
     "english": [
       "Long live all the girls, playful and beautiful!",
@@ -93,7 +117,8 @@
   "sources": [
     {
       "after": 10,
-      "latin": "E Vita Latina (n° 5, sept. 1958, auctore G. Cotton).",
+      "latin": "Ē Vīta Latīna (n° 5, sept. 1958, auctōre G. Cottōn).",
+      "latinAccented": "Ē Vīta Latī́na (n° 5, sept. 1958, auctṓre G. Cottōn).",
       "english": "(From Vita Latina (no. 5, Sept. 1958, author G. Cotton).)"
     }
   ]

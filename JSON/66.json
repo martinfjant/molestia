@@ -4,19 +4,30 @@
     "title": "Lectio sexagesima sexta",
     "subtitle": {
       "latin": "Microscopium",
+      "latinAccented": "Microscópium",
       "english": "The microscope"
     },
     "revision": false
   },
   "latin": [
-    "Microscopii vi, in pulice<sup>1</sup>, musca, vermiculis, accurata corporis figura et lineamenta<sup>2</sup>...",
-    "necnon<sup>3</sup> colores et motus prius non conspicui, non sine admiratione cernuntur<sup>4</sup>.",
-    "Quin etiam<sup>5</sup>, aiunt, lineam rectam, calamo vel penicillo descriptam, per hujusmodi<sup>6</sup> microscopium inaequalem admodum et tortuosam cerni.",
-    "Etiam superstitiosam quamdam interpretationem in hac re (ut fit in rebus novis aut miris) addiderunt homines...",
-    "videlicet hujusmodi microscopia opera naturae illustrare, artis dehonestare.",
-    "Illud vero nihil aliud est quam<sup>7</sup> quod<sup>8</sup> texturae naturales multo<sup>9</sup> sint subtiliores quam artificiosae...",
-    "Quod perspicillum si vidisset Democritus, exsiluisset forsitan,",
-    "et modum videndi atomum (quam ille invisibilem omnino affirmavit) inventum esse putasset<sup>10</sup>."
+    "Microscopiī vī, in pūlice<sup>1</sup>, muscā, vermiculīs, accūrāta corporis figūra et līneāmenta<sup>2</sup>...",
+    "necnōn<sup>3</sup> colōrēs et mōtūs prius nōn cōnspicuī, nōn sine admīrātiōne cernuntur<sup>4</sup>.",
+    "Quīn etiam<sup>5</sup>, aiunt, līneam rēctam, calamō vel pēnicillō dēscrīptam, per hujusmodī<sup>6</sup> microscopium inaequālem admodum et tortuōsam cernī.",
+    "Etiam superstitiōsam quamdam interpretātiōnem in hāc rē (ut fit in rēbus novīs aut mīrīs) addidērunt hominēs...",
+    "vidēlicet hujusmodī microscopia opera nātūrae illūstrāre, artīs dehonestāre.",
+    "Illud vērō nihil aliud est quam<sup>7</sup> quod<sup>8</sup> textūrae nātūrālēs multō<sup>9</sup> sint subtīliōrēs quam artificiōsae...",
+    "Quod perspicillum sī vīdisset Dēmocritus, exsiluisset forsitan,",
+    "et modum videndī atomum (quam ille invīsibilem omnīnō affirmāvit) inventum esse putāsset<sup>10</sup>."
+  ],
+  "latinAccented": [
+    "Microscópiī vī, in pū́lice<sup>1</sup>, muscā, vermículīs, accūrā́ta córporis figū́ra et līneāménta<sup>2</sup>...",
+    "necnōn<sup>3</sup> colṓrēs et mōtūs prius nōn cōnspícuī, nōn sine admīrātiṓne cernúntur<sup>4</sup>.",
+    "Quīn étiam<sup>5</sup>, áiunt, lī́neam rēctam, cálamō vel pēnicíllō dēscrī́ptam, per hujúsmodī<sup>6</sup> microscópium inaequā́lem ádmodum et tortuṓsam cernī.",
+    "Étiam superstitiṓsam quamdam interpretātiṓnem in hāc rē (ut fit in rēbus novīs aut mīrīs) addidḗrunt hóminēs...",
+    "vidḗlicet hujúsmodī microscópia ópera nātū́rae illūstrā́re, artīs dehonestā́re.",
+    "Illud vērō nihil áliud est quam<sup>7</sup> quod<sup>8</sup> textū́rae nātūrā́lēs multō<sup>9</sup> sint subtīliṓrēs quam artificiṓsae...",
+    "Quod perspicíllum sī vīdísset Dēmócritus, exsiluísset fórsitan,",
+    "et modum vidéndī átomum (quam ille invīsíbilem omnī́nō affirmā́vit) invéntum esse putā́sset<sup>10</sup>."
   ],
   "english": [
     "[Thanks to the] microscope (by force of the), on a flea, a fly, small worms, the exact shape of the body and the details...",
@@ -51,18 +62,32 @@
   },
   "exercises": {
     "latin": [
-      "Quis fuit Democritus?",
-      "Fuit philosophus graecus qui quinto saeculo ante aetatem nostram vixit.",
-      "Materiam ex atomis constare arbitrabatur.",
-      "Atomi quales sunt?",
-      "Hoc nomen graece res insecabiles, id est quae secari non possunt, significat.",
-      "Ergo omnis materia e partibus insecabilibus, velut granis, constat?",
-      "Nonnullas habemus rationes cur ita credamus.",
-      "Attamen grana materiae quae saeculi praeteriti homines docti atomos vocabant...",
-      "nunc a saeculi nostri doctis in plures partes dividuntur...",
-      "scilicet in nucleum et electrones qui circum nucleum circumagi dicuntur.",
-      "Nucleus ipse nunc in partes dividitur...",
-      "Claudite jam rivos, pueri, sat prata biberunt!"
+      "Quis fuit Dēmocritus?",
+      "Fuit philosophus graecus quī quīntō saeculō ante aetātem nostram vīxit.",
+      "Māteriam ex atomīs cōnstāre arbitrābātur.",
+      "Atomī quālēs sunt?",
+      "Hoc nōmen graece rēs insecābilēs, id est quae secārī nōn possunt, significat.",
+      "Ergō omnis māteria ē partibus insecābilibus, velut grānīs, cōnstat?",
+      "Nōnnūllās habēmus ratiōnēs cūr ita crēdāmus.",
+      "Attamen grāna māteriae quae saeculī praeteritī hominēs doctī atomōs vocābant...",
+      "nunc ā saeculī nostrī doctīs in plūrēs partēs dīviduntur...",
+      "scīlicet in nucleum et electrōnēs quī circum nucleum circumagī dīcuntur.",
+      "Nucleus ipse nunc in partēs dīviditur...",
+      "Claudite jam rīvōs, puerī, sat prāta bibērunt!"
+    ],
+    "latinAccented": [
+      "Quis fuit Dēmócritus?",
+      "Fuit philósophus graecus quī quīntō sáeculō ante aetā́tem nostram vīxit.",
+      "Mātériam ex átomīs cōnstā́re arbitrābā́tur.",
+      "Átomī quālēs sunt?",
+      "Hoc nōmen graece rēs insecā́bilēs, id est quae secā́rī nōn possunt, signíficat.",
+      "Ergō omnis mātéria ē pártibus insecābílibus, velut grānīs, cōnstat?",
+      "Nōnnū́llās habḗmus ratiṓnēs cūr ita crēdā́mus.",
+      "Áttamen grāna mātériae quae sáeculī praetéritī hóminēs doctī átomōs vocā́bant...",
+      "nunc ā sáeculī nostrī doctīs in plūrēs partēs dīvidúntur...",
+      "scī́licet in núcleum et electrṓnēs quī circum núcleum circúmagī dīcúntur.",
+      "Núcleus ipse nunc in partēs dīvíditur...",
+      "Cláudite jam rīvōs, púerī, sat prāta bibḗrunt!"
     ],
     "english": [
       "Who was Democritus?",
@@ -83,7 +108,8 @@
   "sources": [
     {
       "after": 8,
-      "latin": "E Francisci Bacon Novo Organo.",
+      "latin": "Ē Franciscī Bācon Novō Organō.",
+      "latinAccented": "Ē Francíscī Bācon Novō Órganō.",
       "english": "(From the Novum organum of Francis Bacon. The original text, as well as some other extracts by F. Bacon, can be found in Textes latins modernes, by J. Delannoy (O.C.D.L., ed.).)"
     }
   ]

@@ -3,26 +3,43 @@
     "lesson": 89,
     "title": "Lectio undenonagesima",
     "subtitle": {
-      "latin": "Nostris navibus casus est timendus",
+      "latin": "Nostrīs nāvibus cāsus est timendus",
+      "latinAccented": "Nostrīs nā́vibus cāsus est timéndus",
       "english": "Our ships run a great risk"
     },
     "revision": false
   },
   "latin": [
-    "Caesar naves longas<sup>1</sup> aedificari in flumine Ligere quod influit in Oceanum, remiges<sup>2</sup> ex provincia<sup>3</sup> institui, nautas gubernatoresque comparari<sup>4</sup> jubet...",
-    "Namque hostium naves ad hunc modum factae armataeque erant:",
-    "Carinae aliquanto planiores quam nostrarum navium, quo facilius vada<sup>5</sup> ac decessum aestus<sup>6</sup> excipere possent*;",
-    "Prorae admodum erectae atque item puppes ad magnitudinem fluctuum<sup>7</sup> tempestatumque accommodatae;",
-    "naves totae factae ex robore ad quamvis vim et contumeliam<sup>8</sup> perferendam*;",
-    "transtra<sup>9</sup> ex pedalibus in altitudinem trabibus<sup>10</sup> confixa clavis ferreis digiti pollicis crassitudine<sup>11</sup>;",
-    "ancorae, pro funibus, ferreis catenis revinctae<sup>12</sup>;",
-    "pelles pro velis... sive propter lini inopiam<sup>13</sup>, sive eo (quod est magis veri simile),",
-    "quod tantas tempestates oceani, tantosque impetus ventorum sustineri ac tanta onera navium regi velis non satis commode posse* arbitrabantur.",
-    "Nostra classis una celeritate et pulsu remorum praestabat;",
-    "reliqua, pro loci natura, pro vi tempestatum, illis erant aptiora et accommodatiora.",
-    "Neque enim his nostrae rostro<sup>14</sup> nocere poterant*, tanta in iis erat firmitudo, neque propter altitudinem facile telum adigebatur, et eadem de causa minus commode copulis<sup>15</sup> continebantur.",
-    "Tempestates facilius ferebant* et in vadis consistebant tutius<sup>16</sup> et ab aestu relictae nihil saxa et cotes<sup>17</sup> timebant;",
-    "quarum rerum omnium nostris navibus casus erat extimescendus<sup>18</sup>."
+    "Caesar nāvēs longās<sup>1</sup> aedificārī in flūmine Ligere quod īnfluit in Ōceanum, rēmigēs<sup>2</sup> ex prōvinciā<sup>3</sup> īnstituī, nautās gubernātōrēsque comparārī<sup>4</sup> jubet...",
+    "Namque hostium nāvēs ad hunc modum factae armātaeque erant:",
+    "Carīnae aliquantō plāniōrēs quam nostrārum nāvium, quō facilius vada<sup>5</sup> ac dēcessum aestūs<sup>6</sup> excipere possent*;",
+    "Prōrae admodum ērēctae atque item puppēs ad magnitūdinem flūctuum<sup>7</sup> tempestātumque accommodātae;",
+    "nāvēs tōtae factae ex rōbore ad quamvīs vim et contumēliam<sup>8</sup> perferendam*;",
+    "trānstra<sup>9</sup> ex pedālibus in altitūdinem trabibus<sup>10</sup> cōnfīxa clāvīs ferreīs digitī pollicis crassitūdine<sup>11</sup>;",
+    "ancorae, prō fūnibus, ferreīs catēnīs revīnctae<sup>12</sup>;",
+    "pellēs prō vēlīs... sīve propter līnī inopiam<sup>13</sup>, sīve eō (quod est magis vērī simile),",
+    "quod tantās tempestātēs ōceanī, tantōsque impetūs ventōrum sustinērī ac tanta onera nāvium regī vēlīs nōn satis commodē posse* arbitrābantur.",
+    "Nostra classis ūnā celeritāte et pulsū rēmōrum praestābat;",
+    "reliqua, prō locī nātūra, prō vī tempestātum, illīs erant aptiōra et accommodātiōra.",
+    "Neque enim hīs nostrae rōstrō<sup>14</sup> nocēre poterant*, tanta in iīs erat firmitūdō, neque propter altitūdinem facile tēlum adigēbātur, et eadem dē causā minus commodē cōpulīs<sup>15</sup> continēbantur.",
+    "Tempestātēs facilius ferēbant* et in vadīs cōnsistēbant tūtius<sup>16</sup> et ab aestū relictae nihil saxa et cōtēs<sup>17</sup> timēbant;",
+    "quārum rērum omnium nostrīs nāvibus cāsus erat extimēscendus<sup>18</sup>."
+  ],
+  "latinAccented": [
+    "Caesar nāvēs longās<sup>1</sup> aedificā́rī in flū́mine Lígere quod ī́nfluit in Ōcéanum, rḗmigēs<sup>2</sup> ex prōvínciā<sup>3</sup> īnstítuī, nautās gubernātōrḗsque comparā́rī<sup>4</sup> jubet...",
+    "Namque hóstium nāvēs ad hunc modum factae armātáeque erant:",
+    "Carī́nae aliquántō plāniṓrēs quam nostrā́rum nā́vium, quō facílius vada<sup>5</sup> ac dēcéssum aestūs<sup>6</sup> excípere possent*;",
+    "Prōrae ádmodum ērḗctae atque item puppēs ad magnitū́dinem flū́ctuum<sup>7</sup> tempestātúmque accommodā́tae;",
+    "nāvēs tōtae factae ex rṓbore ad quamvīs vim et contumḗliam<sup>8</sup> perferéndam*;",
+    "trānstra<sup>9</sup> ex pedā́libus in altitū́dinem trábibus<sup>10</sup> cōnfī́xa clāvīs férreīs dígitī póllicis crassitū́dine<sup>11</sup>;",
+    "áncorae, prō fū́nibus, férreīs catḗnīs revī́nctae<sup>12</sup>;",
+    "pellēs prō vēlīs... sīve propter līnī inópiam<sup>13</sup>, sīve eō (quod est magis vērī símile),",
+    "quod tantās tempestā́tēs ōcéanī, tantṓsque ímpetūs ventṓrum sustinḗrī ac tanta ónera nā́vium regī vēlīs nōn satis cómmodē posse* arbitrābántur.",
+    "Nostra classis ūnā celeritā́te et pulsū rēmṓrum praestā́bat;",
+    "réliqua, prō locī nātū́ra, prō vī tempestā́tum, illīs erant aptiṓra et accommodātiṓra.",
+    "Neque enim hīs nostrae rōstrō<sup>14</sup> nocḗre póterant*, tanta in iīs erat firmitū́dō, neque propter altitū́dinem fácile tēlum adigēbā́tur, et éadem dē causā minus cómmodē cṓpulīs<sup>15</sup> continēbántur.",
+    "Tempestā́tēs facílius ferḗbant* et in vadīs cōnsistḗbant tū́tius<sup>16</sup> et ab aestū relíctae nihil saxa et cōtēs<sup>17</sup> timḗbant;",
+    "quārum rērum ómnium nostrīs nā́vibus cāsus erat extimēscéndus<sup>18</sup>."
   ],
   "english": [
     "Caesar [orders that] warships (long [ships]) be built on the Loire, a river which flows into the Ocean, [that] rowers [come] from the province (be formed); [that] sailors and pilots be procured...",
@@ -69,16 +86,28 @@
   },
   "exercises": {
     "latin": [
-      "Potesne mihi auxilium ferre? Cymbarum certamini, quod hodie futurum est, interesse* cupio, sed collega egeo.",
-      "Consuetus enim mihi collega tertium diem aegrotat.",
-      "Sed artis nauticae ego non sum peritus!",
-      "Nihil timueris! Gubernabo ego et velum majus moderabor.",
-      "Tu autem velum anterius rudente prout te jussero contrahes aut laxabis.",
-      "Rudens quid est? — Est quod vulgus funem vocat, sed funem qui ad vela contrahenda vel laxanda usurpatur.",
-      "Scias oportet* instrumenta in navibus plurima esse, quae nauticarum rerum ignorantibus similia videntur, nomina tamen peculiaria habent.",
-      "Qua de causa nautae linguam vulgarem ita implicaverunt?",
-      "Quia verba quibus navarchus, quae nautis administranda sunt, imperat, brevia nec ambigua esse debent...",
-      "Ancoram solvite! Vela pandite! Velum majus semel artius subnectite! Gubernator! Vento quam maxime adverso cursum tene!"
+      "Pōtēsne mihi auxilium ferre? Cymbārum certāminī, quod hodiē futūrum est, interesse* cupiō, sed collēgā egeō.",
+      "Cōnsuētus enim mihi collēga tertium diem aegrōtat.",
+      "Sed artis nauticae ego nōn sum perītus!",
+      "Nihil timuerīs! Gubernābō ego et vēlum majus moderābor.",
+      "Tū autem vēlum anterius rudente prout tē jusserō contrahēs aut laxābis.",
+      "Rudēns quid est? — Est quod vulgus fūnem vocat, sed fūnem quī ad vēla contrahenda vel laxanda ūsūrpātur.",
+      "Sciās oportet* īnstrūmenta in nāvibus plūrima esse, quae nauticārum rērum ignōrantibus similia videntur, nōmina tamen pecūliāria habent.",
+      "Quā dē causā nautae linguam vulgārem ita implicāvērunt?",
+      "Quia verba quibus nāvarchus, quae nautīs administranda sunt, imperat, brevia nec ambigua esse dēbent...",
+      "Ancoram solvite! Vela pandite! Vēlum majus semel artius subnectite! Gubernātor! Ventō quam maximē adversō cursum tenē!"
+    ],
+    "latinAccented": [
+      "Pōtḗsne mihi auxílium ferre? Cymbā́rum certā́minī, quod hódiē futū́rum est, interésse* cúpiō, sed collḗgā égeō.",
+      "Cōnsuḗtus enim mihi collḗga tértium diem aegrṓtat.",
+      "Sed artis náuticae ego nōn sum perī́tus!",
+      "Nihil timúerīs! Gubernā́bō ego et vēlum majus moderā́bor.",
+      "Tū autem vēlum antérius rudénte prout tē jússerō cóntrahēs aut laxā́bis.",
+      "Rudēns quid est? — Est quod vulgus fūnem vocat, sed fūnem quī ad vēla contrahénda vel laxánda ūsūrpā́tur.",
+      "Sciās opórtet* īnstrūménta in nā́vibus plū́rima esse, quae nauticā́rum rērum ignōrántibus simília vidéntur, nṓmina tamen pecūliā́ria habent.",
+      "Quā dē causā nautae linguam vulgā́rem ita implicāvḗrunt?",
+      "Quia verba quibus nāvárchus, quae nautīs administránda sunt, ímperat, brévia nec ambígua esse dēbent...",
+      "Áncoram sólvite! Vela pándite! Vēlum majus semel ártius subnéctite! Gubernā́tor! Ventō quam máximē advérsō cursum tenē!"
     ],
     "english": [
       "Can you do me a service? I would like to take part in [the regatta] (contest of small boats) which is to take place today, but I lack a crew member.",
@@ -97,7 +126,8 @@
   "sources": [
     {
       "after": 14,
-      "latin": "E Bello Gallico, a Julio Caesare (III, 9... III, 13).",
+      "latin": "Ē Bellō Gallicō, ā Jūliō Caesare (III, 9... III, 13).",
+      "latinAccented": "Ē Bellō Gállicō, ā Jū́liō Cáesare (III, 9... III, 13).",
       "english": "(From the Gallic War by Julius Caesar (III, 9... III, 13).)"
     }
   ]

@@ -3,21 +3,33 @@
     "lesson": 50,
     "title": "Lectio quinquagesima",
     "subtitle": {
-      "latin": "Quid agis hodie?",
+      "latin": "Quid agis hodiē?",
+      "latinAccented": "Quid agis hódiē?",
       "english": "What are you doing today?"
     },
     "revision": false
   },
   "latin": [
-    "Quid agis hodie? Tempestate<sup>1</sup> hac serena jucundum sit domo exire.",
-    "Ludis et athleticis nimis delectaris<sup>2</sup>, studia autem neglegis;",
-    "... incepisti linguam latinam discere, nondum<sup>3</sup> tamen classici auctoris operam<sup>4</sup> ullam<sup>5</sup> legisti.",
-    "Quid ex me quaeris? Primum linguam latinam classicam intellegere non possum; deinde auctores classici taediosi sunt; tum aerem purum desidero<sup>6</sup>.",
-    "Bonitate<sup>7</sup> aeris puri excepta<sup>8</sup>, aliquantulum<sup>9</sup> erras: scripta simplicia linguae classicae jam intellegere posses si velles<sup>10</sup>... Ergo, si vis, cras incipiemus...",
-    "ita consuetudinem<sup>11</sup> jungemus cum auctoribus novis et veteribus.",
-    "Placet<sup>12</sup>, si taediosos vitamus: etiam nostra aetate non desunt in omnibus linguis auctores qui intellegi<sup>13</sup> non possunt.",
-    "Nihil timueris! Multi sunt auctores latini omnium generum: quod quaerimus, id haud<sup>14</sup> difficulter inveniemus.",
-    "Tibi confido. Sed primum eamus ambulatum<sup>15</sup>!"
+    "Quid agis hodiē? Tempestāte<sup>1</sup> hāc serēnā jūcundum sit domō exīre.",
+    "Lūdīs et āthlēticīs nimis dēlectāris<sup>2</sup>, studia autem neglegis;",
+    "... incēpistī linguam latīnam discere, nōndum<sup>3</sup> tamen classicī auctōris operam<sup>4</sup> ūllam<sup>5</sup> lēgistī.",
+    "Quid ex mē quaeris? Prīmum linguam latīnam classicam intellegere nōn possum; deinde auctōrēs classicī taediōsī sunt; tum āerem pūrum dēsīderō<sup>6</sup>.",
+    "Bonitāte<sup>7</sup> āeris pūrī exceptā<sup>8</sup>, aliquantulum<sup>9</sup> errās: scrīpta simplicia linguae classicae jam intellegere possēs sī vellēs<sup>10</sup>... Ergō, sī vīs, crās incipiēmus...",
+    "ita cōnsuētūdinem<sup>11</sup> jungēmus cum auctōribus novīs et veteribus.",
+    "Placet<sup>12</sup>, sī taediōsōs vītāmus: etiam nostrā aetāte nōn dēsunt in omnibus linguīs auctōrēs quī intellegī<sup>13</sup> nōn possunt.",
+    "Nihil timuerīs! Multī sunt auctōrēs latīnī omnium generum: quod quaerimus, id haud<sup>14</sup> difficulter inveniēmus.",
+    "Tibi cōnfīdō. Sed prīmum eāmus ambulātum<sup>15</sup>!"
+  ],
+  "latinAccented": [
+    "Quid agis hódiē? Tempestā́te<sup>1</sup> hāc serḗnā jūcúndum sit domō exī́re.",
+    "Lūdīs et āthlḗticīs nimis dēlectā́ris<sup>2</sup>, stúdia autem néglegis;",
+    "... incēpístī linguam latī́nam díscere, nōndum<sup>3</sup> tamen clássicī auctṓris óperam<sup>4</sup> ūllam<sup>5</sup> lēgístī.",
+    "Quid ex mē quaeris? Prīmum linguam latī́nam clássicam intellégere nōn possum; deínde auctṓrēs clássicī taediṓsī sunt; tum āerem pūrum dēsī́derō<sup>6</sup>.",
+    "Bonitā́te<sup>7</sup> āeris pūrī excéptā<sup>8</sup>, aliquántulum<sup>9</sup> errās: scrīpta simplícia linguae clássicae jam intellégere possēs sī vellēs<sup>10</sup>... Ergō, sī vīs, crās incipiḗmus...",
+    "ita cōnsuētū́dinem<sup>11</sup> jungḗmus cum auctṓribus novīs et vetéribus.",
+    "Placet<sup>12</sup>, sī taediṓsōs vītā́mus: étiam nostrā aetā́te nōn dēsunt in ómnibus linguīs auctṓrēs quī intéllegī<sup>13</sup> nōn possunt.",
+    "Nihil timúerīs! Multī sunt auctṓrēs latī́nī ómnium génerum: quod quáerimus, id haud<sup>14</sup> difficúlter inveniḗmus.",
+    "Tibi cōnfī́dō. Sed prīmum eā́mus ambulā́tum<sup>15</sup>!"
   ],
   "english": [
     "What are you doing today? In this [fine] (serene) weather it would be pleasant to go out of the house.",
@@ -56,13 +68,23 @@
   "exercises": {
     "latin": [
       "Ubi est Johannellus?",
-      "Folle ludit cum aequalibus.",
-      "Mavult ludere quam laborare. Mavult ludum quam laborem. Ludum labori praefert.",
-      "Melius est ludere cum tempestas serena est et litteris studere cum pluit.",
-      "Si tempestas serena esset, tecum folle libenter luderem.",
-      "Placetne tibi ludus follis?",
-      "Placet, sed hodie pluit lapidibus: librum legere malo.",
-      "In bibliothecam intremus! Ecce liber quem nunquam legisti!"
+      "Folle lūdit cum aequālibus.",
+      "Māvult lūdere quam labōrāre. Māvult lūdum quam labōrem. Lūdum labōrī praefert.",
+      "Mēlius est lūdere cum tempestās serēna est et litterīs studēre cum pluit.",
+      "Sī tempestās serēna esset, tēcum folle libenter lūderem.",
+      "Placetne tibi lūdus follis?",
+      "Placet, sed hodiē pluit lapidibus: librum legere mālō.",
+      "In bibliothēcam intrēmus! Ecce līber quem nunquam lēgistī!"
+    ],
+    "latinAccented": [
+      "Ubi est Johannéllus?",
+      "Folle lūdit cum aequā́libus.",
+      "Māvult lū́dere quam labōrā́re. Māvult lūdum quam labṓrem. Lūdum labṓrī praefert.",
+      "Mḗlius est lū́dere cum tempéstās serḗna est et lítterīs studḗre cum pluit.",
+      "Sī tempéstās serḗna esset, tēcum folle libénter lū́derem.",
+      "Placétne tibi lūdus follis?",
+      "Placet, sed hódiē pluit lapídibus: librum légere mālō.",
+      "In bibliothḗcam intrḗmus! Ecce līber quem nunquam lēgístī!"
     ],
     "english": [
       "Where is little John?",

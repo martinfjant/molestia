@@ -3,22 +3,35 @@
     "lesson": 60,
     "title": "Lectio sexagesima",
     "subtitle": {
-      "latin": "Lingua latina apothecaria",
+      "latin": "Lingua latīnā apothecāria",
+      "latinAccented": "Lingua latī́nā apothecā́ria",
       "english": "Apothecary's Latin"
     },
     "revision": false
   },
   "latin": [
-    "Pharmacopolae, antequam<sup>1</sup> munere suo fungi possent, jusjurandum olim dare debebant. Ecce exemplar hujus juris jurandi<sup>2</sup>:",
-    "«... habebunt pondera vera et justa a libra<sup>3</sup> usque ad scrupulum.",
-    "Non ponent in suis clisteribus<sup>4</sup> aliquam medicinam cujus virtus<sup>5</sup> sit exhalata vel corrupta<sup>6</sup>.",
-    "Non ponent unam medicinam pro alia in aliqua recepta<sup>7</sup>...",
-    "et si herbam vel medicinam in recepta positam non habeant, referent magistro ordinanti ut circa<sup>8</sup> hoc provideat.",
-    "Non dabunt nec permittent dari scienter aliquod<sup>9</sup> clisterium nec aliquod aliud medicabile...",
-    "nisi ad hoc habeant receptam ab aliquo magistro specialiter ordinatam.",
-    "Non recipient clericum<sup>10</sup> nisi sciat intellegere, loqui et scribere latinum et gallicum<sup>11</sup>...",
-    "et antequam ipsum recipiant, tenebitur jurare omnia praedicta juramenta.",
-    "Parisiis, die 2° mensis octobris, anno 1422°.»"
+    "Pharmacopōlae, antequam<sup>1</sup> mūnere suō fungī possent, jūsjūrandum ōlim dare dēbēbant. Ecce exemplar hujus jūris jūrandī<sup>2</sup>:",
+    "«... habēbunt pondera vēra et jūsta ā lībrā<sup>3</sup> usque ad scrūpulum.",
+    "Nōn pōnent in suīs clisteribus<sup>4</sup> aliquam medicīnam cujus virtūs<sup>5</sup> sit exhālāta vel corrupta<sup>6</sup>.",
+    "Nōn pōnent ūnam medicīnam prō aliā in aliquā receptā<sup>7</sup>...",
+    "et sī herbam vel medicīnam in recepta positam nōn habeant, referent magistrō ōrdinantī ut circā<sup>8</sup> hōc prōvideat.",
+    "Nōn dabunt nec permittent darī scienter aliquod<sup>9</sup> clistērium nec aliquod aliud medicābile...",
+    "nisi ad hōc habeant receptam ab aliquō magistrō speciāliter ōrdinātam.",
+    "Nōn recipient clēricum<sup>10</sup> nisi sciat intellegere, loquī et scrībere latīnum et gallicum<sup>11</sup>...",
+    "et antequam ipsum recipiant, tenēbitur jūrāre omnia praedicta jūrāmenta.",
+    "Parīsiīs, diē 2° mēnsis octōbris, annō 1422°.»"
+  ],
+  "latinAccented": [
+    "Pharmacopṓlae, ántequam<sup>1</sup> mū́nere suō fungī possent, jūsjūrándum ōlim dare dēbḗbant. Ecce exémplar hujus jūris jūrándī<sup>2</sup>:",
+    "«... habḗbunt póndera vēra et jūsta ā lībrā<sup>3</sup> usque ad scrū́pulum.",
+    "Nōn pōnent in suīs clistéribus<sup>4</sup> áliquam medicī́nam cujus virtūs<sup>5</sup> sit exhālā́ta vel corrúpta<sup>6</sup>.",
+    "Nōn pōnent ūnam medicī́nam prō áliā in áliquā recéptā<sup>7</sup>...",
+    "et sī herbam vel medicī́nam in recépta pósitam nōn hábeant, réferent magístrō ōrdinántī ut circā<sup>8</sup> hōc prōvídeat.",
+    "Nōn dabunt nec permíttent darī sciénter áliquod<sup>9</sup> clistḗrium nec áliquod áliud medicā́bile...",
+    "nisi ad hōc hábeant recéptam ab áliquō magístrō speciā́liter ōrdinā́tam.",
+    "Nōn recípient clḗricum<sup>10</sup> nisi sciat intellégere, loquī et scrī́bere latī́num et gállicum<sup>11</sup>...",
+    "et ántequam ipsum recípiant, tenḗbitur jūrā́re ómnia praedícta jūrāménta.",
+    "Parī́siīs, diē 2° mēnsis octṓbris, annō 1422°.»"
   ],
   "english": [
     "Pharmacists, [before being able to carry out] (before they might acquit themselves of) their function, formerly had to take an oath. Here is a reproduction of this oath:",
@@ -53,16 +66,28 @@
   },
   "exercises": {
     "latin": [
-      "Ave, Domne pharmacopola (vel domna pharmacopola), estne tibi remedium ad pituitam curandam aptum?",
-      "Ecce! Guttas decem ex hac ampulla mane, meridie et vespere in nasum instilla!",
-      "Antequam cubitum abeas, pilulas duas ex illa pyxide cum potione calida sorbe.",
-      "Volo unguentum quoque contra solis exustiones.",
-      "Si hoc unguento cutem unxeris, solis exustio nunquam nocebit.",
-      "Ita non arbitror, cutis mea vel minima exustione statim vulneratur.",
-      "Tunc cave solem; noli in arena toto tempore postmeridiano jacere.",
-      "Consilio tuo utar... Dentifricium etiam volo... quid amplius? certus sum me alicujus rei oblitum esse.",
-      "Visne saponem ad barbam radendam?",
-      "Nequaquam! Novacula utor electrica... Eia! Inveni! Peniculum dentarium volo."
+      "Avē, Domne pharmacopōla (vel domna pharmacopōla), estne tibi remedium ad pītuītam cūrandam aptum?",
+      "Ecce! Guttās decem ex hāc ampullā māne, merīdiē et vespere in nāsum īnstillā!",
+      "Antequam cubitum abeās, pilulās duās ex illā pyxide cum pōtiōne calidā sorbe.",
+      "Volō unguentum quoque contrā sōlis exustiōnēs.",
+      "Sī hōc unguentō cutem ūnxerīs, sōlis exustiō nunquam nocēbit.",
+      "Ita nōn arbitror, cutis mea vel minimā exustiōne statim vulnerātur.",
+      "Tunc cave sōlem; nōlī in arēnā tōtō tempore postmerīdiānō jacēre.",
+      "Cōnsiliō tuō ūtar... Dentifricium etiam volō... quid amplius? certus sum mē alicujus reī oblītum esse.",
+      "Vīsne sāpōnem ad barbam rādendam?",
+      "Nēquāquam! Novācula ūtor electrīcā... Ēia! Invenī! Pēniculum dentārium volō."
+    ],
+    "latinAccented": [
+      "Avē, Domne pharmacopṓla (vel domna pharmacopṓla), estne tibi remédium ad pītuī́tam cūrándam aptum?",
+      "Ecce! Guttās decem ex hāc ampúllā māne, merī́diē et véspere in nāsum īnstíllā!",
+      "Ántequam cúbitum ábeās, pílulās duās ex illā pýxide cum pōtiṓne cálidā sorbe.",
+      "Volō unguéntum quoque contrā sōlis exustiṓnēs.",
+      "Sī hōc unguéntō cutem ū́nxerīs, sōlis exústiō nunquam nocḗbit.",
+      "Ita nōn árbitror, cutis mea vel mínimā exustiṓne statim vulnerā́tur.",
+      "Tunc cave sōlem; nōlī in arḗnā tōtō témpore postmerīdiā́nō jacḗre.",
+      "Cōnsíliō tuō ūtar... Dentifrícium étiam volō... quid ámplius? certus sum mē alicújus reī oblī́tum esse.",
+      "Vīsne sāpṓnem ad barbam rādéndam?",
+      "Nēquā́quam! Novā́cula ūtor electrī́cā... Ḗia! Ínvenī! Pēnículum dentā́rium volō."
     ],
     "english": [
       "Hello Mr Pharmacist (or Mrs Pharmacist), do you have a remedy for treating a [head cold] (pituitary)?",

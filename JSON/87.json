@@ -4,26 +4,44 @@
     "title": "Lectio octogesima septima",
     "subtitle": {
       "latin": "Epistula ad Atticum",
+      "latinAccented": "Epístula ad Átticum",
       "english": "Letter to Atticus"
     },
     "revision": false
   },
   "latin": [
-    "Marcus Tullius Cicero Tito Pomponio Attico S.P.D. (salutem plurimam dicit).",
-    "Epistulam cum a te avide exspectarem<sup>1</sup> ad vesperum, ut soleo, ecce nuntius pueros venisse Roma.",
-    "Voco, quaero ecquid<sup>2</sup> litterarum. Negant.",
-    "«Quid ais, inquam, nihilne a Pomponio<sup>3</sup>?»",
-    "Perterriti voce et vultu, confessi sunt<sup>4</sup> se accepisse, sed excidisse<sup>5</sup> in via.",
-    "Quid quaeris? Permoleste tuli: nulla enim abs te per hos dies epistula inanis aliqua re utili et suavi venerat<sup>6</sup>.",
-    "Nunc si quid in ea epistula quam ante diem XVI Kalendas<sup>7</sup> maias (i.e. die 16° mensis Aprilis) dedisti fuit historia dignum<sup>8</sup> scribe quam primum ne<sup>9</sup> ignoremus.",
-    "Sin<sup>10</sup> nihil praeter jocationem, redde id ipsum!...",
-    "Sed cognosce itinera nostra, ut statuas ubi nos visurus sis<sup>11</sup>.",
-    "In Formianum<sup>12</sup> volumus* venire Parilibus<sup>13</sup>; inde Kalendis Majis (= die 1° mensis Maji) de Formiano proficiscemur ut Antii<sup>14</sup> simus a. d. V (ante diem quintum) Nonas Majas. (= 3° die mensis Maji).",
-    "Ludi enim Antii futuri sunt. Eos Tullia<sup>15</sup> spectare vult*.",
-    "Inde cogito in Tusculanum, deinde Arpinum, Romam ad Kal. Junias (= 1° die mensis Junii).",
-    "Te aut in Formiano, aut Antii, aut in Tusculano cura ut videamus.",
-    "Epistulam superiorem restitue nobis et adpinge<sup>16</sup> aliquid novi.",
-    "Scribebam Antii a.d. XV Kal. Mai. anno 695° A.U.C. (ab Urbe condita) (= 17/4/59 ante J.-C. natum)."
+    "Mārcus Tullius Cicerō Titō Pompōniō Atticō S.P.D. (salūtem plūrimam dīcit).",
+    "Epistulam cum ā tē avidē exspectārem<sup>1</sup> ad vesperum, ut soleō, ecce nūntius puerōs vēnisse Rōmā.",
+    "Vocō, quaerō ecquid<sup>2</sup> litterārum. Negant.",
+    "«Quid ais, inquam, nihilne ā Pompōniō<sup>3</sup>?»",
+    "Perterritī vōce et vultū, cōnfessī sunt<sup>4</sup> sē accēpisse, sed excidisse<sup>5</sup> in viā.",
+    "Quid quaeris? Permolestē tulī: nūlla enim abs tē per hōs diēs epistula inānis aliquā rē ūtilī et suāvī vēnerat<sup>6</sup>.",
+    "Nunc sī quid in eā epistulā quam ante diem XVI Kalendās<sup>7</sup> maiās (ī.ē. diē 16° mēnsis Aprīlis) dedistī fuit historia dignum<sup>8</sup> scrībe quam prīmum nē<sup>9</sup> ignōrēmus.",
+    "Sīn<sup>10</sup> nihil praeter jocātiōnem, redde id ipsum!...",
+    "Sed cognōsce itinera nostra, ut statuās ubi nōs vīsūrus sīs<sup>11</sup>.",
+    "In Formiānum<sup>12</sup> volumus* venīre Parilibus<sup>13</sup>; inde Kalendīs Majīs (= diē 1° mēnsis Majī) dē Formiānō proficīscēmur ut Antiī<sup>14</sup> sīmus ā. d. V (ante diem quīntum) Nōnās Majās. (= 3° diē mēnsis Majī).",
+    "Lūdī enim Antiī futūrī sunt. Ēos Tullia<sup>15</sup> spectāre vult*.",
+    "Inde cōgitō in Tusculānum, deinde Arpīnum, Rōmam ad Kal. Juniās (= 1° diē mēnsis Jūniī).",
+    "Tē aut in Formiānō, aut Antiī, aut in Tusculānō cūrā ut videāmus.",
+    "Epistulam superiōrem restitue nōbīs et adpinge<sup>16</sup> aliquid nōvī.",
+    "Scrībēbam Antiī ā.d. XV Kal. Maī. annō 695° Ā.Ū.C. (ab Urbe conditā) (= 17/4/59 ante J.-C. nātum)."
+  ],
+  "latinAccented": [
+    "Mārcus Túllius Cícerō Titō Pompṓniō Átticō S.P.D. (salū́tem plū́rimam dīcit).",
+    "Epístulam cum ā tē ávidē exspectā́rem<sup>1</sup> ad vésperum, ut sóleō, ecce nū́ntius púerōs vēnísse Rōmā.",
+    "Vocō, quaerō ecquid<sup>2</sup> litterā́rum. Negant.",
+    "«Quid ais, inquam, nihílne ā Pompṓniō<sup>3</sup>?»",
+    "Pertérritī vōce et vultū, cōnféssī sunt<sup>4</sup> sē accēpísse, sed excidísse<sup>5</sup> in viā.",
+    "Quid quaeris? Permoléstē tulī: nūlla enim abs tē per hōs diēs epístula inā́nis áliquā rē ū́tilī et suā́vī vḗnerat<sup>6</sup>.",
+    "Nunc sī quid in eā epístulā quam ante diem XVI Kaléndās<sup>7</sup> máiās (ī.ē. diē 16° mēnsis Aprī́lis) dedístī fuit história dignum<sup>8</sup> scrībe quam prīmum nē<sup>9</sup> ignōrḗmus.",
+    "Sīn<sup>10</sup> nihil praeter jocātiṓnem, redde id ipsum!...",
+    "Sed cognṓsce itínera nostra, ut státuās ubi nōs vīsū́rus sīs<sup>11</sup>.",
+    "In Formiā́num<sup>12</sup> vólumus* venī́re Parílibus<sup>13</sup>; inde Kaléndīs Majīs (= diē 1° mēnsis Majī) dē Formiā́nō proficīscḗmur ut Ántiī<sup>14</sup> sīmus ā. d. V (ante diem quīntum) Nōnās Majās. (= 3° diē mēnsis Majī).",
+    "Lūdī enim Ántiī futū́rī sunt. Ēos Túllia<sup>15</sup> spectā́re vult*.",
+    "Inde cṓgitō in Tusculā́num, deínde Arpī́num, Rōmam ad Kal. Júniās (= 1° diē mēnsis Jū́niī).",
+    "Tē aut in Formiā́nō, aut Ántiī, aut in Tusculā́nō cūrā ut videā́mus.",
+    "Epístulam superiṓrem restítue nōbīs et adpínge<sup>16</sup> áliquid nōvī.",
+    "Scrībḗbam Ántiī ā.d. XV Kal. Maī. annō 695° Ā.Ū.C. (ab Urbe cónditā) (= 17/4/59 ante J.-C. nātum)."
   ],
   "english": [
     "M. T. Cicero [sends his best greetings] (gives very much greeting) to Titus Pomponius Atticus.",
@@ -70,16 +88,28 @@
   },
   "exercises": {
     "latin": [
-      "Gai miles! oppidum oppugnando fortiter te gessisti.",
-      "Commeatum 15 dierum habebis. Quo adire* vis*?",
-      "Gratias, Centurio! Nemausum ire* cupio.",
-      "Ludos enim qui Nemausi futuri sunt libentissime spectem.",
-      "Mavis* gladiatorum pugnas spectare quam in hostes ipse irruere!",
-      "Tauromachiis adesse* malo*, vel etiam pilicreporum ludis.",
-      "Quae erit, commeatus tempore, inscriptio tua?",
-      "Apud patruum ero, qui aedes in foro frumentario habet.",
-      "Quotiescumque in difficultate nummaria sum, toties pecuniam mihi commodat.",
-      "Gai miles, nulla est in te gravitas; timeo ne commeatus iste pessime succedat."
+      "Gāī mīles! oppidum oppugnandō fortiter tē gessistī.",
+      "Commeātum 15 diērum habēbis. Quō adīre* vīs*?",
+      "Grātiās, Centuriō! Nemausum īre* cupiō.",
+      "Lūdōs enim quī Nemausī futūrī sunt libentissimē spectem.",
+      "Māvīs* gladiātōrum pugnās spectāre quam in hostēs ipse irruēre!",
+      "Tauromachīīs adesse* mālō*, vel etiam pilīcrepōrum lūdis.",
+      "Quae erit, commeātus tempore, īnscrīptiō tua?",
+      "Apud patruum erō, quī aedēs in forō frūmentāriō habet.",
+      "Quotiēscumque in difficultāte nummāriā sum, totiēs pecūniam mihi commodat.",
+      "Gāī mīles, nūlla est in tē gravitās; timeō nē commeātus iste pessimē succēdat."
+    ],
+    "latinAccented": [
+      "Gāī mīles! óppidum oppugnándō fórtiter tē gessístī.",
+      "Commeā́tum 15 diḗrum habḗbis. Quō adī́re* vīs*?",
+      "Grā́tiās, Centúriō! Nemáusum īre* cúpiō.",
+      "Lūdōs enim quī Nemáusī futū́rī sunt libentíssimē spectem.",
+      "Māvīs* gladiātṓrum pugnās spectā́re quam in hostēs ipse irruḗre!",
+      "Tauromachī́īs adésse* mālō*, vel étiam pilīcrepṓrum lūdis.",
+      "Quae erit, commeā́tus témpore, īnscrī́ptiō tua?",
+      "Apud pátruum erō, quī aedēs in forō frūmentā́riō habet.",
+      "Quotiēscúmque in difficultā́te nummā́riā sum, tótiēs pecū́niam mihi cómmodat.",
+      "Gāī mīles, nūlla est in tē grávitās; tímeō nē commeā́tus iste péssimē succḗdat."
     ],
     "english": [
       "Soldier Gaius! You conducted yourself courageously [in the siege of] (besieging) the stronghold.",
@@ -98,7 +128,8 @@
   "sources": [
     {
       "after": 15,
-      "latin": "E Ciceronis litteris (Att. II, 8).",
+      "latin": "Ē Cicerōnis litterīs (Att. II, 8).",
+      "latinAccented": "Ē Cicerṓnis lítterīs (Att. II, 8).",
       "english": "(From the correspondence of Cicero (Att., II, 8).)"
     }
   ]

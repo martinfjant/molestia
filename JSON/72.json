@@ -3,26 +3,43 @@
     "lesson": 72,
     "title": "Lectio septuagesima altera",
     "subtitle": {
-      "latin": "Regulus",
+      "latin": "Rēgulus",
+      "latinAccented": "Rḗgulus",
       "english": "The Little Prince"
     },
     "revision": false
   },
   "latin": [
-    "In Garamantum<sup>1</sup> solitudine destitutus jacui. Fractum erat aliquid in compagibus<sup>2</sup> illis quae machinam movebant.",
-    "Cum autem nec artificem<sup>3</sup> nec peregrinatores ullos mecum veherem, ita me paravi ut<sup>4</sup> solus id arte reficere conarer.",
-    "Res quidem<sup>5</sup> difficilis erat, sed in discrimen vitae<sup>6</sup> adductus eram.",
-    "Tantum enim aquae habebam quantum<sup>7</sup> ad potum octo dierum satis esset. ...",
-    "... Cum Regulo consuetudinem junxi.",
-    "Tempus multum intercessit<sup>8</sup> priusquam<sup>9</sup> intellegerem unde is veniret.",
-    "Regulus enim, ut ex me multa percontabatur<sup>10</sup>, sic percontantem me audire non videbatur.",
-    "Vocibus fortuito missis omnia paulatim comperi<sup>11</sup>.",
-    "Velut<sup>12</sup>, cum primum volucrem<sup>13</sup> machinam conspexit (quam machinam non describam: forma enim ejus adeo est multiplex ut<sup>14</sup> eam delineare non possim) a me quaesivit<sup>15</sup>:",
-    "Regulus. — Quidnam rei hoc est?",
-    "Antonius. — Haec non res est — volat enim — sed volucris quaedam, mea volucris machina.",
-    "Et superbia efferebar dum<sup>16</sup> eum me volare doceo.",
-    "Reg. — Quid? De caelo delapsus es<sup>17</sup>?",
-    "Ant., summisse. — Ita est."
+    "In Garamantum<sup>1</sup> sōlitūdine dēstitūtus jacuī. Frāctum erat aliquid in compāgibus<sup>2</sup> illīs quae māchinam movēbant.",
+    "Cum autem nec artificem<sup>3</sup> nec peregrīnātōrēs ūllōs mēcum veherem, ita mē parāvī ut<sup>4</sup> sōlus id arte reficere cōnārer.",
+    "Rēs quidem<sup>5</sup> difficilis erat, sed in discrīmen vītae<sup>6</sup> adductus eram.",
+    "Tantum enim aquae habēbam quantum<sup>7</sup> ad pōtum octo diērum satis esset. ...",
+    "... Cum Rēgulō cōnsuētūdinem jūnxī.",
+    "Tempus multum intercessit<sup>8</sup> priusquam<sup>9</sup> intellegerem unde is venīret.",
+    "Rēgulus enim, ut ex mē multa percontābātur<sup>10</sup>, sīc percontantem mē audīre nōn vidēbātur.",
+    "Vōcibus fortuitō missīs omnia paulātim comperī<sup>11</sup>.",
+    "Velut<sup>12</sup>, cum prīmum volucrem<sup>13</sup> māchinam cōnspexit (quam māchinam nōn dēscrībam: fōrma enim ejus adeō est multiplex ut<sup>14</sup> eam dēlīneāre nōn possim) ā mē quaesīvit<sup>15</sup>:",
+    "Rēgulus. — Quidnam reī hoc est?",
+    "Antōnius. — Haec nōn rēs est — volat enim — sed volucris quaedam, mea volucris māchinā.",
+    "Et superbiā efferēbar dum<sup>16</sup> eum mē volāre doceō.",
+    "Reg. — Quid? Dē caelō dēlāpsus es<sup>17</sup>?",
+    "Ant., summissē. — Ita est."
+  ],
+  "latinAccented": [
+    "In Garamántum<sup>1</sup> sōlitū́dine dēstitū́tus jácuī. Frāctum erat áliquid in compā́gibus<sup>2</sup> illīs quae mā́chinam movḗbant.",
+    "Cum autem nec artíficem<sup>3</sup> nec peregrīnātṓrēs ūllōs mēcum véherem, ita mē parā́vī ut<sup>4</sup> sōlus id arte refícere cōnā́rer.",
+    "Rēs quidem<sup>5</sup> diffícilis erat, sed in discrī́men vītae<sup>6</sup> addúctus eram.",
+    "Tantum enim aquae habḗbam quantum<sup>7</sup> ad pōtum octo diḗrum satis esset. ...",
+    "... Cum Rḗgulō cōnsuētū́dinem jūnxī.",
+    "Tempus multum intercéssit<sup>8</sup> priúsquam<sup>9</sup> intellégerem unde is venī́ret.",
+    "Rḗgulus enim, ut ex mē multa percontābā́tur<sup>10</sup>, sīc percontántem mē audī́re nōn vidēbā́tur.",
+    "Vṓcibus fortúitō missīs ómnia paulā́tim cómperī<sup>11</sup>.",
+    "Velut<sup>12</sup>, cum prīmum vólucrem<sup>13</sup> mā́chinam cōnspéxit (quam mā́chinam nōn dēscrī́bam: fōrma enim ejus ádeō est múltiplex ut<sup>14</sup> eam dēlīneā́re nōn possim) ā mē quaesī́vit<sup>15</sup>:",
+    "Rḗgulus. — Quidnam reī hoc est?",
+    "Antṓnius. — Haec nōn rēs est — volat enim — sed vólucris quaedam, mea vólucris mā́chinā.",
+    "Et supérbiā efferḗbar dum<sup>16</sup> eum mē volā́re dóceō.",
+    "Reg. — Quid? Dē caelō dēlā́psus es<sup>17</sup>?",
+    "Ant., summíssē. — Ita est."
   ],
   "english": [
     "I [had broken down] (lay abandoned) in the desert [of the Garamantes] (of the Sahara). Something had broken [in the mechanism] (those organs) which made the machine work.",
@@ -68,18 +85,32 @@
   },
   "exercises": {
     "latin": [
-      "Quomodo aream rectanguli computamus?",
-      "Sufficit mensuram majoris ejus lateris per minoris mensuram multiplicare.",
-      "Bene! Sit, e.g. (exempli gratia) rectangulus quidam metrum unum longus, triginta centimetra latus; quanta erit, dic, area ejus?",
-      "Primum oportet ut haec duo latera una atque eadem longitudinis ratione commetiamur.",
-      "E.g., mihi dicere licet rectangulum tuum decimetra decem longum, tria latum esse.",
-      "Cum ter dena sint triginta, area ejus est decimetra quadrata triginta...",
-      "Equus conducticius facit brevia milia.",
-      "Quid est equus conducticius?",
-      "Is est quem mango tibi pro pecunia commodavit, vel, si vis, quem tu a mangone conduxisti.",
-      "Cur brevia milia?",
-      "Quia eques equum suum proprium amat et bene curat, alienum autem velociter currentem defatigare non dubitat.",
-      "Si ita agit, licet cum equo alieno, pessimus est eques."
+      "Quōmodo āream rectangūlī computāmus?",
+      "Sufficit mēnsūram majōris ejus lateris per minōris mēnsūram multiplicāre.",
+      "Bene! Sit, ē.g. (exemplī grātia) rectangulus quīdam metrum ūnum longus, trīgintā centimetra latus; quanta erit, dīc, āreā ejus?",
+      "Prīmum oportet ut haec duo latera ūna atque eadem longitūdinis ratiōne commētiāmur.",
+      "Ē.g., mihi dīcere licet rectangulum tuum decimetrā decem longum, tria lātum esse.",
+      "Cum ter dēnā sint trīgintā, āreā ejus est decimetra quadrāta trīgintā...",
+      "Equus conductīcius facit brevia mīlia.",
+      "Quid est equus conductīcius?",
+      "Is est quem mangō tibi prō pecūniā commodāvit, vel, sī vīs, quem tū ā mangōne condūxistī.",
+      "Cūr brevia mīlia?",
+      "Quia eques equum suum proprium amat et bene cūrat, aliēnum autem vēlōciter currentem dēfatīgāre nōn dubitat.",
+      "Sī ita agit, licet cum equō aliēnō, pessimus est eques."
+    ],
+    "latinAccented": [
+      "Quṓmodo ā́ream rectangū́lī computā́mus?",
+      "Súfficit mēnsū́ram majṓris ejus láteris per minṓris mēnsū́ram multiplicā́re.",
+      "Bene! Sit, ē.g. (exémplī grā́tia) rectángulus quīdam metrum ūnum longus, trīgíntā centímetra latus; quanta erit, dīc, ā́reā ejus?",
+      "Prīmum opórtet ut haec duo látera ūna atque éadem longitū́dinis ratiṓne commētiā́mur.",
+      "Ē.g., mihi dī́cere licet rectángulum tuum decímetrā decem longum, tria lātum esse.",
+      "Cum ter dēnā sint trīgíntā, ā́reā ejus est decímetra quadrā́ta trīgíntā...",
+      "Equus conductī́cius facit brévia mī́lia.",
+      "Quid est equus conductī́cius?",
+      "Is est quem mangō tibi prō pecū́niā commodā́vit, vel, sī vīs, quem tū ā mangṓne condūxístī.",
+      "Cūr brévia mī́lia?",
+      "Quia eques equum suum próprium amat et bene cūrat, aliḗnum autem vēlṓciter curréntem dēfatīgā́re nōn dúbitat.",
+      "Sī ita agit, licet cum equō aliḗnō, péssimus est eques."
     ],
     "english": [
       "How do we calculate the area of a rectangle?",
@@ -100,7 +131,8 @@
   "sources": [
     {
       "after": 14,
-      "latin": "Ex Antonii a Sancto-Exuperio, Regulo (Fernandus Hazan, Lutetiae Parisiorum, edidit).",
+      "latin": "Ex Antōniī ā Sancto-Exupēriō, Rēgulō (Fernandus Hazan, Lutetiae Parīsiōrum, ēdidit).",
+      "latinAccented": "Ex Antṓniī ā Sancto-Exupḗriō, Rḗgulō (Fernándus Hazan, Lutétiae Parīsiṓrum, ḗdidit).",
       "english": "(From The Little Prince, by Antoine de Saint-Exupéry, translated by Auguste Haury (Fernand Hazan, publisher, Paris).)"
     }
   ]
