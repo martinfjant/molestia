@@ -1,4 +1,17 @@
+import { RenderPlugin } from "@11ty/eleventy";
+
 export default function (eleventyConfig) {
+  // Notes and revisions are Markdown, rendered with Eleventy's own markdown-it
+  // through `renderContent("md")`. A single newline is a line break, as the
+  // book's notes are full of line-by-line examples.
+  eleventyConfig.addPlugin(RenderPlugin);
+  eleventyConfig.amendLibrary("md", (md) => {
+    md.set({ breaks: true });
+    // Wide tables (declensions, conjugations) scroll on their own on narrow screens.
+    md.renderer.rules.table_open = () => '<div class="table-scroll"><table>\n';
+    md.renderer.rules.table_close = () => "</table></div>\n";
+  });
+
   // Rebuild when lesson data changes (it lives outside the input dir).
   eleventyConfig.addWatchTarget("JSON/");
 
@@ -30,10 +43,11 @@ export default function (eleventyConfig) {
       : text
   );
 
-  // Text blocks use blank lines between paragraphs and single newlines within.
-  eleventyConfig.addFilter("paras", (text) =>
-    text.split("\n\n").map((p) => `<p>${p.replaceAll("\n", "<br>")}</p>`).join("\n")
-  );
+  // Previous and next lesson in book order, whatever their kind.
+  eleventyConfig.addFilter("neighbors", (lessons, n) => {
+    const i = lessons.findIndex((l) => l.meta.lesson === n);
+    return { previous: lessons[i - 1], next: lessons[i + 1] };
+  });
 
   return {
     dir: { input: "site", output: "_site" },

@@ -1,0 +1,18 @@
+---js
+{
+  layout: "base.njk",
+  pagination: { data: "lessons", size: 1, alias: "lesson", before: (lessons) => lessons.filter((l) => l.meta.revision) },
+  permalink: "/lectio/{{ lesson.meta.lesson }}/",
+  eleventyComputed: { title: (data) => data.lesson.meta.title },
+}
+---
+{#- Revision lessons: no dialogue, just the book's revision text as Markdown. -#}
+<article>
+<h1>{{ lesson.meta.title }}</h1>
+<section lang="en">
+<p><em>Revision and notes</em></p>
+{{ lesson.content | renderContent("md") | safe }}
+</section>
+</article>
+
+{% include "lesson-nav.njk" %}

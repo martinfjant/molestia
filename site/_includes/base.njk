@@ -25,6 +25,15 @@
     .parallel .sentence { display: flex; gap: 0.5em; }
     .parallel .sentence::before { content: attr(data-n) "."; flex: none; min-width: 2.5ch; text-align: right; }
 
+    .table-scroll { overflow-x: auto; }
+
+    /* "Hide English": Latin alone, full width, in lessons and exercises. */
+    body:has(#english-toggle:checked) .parallel { grid-template-columns: 1fr; }
+    body:has(#english-toggle:checked) .parallel > [lang="en"] { display: none; }
+
+    /* "Hide notes": the notes, the exercise footnotes and the note numbers. */
+    body:has(#notes-toggle:checked) :is(.notes, .parallel sup) { display: none; }
+
     /* Too narrow for two ~20rem columns: one column, all Latin then all English. */
     @container (width < 42rem) {
       .parallel { grid-template-columns: 1fr; }
@@ -38,24 +47,32 @@
   <nav>
     <a href="/">Latine Sine Molestia</a>
     <label><input type="checkbox" id="accent-toggle"> Show stress accents</label>
+    <label><input type="checkbox" id="english-toggle"> Hide English</label>
+    <label><input type="checkbox" id="notes-toggle"> Hide notes</label>
     </nav>
   </header>
   <main>
 {{ content | safe }}
   </main>
   <script>
-    // Swap each Latin text for its stress-accented twin; remember the choice.
-    const toggle = document.getElementById("accent-toggle");
-    const show = (on) => {
+    // A header checkbox whose state is remembered across pages.
+    const remember = (id, key, apply = () => {}) => {
+      const toggle = document.getElementById(id);
+      try { toggle.checked = localStorage.getItem(key) === "on"; } catch {}
+      apply(toggle.checked);
+      toggle.addEventListener("change", () => {
+        apply(toggle.checked);
+        try { localStorage.setItem(key, toggle.checked ? "on" : "off"); } catch {}
+      });
+    };
+    // Swap each Latin text for its stress-accented twin.
+    remember("accent-toggle", "accents", (on) => {
       document.querySelectorAll("[data-plain]").forEach((el) => (el.hidden = on));
       document.querySelectorAll("[data-accented]").forEach((el) => (el.hidden = !on));
-    };
-    try { toggle.checked = localStorage.getItem("accents") === "on"; } catch {}
-    show(toggle.checked);
-    toggle.addEventListener("change", () => {
-      show(toggle.checked);
-      try { localStorage.setItem("accents", toggle.checked ? "on" : "off"); } catch {}
     });
+    // Hiding English and notes is done in CSS, off the checkboxes themselves.
+    remember("english-toggle", "english-hidden");
+    remember("notes-toggle", "notes-hidden");
   </script>
 </body>
 </html>

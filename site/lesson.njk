@@ -1,12 +1,10 @@
----
-layout: base.njk
-pagination:
-  data: lessons
-  size: 1
-  alias: lesson
-permalink: "/lectio/{{ lesson.meta.lesson }}/"
-eleventyComputed:
-  title: "{{ lesson.meta.title }}"
+---js
+{
+  layout: "base.njk",
+  pagination: { data: "lessons", size: 1, alias: "lesson", before: (lessons) => lessons.filter((l) => !l.meta.revision) },
+  permalink: "/lectio/{{ lesson.meta.lesson }}/",
+  eleventyComputed: { title: (data) => data.lesson.meta.title },
+}
 ---
 {#- One Latin/English pair: two grid items that land in the same row. -#}
 {%- macro row(r) -%}
@@ -36,18 +34,18 @@ eleventyComputed:
 {%- endif %}
 
 {%- if lesson.notes.footnotes.length or lesson.notes.comments.length %}
-<section lang="en">
-<h2>{% if lesson.meta.revision %}Revision and Notes{% else %}Notes{% endif %}</h2>
+<section lang="en" class="notes">
+<h2>Notes</h2>
 {%- if lesson.notes.footnotes.length %}
 <ol>
-  {%- for note in lesson.notes.footnotes %}
-  <li>{{ note | paras | safe }}</li>
-  {%- endfor %}
+  {%- asyncEach note in lesson.notes.footnotes %}
+  <li>{{ note | renderContent("md") | safe }}</li>
+  {%- endeach %}
 </ol>
 {%- endif %}
-{%- for comment in lesson.notes.comments %}
-{{ comment | paras | safe }}
-{%- endfor %}
+{%- asyncEach comment in lesson.notes.comments %}
+{{ comment | renderContent("md") | safe }}
+{%- endeach %}
 </section>
 {%- endif %}
 
@@ -71,18 +69,14 @@ eleventyComputed:
 {%- for r in lesson.exercises | rows %}{{ row(r) }}{% endfor %}
 </div>
 {%- if lesson.exercises.footnotes.length %}
-<ol>
-  {%- for note in lesson.exercises.footnotes %}
-  <li>{{ note | paras | safe }}</li>
-  {%- endfor %}
+<ol class="notes">
+  {%- asyncEach note in lesson.exercises.footnotes %}
+  <li>{{ note | renderContent("md") | safe }}</li>
+  {%- endeach %}
 </ol>
 {%- endif %}
 </section>
 {%- endif %}
 </article>
 
-<nav>
-{%- if pagination.href.previous %}<a href="{{ pagination.href.previous }}">← {{ lessons[pagination.pageNumber - 1].meta.title }}</a>{% endif %}
-{%- if pagination.href.previous and pagination.href.next %} · {% endif %}
-{%- if pagination.href.next %}<a href="{{ pagination.href.next }}">{{ lessons[pagination.pageNumber + 1].meta.title }} →</a>{% endif %}
-</nav>
+{% include "lesson-nav.njk" %}

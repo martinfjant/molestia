@@ -237,6 +237,8 @@ for (const file of files) {
   const path = join(JSON_DIR, file);
   const lesson = JSON.parse(await readFile(path, "utf8"));
   if (only.size && !only.has(lesson.meta.lesson)) continue;
+  // Revision lessons are one Markdown `content` field, with no sentence lists.
+  if (lesson.meta.revision) continue;
 
   let fileChanged = false;
   for (const { label, get, set, getAccented, setAccented } of latinFields(lesson)) {

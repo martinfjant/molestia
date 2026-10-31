@@ -4,7 +4,7 @@ title: Lectiones
 ---
 <article>
 <h1>Lectiones</h1>
-<ol>
+<ol style="column-count: 2">
 {%- for lesson in lessons %}
   <li value="{{ lesson.meta.lesson }}"><a href="/lectio/{{ lesson.meta.lesson }}/">{{ lesson.meta.title }}</a>
     {%- if lesson.meta.subtitle.latin %} — {{ lesson.meta.subtitle.latin | safe }}{% endif %}
