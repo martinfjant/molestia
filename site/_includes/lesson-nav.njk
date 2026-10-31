@@ -1,7 +1,7 @@
 {%- set near = lessons | neighbors(lesson.meta.lesson) %}
 <nav>
 {%- if near.previous %}<a href="/lectio/{{ near.previous.meta.lesson }}/">← {{ near.previous.meta.title }}</a>{% endif %}
-{%- if near.previous and near.next %} · {% endif %}
+{%- if near.previous and near.next %} ❦ {% endif %}
 {%- if near.next %}<a href="/lectio/{{ near.next.meta.lesson }}/">{{ near.next.meta.title }} →</a>{% endif %}
 </nav>
 <p style="text-align: center"><a href="https://github.com/martinfjant/molestia/blob/main/{{ lesson.file }}">Submit corrections on Github</a></p>
