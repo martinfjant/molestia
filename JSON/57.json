@@ -1,0 +1,102 @@
+{
+  "meta": {
+    "lesson": 57,
+    "title": "Lectio quinquagesima septima",
+    "subtitle": {
+      "latin": "Aule, ede intritam tuam!",
+      "english": "Aulus! Eat your soup!"
+    },
+    "revision": false
+  },
+  "latin": [
+    "Pater. — Aule! ede intritam tuam. Undecima hora vespertina, dormire deberes<sup>1</sup>...",
+    "Aulus, patri sine pudore repugnans<sup>2</sup>. — Minime! Intritam non edam<sup>3</sup>! Flere incipit.",
+    "P. — Si intritam non edes, recte vapulabis!",
+    "A. — Nefas<sup>4</sup> est! Eas res semper manducandas dant quae mihi fastidium movent. — Vehementius flet.",
+    "Vicinorum inquilinorum chorus. — Ecce liberorum carnifex<sup>5</sup>!",
+    "P., paululum cedens<sup>6</sup>. — Quid hercle tibi fastidiosum non sit?",
+    "A., subito placatus. — Libenter pernam ederem!",
+    "P. — Ridiculum! Nulla est perna in armario<sup>7</sup> frigidario. Praeterea porcinarii taberna clausa est.",
+    "A. — Omnes contra me conjurant. — Qualem<sup>8</sup> vitam ago! — Vehementissime flet.",
+    "Inquilinorum chorus. — Ille puer ab indigno patre excruciatur<sup>9</sup>!",
+    "Socrus<sup>10</sup>. — Mi gener, aetate mea liberos multo rectius educari solitos esse arbitror.",
+    "P. — Tu, socrus, abi in malam crucem! — Ad pacem tamen servandam, gradus descendit, supplicans porcinarium expergefacit<sup>11</sup>, cum perna tandem domum redit.",
+    "Nunc oportet pernam manduces et cubitum eas<sup>12</sup>.",
+    "A., perfecte odiosum se habens. — Volo te mecum manducare.",
+    "P. — Nonne insanus es? Ego pernam post secundam mensam manducem!",
+    "A. — Ita dicis quia fortasse me veneno<sup>13</sup> interficere<sup>14</sup> cupis! — Iterum flet.",
+    "P., valde commotus. — Mi fili, cur tantam immanitatem<sup>15</sup> excogitavisti? Errorem tuum demonstrabo. — Nauseae difficulter repugnans pernae dimidiam partem comedit.",
+    "Aulus vociferans, lacrimarum torrentem subito exprimit. Inquilinorum chorus socrusque novissimorum cruciatuum<sup>16</sup> causam inquirunt<sup>17</sup>.",
+    "A. — Partem quam cupiebam ipse comedit<sup>18</sup>!"
+  ],
+  "english": [
+    "The father. — Aulus! eat your soup! At eleven [in the] evening, you ought to be asleep...",
+    "Aulus, answering (resisting) [his] father without shame. — [No] (not at all)! I will not eat the soup! — He begins to cry.",
+    "F. — If you don't eat (will eat) your soup, [you'll get a spanking, and rightly so] (rightly you will receive a spanking)!",
+    "A. — It isn't allowed! They always give me things to eat that disgust me (to me disgust they move). — He cries harder.",
+    "The chorus of neighbours (neighbouring tenants). — (Here is) [the] child torturer!",
+    "F., giving way a little. — [What the devil] (by Hercules) [wouldn't disgust you] (to you disgusting would not be)?",
+    "A., suddenly calmed. — I would gladly eat [some] ham!",
+    "F. — Ridiculous! There is no ham in the refrigerator. Besides, the pork butcher's shop is closed.",
+    "A. — [Everyone is plotting] (all conspire) against me. What a life I lead! — He cries very hard.",
+    "The chorus of n. — That child is martyred by an unworthy father!",
+    "The mother-in-law. — My son-in-law, [I think that in my] time children were [much better brought up] (were in the habit of being brought up much more rightly).",
+    "F. — You, mother-in-law, go and get yourself hanged! (L. 52, N. 8) — Nevertheless, [to keep the peace] (to the peace to be kept), he goes down the stairs; begging, he wakes the pork butcher, and finally comes back home with the ham.",
+    "Now you must eat the ham and go to bed.",
+    "A., behaving in a perfectly odious way. — I want you to eat [some] with me.",
+    "F. — Are you [mad] (insane)? Me, eat ham after [dessert] (2nd table)!",
+    "A. — You say [that] (thus) because you perhaps want to poison me (by poison kill)! — He cries again.",
+    "F., greatly moved. — My son, why have you invented such a monstrosity? I'm going to show you your mistake. — [Having great difficulty not to vomit] (resisting nausea with difficulty), he eats half of the ham.",
+    "Aulus, howling, suddenly sheds a torrent of tears. The chorus of neighbours and the mother-in-law look for the reason for these latest torments.",
+    "A. — He has eaten the piece I wanted himself!"
+  ],
+  "notes": {
+    "footnotes": [
+      "Deberes, imperfect subjunctive of debere (debeo, etc.), here, you ought (but you are not doing so). It is the PRESENT UNREAL (cf. R. and N. 56). In fact the subjunctive is not necessary and the indicative debes would be enough. For a Latin, ONE OUGHT or ONE OUGHT NOT. But Aulus's father is a weak father... For the sentence to remain correct, one must imply: si oboediens esses, if you were obedient...; the rest will show clearly that it is the PRESENT UNREAL of R. and N. 56, 4!",
+      "Pugnare, to fight; repugnare, to push back by fighting. These verbs are normally intransitive, whence patri in the dative.",
+      "Edam (edes, edet, edemus, editis, edent), future of edere, to eat (pft edi, supine esum). There is another verb edere, which means: to produce, to publish (pft edidi, supine editum).",
+      "Fas est, it is permitted (by divine law); nefas, likewise indeclinable, is the opposite of fas.",
+      "Carnifex, -icis, m., the executioner; caro, carnis, f., flesh.",
+      "Cedo, -is, -ere, cessi, cessum, to walk, to make way, to give way.",
+      "Armarium, -ii, n., initially, the place where arms are found (arma, -orum, pl. n.).",
+      "Qualis, -is, -e, which (of what nature, in what state, under what condition), is normally associated with talis, -is, -e, such. E.g.: qualis pater, talis filius, like father, like son.",
+      "Excruciare: we have already seen crux, crucis, f., and cruciare (L. 52, N. 8); the prefix ex further reinforces the verb.",
+      "Socrus, -us, f., like nurus (see exercise), is one of the feminine nouns of the 4th declension. Do not forget that in this declension the form in us can correspond both to the nominative, vocative and genitive singular and to the nominative, vocative and accusative plural, whereas a word of the 2nd declension ending in us is necessarily in the nominative singular (sole exception deus, dei, whose vocative is also deus).",
+      "Expergefacere, to wake up; another compound of facere (same conjugation). What is its passive? — Answer: expergefieri, since fieri serves as the passive of facere.",
+      "Manduces and eas are both in the present subjunctive, required by the main verb oportet (which is construed with or without ut).",
+      "Venenum, -i, n., poison.",
+      "Interficio, -is, -ere, feci, fectum, to kill, to murder; another compound of facere! Note that the a becomes i in the series of the present (infectum). We have already seen likewise conficere and perficere. These three verbs regularly form their passive: e.g.: interficior, -eris, -i, -fectum esse. Compare with N. 11!",
+      "Immanitatem: you must have found by yourself that it is the accusative singular of immanitas, -atis, f.",
+      "Cruciatuum: gen. pl. of the 4th declension.",
+      "Inquiro, -is, -ere, inquisivi, inquisitum (in + quaero), to seek, to inquire (cf. inquisition).",
+      "Comedit, he eats; comedit, he has eaten."
+    ],
+    "comments": [
+      "Nurus, -us, f., daughter-in-law. — Socer, -eri, m., father-in-law, and gener, -eri, m., son-in-law, both belong to the 2nd declension. — Ait, aiunt, defective verb, he says, they say.",
+      "SECOND WAVE: the 8th lesson."
+    ]
+  },
+  "exercises": {
+    "latin": [
+      "Mater uxoris socrus vocatur.",
+      "Maritus socrus est socer; socrus est soceri uxor.",
+      "Soceri mei gener sum.",
+      "Dicuntur nurus et socrus saepe inter se altercari.",
+      "Dicunt nurum et socrum inter se raro amare.",
+      "Causa praecipua cur socrus generum aut nurum increpet ad liberorum educationem pertinet.",
+      "Omnes homines aetatem qua juvenes fuerunt ceteris aetatibus anteponunt.",
+      "Tempore nostro, aiunt, omnia multo melius quam vestro se habebant."
+    ],
+    "english": [
+      "The wife's mother is called the mother-in-law.",
+      "The mother-in-law's husband is the father-in-law; the mother-in-law is the father-in-law's wife.",
+      "I am the son-in-law of my father-in-law.",
+      "[It is said that] daughter-in-law and mother-in-law often quarrel (are said... between themselves to quarrel).",
+      "[People say] (they say) that daughter-in-law and mother-in-law rarely love each other.",
+      "The principal reason why the mother-in-law quarrels [with her] son-in-law or [her] daughter-in-law [concerns] (belongs to) the education of the children.",
+      "Everyone [finds better than the others] the period when they were young (put before the other periods).",
+      "In our time, they say, everything [went] much better than in yours (they behaved)!"
+    ],
+    "footnotes": []
+  }
+}

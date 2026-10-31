@@ -1,0 +1,100 @@
+{
+  "meta": {
+    "lesson": 68,
+    "title": "Lectio duodeseptuagesima",
+    "subtitle": {
+      "latin": "Necdum litterarum quicquam",
+      "english": "Still no letter"
+    },
+    "revision": false
+  },
+  "latin": [
+    "Josephus. — Quid adeo te sollicitat, pater? Maerore<sup>1</sup> videris ultra<sup>2</sup> morem occupatus.",
+    "Pater. — Enimvero<sup>3</sup> tabellarii hora est, nonne?",
+    "J. — Ita, profecto. Quid inde<sup>4</sup> non capio.",
+    "P. — Ah, fili mi! nescisne quattuor ipsos esse dies ex quo Antonius pericula<sup>5</sup>, Barcinone<sup>6</sup>, subire* debuit, necdum ad nos litterarum quicquam<sup>7</sup>.",
+    "J. — Equidem non putaram<sup>8</sup>. Certo, pater, scribere potuerat.",
+    "P. — Quin immo<sup>9</sup>, si bene omnia cessissent, et apud nos esse. Pulsantur fores<sup>10</sup> a tabellario.",
+    "J. — Ad nos tabellarius! E vestigio<sup>11</sup> curro. Ad vestibulum domus properat.",
+    "P. desuper filium adloquitur. — Numquidnam boni, Josephe?",
+    "J. — Antonius, Antonius qui scripsit ipse. Demitte centesimas triginta quas tabellario tribuam.",
+    "P. — Trade mihi epistulam: involucrum ego aperiam.",
+    "Voce jucunda: «Antonius Patri suo carissimo salutem dat. Maturius<sup>12</sup> scribere optabam; quod quidem non licuit.",
+    "Ceterum<sup>13</sup> fausta<sup>14</sup> omnia. Lauream sum adsecutus. Tramine adveniam quod nonae puncto Barcinone discedit. Vale mi pater<sup>15</sup>!",
+    "Datum Barcinone, die Junii vicesimo sexto.»",
+    "Deo gratias! Nunc demum animum recipio."
+  ],
+  "english": [
+    "Joseph. — What is worrying you so much, papa? You seem [more preoccupied] (busy) by [worry] than [usual] (beyond habit).",
+    "The father. — [Isn't it] the postman's time?",
+    "J. — Yes, certainly. [I don't see the connection] (what from there I don't grasp).",
+    "F. — Ah, my son! Don't you know [that it is] four days [already] (themselves to be) since Antoine had to sit his exams in Barcelona, [and still no letter for us] (and not yet towards us of letter anything)?",
+    "J. — As for me, I hadn't thought of it. Certainly, papa, he could have (had been able to) written.",
+    "F. — And even, if all (things) [had gone well], [he would have been] with us. [The postman knocks at the door] (the doors are knocked by the postman).",
+    "J. — The postman [is coming] to us! I'll run [straight away] (from the spot). — He hurries to the entrance hall of the house.",
+    "F., calling his son from above. — Is it something good, Joseph?",
+    "J. — It's Antoine, Antoine who wrote himself. Send down 30 centimes that I'll give to the postman!",
+    "F. — Give me the letter: [it's] me [who] will open the envelope.",
+    "In a joyful voice: «Antoine [greets] (gives greeting) his very dear father. I wanted to write earlier, which however was not [possible] (permitted).",
+    "[Besides] [everything] (all things) [is going] very [well] (happy). I have [passed] (obtained the laurel). I will arrive by the train which leaves Barcelona at nine [o'clock] (on the dot). Look after yourself, my dear papa!",
+    "[Done] (given) in Barcelona, 26 June.»",
+    "[Thanks] be to God! Now at last I [take heart again] (my mind I take back)."
+  ],
+  "notes": {
+    "footnotes": [
+      "Maeror, -oris, m., grief, sorrow; the corresponding adjective is maestus, -a, -um, afflicted.",
+      "Ultra + acc., beyond.",
+      "Enimvero, conj., in fact, indeed, for sure.",
+      "Inde, adv., from there; corresponds to the question unde?, whence?, from where?, whose answer can be: hinc, istinc, illinc, from here (from there) where I am, where you are, where he is.",
+      "Periculum, -i, n., danger, peril, or examination. This bugbear expression only frightens those who do not know ASSIMIL!",
+      "Barcino, -onis, Barcelona; ablative having the value of a locative.",
+      "Subire* = sub + ire, irregular verb, conjugated like ire. Quisquam, someone; quidquam or quicquam, something; this adjective pronoun has no feminine. Note that litterarum is a genitive. Likewise below (P. 8): (num) quidnam, what then?",
+      "Putaram, abridged form of putaveram (ind. p.q.p.).",
+      "Quin immo: quin, adv., why not? (quin loqueris?, why don't you speak?); immo, adv., on the contrary, rather (cf. L. 66, N. 5, quin etiam, same sense).",
+      "Fores, -ium, f. pl., the double leaves of the door.",
+      "Vestigium, -ii, n., the trace, and sometimes (here), the instant.",
+      "Maturius, sooner, is an adverb constructed with the help of the neuter form of the comparative of the adjective maturus, -a, -um, ripe, precocious.",
+      "Ceterum, adv., which corresponds to the adjective pronoun ceteri, -ae, -a, the others, those of whom one has not spoken. This last adjective is only used in the plural.",
+      "Faustus, -a, -um, happy, favourable.",
+      "Mi: vocative of the possessive pronoun meus, -a, -um. Mi pater is more familiar than pater mi, which simply means my father."
+    ],
+    "comments": [
+      "Decedere, to leave; derived from cedere which you saw in phrase 6. — Careo, -es, -ere, -ui, v.i. + abl., to be deprived of. — Sors, sortis, is feminine.",
+      "SECOND WAVE: the 19th lesson."
+    ]
+  },
+  "exercises": {
+    "latin": [
+      "Cur Desiderius maerore adeo videtur occupatus?",
+      "Socrus ejus e vita decessit: qua re maestus est.",
+      "Hic est maeror magnus.",
+      "Majoris tamen est maeroris orbum patre aut matre fieri.",
+      "Mihi omnium dolorum maximus est pecunia carere.",
+      "Vir es turpis et cupidus: non ceterorum miseriam, sed tantum fortunam tuam curas.",
+      "Villicus est dives agris.",
+      "Famulus, cui nulla sunt bona, tamen contentus sorte sua videtur.",
+      "Homines civitati utiles honorantur, fures autem digni verbere in carcerem conjiciuntur.",
+      "Ut fures in nundinis, ita inter se intellegunt."
+    ],
+    "english": [
+      "Why does Didier seem so absorbed by grief?",
+      "His mother-in-law has died (gone out of life): that is why he is sad.",
+      "It is a great sorrow.",
+      "However it is a greater sorrow [to become] an orphan of [one's] father or mother.",
+      "For me, the greatest sorrow is to be short of money.",
+      "You are a horrible and grasping man: you are not concerned with the misery of others, but only with your fortune.",
+      "The farmer is rich in lands.",
+      "The servant, to whom no goods belong, nevertheless seems content with his lot.",
+      "Men useful to the city are honoured; but thieves worthy of the whip are thrown into prison.",
+      "They get on like thieves at a fair."
+    ],
+    "footnotes": []
+  },
+  "sources": [
+    {
+      "after": 14,
+      "latin": "E Vita Latina (sept. 1957, Emmanuel Jove).",
+      "english": "(From Vita Latina (Sept. 1957, Emmanuel Jove).)"
+    }
+  ]
+}

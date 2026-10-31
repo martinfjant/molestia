@@ -1,0 +1,92 @@
+{
+  "meta": {
+    "lesson": 65,
+    "title": "Lectio sexagesima quinta",
+    "subtitle": {
+      "latin": "Mihi prandio apposita sunt",
+      "english": "I had for lunch"
+    },
+    "revision": false
+  },
+  "latin": [
+    "Bene prandisti? — Ita, mihi prandio apposita sunt<sup>1</sup>:",
+    "Promulsis<sup>2</sup> varia, praecipue artocreas<sup>3</sup> suillum, bis duodenae cochleae<sup>4</sup>, gallus in vino coctus<sup>5</sup> cum cepulis<sup>6</sup>, haec omnia mero burgundico large perfusa<sup>7</sup>.",
+    "Nonne cerritus es? Jam mihi dixisti te stomacho laborare. Pinguior<sup>8</sup> es, vultus tuus purpura tinctus<sup>9</sup> videtur, nasus papulis gemmat<sup>10</sup>. Num ver appropinquat?",
+    "Num tu te facetum esse arbitraris?",
+    "Tantum tibi dicam, rectius te, istorum ciborum plumbeorum<sup>11</sup> loco, comesturum fuisse assulam bubulam<sup>12</sup> cum solanis frictis<sup>13</sup>.",
+    "Nihil timueris, vetus amice, postea enim assulam bubulam cum solanis frictis habui.",
+    "In aedibus urbanissimis, aes<sup>14</sup> telephonii tinnit<sup>15</sup>.",
+    "Nestor, famulus cubicularius, cum ea dignitate quam in omnibus actis domesticis adhibere<sup>16</sup> solet, instrumentum capit.",
+    "Vox in telephonio. — Salve funge! Esne tu, vetule<sup>17</sup> asine?",
+    "Nestor, aucta etiam dignitate. — Veniam mihi da, Domne, ego sum Nestor, cubicularius. Erus<sup>18</sup> autem abest!"
+  ],
+  "english": [
+    "Did you lunch well? — Yes, [I had] for lunch (to me for lunch have been served):",
+    "Assorted hors d'oeuvres, especially pork pâté, [two dozen] (twice twelve) snails, coq au vin with small onions, all of it washed down generously with [Burgundy] (pure) wine.",
+    "Aren't you [crazy] (furious)? You have already told me that [you had stomach trouble] (you to work by stomach). You are too fat, your face looks dyed with purple, [your] nose is budding with pimples. Is spring approaching, by any chance?",
+    "Do you think by any chance [that you are being] funny?",
+    "I'll just tell you that [you would have done better] (more rightly you) to eat, instead of those [heavy dishes] (leaden foods), a [steak] (beef slice) with chips.",
+    "Don't worry (subj. pft) about anything, [my] old [friend], after that I did in fact [have] a steak and chips.",
+    "In a very bourgeois house, the telephone bell rings.",
+    "Nestor, the valet, with the dignity which he is in the habit of showing in all his domestic acts, picks up the [receiver] (instrument).",
+    "The voice on the telephone. — Hello, [idiot] (mushroom)! Is it you, old donkey?",
+    "Nestor, [with even more dignity] (increased still dignity). — Excuse me, sir, [this is] (I am) Nestor, the valet. Sir is not here!"
+  ],
+  "notes": {
+    "footnotes": [
+      "Mihi prandio apposita sunt: another double dative! Apponere = ad + ponere, to bring, to serve.",
+      "Promulsis, promulsidis, f., the hors d'oeuvre; word of Greek origin (used in the singular).",
+      "Artocreas, -atis, n., another word of Greek origin («artos», bread; «kreas», meat).",
+      "Cochlea, -ae, f., the snail, an important word, for it serves by extension to give the idea of a coiled curve, and consequently designates the screw.",
+      "Coquo, -is, -ere, coxi, coctum, to cook.",
+      "Cepa, -ae, f., onion; cepula is its diminutive (which gave in Italian «cipolla» onion... and in French ciboule, ciboulette, ciboulot). The cep or boletus (mushroom) is called boletus.",
+      "Perfundo, -is, -ere, fudi, fusum, derived from fundere, to pour, which you will find in the exercise, phrase 7.",
+      "Pinguis, -e, fat; pinguior, -ius is its comparative.",
+      "Purpura, -ae, f., the red dye, obtained from a shellfish, the murex, -icis, m. Tingo, -is, -ere, tinxi, tinctum, to dye.",
+      "Gemma, -ae, f., bud, flower bud, precious stone; whence the verb gemmare, to bud. Papula designates another sort of button, those that sometimes flourish on human skin.",
+      "Plumbum, -i, n., lead; plumbeus, -a, -um, of lead. Likewise ferrum, iron, gives ferreus; etc. An iron box, pyxis ferrea (or e ferro).",
+      "Assula, -ae, a slice. The English word «beefsteak» means precisely beef slice. Likewise (in the exercise) «cocktail» means cock's tail, whence the Latin gallicauda.",
+      "Solanum, -i, n., the potato, which belongs to the solanaceae family. Frigo, -is, -ere, frixi, frictum, to fry.",
+      "Aes, aeris, n., bronze, and, by extension, the instrument of music (cf. French cuivre, brass), the bell. The corresponding adjective is aereus, or aeneus (cf. E. 64, P. 5).",
+      "Tinnire, to tinkle, gave tintinnabulum, the bell, a word that could very well have been used instead of aes.",
+      "Adhibere = ad habere, to apply, to put into practice, to have recourse to, is a verb with multiple uses.",
+      "Vetulus, -a, -um, diminutive of vetus, veteris.",
+      "Erus, -i, m., the master of the house; f. era, -ae."
+    ],
+    "comments": [
+      "Propoma, -atis, n., aperitif (synonyms: potio apertiva or vinum apertivum). — Idoneus, -a, -um, appropriate to, gave French idoine. — Uva, -ae, f., grape; vitis, -is, f., the vine; vinea, -ae, f., the vineyard, the arbour or the mantlet (war machine serving as a shelter). — Note the two subjunctives of phrase 5 (indirect question) and also necne which, in an indirect question, corresponds to annon of the direct question.",
+      "SECOND WAVE: the 16th lesson."
+    ]
+  },
+  "exercises": {
+    "latin": [
+      "Quota hora est?",
+      "Undecima et dimidia hora est.",
+      "Nondum tempus est prandendi. Sed quid arbitraris* de quodam propomate sumendo?",
+      "Omnis occasio ad bibendum tibi idonea videtur.",
+      "Non a te quaero utrum avia tua birota utatur necne, sed quid bibere velis*: anisum, absinthium, merum, an gallicaudam?",
+      "Malo* aurantii aut uvae sucum.",
+      "Ecce! Aurantium premo ejusque sucum in poculum fundo. Visne* saccharum?",
+      "Ita: da cubos duos. Potionem cochleari agito.",
+      "Prosit*! — Bene tibi! — Bene tibi quoque!",
+      "Quid olfacio? Optime olet! Hic odor e culina venit.",
+      "Pullus gallinaceus in culina coquitur: odorem pulli olfacimus.",
+      "Eamus pransum!"
+    ],
+    "english": [
+      "What time is it?",
+      "It's half past eleven.",
+      "It's not yet time to have lunch. But what do you think of a (certain) aperitif (to take)?",
+      "Every opportunity to drink seems good to you.",
+      "I'm not asking you whether your grandmother [rides] (uses) a bicycle or not, but what you want to drink: anise, absinthe, wine or a cocktail?",
+      "I would prefer orange or grape juice.",
+      "Here you are! I squeeze the orange, and I pour its juice into a glass. Do you want sugar?",
+      "Yes, give [me] two [lumps] (cubes). I stir the drink with a spoon.",
+      "Your health! — To yours! — To yours too!",
+      "What do I smell? That smells very good. This smell comes from the kitchen.",
+      "A chicken (gallinaceous) is cooking in the kitchen: we [can smell] the chicken.",
+      "Let's go and have lunch!"
+    ],
+    "footnotes": []
+  }
+}

@@ -1,0 +1,98 @@
+{
+  "meta": {
+    "lesson": 78,
+    "title": "Lectio duodeoctogesima",
+    "subtitle": {
+      "latin": "Fabula mortifera",
+      "english": "The story that kills"
+    },
+    "revision": false
+  },
+  "latin": [
+    "Vir quidam, caedis<sup>1</sup> accusatus, in judicium vocatus est.",
+    "Praeses<sup>2</sup>. — Amicus quem colebas in cubiculo tuo mortuus inventus est. Tu solus eum interficere potuisti*.",
+    "Patronus. — Domne Praeses, hoc sine ullo indicio<sup>3</sup> affirmavisti. Nullum est in cadavere<sup>4</sup> vestigium. Nec manuballistae ictu<sup>5</sup>, nec pugione<sup>6</sup>, nec strangulatione, nec veneficio<sup>7</sup> interfici<sup>8</sup> potuit*.",
+    "Reus. — Omnia vera ego dicere volo*. Eum invitus<sup>9</sup> occidi. Ei fabulam mortiferam narravi.",
+    "Praeses. — Quod est istud novissimum mendacium?",
+    "Reus. — Non mendacium est, sed, eheu, verum. Auctor sum comicus, et fabulam ita ridiculam<sup>10</sup> excogitavi, ut homines, qui eam audiant, risu emoriantur<sup>11</sup>.",
+    "Haec nolens<sup>12</sup>, cum amico meo qui hanc fabulam audire cupiebat, perincommode expertus sum.",
+    "Praeses. — Jubeo te hanc fabulam narrare ut, utrum vera an falsa dicas, videamus.",
+    "Reus, pavore percussus. — Impossibile est: nolo* iterum innocentes occidere.",
+    "Praeses, summa auctoritate. — Officium nostrum est veritatem invenire. Spectatores ex auditorio<sup>13</sup> discedant<sup>14</sup>! Maneant judices, patronus, reus, custodes duo!",
+    "Nos sumus homines fortes et graves. Nihil timemus. Reus fabulam narret!",
+    "Reus, iterum invitus, fabulam narravit. Paucis post secundis, patronus risu corruit atque inde obiit.",
+    "Post temporis momentum judices obierunt*. Praeses cito in mortem eos secutus est...",
+    "Imperturbati tamen manserunt custodes duo... Obierunt* postero die, fabulam enim tardius intellexerunt!"
+  ],
+  "english": [
+    "A man accused of murder was [brought to] (called into) court.",
+    "The president. — The friend whom [you used to frequent] (you cultivated) was found dead in your room. You alone could have killed him.",
+    "The lawyer. — Mr President, you affirm this without any proof (cela sans aucune preuve as affirmé). There is no trace on the corpse. He could not have been killed either by a pistol shot, or with a dagger, or by strangulation, or by poisoning.",
+    "The accused. — I want to tell the whole truth. I killed him in spite of myself. I told him the story that kills.",
+    "Pres. — What is this latest lie?",
+    "Acc. — It is not a lie, but, alas, the truth. I am a comic author and I have imagined a story so funny that the people who listen to it die [of laughing] (by laughter).",
+    "This, [I] involuntarily, with [my] friend who wanted to hear this story, [discovered] (very unfortunately).",
+    "Pres. — I order you to tell this story so that we may see whether you are telling [true or false] (true or false things).",
+    "Acc., struck with fear. — It is impossible: I don't want to kill innocent people once again.",
+    "Pres., with the greatest authority. — Our job is to find the truth. Let the public (spectators) [leave] the room (of audience). Let the judges, the lawyer, the accused and two [gendarmes] (guards) remain!",
+    "We are courageous and serious people; we fear nothing. Let the accused tell the story!",
+    "The accused, once again in spite of himself, told the story. A few seconds after, the lawyer collapsed with laughter and died of it.",
+    "A [moment of time] after, the judges died. The president followed them rapidly in death...",
+    "However the two gendarmes remained [impassive]... They died the next day, for [they took longer to understand] (story in effect more slowly understood)!"
+  ],
+  "notes": {
+    "footnotes": [
+      "Caedes, -is, f., murder; caedo, -is, -ere, cecidi, caesum, to cut, to fell. Mortiferus, -a, -um (from mortem ferre), which brings death.",
+      "Praeses, -idis, m., president.",
+      "Indicium, -i, n., sign, proof.",
+      "Cadaver, -eris, n.",
+      "Ictus, -us, m., blow, wound. Manuballista, -ae, f., lit. hand ballista; the ballista was an instrument intended to launch projectiles (cf. ballistics).",
+      "Pugio, -onis, m., dagger.",
+      "Veneficium, -ii, n., poisoning; we have already seen venenum (L. 57, N. 13). The suffix ficium, which is also found in beneficium, comes from facere.",
+      "Interficere, to kill; compound of facere (cf. L. 57, N. 14).",
+      "Invitus, -a, -um, adj., forced, in spite of oneself.",
+      "Ridiculus, -a, -um, which provokes laughter, risible, and not necessarily ridiculous.",
+      "Emorior = ex + morior, -eris, -i, mortuus sum, to die.",
+      "Nolens: present participle of nolo*. Volens nolens, whether he (she, one) wants it or not.",
+      "Auditorium, -ii, n. (from audire, to listen), designates, in a single word, the courtroom.",
+      "Discedo, -is, -ere, cessi, cessum, to go away, to move away. Another compound of cedo, -is, -ere, cessi, cessum, to walk."
+    ],
+    "comments": [
+      "Syngrapha, -ae, f., note by which one undertakes to pay a sum (Greek origin).",
+      "Note a few indefinite adverbs of place which we did not see during our last revision:\nQuestion:\nubi? — ubivis, no matter where (where you want).\nquo? — quoquoversus, (towards) all directions.\nunde? — undique, from all sides. (Did you notice the demonstrative inde in P. 12 of the lesson and the relative unde in P. 11 of the exercise?)\nqua? — qualibet, by no matter what place (by where it pleases).",
+      "You could form others in the same way, ubilibet, ubique, quovis, etc. But do not try for the moment to make a complete inventory of them: you will have time to meet them in the course of your reading.",
+      "SECOND WAVE: lesson 29."
+    ]
+  },
+  "exercises": {
+    "latin": [
+      "Spectatorum turba in tribunalis auditorium intrat.",
+      "Spectatores terrore perturbati quoquoversus fugiunt.",
+      "Unde veniunt hi spectatores? — Undique.",
+      "Qua iter fecerunt? — Qualibet.",
+      "Ubi sedent? — Ubivis.",
+      "Potesne ei aliquantum pecuniae commodare?",
+      "Quid! In difficultate nummaria est?",
+      "Currum sumptuosum non praesentibus nummis emit.",
+      "Occasionem se arripere credebat mirificam.",
+      "Tribus post diebus in curru reficiendo nummorum mille impensas faciebat.",
+      "Nunc nihil habet unde syngraphas solvere possit*.",
+      "Pecuniae imperare oportet*, non servire."
+    ],
+    "english": [
+      "The crowd of spectators enters the courtroom.",
+      "The spectators, troubled by fear, flee in all directions.",
+      "Where do these spectators come from? — From all sides.",
+      "Which way did they pass (road have they made)? — By any way at all.",
+      "Where do they sit? — Anywhere.",
+      "Can you lend him some money?",
+      "What! He's in financial difficulty?",
+      "[He has bought] a luxury car [on credit] (money not present has bought).",
+      "He thought he had seized a magnificent opportunity.",
+      "Three days after, to repair the car, [it cost him 1,000 francs] (of money thousand expenses he was making).",
+      "Now he has nothing [to] (from where) pay his bills (that he might).",
+      "One must command money, not serve it = money is a bad master and a good servant."
+    ],
+    "footnotes": []
+  }
+}

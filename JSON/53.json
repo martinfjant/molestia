@@ -1,0 +1,80 @@
+{
+  "meta": {
+    "lesson": 53,
+    "title": "Lectio quinquagesima tertia",
+    "subtitle": {
+      "latin": "Methodum naturalem laudavit",
+      "english": "He praised the natural method"
+    },
+    "revision": false
+  },
+  "latin": [
+    "In lectione superiore<sup>1</sup> vidistis virum doctum, non solum ad suam linguam discendam methodis naturalibus puerum nescium usum esse...",
+    "sed etiam<sup>2</sup> hominem factum has methodos conscium laudavisse.",
+    "Linguam graecam jam puer amavisset, si discos quibus illam sine molestia discere potuisset in promptu habuisset<sup>3</sup>.",
+    "Aurelius Augustinus quarto saeculo aetatis nostrae vivebat<sup>4</sup>.",
+    "Juvenis rhetoricam docuerat. Senior<sup>5</sup> episcopus Hipponis, in Numidia, creatus est<sup>6</sup>.",
+    "Praecipua ejus<sup>7</sup> opera sunt Confessiones, unde sententias superiores excerpsimus, et libri de Civitate Dei.",
+    "Ejus scribendi genus quamquam purae latinitatis est, a nobis satis facile legitur, itaque ab eo incepimus.",
+    "Non tamen semper facillimus est, saepe enim problemata difficilia proponit.",
+    "Deinde auctores recentiores videbimus, antequam cum veteribus nonnullis consuetudinem jungamus.",
+    "Quae excerpta<sup>8</sup> cum lectionibus consuetis, varietatis causa<sup>9</sup>, miscebimus<sup>10</sup>.",
+    "Nondum enim de vita cottidiana sententias verbaque satis multa didicimus."
+  ],
+  "english": [
+    "In the [previous] (higher) lesson you saw [that] a learned man not only [had used] natural methods unconsciously when he was a child (not knowing) to learn his own language...",
+    "but also [that,] (having) become a man, [he had deliberately] (conscious) [praised] these methods.",
+    "He would have liked the Greek language [from childhood] (already a child) if he had had at his disposal recordings with which he could have learnt it without effort.",
+    "Aurelius Augustinus lived in the 4th century of our era.",
+    "[As a] young man, he had taught rhetoric. [Older] (older), he was appointed bishop of Hippo, in Numidia.",
+    "His principal works are the Confessions, from which we took the sentences above, and the books of the City of God.",
+    "His [way] (kind) of writing, although it [is] of pure Latin, is fairly easy [for us] to read (by us easily is read); that is why we began with him.",
+    "He is not always very easy, however, for he often [develops] (proposes) difficult problems.",
+    "Next we will see more recent authors, before [making] (subj.) the acquaintance of some ancient ones.",
+    "These extracts [we will mix with] the usual lessons [to add] (for the sake of) variety.",
+    "In fact [we have] not yet [learnt enough] words and sentences of everyday life (sentences and words enough many we have learnt)."
+  ],
+  "notes": {
+    "footnotes": [
+      "Superiore. Comparatives make the ablative in e, whereas adjectives of the 3rd declension make the ablative in i. E.g.: oppressus est vehiculo veloci, he got himself run over by a fast vehicle; but vehiculo velociore, by a faster vehicle. We take this opportunity to remind you in passing that the COMPLEMENT OF AGENT is not preceded by a (ab before a vowel) unless the agent is a living being.",
+      "Non solum... sed etiam, not only..., but also; a very frequent expression. You can also see that the two infinitive clauses which follow respectively the two terms of this expression are built in parallel: non solum... usum esse, — sed etiam... laudavisse, and both are direct complements of the main verb vidistis (at the beginning of P. 1).",
+      "In promptu habere, to have at hand. We have seen a similar expression (L. 48, P. 2). The word promptus, -us, is only used in the ablative, and in particular in this expression. There exists on the other hand the adjective promptus, -a, -um, perfect participle of promo, -is, -ere, prompsi, promptum, to take out of. Promere vinum e dolio, to draw wine from the barrel.",
+      "Vivo, -is, -ere, vixi, victum, to live. Vixit, the perfect of this verb, means: he is dead (since he has finished living!).",
+      "Senior, comparative of senex, -is, old. Used as a noun, senex means: the old man.",
+      "Creatus est, perfect of creari (passive). Creare (active) means both to create and to appoint. Note that episcopus, predicate of the understood SUBJECT, is in the nominative (cf. L. 46, N. 16). — Hippo, -onis, m., today Bône.",
+      "Ejus and not suae, since the noun that ejus replaces (its antecedent) is not the subject of the clause.",
+      "Excerpo, -is, -ere, cerpsi, cerptum, to extract; derived from carpo, -is, -ere, carpsi, carptum, to pick. Quae excerpta, accusative neuter plural.",
+      "Varietatis causa, for the sake of variety. Do not forget that causa is in the ablative and that you have already seen the same construction there as in exempli gratia (e.g.), for example.",
+      "Misceo, -es, -ere, miscui, mixtum, to mix."
+    ],
+    "comments": [
+      "From Vita Latina, no. 19, «Colloquia latina» by the pupils of Professor Michel Rambaud.",
+      "P. 4 and P. 5: Laborare, word for word, to work (painfully)! — Bergintrum, oppidum sabaudiense, Bourg-Saint-Maurice, town (stronghold) of Savoy. Sabaudiensis, -e, adj., derived from the name Sabaudia, Savoy. — Alpes, -ium, f. pl., no singular, the Alps or the alp. — Mons, montis, m., the mountain. — Nix, nivis, f., gen. pl. nivium, snow. — Narta, -ae, f., ski. We will speak of this word again; we are permitting ourselves to slip it in here, at the end of the next lesson. — Labor, -eris, -i, lapsus sum, to slide. Have you noticed, while reading the exercise, that the subjects of sentences 6 and 9 are visibly feminine?"
+    ]
+  },
+  "exercises": {
+    "latin": [
+      "Salve! Quid agis?",
+      "Non bene me habeo.",
+      "Quid mali est tibi?",
+      "Capite laboro.",
+      "Capite laboras? Nonne ferias habuisti Januario mense?",
+      "Nullas habui, sed si habuissem, libenter in montes profecta essem.",
+      "In montes? Equidem Bergintri, in Alpibus, octo dierum ferias egi.",
+      "Quid ibi fecisti?",
+      "Montes scandi et per nives narta lapsa sum."
+    ],
+    "english": [
+      "Hello! [How are you] (what are you doing)?",
+      "I don't feel well.",
+      "What's [the matter with you] (what of evil is to you)?",
+      "I have a headache (I suffer in the head).",
+      "You have a headache? Didn't you take [any] holidays in the month of January?",
+      "I took none, but if I had taken some I would gladly have left for the mountains.",
+      "[To the] mountains? I myself spent a week's (of eight days) holiday at Bourg-Saint-Maurice, in the Alps.",
+      "What did you do there?",
+      "I went mountaineering and skied down the snow (I climbed mountains and on skis through the snows I glided)."
+    ],
+    "footnotes": []
+  }
+}

@@ -1,0 +1,79 @@
+{
+  "meta": {
+    "lesson": 50,
+    "title": "Lectio quinquagesima",
+    "subtitle": {
+      "latin": "Quid agis hodie?",
+      "english": "What are you doing today?"
+    },
+    "revision": false
+  },
+  "latin": [
+    "Quid agis hodie? Tempestate<sup>1</sup> hac serena jucundum sit domo exire.",
+    "Ludis et athleticis nimis delectaris<sup>2</sup>, studia autem neglegis;",
+    "... incepisti linguam latinam discere, nondum<sup>3</sup> tamen classici auctoris operam<sup>4</sup> ullam<sup>5</sup> legisti.",
+    "Quid ex me quaeris? Primum linguam latinam classicam intellegere non possum; deinde auctores classici taediosi sunt; tum aerem purum desidero<sup>6</sup>.",
+    "Bonitate<sup>7</sup> aeris puri excepta<sup>8</sup>, aliquantulum<sup>9</sup> erras: scripta simplicia linguae classicae jam intellegere posses si velles<sup>10</sup>... Ergo, si vis, cras incipiemus...",
+    "ita consuetudinem<sup>11</sup> jungemus cum auctoribus novis et veteribus.",
+    "Placet<sup>12</sup>, si taediosos vitamus: etiam nostra aetate non desunt in omnibus linguis auctores qui intellegi<sup>13</sup> non possunt.",
+    "Nihil timueris! Multi sunt auctores latini omnium generum: quod quaerimus, id haud<sup>14</sup> difficulter inveniemus.",
+    "Tibi confido. Sed primum eamus ambulatum<sup>15</sup>!"
+  ],
+  "english": [
+    "What are you doing today? In this [fine] (serene) weather it would be pleasant to go out of the house.",
+    "You [like] games and sports [too much] (by games and sports too much you are delighted), but you neglect [your] studies;",
+    "you have started learning Latin [and you have not yet read a single work by a classical author] (not-yet one-single work of-a-classical-author you have read).",
+    "What [are you asking of] me (from me)? First I cannot understand classical Latin; then the classical authors are boring; finally I [lack] fresh air.",
+    "[Apart from] the benefit(s) of fresh air (excepted), you are a little bit mistaken: you could already understand simple writings in classical Latin if you wanted to (but you don't)... So, if you want, we will begin tomorrow...",
+    "in this way we will make the acquaintance of recent and ancient authors.",
+    "[All right] (it pleases), if we avoid the bores: even in our time, in all languages, there is no lack of authors [who are incomprehensible] (who cannot be understood).",
+    "Don't be afraid (subj. pft) [of] anything! There are many Latin authors of all kinds: we will find what we are looking for [without difficulty] (not with-difficulty).",
+    "I trust you. But first let's go for a walk!"
+  ],
+  "notes": {
+    "footnotes": [
+      "Tempestas, -atis, f., the weather; sometimes the storm; tempus, -oris, n., time that passes; the same difference as in English between weather and time, or in German between Wetter and Zeit.",
+      "Delectaris: the passive turn is often preferred when it is a question of verbs of state (you are delighted by) rather than the active turn: ludos et athletica amas; besides, the verb amare applies rather to people than to things.",
+      "Nondum, adv., not yet.",
+      "Opera, -ae, f., work (of art); opus, operis, n., work, labour; opus est + inf., it is necessary.",
+      "Ullus, -a, -um, any, is not negative in itself: the negation is already found in nondum; the use of the pronoun nullus, -a, -um, which is negative, would turn the sentence into an affirmation.",
+      "Desiderare, to feel the lack of something.",
+      "Bonitas, -atis, f., from bonus, -a, -um. From now on we will no longer indicate words in -tas, -tatis, f., which correspond to our words in -ty (French -té). Note that the correspondence is often clearer in form than in substance.",
+      "Excipio, -is, -ere, cepi, ceptum = ex + capio, to take out of, to withdraw, to except. Here in the ablative of the participle (ablative absolute).",
+      "Aliquantulum: we have seen quantus, -a, -um, how big; whence aliquantus, of a certain size; and its diminutive aliquantulus, of a certain size however small, that is to say of a certain smallness; used here adverbially.",
+      "Posses si velles: imperfect of the subjunctive corresponding to a conditional. This construction corresponds to the PRESENT UNREAL: you could (do it today) if you wanted to (but you don't want to).",
+      "Consuetudo, -inis, f., habit (L. 29, N. 13). Words in -do, -dinis are feminine; consuetudinem jungere, to form an acquaintance (that is to say habitual relations).",
+      "Placeo, -es, -ere, placui, v. i., to please. On a ballot paper (tessera, like a railway ticket) the inscription placet means YES (NON SE DIT veto, I forbid).",
+      "Intellego, -is, -ere, intellexi, intellectum, inter + lego.",
+      "Haud is used in front of an adjective or an adverb in preference to non: it makes it possible to show unambiguously that THE NEGATION APPLIES TO THE WORD THAT FOLLOWS AND NOT TO THE WHOLE SENTENCE.",
+      "Ambulatum, is, we remind you, the supine of ambulare. The accusative of the supine in um is practically only used after verbs of motion: eo visum, I go to see. The ablative, which is in u, is only used after certain adjectives: horribile visu, horrible to see."
+    ],
+    "comments": [
+      "Aequalis, -e, equal; here understood: in age. — Lapis, lapidis, m., stone, both the cut stone and the precious stone: do you know the noun and adjective LAPIDARY?",
+      "Our notes sometimes repeat themselves: that is because we are trying both to simplify your work and to make the important words well known to you."
+    ]
+  },
+  "exercises": {
+    "latin": [
+      "Ubi est Johannellus?",
+      "Folle ludit cum aequalibus.",
+      "Mavult ludere quam laborare. Mavult ludum quam laborem. Ludum labori praefert.",
+      "Melius est ludere cum tempestas serena est et litteris studere cum pluit.",
+      "Si tempestas serena esset, tecum folle libenter luderem.",
+      "Placetne tibi ludus follis?",
+      "Placet, sed hodie pluit lapidibus: librum legere malo.",
+      "In bibliothecam intremus! Ecce liber quem nunquam legisti!"
+    ],
+    "english": [
+      "Where is little John?",
+      "He is playing ball with [boys of his own age] (equals).",
+      "He prefers playing to working. He likes playing better than work. He prefers play to work.",
+      "It is better to play when the weather is fine and [to read] (to apply oneself to letters) when it rains.",
+      "If the weather were fine, I would gladly play ball with you.",
+      "Do you like (does it please you) the ball game?",
+      "I like it, but today [it is pouring with rain] (it rains with stones): I prefer to read a book.",
+      "Let's go into the library! Here is a book you have never read!"
+    ],
+    "footnotes": []
+  }
+}

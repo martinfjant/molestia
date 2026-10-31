@@ -1,0 +1,88 @@
+{
+  "meta": {
+    "lesson": 71,
+    "title": "Lectio septuagesima prima",
+    "subtitle": {
+      "latin": "Dignus erat qui latine scriberet",
+      "english": "He was worthy of writing Latin"
+    },
+    "revision": false
+  },
+  "latin": [
+    "Genovefa. — Ave, Alberte! Valde intentus videris: ter fores pulsavi, at tu nihil audisti. Quare intrare ausa sum*<sup>1</sup>.",
+    "Albertus. — Ave Genovefa! Bene fecisti: reapse<sup>2</sup> nihil audivi. Asside<sup>3</sup>, precor!",
+    "Gen. — Nolo molesta esse. Multa tibi agenda esse videntur.",
+    "Alb. — Minime! Librum legebam. Nostine*<sup>4</sup>? Librum Genovefae porrigit.",
+    "Gen., titulum legens. — Antonius a Sancto Exuperio<sup>5</sup>: Regulus, vel pueri soli sapiunt. Hujus libri famam non ignoro. Nonne ille Sanctus Exuperius aëronauta fuit?",
+    "Alb. — Profecto. Ante Bellum omnium alterum aëronaves cursuales<sup>6</sup> et vectorias<sup>7</sup> gubernavit.",
+    "Bello ipso, in Classe Aëria meritus est. Aëronavem speculatoriam<sup>8</sup> regens mortem obiit*<sup>9</sup>.",
+    "Non solum aëronauta fuit audax<sup>10</sup> et generosus, sed etiam plures libros optimos scripsit, in quibus se philosophum quoque humanissimum praebuit.",
+    "Gen. — Scripsitne latine?",
+    "Alb. — Dignus erat qui latine scriberet<sup>11</sup>. Liber autem qui Regulus inscribitur, in linguam latinam a Professore Augusto Haury, Universitatis Burdigalensis, optime conversus est<sup>12</sup>.",
+    "Gen. — De quibus rebus in hoc libro agitur?",
+    "Alb. — Cras hoc videbimus."
+  ],
+  "english": [
+    "Geneviève. — Hello, Albert! You look very absorbed: I knocked three times [at] the door, but you heard nothing. [That's why] (for which thing) I [took the liberty] (dared) of coming in.",
+    "Albert. — Hello Geneviève! You did well: [truly] I heard nothing. [Sit down,] I beg [you].",
+    "Gen. — I don't want to disturb [you]. You seem to have a lot to do.",
+    "Alb. — Not at all! I was reading a book. Do you know [it]? — He hands the book to Geneviève.",
+    "Gen., reading the title. — Antoine de Saint-Exupéry: The Little Prince, or only children can understand. I am not unaware of the renown of this book. Saint-Exupéry was an aviator, wasn't he?",
+    "Alb. — Indeed. Before the second [world] war (of all nations), he flew mail and passenger planes.",
+    "During the war itself, he served in the [Air Force] (air fleet). He [met his] death [flying] (piloting) a reconnaissance plane.",
+    "He was not only a bold and courageous aviator, but he also wrote several excellent books, in which he [showed himself to be] also a very humane philosopher.",
+    "Gen. — Did he write in Latin?",
+    "Alb. — He was worthy of writing Latin. But the book entitled The Little Prince has been very well translated into Latin by Professor Haury, of the University of Bordeaux.",
+    "Gen. — [What] (about which things) is this book about?",
+    "Alb. — We will see that tomorrow."
+  ],
+  "notes": {
+    "footnotes": [
+      "Audeo*, -es, -ere ausus sum, ausum, is a SEMI-DEPONENT verb: it takes a passive form in the series of the perfectum: perfect: ausus sum, ausus es, etc. (ausa sum, etc., if it is a woman); p.q.p. ausus eram, eras, etc.",
+      "Reapse, adv., in effect, in reality.",
+      "Assido, -es, -ere, sedi, v.i., to sit down; assideo, -es, -ere, sedi, sessum, to be seated; sedeo, same conjugation: to be seated, to remain motionless. Sedes, -is, f., seat. Sancta Sedes: the Holy See.",
+      "Nostine, or nostin', abridged form of novisti, followed by the interrogative particle.",
+      "A Sancto Exuperio: the «de» of certain French names is translated by a + abl. (ab before a vowel). Likewise, Vincentius a Paulo, Vincent de Paul. But if the «de» is followed by the name of an important town or country, one can use the adjective in ensis; e.g. Martinus Turonensis, Martin of Tours (Turonien).",
+      "Cursualis, -e, relating to the post or to the race (cursus, -us, m.); we have already seen this adjective (L. 15 and L. 22, N. 9).",
+      "Vectorius, -a, -um, adj., already seen in lesson 64. A transport plane for goods would be aeronavis oneraria (cf. L. 10).",
+      "Speculatorius, -a, -um: from speculari, to observe; speculator, scout (soldier charged with a reconnaissance mission); mereri, to deserve (here, the pay, whence to be a soldier).",
+      "Obeo*, -is, -ire, ivi or ii, itum (irregular verb conjugated like ire), to go in front of, to die. It is not indispensable to specify mortem; e.g. obiit anno 1953°, he died in 1953.",
+      "Audax, -acis, adj.: from audere, to dare.",
+      "Dignus qui + subj.: this phrase can usefully be retained.",
+      "Converto, -is, -ere, verti, versum: 1° to turn (e.g. convertere terga, to turn (one's) back); 2° to translate (e.g. convertere librum de lingua graeca in latinam)."
+    ],
+    "comments": [
+      "Lampas, -adis, f., the lamp (one also says lychnus, -i, as we will see soon). — Computatio, -onis: from computare, to count; one also says calculus, -i, m., this word meaning, in its proper sense, the pebble. But, in modern Latin, calculus designates rather the «differential and integral calculus». This branch of mathematics was invented separately by Newton and by Leibniz, who both, moreover, wrote their treatises in Latin. — Nititur: we will come back to the verb niti (L. 74); you can forget it for the moment.",
+      "SECOND WAVE: the 22nd lesson."
+    ]
+  },
+  "exercises": {
+    "latin": [
+      "Qui liber est hic?",
+      "Est tractatus de re electrica.",
+      "Possumne eum inspicere?",
+      "Manifesto potes! Ut inspiciantur consulentur legantur, libri eduntur.",
+      "Gratias! Video te hominem non esse qui libros tuos in thecas concludas et ab eorum usu amicos prohibeas.",
+      "Librum aperio ejusque paginas volvo.",
+      "Hic tractatus longe aliter est quam credebam.",
+      "Quid enim in eo te credebas inventurum?",
+      "Descriptiones machinamentorum, lampadum variorumque hujuscemodi, multis imaginibus ornatas exspectabam...",
+      "nec quidquam aliud video quam computationes mathematicas, figurasque geometricas cum signis quae non intellego.",
+      "Hoc fit* quod ad instrumenta electrica excogitanda, theoria electricitatis, quae mathematicis nititur, perutilis est."
+    ],
+    "english": [
+      "What book is this?",
+      "It is a treatise on [electricity] (electric thing).",
+      "Can I look at it?",
+      "Obviously you can! Books are [made] (published) for [being] (that they be) looked at, consulted and read.",
+      "Thank you! I see that you are not a man who [shuts up] his books in [cases] and [keeps his friends from using them] (keeps away friends from their use).",
+      "I open the book and I turn its pages.",
+      "This treatise is far from what I believed.",
+      "What then did you think you would find in it?",
+      "I was expecting descriptions of machines, of lamps and of various things of this kind, with many pictures (adorned)...",
+      "and I see nothing other than mathematical calculations and geometric figures with signs that I don't understand.",
+      "That is (made) because, to conceive electrical apparatus, the theory of electricity, which relies on mathematics, is very useful."
+    ],
+    "footnotes": []
+  }
+}

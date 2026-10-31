@@ -1,0 +1,100 @@
+{
+  "meta": {
+    "lesson": 67,
+    "title": "Lectio sexagesima septima",
+    "subtitle": {
+      "latin": "Vincula inter populos artiora fiunt",
+      "english": "The ties between peoples are becoming closer"
+    },
+    "revision": false
+  },
+  "latin": [
+    "... Praecipuae tres technicae artes, quibus auribus voces, oculis autem rerum imagines, ex longinquo proponuntur,",
+    "hoc est cinematographica, radiophonica ac televisifica ars,",
+    "non ad homines tantummodo recreandos relaxandosque pertinent,",
+    "quamvis non pauci hoc solum requirant auditores spectatoresque,",
+    "sed ad ea potissimum propaganda, quae, cum ad animi culturam, et ad virtutem alendam attineant<sup>1</sup>,",
+    "non parum possunt ad civilem nostrorum temporum societatem recte instituendam conformandamque conferre*.",
+    "Faciliores modo quam typis edita<sup>2</sup>, id profecto hae technicae artes efficere possunt",
+    "ut homines nempe inter se communicent sibique sociam praestent operam.",
+    "Veritati autem propagandae ea ratione inserviant<sup>3</sup>",
+    "ut vincula inter populos artiora<sup>4</sup> cottidie fiant,",
+    "ut iidem mutua rerum aestimatione se intellegant,",
+    "ut in quovis<sup>5</sup> rerum discrimine<sup>6</sup> inter se adjuvent,",
+    "ut denique inter rei publicae moderatores singulosque cives adjutrix<sup>7</sup> intercedat<sup>8</sup> opera."
+  ],
+  "english": [
+    "The three principal [technical arts], by which words [are transmitted] to the ears and images to the eyes (of things) (from far are presented),",
+    "that is to say cinema, radio and television (cinematographic, radiophonic, tele... art),",
+    "do not belong uniquely [to the] recreation and relaxation of men (to men... to recreate and to relax),",
+    "although (not few) [many] listeners and spectators claim only that,",
+    "but (to these things) above all [to the propagation of things] (to propagate) which (these... which), as they touch (subj.) the culture of the soul and [the maintenance of] morals (virtue to nourish),",
+    "[can make a not negligible contribution] (not little can) [to the establishment and improvement] of the [modern] (of our times) civil society (to the civil society of our times rightly to establish and to improve to bring).",
+    "[These technical arts, which offer even more possibilities than the press] (easier still than the things published by typography), [can precisely contribute to this] (this precisely these technical arts to make can)",
+    "that men certainly communicate between themselves and [lend each other mutual assistance] (to themselves associated lend work).",
+    "[They must serve] the propagation of the truth in such a way (that they serve, subj. pres.),",
+    "that the ties between the peoples become each day [closer],",
+    "that these same [peoples] understand one another by a mutual estimation of things,",
+    "that they help one another in [every trial] (no matter what difficulty of things),",
+    "[and] that finally [a collaboration] (helping work) intervenes between the heads of State and [the ordinary citizens] (one by one)."
+  ],
+  "notes": {
+    "footnotes": [
+      "Pertineo, -es, -ere, -ui, v. i. (P. 3), and attineo (P. 5), both derived from teneo, I hold, have the same conjugation (2nd); the former is in the present indicative, the latter in the present subjunctive.",
+      "Edita, perfect participle of edo, -is, -ere, edidi, editum, to bring to light, to publish. Not to be confused with edere (esse), to eat.",
+      "Inservire + dative (here: veritati propagandae, the truth to be propagated); servire, to be in servitude; inservire, to serve something.",
+      "Artior, comparative of artus (or arctus), tight.",
+      "Quivis, quaevis, quodvis, indefinite adjective, no matter which.",
+      "Discrimen, -inis, n., distinction, difference, difficulty, danger.",
+      "Adjutor, -oris (f. adjutrix, -icis), he (she) who helps.",
+      "Intercedo, -is, -ere, cessi, cessum, to intervene."
+    ],
+    "comments": [
+      "Perhaps you have already noticed that Latin sometimes used long sentences: it is because the structure of this language, which is both flexible and precise, makes it possible to build constructions capable of representing complex thoughts.",
+      "1° You will see that the first sentence, although it contains 63 words grouped in 7 clauses, is in the end not very complicated.\n\nArtes (P. 1) is the subject of the main clause. We will find the main verb further on, but let us not worry about it yet.\n\nQuibus, ablative (by which), introduces a first subordinate (relative) clause which has two subjects, voces, words, and imagines, images; two indirect objects in the dative, auribus, which corresponds to the first subject (voces), and oculis, which corresponds to the second (imagines); an adverbial complement in the ablative, ex longinquo (longinquus, distant) and whose verb is proponuntur (passive voice).\n\nHoc est... ars (P. 2) is a parenthesis introduced by hoc est (same meaning as id est, that is to say).\n\nPertinent (P. 3) is the MAIN VERB. The construction of its first complement, ad homines recreandos, should now be familiar to you.\n\nQuamvis... spectatores (P. 4) is a concessive adverbial clause (introduced by quamvis, although) in the present subjunctive (requirant). The adjective pauci refers to auditores and to spectatores.\n\nSed... propaganda (P. 5) is the 2nd indirect object of pertinent, constructed in opposition to the first: non tantum ad homines recreandos, sed ad ea propaganda... (pertinent).\n\nEa calls for quae (P. 5) (is... qui, the one who) which introduces a relative clause whose verb is possunt (P. 6).\n\nCum ...attineant (P. 5) is the causal adverbial clause in the subjunctive placed inside this relative clause.\n\nConferre (P. 6) is an infinitive, object of possunt.\n\nThis verb conferre, whose sense is made precise by the adverb parum, has as its first indirect object: ad societatem civilem, «civil society» to which is attached: a noun complement in the genitive, nostrorum temporum and two verbal adjectives, instituendam and conformandam.",
+      "2° The construction of the second sentence (P. 7 and P. 8) is very easy: id efficere possunt, ut homines, etc. (these arts) can make (id = this) (ut) men, etc. Id announces ut, as above ea announced quae.",
+      "3° We find an analogous construction in the last sentence: ea ratione... ut, in such a way... that. In fact there are four clauses in parallel, each introduced by an ut, and announced by the same ea ratione. The main verb inserviant is in the subjunctive because it is a question of a wish.",
+      "If this long analysis has not put you off, and above all if you understood it without great difficulty, we say to you: BRAVO! You have crossed the most difficult step and the Latin road is wide open to you. In the opposite case, do not worry, calmly follow the course of the lessons and revisions: the rest will come in its own time... it is enough to be patient!",
+      "Remarks. — On the telephone or the radio, to make comprehension easier, letters are spelled with the help of conventional words, for example A as Anatole, B as Bernard, etc. To remain Latin, we could have called our aeroplane (the civil call signs of aeroplanes are composed of letters) Aulus Decius, good Roman first names. But as the code prescribed by the I.C.A.O. (International Civil Aviation Organization) is largely of Graeco-Latin inspiration (Alpha, Bravo, Coca, Delta, Echo, etc.), we preferred not to modify it.",
+      "For the same reason of intelligibility certain numbers are pronounced digit by digit. E.g. P. 3: duo, septem, quinque = 275, understood gradibus (degrees).",
+      "The expression O.K. (pronounced oké) is a slang term of aeronautics inherited from American. Those who know its Latin origin will notice that the restored pronunciation does not change the phonetics of the expression, but makes the spelling mistakes of the original words disappear (orl' korrect).",
+      "Finally note that certain words are in the ablative (altitudine, cursu, etc...) for they play the role of adverbial complements.",
+      "Today the lesson and the exercise were long and somewhat out of the ordinary. If you have had some difficulty following them, do not waste too much time on them. Better to come back to them when you have some leisure to use.",
+      "SECOND WAVE: the 18th lesson."
+    ]
+  },
+  "exercises": {
+    "latin": [
+      "Haec est aëronavis «Alpha Delta» vocans Novi Eboraci aëroportum! Quemadmodum me audis?",
+      "Aëronavis «Alpha Delta» a Novi Eboraci aëroportu: te valde et clare audio. Unde venis et quo vadis?",
+      "Novum Eboracum ab A.D.: Londinio Novum Eboracum, altitudine pedum 30 000 (triginta milia), cursu 275 (pr. duo, septem, quinque) in nubibus volans.",
+      "A.D. a N.E.: Radari contingeris, cursu ad aeroportum 230 (duo, tria, zero), distantia 50 milia nautica. Usque ad pedum sex milia (6 000) descende.",
+      "N.E. ab A.D.: cursu 230, descendens... nunc altitudine pedum 6 000.",
+      "A.D. a N.E.: Altitudinem et cursum serva, aëroportus 20 milia distat, rotas educ* (appulsus) valvas ad libitum.",
+      "N.E. ab A.D.: Rotis eductis* valvisque probatis.",
+      "A.D. a N.E.: Quinque gradibus dextrorsum, descensionem ultimam incipe, sescentis pedibus per minutam... duobus gradibus sinistrorsum; descensione optima.",
+      "N.E. ab A.D.: O.C. (omnia correcta) (Appulsus) plateam conspicio.",
+      "A.D. a N.E.: Visu appelle, platea libera est!"
+    ],
+    "english": [
+      "[This is] (this one is) the aeroplane «Alpha Delta» calling New York airport! How do you [read me] (hear)?",
+      "Aeroplane «Alpha Delta», from New York airport: I hear you loud and clear. Where are you coming from and where are you going?",
+      "New York, from A.D.: from London to New York; altitude 30,000 feet; heading 275 (two, seven, five) flying in the clouds.",
+      "A.D., from N.Y.: [Radar contact] (you are touched — that is to say you are seen — by the radar); [heading] (by course) for airport 230 (two, three, zero), distance 50 nautical miles. Descend to 6,000 feet.",
+      "N.Y., from A.D.: Heading 230, descending..., now at an altitude of 6,000 feet.",
+      "A.D., from N.Y.: Maintain altitude and heading, the airport is 20 miles away, lower (the wheels) [the undercarriage], the (landing) flaps [at your discretion] (at pleasure).",
+      "N.Y., from A.D.: [undercarriage] (wheels) lowered and flaps checked! (abl. abs.)",
+      "A.D., from N.Y.: five degrees to the right; begin the final descent [at a rate] of six hundred feet per minute... two degrees to the left; very good descent (abl. abs.).",
+      "N.Y., from A.D.: O.K. (all correct). I see the (landing) runway.",
+      "A.D., from N.Y.: Land visually, the runway is clear!"
+    ],
+    "footnotes": []
+  },
+  "sources": [
+    {
+      "after": 13,
+      "latin": "E Pii XIIi, litteris encyclicis Miranda Prorsus.",
+      "english": "(From Pius XII, encyclical letter Miranda Prorsus. This passage is also found in Textes latins modernes, by J. Delannoy (O.C.D.L., Paris). The original texts of the encyclicals are published by the Vatican.)"
+    }
+  ]
+}

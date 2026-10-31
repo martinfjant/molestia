@@ -1,0 +1,136 @@
+{
+  "meta": {
+    "lesson": 97,
+    "title": "Lectio nonagesima septima",
+    "subtitle": {
+      "latin": "A diurnario nostro accepimus",
+      "english": "From our special correspondent"
+    },
+    "revision": false
+  },
+  "latin": [
+    "Acta diurna<sup>1</sup>! Acta diurna quis emit?",
+    "Quanti constant? — 50 libellis<sup>2</sup>!... Gratias, Domne!",
+    "Incredibile est! Quae funesta calamitas! Vide! Lege ipse!",
+    "Vesuvii<sup>3</sup> eruptio. Oppida sepulta... Incredibile prorsus!",
+    "Certiores facti sumus maximam calamitatem Campaniae incidisse<sup>4</sup>.",
+    "Haec a diurnario nostro, C. Plinio Secundo<sup>5</sup> accepimus:",
+    "«Miseni A. D. 9 kal. septembres anno 832° U. C. (Urbis conditae).",
+    "Praecesserat<sup>6</sup> per multos dies tremor terrae, minus formidolosus<sup>7</sup> quia Campaniae solitus.",
+    "Illa vero nocte ita invaluit<sup>8</sup> ut non moveri omnia sed verti<sup>9</sup> crederentur.",
+    "Tum demum excedere oppido visum (est). Egressi tecta consistimus. Multa ibi miranda, multas formidines patimur.",
+    "Nam vehicula, quae produci jusseramus, quamquam in planissimo campo,",
+    "in contrarias partes agebantur ac ne lapidibus quidem<sup>10</sup> fulta<sup>11</sup> in eodem vestigio<sup>12</sup> quiescebant.",
+    "Praeterea mare in se resorberi<sup>13</sup> et tremore terrae quasi<sup>14</sup> repelli videbamus.",
+    "Certe processerat litus<sup>15</sup>, multaque animalia maris siccis harenis<sup>16</sup> detinebat<sup>17</sup>.",
+    "Ab altero latere, nubes atra et horrenda, ignei spiritus tortis<sup>18</sup> vibratisque<sup>19</sup> discursibus<sup>20</sup> disrupta<sup>21</sup>,",
+    "in longas flammarum figuras dehiscebat<sup>22</sup>;",
+    "fulguribus<sup>23</sup> illae et similes et majores erant...»"
+  ],
+  "english": [
+    "Newspapers! Who's buying newspapers?",
+    "How much [are they] (do they cost)? — 50 lire!... Thank you, Sir!",
+    "It's incredible! What a terrible catastrophe! Look! Read it yourself!",
+    "Eruption of Vesuvius. Towns buried... Truly incredible!",
+    "[It is confirmed to us] (we are made more sure) that a very great catastrophe has struck (on the) Campania (dat.).",
+    "Here is what we have received from our [special correspondent] (journalist) Pliny the Younger (cf. N. 5):",
+    "«Misenum, [24 August 79] (9th day before the calends of September, in the year 832 of the foundation of Rome).",
+    "[It had begun] (had preceded) [for] many days [with] (a) frightening earthquake, [but] less frightening because habitual in Campania.",
+    "But that night it increased so much that all things [seemed] not to be moved but to be overturned (were believed, subj. impf. pass.).",
+    "[It was] then only that it [appeared good] to go out of the [town] (fortified). Once out of the houses (roofs) we [stay on the spot]. There we are struck by many incredible and frightening things (many to admire, many terrors we suffer).",
+    "For the vehicles, which we had ordered [to be brought out], although on very flat ground,",
+    "were pushed in contrary [directions] (parts) and, even wedged with stones, could not stay [in place] (on the same trace rest).",
+    "In addition, we saw the sea [withdraw] (be absorbed) into itself and as if pushed back by the earthquake.",
+    "Certainly the shore had advanced and was holding many sea animals on the dry sand(s).",
+    "On the other side, a black and horrible cloud, torn apart by twisted and shaken scatterings of fiery vapour (spirit),",
+    "was splitting into long shapes of flames;",
+    "these were like lightning and bigger...»"
+  ],
+  "notes": {
+    "footnotes": [
+      "Acta diurna, w. f. w., the things done (p.p.p. of agere), the events of the day (dies, whence the adjective diurnus, -a, -um). Our journal has a parallel origin (jour).",
+      "Libella, -ae, f., diminutive of libra, -ae, f., the pound (weight and money), gave the lira, Italian currency.",
+      "Vesuvius, -ii, m., Vesuvius, volcano that you have certainly heard of. Further down, for Misenum, see the beginning of E. 95.",
+      "Incido, -is, -ere, cidi, to fall in or on; from cadere, to fall; not to be confused with incedere, to walk (against), to arrive (same family and same conjugation as praecedere of P. 8 and excedere of P. 10).",
+      "Caius Caecilius Plinius Secundus, Pliny the Younger (62-113 A.D.), high official famous for his correspondence, is the nephew of Pliny the Elder (C. Plinius Secundus), who wrote a voluminous treatise on Natural History.",
+      "Praecedo, -is, -ere, cessi, cessum, to walk in front, to precede.",
+      "Formidolosus, -a, -um, fearful or frightening; from formido, -inis, f., fear, terror.",
+      "Invalescere, inchoative verb (cf. R. and N. 91 § 3, d), to grow strong (from valere).",
+      "Verto, -is, -ere, verti, versum, to turn; we have already seen its compound convertere (L. 71, N. 12).",
+      "Ne... quidem, ne..., not even.",
+      "Fultus, -a, -um: from fulcio, -is, -ire, fulsi, fultum, to support; fultura, -ae, f., support.",
+      "Vestigium, -ii, n., the trace; same family: vestigare, to look for the trace (fr. investigation).",
+      "(Re)sorbeo, -es, -ere, -ui (no supine), to swallow, to absorb (again).",
+      "Quasi: 1° conj., as if; 2° adv., so to speak.",
+      "Litus, -oris, n., the shore, the coast.",
+      "Harena or arena, -ae, f. (already seen E. 60, P. 7), the sand, the beach or the arena.",
+      "Detineo, -es, -ere, -ui, -tentum (from tenere), to hold away, to retain.",
+      "Torqueo, -es, -ere, torsi, tortum, to make turn, to twist.",
+      "Vibrare, to shake, to vibrate or to make vibrate.",
+      "Discurrere, to run on all sides; whence discursus, -us, m., disordered movement. It is only in the Middle Ages that this word took parallel the sense of description (cf. the Discourse on Method of Descartes), then of discourse.",
+      "Disrumpo (or dirumpo), -is, -ere, rupi, ruptum (rumpere, to break), to make burst.",
+      "Dehisco, -is, -ere (neither pft, nor supine), to open, to split.",
+      "Fulgur, -uris, n., the flash; fulgor, -oris, m., gleam; fulgeo, -es, -ere, fulsi (no supine), to shine; fulmen, -inis, n., the thunderbolt; thunder is said tonitrus, -us, m."
+    ],
+    "comments": [
+      "Did you notice that this story is a hoax? We borrowed it from the humorous newspaper Acta Diurna (cf. BIBLIOGRAPHICAL INDEX), whose habit is to present «on the front page» some of these sensational articles! In fact this article is extracted from a letter (VI, 20) of Pliny the Younger to one of his relatives. As Pliny was an eyewitness of the catastrophe and as his letters were sometimes read in public — but we cannot affirm to you that they appeared in the Acta Diurna of the time — you can see that this hoax is less abusive than one might believe it at first. Let us hope that if such events are to happen again, the lesson that Pliny's testimony gives us will not be lost!",
+      "SECOND WAVE: the 48th lesson."
+    ]
+  },
+  "exercises": {
+    "latin": [],
+    "english": [],
+    "footnotes": []
+  },
+  "song": {
+    "kind": "Carmen",
+    "title": {
+      "latin": "Calix Sanctus",
+      "english": "Holy cup"
+    },
+    "latin": [
+      "Provinciae propinemus",
+      "Celebrandae patriae!",
+      "Omnes ordine bibamus",
+      "Merum nostrae vineae!",
+      "Chorus: Calix sancte, ignis plene,",
+      "Fund(e) animis,",
+      "Ardorem funde laetum,",
+      "Viresque fortium.",
+      "Gentis liber(ae) et antiquae",
+      "Optat cladem Barbarus:",
+      "Lingua nostra si taceret,",
+      "Decus nostr(um) occideret.",
+      "Immo gentis resurgentis",
+      "Prima simus semina!",
+      "Et latinae civitatis",
+      "Condamus fundamina."
+    ],
+    "english": [
+      "Let us raise our glass to the Province",
+      "— to celebrate the Fatherland.",
+      "— Let us all drink, turn by turn,",
+      "— the pure wine of our vineyard.",
+      "Refrain: Holy cup, full of fire,",
+      "— pour into the souls",
+      "— ardour, pour joy",
+      "— and the strength of courageous men!",
+      "Of a free and ancient people",
+      "— the barbarian wishes the loss:",
+      "— if our language fell silent,",
+      "— our glory would fall.",
+      "But of a people that is reborn,",
+      "— let us be the first seeds!",
+      "— And of the Latin city",
+      "— let us build the foundations."
+    ],
+    "source": "After Coupo santo, Provençal words by Frédéric Mistral."
+  },
+  "sources": [
+    {
+      "after": 17,
+      "latin": "Ex Actis Diurnis (LIII).",
+      "english": "(From Acta Diurna, no. 53.)"
+    }
+  ]
+}

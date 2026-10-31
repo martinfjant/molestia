@@ -1,0 +1,90 @@
+{
+  "meta": {
+    "lesson": 66,
+    "title": "Lectio sexagesima sexta",
+    "subtitle": {
+      "latin": "Microscopium",
+      "english": "The microscope"
+    },
+    "revision": false
+  },
+  "latin": [
+    "Microscopii vi, in pulice<sup>1</sup>, musca, vermiculis, accurata corporis figura et lineamenta<sup>2</sup>...",
+    "necnon<sup>3</sup> colores et motus prius non conspicui, non sine admiratione cernuntur<sup>4</sup>.",
+    "Quin etiam<sup>5</sup>, aiunt, lineam rectam, calamo vel penicillo descriptam, per hujusmodi<sup>6</sup> microscopium inaequalem admodum et tortuosam cerni.",
+    "Etiam superstitiosam quamdam interpretationem in hac re (ut fit in rebus novis aut miris) addiderunt homines...",
+    "videlicet hujusmodi microscopia opera naturae illustrare, artis dehonestare.",
+    "Illud vero nihil aliud est quam<sup>7</sup> quod<sup>8</sup> texturae naturales multo<sup>9</sup> sint subtiliores quam artificiosae...",
+    "Quod perspicillum si vidisset Democritus, exsiluisset forsitan,",
+    "et modum videndi atomum (quam ille invisibilem omnino affirmavit) inventum esse putasset<sup>10</sup>."
+  ],
+  "english": [
+    "[Thanks to the] microscope (by force of the), on a flea, a fly, small worms, the exact shape of the body and the details...",
+    "and even the colours and movements previously invisible, are clearly seen, not without wonder.",
+    "What's more, [it is said] (they say) [that] a straight line, drawn with the pen or with a paintbrush, [appears] through a microscope of this kind completely irregular and twisted (to be seen).",
+    "To this thing (as this happens for new or astonishing things), men also added a certain [unreasonable interpretation] (superstitious)...",
+    "namely [that] microscopes of this kind [highlight the] (bring to light) works of nature, [and] dishonour [those] of art.",
+    "In truth, this is nothing other than (quam) the fact that (quod) natural tissues [are] (be) much finer than artificial ones...",
+    "If Democritus had seen such a (quod, which) microscope he would perhaps have leapt for joy,",
+    "and he would have thought that the means of seeing the atom (which he affirmed, he, completely invisible) had been found."
+  ],
+  "notes": {
+    "footnotes": [
+      "Pulex, -icis, m., the flea; vermiculus, -i, m., diminutive of vermis, -is, m., the worm. The verse of a poem is called versus, -us, m.",
+      "Lineamentum, derived from linea, the line.",
+      "Necnon, and also; the product of two negations is an affirmation.",
+      "Cerno, -is, -ere, crevi, cretum, to see clearly.",
+      "Quin is either a conjunction, used with verbs of doubt or prevention (e.g.: non dubito quin + subj., I do not doubt that...), or, as here, an adverb, meaning: why... not? Followed by etiam or immo, it has the sense of what's more.",
+      "Hujusmodi: the two words that compose it, hic and modus, are welded when this expression is in the genitive; one also says hujuscemodi.",
+      "Quam: adverb used to mark comparison or equality. Alius, -a, -ud... quam, other... than; subtilior quam, finer than; melior quam, better than; tam quam, as much as.",
+      "Quod (used here as a conjunction), that, the fact that, because.",
+      "Multo, in front of a comparative (subtiliores) reinforces the latter (cf. Grammatical appendix 44).",
+      "You should have recognized a few pluperfects of the subjunctive in sentences 7-8: vidisset, exsiluisset (exsilio, -is, -ire, -ui, v. i. = ex + salio, vid. E. 64, P. 8), putasset (abridged form of putavisset, p.q.p. of the subj. of putare). This last sentence is in the past unreal."
+    ],
+    "comments": [
+      "Francis Bacon, English philosopher, who is considered one of the creators of the experimental method (1561-1626).",
+      "Today and tomorrow, we are offering you more difficult texts. If this attempt did not seem satisfactory to you, do not be discouraged for all that. The day after tomorrow we will take up a more restful rhythm.",
+      "Constare (cum + stare), to consist, to be made of (ex. + abl.), also means to cost: do you remember quanti constat? from lesson 10? — Sat, abridged form of satis, enough. — Atomus, -i, f., and electro[n], -onis, m., are words of Greek origin. Note that the former is feminine. We had already seen methodus, -i, f.",
+      "Sentence 12 is the last verse of the 3rd Bucolic of Virgil. It is sometimes quoted to indicate that an argument or a speech has lasted long enough. As this must also be your opinion, we say to you: Until tomorrow: Valete! Cras nos revisemus!",
+      "SECOND WAVE: the 17th lesson."
+    ]
+  },
+  "exercises": {
+    "latin": [
+      "Quis fuit Democritus?",
+      "Fuit philosophus graecus qui quinto saeculo ante aetatem nostram vixit.",
+      "Materiam ex atomis constare arbitrabatur.",
+      "Atomi quales sunt?",
+      "Hoc nomen graece res insecabiles, id est quae secari non possunt, significat.",
+      "Ergo omnis materia e partibus insecabilibus, velut granis, constat?",
+      "Nonnullas habemus rationes cur ita credamus.",
+      "Attamen grana materiae quae saeculi praeteriti homines docti atomos vocabant...",
+      "nunc a saeculi nostri doctis in plures partes dividuntur...",
+      "scilicet in nucleum et electrones qui circum nucleum circumagi dicuntur.",
+      "Nucleus ipse nunc in partes dividitur...",
+      "Claudite jam rivos, pueri, sat prata biberunt!"
+    ],
+    "english": [
+      "Who was Democritus?",
+      "He was a Greek philosopher who lived in the fifth century before our era.",
+      "He thought that matter was made up of atoms.",
+      "Atoms, what are they?",
+      "This name means in Greek «indivisible» things, that is to say which cannot be cut.",
+      "So all matter [is formed] of indivisible parts, like grains?",
+      "We have some reasons to think so.",
+      "However, the grains of matter which the [learned men] (men learned) of the last century called atoms",
+      "are divided into several parts by the learned men of our century...",
+      "namely (in) a nucleus and electrons which are said to turn around the nucleus.",
+      "Now, the nucleus itself is divided into parts...",
+      "Close [the sluices] (the channels), children: the meadows have drunk enough!"
+    ],
+    "footnotes": []
+  },
+  "sources": [
+    {
+      "after": 8,
+      "latin": "E Francisci Bacon Novo Organo.",
+      "english": "(From the Novum organum of Francis Bacon. The original text, as well as some other extracts by F. Bacon, can be found in Textes latins modernes, by J. Delannoy (O.C.D.L., ed.).)"
+    }
+  ]
+}

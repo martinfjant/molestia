@@ -1,0 +1,82 @@
+{
+  "meta": {
+    "lesson": 46,
+    "title": "Lectio quadragesima sexta",
+    "subtitle": {
+      "latin": "Equum disjungamus (sequitur)",
+      "english": "Let's unhitch the horse (continued)"
+    },
+    "revision": false
+  },
+  "latin": [
+    "Cella ad tabulatum evecta<sup>1</sup>, adulescens valvam<sup>2</sup> aperit<sup>3</sup>. Equus et amicus e carcere suo<sup>4</sup> erumpunt<sup>5</sup>.",
+    "Equum firmiter tene! Cave<sup>6</sup> ne strepat neve<sup>7</sup> inquilinos<sup>8</sup> excitet dum<sup>9</sup> in loco ancipiti<sup>10</sup> sumus.",
+    "Haec verba proferens adulescens januam quamdam cautissime<sup>11</sup> unco<sup>12</sup> aperire conatur<sup>13</sup>.",
+    "Irascitur amicus, equum tamen mutum cogens<sup>14</sup>: «Nolo, inquit, furti<sup>15</sup> conscius esse<sup>16</sup>».",
+    "Esto<sup>17</sup> quietus! Nihil furabimur. Nihil inhonesti agemus. Tibi postea rem explicabo.",
+    "Ecce! Janua aperta est: intremus!",
+    "Equum per fauces<sup>18</sup> angustas propellunt. Tandem in cellam quamdam balneariam perveniunt.",
+    "Nunc praecipue auxilium tuum necessarium est."
+  ],
+  "english": [
+    "The cabin having arrived at the floor, the young man opens the door. The horse and the friend [come out] of their prison (burst out).",
+    "Hold the horse firmly! [Make sure] (beware) [that] it doesn't make a racket and that it doesn't wake the tenants while we are in [a tricky situation] (a two-headed place).",
+    "Saying these words, the young man tries with [the greatest] (the most) precautions [to pick] (with a hook to open) [a] (certain) front door.",
+    "The friend gets angry, but nevertheless [keeps the horse quiet] (silent forcing): “I don't want, he says, to be [an accomplice to] a theft.”",
+    "Be calm! We are not going to do anything (we will steal nothing). We are not going to do anything dishonest. [I will tell you] later (thing I will explain).",
+    "There! The door is open: let's go in!",
+    "They push the horse through a narrow corridor (plural). Finally they reach a (certain) bathroom.",
+    "Now above all your help is necessary."
+  ],
+  "notes": {
+    "footnotes": [
+      "Cella evecta: another ablative absolute! Evecta, perfect passive participle of eveho = ex + veho (-is, -ere, vexi, vectum, to carry [by means of a vehicle], to carry upwards).",
+      "Valva. We already had porta, the gate of a city, and janua, the door of a house. Valva designates the door in general, or even the valve (valve in mechanics and diode in radio-electricity).",
+      "Aperio, -is, -ire, aperui, apertum, to open. Not to be confused with operio, same conjugation, which means to cover, to cover over.",
+      "Suus, sua, suum, is the possessive adjective corresponding to the reflexive pronoun se (sui, sibi). Both normally refer to the subject of the clause, as we told you yesterday (L. 45, N. 2). If it is not the subject, then the genitive ejus of the demonstrative adjective-pronoun of reference is, ea, id is used to replace the possessive pronoun (see E. 44, P. 5).",
+      "Erumpo, -is, -ere, erupi, eruptum = ex + rumpo (lit.: to come out by breaking, to burst out).",
+      "Caveo, -es, -ere, cavi, cautum, to take care. Example: Cave canem!, beware of the dog (see figure); Cave ne cadas, be careful not to fall.",
+      "Neve = et ne, just as neque = et non.",
+      "Inquilinus, -a, m. or f., inhabitant, tenant, comes from the same root as incolere, to inhabit. The inhabitant of a country is called incola, -ae, m. — Strepo, -is, -ere, strepui, intransitive verb (no direct object), without supine, gave strepitus, -us, m., din. In Latin there are different words to represent the different kinds of noise: sonitus, -us, m., noise in general; crepitus, -us, m., crackling (also an unseemly noise); tonitrus, -us, m., noise of thunder, etc.",
+      "Dum + ind. = while; dum + subj. = until.",
+      "Anceps, ancipitis, adj., two-headed, in other words, of which one does not know which end to take. You already saw it in L. 31, P. 4: anceps erit exitus.",
+      "Cautus is the perfect participle of caveo (vid. sup., N. 6), whence the adverb caute, cautiously, and its superlative cautissime. Do not forget the pronunciation: kawtousss, kawéo — and remember that U and V were formerly represented by the same letter.",
+      "Uncus, -i, m., the hook; uncatus or uncinatus, bent, hook-shaped (unciform).",
+      "Conor, -aris, etc. + inf., to try (to do something).",
+      "Cogo, -is, -ere, coegi, coactum (cum + ago), to force.",
+      "Furtum, -i, n., theft, from fur, furis, m., thief; furari, to steal, whose future you will find in the following sentence.",
+      "Conscius (from cum + scire) is the opposite of nescius (ignorant). Note also that conscius is in the nominative, although it is in an infinitive clause. You know that the infinitive clause has its subject in the accusative (and the same goes for the predicate of the subject if the verb in the infinitive is a verb of state). But here the infinitive clause is incomplete: conscius, which can have no antecedent other than the subject of the MAIN CLAUSE, must agree with it, and therefore be in the nominative. On the other hand one would say dico me conscium esse, for in that case the infinitive clause is complete: subject me (and no longer ego understood), which can only be in the accusative, whence conscium, predicate, also in the accusative.",
+      "Esto!, be!; estote!, be (pl.)!, future imperative of the verb esse.",
+      "If you have forgotten fauces, refer to L. 40, P. 7 and N. 9."
+    ],
+    "comments": [
+      "Sentence 2. Have you acquired the habit of mentally pronouncing quadragesimae quintae in Latin, and not 45 in English? Do not forget that ordinal number adjectives are declined (here gen. sg.)... and certain cardinal adjectives too.",
+      "Note (P. 6) tulit, perfect of that famous irregular verb fero, fers, ferre, tuli, latum, to carry."
+    ]
+  },
+  "exercises": {
+    "latin": [
+      "Amicus certus in re incerta cernitur.",
+      "Estne vir ille lectionis 45ae et sequentium, a quo adulescens auxilium petivit, amicus certus?",
+      "Hoc scies postquam totam fabellam legeris.",
+      "Sine dubio adulescens in locum ancipitem eum induxit.",
+      "Nonne res est incerta equum ad tabulatum quintum pegmate scansorio ducere?",
+      "Ergo si in tali casu auxilium alteri tulit, certus est amicus.",
+      "Ita non arbitror. Adulescens equum furatus est: is non est amicus certus qui furti conscius est.",
+      "Qui equum furabitur, is in carcerem conjicietur.",
+      "Quae cum ita sint, nescis cujus sit equus quem adulescens surripuit."
+    ],
+    "english": [
+      "One recognizes a sure friend in [a tricky situation] (an uncertain thing).",
+      "Is the man of lesson 45 and the following ones, whom the young man asked for help, a sure friend?",
+      "You will know when you have read the whole story.",
+      "Without [any] doubt the young man [put him] in a tricky situation (led).",
+      "Isn't it [a risky] (uncertain) business to take a horse to the fifth floor by lift?",
+      "So, if in such a case he helped the other, he is a sure friend.",
+      "[I don't think so] (thus I do not think); the young man stole the horse; he who is the accomplice of a theft is not a sure friend.",
+      "[Whoever] (he who) steals a horse will be thrown into prison.",
+      "[Under these conditions] (which things since thus they are), you don't know to whom the horse belongs that the young man stole."
+    ],
+    "footnotes": []
+  }
+}

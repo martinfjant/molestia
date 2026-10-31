@@ -1,0 +1,79 @@
+{
+  "meta": {
+    "lesson": 64,
+    "title": "Lectio sexagesima quarta",
+    "subtitle": {
+      "latin": "Volatus probativus<sup>1</sup>",
+      "english": "Test flight"
+    },
+    "revision": false
+  },
+  "latin": [
+    "Aëronavis quaedam vectoria ad aëroportum appropinquat. Vectores lucidis litteris scriptum vident: «Zonis cingimini»<sup>2</sup>.",
+    "Quod praeceptum megaphonio iteratur. Vectores zonis cinguntur, ne, si quid acciderit, alii super alios projiciantur neve<sup>3</sup> ita gravius vulnerentur.",
+    "Iterum vox megaphonii. — Optimi vectores! Testes<sup>4</sup> primi eritis inauditi antehac experimenti. Hic est enim volatus vectorius<sup>5</sup> qui primus sine gubernatore fit.",
+    "Navis qua vehimini gubernatorio<sup>6</sup> automato regitur et nunc undis radioëlectricis usque ad aëroportum perducetur.",
+    "Nullus est gubernator apud vos, sed tantum famulus et famula qui vobis commoda ministrant<sup>7</sup>.",
+    "Haec, propter aemulationem, usque ad id temporis ceteras societates celare debuimus. Sed nihil timueritis, optimi vectores!...",
+    "Omnia sollertissime provisa sunt; omnes apparatus, quamquam tutissimi, tamen duplices<sup>8</sup> comparati sunt<sup>9</sup>.",
+    "Si, quod vix possibile videtur, unus ex his deficiat, alter ejus ministerio statim fungetur.",
+    "Ergo quieti estote, nihil necopinati accidere<sup>10</sup> pot... Silentium sepulcrale sequitur...",
+    "Etsi vox megaphonii repente deficeret, contigit ut aeronavis vectores metu pallidos, tamen incolumes, ad aëroportum adveheret."
+  ],
+  "english": [
+    "An [airliner] (transporting aeroplane) is approaching the airport. The passengers see an inscription in luminous letters: «Fasten your seat belts (be attached by belts)».",
+    "This order is repeated by the loudspeaker. The passengers [fasten] their belts (are attached by belts) so that, if something serious happens (fut. perfect), they are not all thrown on top of one another and so that they are not more seriously injured.",
+    "Again the voice of the loudspeaker. — [Dear] (excellent) passengers! You are the first witnesses of a [hitherto unheard-of] (unprecedented) experiment. This is indeed the first commercial flight to be made without a pilot.",
+    "The aeroplane [in] which you are (transported) is piloted by an automatic pilot, and now it will be guided by electromagnetic waves to the airport.",
+    "There is no [human] pilot [on board] (with you), but only the steward and the hostess who look after your comfort (serve your comforts).",
+    "These things, because of the competition, we had to hide them from the other companies until this moment. But, dear passengers, [don't fear] (subj. pft) anything!...",
+    "Everything has been [technically] (very ingeniously) planned: all the devices, although very safe, are nevertheless [doubled] (provided double).",
+    "If, which seems barely possible, one of them [were to break down], the other would immediately take over its function (abl.).",
+    "So be calm, nothing unforeseen can happ... — A silence of death follows...",
+    "Although the voice of the loudspeaker [had a sudden failure] (suddenly failed), it happened fortunately that the aeroplane brought the passengers, pale with fear, but nevertheless unhurt, to the airport."
+  ],
+  "notes": {
+    "footnotes": [
+      "Probativus, -a, -um (from probare), to verify, to experiment. Volatus, as well as (aëro)portus, casus, apparatus, and in the exercise, concentus, gustus and tumultus, are of the 4th declension. You have probably realized that the words of the 4th declension are for the most part abstract nouns drawn from the supine of a verb. E.g.: cadere, to fall; supine casum (abl. casu). The noun casus, -us, the fact of falling, the accident, chance, the case, made in the ablative casu, by chance (same form as the ablative of the supine, which is moreover hardly ever used).",
+      "Cingo, -is, -ere, cinxi, cinctum, to gird; cingimini: 2nd person plural of the present passive imperative. Note that the Latin passive often corresponds to the French reflexive. Here cingi = to gird oneself. Likewise lavare = to wash; lavari = to wash oneself.",
+      "Ne = ut non: so that... not, lest + subjunctive. Neve = vel ne, or so that... not; same mood.",
+      "Testis, -is, m., witness; testimonium, -i, n., testimony.",
+      "Veho, -is, -ere, vexi, vectum, gave vectio, -onis, f., the action of transporting; vector, -oris, m., the traveller (cf., in math., the vector); vectrix, -icis, f., the female traveller; as well as the adjective vectorius, -a, -um, relating to travel. Aëronavis vectoria, transport aeroplane, commercial aeroplane.",
+      "From the verb gubernare came gubernaculum (vid. L. 62, N. 17); gubernator, the pilot (man) (vid. inf. P. 5); as well as the adjective gubernatorius, -a, -um. If the pilot were a woman she would be gubernatrix, but as here it is a sexless device, the neuter form of the adjective must be used: gubernatorium, which thus becomes a noun (that is, a name).",
+      "Ministrare, to serve; minister, -tri, m. (f., ministra, -ae), servant; ministerium, -ii, n., service.",
+      "Duplex, -icis (for all three genders), double; likewise simplex, simple, triplex, quadruplex, etc.",
+      "Comparare, to prepare, to arrange, to procure (cf. L. 27, N. 14).",
+      "Accidere: this verb refers to an unforeseen event (necopinatus, -a, -um) but whose possibility is denied by the negative pronoun nihil. Then, after the emotion caused by the failure of the loudspeaker, the landing at the right place is truly a happy event, whence contigit in the following sentence (vid. sup. L. 62, N. 14)."
+    ],
+    "comments": [
+      "PRONUNCIATION. — 1 a-éronawiss, a-éroportoumm. The diaeresis has the same role as in French: it separates a vowel which would otherwise form a diphthong (ae) with the neighbouring vowel.",
+      "N.B. — When you listen to the record, do not blame your record player if you hear something abnormal in sentence 9.",
+      "Note the construction quod mihi muneri obtulit (double dative). Munus, muneris, should now be known to you. Obtulit, perfect of offerre*, to offer. One could also have said more simply mihi dono dedit (same construction). — Aeneator, -oris, m., the one who plays an instrument in copper (aeneus, -a, -um). Note also tubicen, -inis, m., the player of the straight trumpet (tuba, -ae, f.), and the expression tuba canere, to play (sing) the trumpet, or, figuratively, to announce something with great noise. — Versari, to frequent.",
+      "Saltare, to dance (cf. L. 30, N. 4 and exercise); saltator, -trix, dancer; the corresponding adjective is saltatorius; saltatio, -onis, f., the dance. To jump is salire (4th conjugation, supine saltum); saltus, -us, m., the jump. Natura non facit saltus, nature does not make leaps, say people who believe in the continuity of physical phenomena.",
+      "SECOND WAVE: the 15th lesson."
+    ]
+  },
+  "exercises": {
+    "latin": [
+      "Quod est hoc instrumentum?",
+      "Hoc est grammophonium quod avunculus mihi muneri obtulit*.",
+      "Musicane delectaris?",
+      "Ita, musica delector, praecipue classica.",
+      "Ego musicam hodiernam malo*, in primis nigritas aeneatores citharasque electricas.",
+      "Ego vero clavichordium, fidiculas, organum malo*, et in concentibus maxime versor.",
+      "De gustibus non est disputandum.",
+      "Aliis concentus symphoniaci placent, aliis musica saltatoria, aliis clamor et tumultus."
+    ],
+    "english": [
+      "What is this instrument?",
+      "It's the record player which my uncle [gave me as a] present (offered as a gift: double dative).",
+      "Do you like music?",
+      "Yes, [I love] (I am delighted by) music, principally classical.",
+      "I prefer modern music, above all Black trumpet players and electric guitars.",
+      "But I prefer the piano, the violin, the organ, and I go to concerts a lot.",
+      "[There's no accounting for taste] (about tastes and colours one must not argue).",
+      "[Some] prefer symphony concerts (please), others dance music, others [shouting] (clamour) and racket."
+    ],
+    "footnotes": []
+  }
+}

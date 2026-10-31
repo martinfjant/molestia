@@ -1,0 +1,76 @@
+{
+  "meta": {
+    "lesson": 47,
+    "title": "Lectio quadragesima septima",
+    "subtitle": {
+      "latin": "Equum disjungamus (concluditur)",
+      "english": "Let's unhitch the horse (end)"
+    },
+    "revision": false
+  },
+  "latin": [
+    "Amici ambo<sup>1</sup> equum compedibus<sup>2</sup> illigant<sup>3</sup> eumque pedibus sublevatum subito in labrum dejiciunt.",
+    "Equus his omnibus actis ita obstupefit ut<sup>4</sup> nullam vocem edere audeat.",
+    "Amici ambo valvas cellae balneariae januamque habitationis claudunt; suspenso gradu silentes exeunt.",
+    "In via tandem alter ex altero quaerit: «Dic mihi nunc qua causa haec omnia perfecerimus.»",
+    "Planissimum est: Haec est domus hominis qui mihi maxime molestus est...",
+    "cottidie enim talia mihi proponit aenigmata<sup>5</sup> qualibus nihil unquam respondere possum.",
+    "Ei demonstrem oportet me non tam stupidum esse quam ipse<sup>6</sup> arbitratur.",
+    "Sine ullo dubio, cras iste<sup>7</sup> mihi novissimum<sup>8</sup> aenigma proponet: «Possisne mihi dicere quid in labro hodie mane invenerim?»",
+    "At ei respondebo: «Equum!»"
+  ],
+  "english": [
+    "The two friends tie the horse with hobbles, and, [lifting it] by its feet (to it by feet lifted), [suddenly tip it] into the bathtub.",
+    "The horse is so stupefied [by all this] (by all these acts) that it does not dare [to utter a sound] (no voice).",
+    "The two friends close the bathroom door and the front door of the flat; they leave [quietly on tiptoe] (by suspended step, keeping silent).",
+    "In the street, at last, one asks (of) the other: “Now, tell me for what reason we have done (subj. perf.) all this.”",
+    "It's very simple: [this] (this one) is the house of a man who is extremely disagreeable to me...",
+    "for every day he sets me riddles [to which I can never reply] (such that to me riddles he proposes to which nothing ever to reply I can).",
+    "I must show him that I am not as stupid as he himself thinks.",
+    "Without any doubt, tomorrow this individual will set me a [very] last riddle: “Could you tell me what I found [this] (today) morning in my bathtub?”",
+    "Then I shall reply to him: “A horse!”"
+  ],
+  "notes": {
+    "footnotes": [
+      "Ambo, ambae, ambo (cf. L. 45, N. 13) is declined like duo, duae, duo, two; acc. ambos, ambas, ambo; gen. amborum, ambarum, amborum; dat. and abl. ambobus, ambabus, ambobus.",
+      "Compedes, -um (f. pl. of the 3rd declension), from cum + pedes (pl. of pes, pedis, the foot), hobbles.",
+      "Illigare = in + ligare, to bind. At first sight, the simple verb and its compound are translated in the same way. You must already have noticed that Latin very often uses compound verbs (illigare, conducere, comedere, etc.)... and perhaps you thought it did so at random. In fact the simple verb can only indicate the action in its general sense, whereas the compound verb makes it possible to show that this action is applied to a precise case. E.g.: plicare, to fold, says less than applicare (ad + plicare), which means to fold against something, whence the figurative sense: applicare se ad aliquam rem, to lean on (apply oneself to) something. Likewise one says: edere oportet ut vivas, one must eat [in order] to live, but comedere pastillum farctum, to eat (up) a sandwich.",
+      "Ita..ut. We have already seen these two (separable) brothers (L. 39, N. 6). After ita, ut takes the subjunctive (audeat).\n\nObstupefieri is conjugated like fieri (cf. L. 43, N. 4). It is a semi-deponent verb with passive sense like fieri, which takes the passive form in the perfect (and in the tenses derived from the perfect) (obstupefactus sum, I was stupefied). The corresponding active verb is obstupefacere, which is conjugated like facere. Verbs in facere indicate a state that one MAKES someone undergo, and they go in pairs with verbs in fieri, which indicate that the subject UNDERGOES the transformation. E.g. calefacere, to heat; calefieri, to become hot, to be heated (see exercise).",
+      "Aenigma, -atis, n. We have already seen pegma, -atis (L. 45, N. 12). There are other Greek neuter words declined in the 3rd declension, although they have the nominative in -a; their genitive is in -atis; dat. -ati; abl. -ate; plural: nominative acc. -ata, gen. -atum, but dat. abl. in -atis instead of -atibus (forgetting this last peculiarity is not a serious matter in our eyes). Another example: problema, -atis, n., the problem.",
+      "Ipse, ipsa, ipsum: if you have forgotten it, refer to L. 44, N. 14.",
+      "Iste, which we have seen (L. 44, N. 2), is taken here in its pejorative sense: that awful...",
+      "Novissimus, -a, -um, is the superlative of novus, -a, -um (new), the newest, that is to say the last. E.g.: agmen, -inis, n., which we saw (L. 36), means in military language: the army on the march; novissimum agmen, the rearguard."
+    ],
+    "comments": [
+      "Aedes, -is, f. (more generally used in the plural), designates a large house, whereas domus is the house where one lives (whence domicilium, the domicile). Habitatio, -onis, f., the apartment, the part of a building rented by a private individual. Cenaculum, -i, n., is the small lodging, where one can just about dine (cenare).",
+      "Do not forget that domus has a hybrid declension: acc. domum, gen. domus, dat. domui, abl. domo; plural: nominative domus, acc. domus or domos, gen. domuum or domorum, dat. and abl. domibus; finally the locative: domi, at home. If you decline domus entirely in the second declension, you will only be wrong three times: dat. sg., nominative pl., dat. and abl. pl. If, on the contrary, you had bet on the 4th, there would only be one mistake, the abl. sg. domo."
+    ]
+  },
+  "exercises": {
+    "latin": [
+      "Adestne cella balnearia in domo tua?",
+      "Ita! domi meae est cella balnearia.",
+      "Hac addita, membra domus nostrae quinque sunt.",
+      "Alia sunt: culina, triclinium et cubicula duo.",
+      "Quot sunt inquilini in aedibus?",
+      "Sunt duodecim familiae: sex tabulata et duae habitationes (vel cenacula) in singulis tabulatis.",
+      "Quomodo calefitis?",
+      "Ab imo calefimus.",
+      "Pulcherrime! haec est calefactionis ratio recentissima.",
+      "Ita, sed antiquissima quoque, nam a Romanis inventa est."
+    ],
+    "english": [
+      "Is there a bathroom in your house?",
+      "Yes! At [my] house there is a bathroom.",
+      "[Including this one] (added), there are five [rooms] (members) in our house.",
+      "The others are: the kitchen, the dining room and two bedrooms.",
+      "How many tenants are there in the building?",
+      "There are twelve families: six floors and two flats (or «cenacula») on each floor (plural).",
+      "How [do you heat your homes] (are you heated)?",
+      "We are heated [through the floor] (from below).",
+      "Magnificent! It's an ultra-modern means of heating.",
+      "Yes, but very old too, for it was invented by the Romans."
+    ],
+    "footnotes": []
+  }
+}

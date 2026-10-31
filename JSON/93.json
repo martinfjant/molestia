@@ -1,0 +1,104 @@
+{
+  "meta": {
+    "lesson": 93,
+    "title": "Lectio nonagesima tertia",
+    "subtitle": {
+      "latin": "Studio flagramus Urbis lustrandae",
+      "english": "We are burning with desire to visit the city"
+    },
+    "revision": false
+  },
+  "latin": [
+    "— Roma! Roma! Omnes vectores e curribus descendite!",
+    "— Utinam amici nostri in statione nos exspectent! Sine eorum auxilio, quid in hac urbe ignota faciamus?",
+    "— Aspice! Domnum prope exitum, cum vestibus cinereis et domnam cum stola crocea<sup>1</sup>, qui ambo nobis manibus significant.",
+    "— Salvete, optimi amici! Ut valetis?",
+    "— Salvete et vos! Valemus! Vos autem? Bene iter fecistis?",
+    "— Optime! Lectulos conduxeramus, toto itinere dormivimus, et mane sole splendido experrecti sumus<sup>2</sup>.",
+    "— Si fessi non estis, postquam impedimenta<sup>3</sup> vestra domi reliqueritis, urbem extemplo lustrare poteritis*.",
+    "— Consilium tuum nostris cum optatis valde congruit<sup>4</sup>. Studio flagramus urbis lustrandae<sup>5</sup>.",
+    "— Raeda meritoria in stationis platea nos exspectat. Sine me vidulum ferre*.",
+    "Rector, duc*<sup>6</sup> nos domum meam, in via Flaminia, numero tricesimo septimo.",
+    "— Tardius perge, obsecro te! Nihil videre possumus*...",
+    "— Hic domi sumus. Intrate quaeso... En cubiculum vestrum.",
+    "— Labellum<sup>7</sup> habetis in cubiculo, cum aquae frigidae et calidae epistomiis<sup>8</sup>, sed est quoque balneum.",
+    "— Si lavari vultis*, ecce sapo et manutergia<sup>9</sup>. Eadem libertate, qua domi vestrae, frui potestis*<sup>10</sup>.",
+    "— Antequam abeamus*, poculum caffei una sumamus.",
+    "— Quo ibimus*?",
+    "— Primum in Janiculum montem ascendemus unde totam urbem conspicere poterimus*."
+  ],
+  "english": [
+    "— Rome! Rome! All passengers, get off the train (carriages)!",
+    "— [If only] our friends are waiting for us at the station! Without their help, what would we do in this unknown city?",
+    "— Look! The gentleman near the exit, in a grey suit, and the lady in a saffron dress, both of whom are waving to us (with their hands).",
+    "— Hello, excellent friends! How are you?",
+    "— Hello to you too! We are well. And you? Did you have a good journey?",
+    "— Very good! We had hired [couchettes]; we slept the whole journey, and this morning we were woken by a dazzling sun.",
+    "— If you are not tired, after you have left your things at the house, you will be able to visit the city straight away.",
+    "— Your [suggestion] (advice) [fits] perfectly with our wishes. We are burning with desire to visit the city.",
+    "— The taxi is waiting for us in the station square. Let me carry [a] suitcase.",
+    "Driver, take us to my house, (in) Via Flaminia, number 37.",
+    "— [Go more slowly], I beg you! We can't see anything...",
+    "— Here we are at home. Come in, please... Here is your room.",
+    "— You have a washbasin in the room with taps for cold and hot water, but there is also a bathroom.",
+    "— If you want [to freshen up] (to be washed), here are soap and towels. [Make yourselves at home] (you can profit from the same freedom as at your house).",
+    "— Before leaving, let's have a cup of coffee together.",
+    "— Where shall we go?",
+    "— First we will climb the Janiculum (hill), from where we will be able to see the whole city."
+  ],
+  "notes": {
+    "footnotes": [
+      "Croceus, -a, -um, colour of the saffron flower (crocus), that is to say orange yellow. We have already seen (L. 22) cinereus, ash-coloured, and a few other colours. We have also seen those of the three factions in the carmen circense (L. 76). — What are the colours of the rainbow? Violet, violaceus, from viola, the violet - indigo (for memory, for this colour has no other natural role than to allow the bad well-known alexandrine: violet, indigo, blue, etc.), indicum, -i, n., name which designates only the dye (the adjective indicus means Indian) - blue, caeruleus (caerula, -orum, the azure parts of the sky) - green, viridis, -e, said above all of plants (virere, virescere, revirescere, to be green, to turn green, to turn green again) - yellow, fulvus (blond is said flavus, whence the verb flavescere which one uses, for example, to designate ripening wheat), orange, flammeus (colour of flame: flamma, -ae, of the same family as flagrare of P. 8) - red, ruber, -bra, -brum. We are far from having exhausted the list, for in Latin, as in all languages, the nuances are very numerous. If the question interests you, you can usefully consult the vocabulary of BALSAN (cf. BIBLIOGRAPHICAL INDEX).",
+      "Expergiscor, -eris, -i, perrectus sum, to wake up; expergefacio, -is, -ere, factus sum, to wake (someone); expergefio, -fis, -fieri, factus sum, to be woken by someone or something (passive of the previous one). — There exist numerous variants of the pair facere-fieri; for example, patefacere, to open; patefieri, to be opened (from patere, to open oneself, to be visible); stupefacere, to stun, to stupefy; stupefieri (passive); stupere (verb of state), to be in the state of stupefaction.",
+      "Impedimenta, -orum, from impedire, to hinder, literally to put in shackles (in pedes). In French one also says impedimenta. — What are the tenses of the verbs of P. 7? — Answer: present indicative, future perfect indicative, present infinitive, future indicative.",
+      "Congruo, -is, -ere, -ui, v.i., to meet, to coincide, to agree; congruus, -a, -um, suitable, in conformity (cf. French congru, incongru).",
+      "There are two verbs lustrare; the first comes from lucere, to shine (lux, light) and means to light; the second has two very different senses, 1° to purify (with lustral water, lustralis aqua); 2° to go round..., to visit, to examine, but which meet up if one throws lustral water while moving about.",
+      "Duc: the verbs dicere, ducere, facere, ferre, do not take an e in the 2nd person singular of the present imperative: it is easy to remember them thanks to the formula dic duc fac fer.",
+      "Labellum, -i, n., diminutive of labrum that we have seen (L. 85, N. 12).",
+      "Epistomium, -ii, n., the tap, word of Greek origin (one also says epitonium).",
+      "Manutergium, -ii, n., towel for wiping (tergere) the hands (manus); cf., in the liturgy, the manuterge. — Note on the other hand that ecce is constructed with the nominative (e.g.: ecce homo, behold the man). En (P. 12) has the same sense and is constructed in the same way.",
+      "Qua: as it is a question of a comparison, the verb frui (+ abl.) whose eadem is the complement, is also understood after qua (see translation): these two words are therefore in the ablative."
+    ],
+    "comments": [
+      "Armilla, -ae, f., bracelet. — Monile, -is, n., necklace. — Anulus, -i, m., ring. — Speculum, -i, n., mirror (cf. optics, specular reflection, reflection as on a mirror). — Pecten, -inis, m., the comb. While we are at it, let us add calamister, -tri, m., the curling iron, to remind you that the French word «calamistré» means curled with a small iron, and not pomaded, as one sometimes believes. — Acus, -us, f., is one of the rare feminines of the 4th declension; note the dative ablative plural in ubus. — Filum, -i, n., the thread. — Laneus, -a, -um; of wool (lana, -ae, f.). — Xylinus, -a, -um, of cotton (word of Greek origin). — Sericus, -a, -um, from the country of the Seres, that is to say the Chinese, great producers of silk. — Sutor, -oris, m., the shoemaker; shoemaker's shop, sutrina; likewise tonsor and tonstrina, from tondeo, -es, -ere, totondi, tonsum, to shear. — Sportula, -ae, f., diminutive of sporta, -ae, f., the basket. The «sportula» had taken on a bad reputation, for it served for a kind of begging. Sudarium, -i, n., handkerchief for wiping sweat; has given the French suaire. The handkerchief for blowing one's nose is in Latin mucinnium, -i, n. The last sentence is a trap sentence, intended to show that one must sometimes reflect before rushing at the first sense that comes to mind. The first word is the present imperative of neo, -es, -ere, nevi, netum, to spin or to weave, and the last is the future of suo, -is, -ere, -i, sutum, to sew, which gave sutor (P. 9) and in French suture. — The other words of the exercise present no difficulty: you must have found yourself vestifex, -icis, m., the tailor (one also says vestificus, and vestifica for the seamstress).",
+      "SECOND WAVE: the 44th lesson."
+    ]
+  },
+  "exercises": {
+    "latin": [
+      "Ubi sunt uxores nostrae?",
+      "Paucis abhinc minutis ante frontem tabernae aurariae constiterunt.",
+      "Illuc eamus visum!",
+      "Haec armilla argentea mihi non displicet.",
+      "Potius aspice hoc monile aureum.",
+      "Nec armillas, nec monilia nec anulos quaero, sed speculum et pectinem.",
+      "Haec in magna taberna inveniemus.",
+      "Opus est acubus et filo. — Laneo an xylino? — Serico.",
+      "Nunc apud sutorem calceos inspiciamus.",
+      "Emptiones nostras sportula capere nequit.",
+      "Nonnullas in pera collocare possum.",
+      "Ubi sunt viri nostri?",
+      "Maritus meus est in tonstrina, tuus apud vestificem.",
+      "Oblita sum ei subuculam et sudaria emere.",
+      "Ne, mater, suam!"
+    ],
+    "english": [
+      "Where are our wives?",
+      "A few minutes ago, they stopped in front of the [window] (front) of a jeweller's [shop].",
+      "Let's go and see!",
+      "This silver bracelet doesn't displease me.",
+      "Look rather at this gold necklace.",
+      "I'm not looking for bracelets, nor necklaces, nor rings, but a mirror and a comb.",
+      "These things, we will find them in a big store.",
+      "We need needles and thread. — Wool or cotton? — Silk.",
+      "Now let's go and see the shoes at the shoemaker's.",
+      "The basket cannot contain our purchases.",
+      "I can put a few in my handbag.",
+      "Where are our husbands?",
+      "My husband is at the hairdresser's, and yours at the tailor's.",
+      "I forgot to buy him a shirt and handkerchiefs.",
+      "Spin, mummy, I'm going to sew!"
+    ],
+    "footnotes": []
+  }
+}

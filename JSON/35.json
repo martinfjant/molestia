@@ -2,66 +2,7 @@
   "meta": {
     "lesson": 35,
     "title": "Lectio tricesima quinta",
-    "subtitle": {
-      "latin": "",
-      "english": ""
-    },
     "revision": true
   },
-  "latin": [],
-  "english": [],
-  "notes": {
-    "footnotes": [],
-    "comments": [
-      "1. In the preceding lessons you have just got to know more deeply the five declensions. These declensions can be summed up in the following table, which it would be useful for you to copy onto a piece of cardboard to use as a bookmark.",
-      "If, knowing this table, you want to find out the declension of a word whose nominative you have been given, what else do you need? It is enough for you to know the genitive:",
-      "1º As this genitive has a different form in each declension, it is this that will allow you to know which declension the word belongs to.",
-      "2º If it is a word of the 3rd declension, whose nominative is often an abbreviated form, knowing the form of the genitive will allow you to find the form of the other cases.",
-      "1st\t\t2nd\t\t\t3rd\t\t\t4th\t\t5th",
-      "declension\t\tdeclension\t\t\tdeclension\t\t\tdeclension\t\tdeclension",
-      "singular\tf\tm\t\tn\tm&f\t\tn\tm&f\t\tn\tf",
-      "nom.\t-a\t-us, -er *\t\t-um\t\tvariable\t\t-us\t\t-u\t-es",
-      "acc.\t-am\t\t-um\t\t-em *\t\tsame as nom.\t-um\t\t-u\t-em",
-      "gen.\t-æ\t\t-i\t\t\t-is\t\t\t-ús\t\t-ei",
-      "dat.\t-æ\t\t-o\t\t\t-i\t\t\t-ui\t\t-ei",
-      "abl.\t-á\t\t-o\t\t\t-e (-i)\t\t\t-u\t\t-e",
-      "plural",
-      "nom.\t-æ\t-i\t\t-a\t-es\t\t-a (-ia)\t-ús\t\t-ua\t-es",
-      "acc.\t-as\t-os\t\t-a\t-es\t\t-a (-ia)\t-ús\t\t-ua\t-es",
-      "gen.\t-árum\t\t-órum\t\t\t-um (-ium) *\t\t\t-uum\t\t-érum",
-      "dat.\t-is *\t\t-is\t\t\t-ibus *\t\t\t-ibus *\t\t-ébus",
-      "abl.\t-is *\t\t-is\t\t\t-ibus *\t\t\t-ibus *\t\t-ébus",
-      "Nota.— The vocative has been omitted, just as the locative, these questions being treated separately.",
-      "2. How can you now find out the case in which a word you come across in your reading has been put?",
-      "The answer is not always obvious. Thus a word ending in -us can be a nominative singular of the 2nd declension; or else a nominative singular or an accusative singular neuter of the 3rd; or indeed a nominative singular, a genitive singular, a nominative plural or an accusative plural of the 4th.",
-      "Likewise, a word ending in -is can be a dative or an ablative plural of the 1st or the 2nd declension, or a nominative or genitive singular of the 3rd.",
-      "If you know German, you will notice that the declension of the article (der, den, die) poses similar problems.",
-      "In every case, there are two methods to find out, logical deduction, by a gradual elimination of the possibilities that are absurd in the context of the phrase (1) and the natural method, which consists in reading a lot and, by practising, thinking in Latin: this is the simplest, quickest and most effective for practising a living language.",
-      "We choose as far as possible the natural method, which does not prevent you occasionally resorting to logical deductions. And soon you will notice that the declensions are not a hindrance, but on the contrary an extra help.",
-      "3. Special features of the declensions.— If you are curious, you will have noticed that the above table included several asterisks (*). These show you that the corresponding forms are not the only ones possible.",
-      "1º Nominative singular in -ir (2) instead of -er (2nd declension).— A single example, but rather important: vir, viri. m., man, warrior (virile).",
-      "2º Accusative singular in -im instead of -em (3rd declension).— A few quite common nouns such as vis, force, acc. vim. abl. vi (not used in the other cases); or sitis, -is, f., thirst.",
-      "3º Ablative singular in -i instead of -e (3rd declension, important).— This is the form of all the adjectives of the 3rd declension, with a few exceptions, which we omit for the moment. Also with ablative in -i are all the nouns which have their accusative in -im (vid.sup., 2º) as well as neuter parisyllabic nouns.",
-      "4º Genitive plural in -ium instead of -um (3rd declension, important).— This concerns:",
-      "— all parisyllabics, with a few exceptions, such as:",
-      "canis, -is, m., dog (cf. L.29 and E.30); juvenis, -is, m., young man; senex, -is, m., old man; as well as pater and mater.",
-      "— imparisyllabics whose root ends in two consonants, such as present participles; e.g.: currens, currentis, running, gen.pl. currentium; or urbs, urbis town, gen.pl. urbium;",
-      "— a few words of one syllable, such as nix, nivis, f., snow, gen.pl. nivium;",
-      "— neuters in -al and -ar, such as animal, animalis, n., animal, gen.pl. animalium, because these are former parisyllabics in -ale and -are;",
-      "— most adjectives of the 3rd class; e.g.: felix, -icis, happy, gen.pl. felicium.",
-      "5º Dative and ablative plural in -ábus instead of -is (1st declension).— This allows us to recognise the feminine forms which, in the regular declension, could be confused with their corresponding masculine forms; e.g., venit cum filiis et filiabus, he came with his sons and his daughters.",
-      "6º Dative and ablative plural in -obus or -ubus instead of -ibus (3rd & 4th declensions).— This simply concerns a few specific nouns; e.g., bos, bovis, m., ox, dat. and abl. pl. bobus or bubus (3rd declension). We have already met lacus, -us, m. (4th declension); dat. and abl. pl. lacubus.",
-      "The table further up and the six special features above sum up the essence of what you need to know about the declension of nouns and adjectives.You can now see that it was not such a big deal.",
-      "We have simply omitted the declension of a few irregular nouns which it is useless to learn too early.",
-      "All you will need to do is get to know them and familiarise yourself completely with a few special forms such as comparatives, superlatives, adjective-pronouns, etc., to be done with the question for good.",
-      "Brick by brick, the house slowly but surely rises.",
-      "(1) You will find an application of this L.37, N.6.",
-      "(2) And also in -ur, e.g., satur, -ura, -urum, satiated."
-    ]
-  },
-  "exercises": {
-    "latin": [],
-    "english": [],
-    "footnotes": []
-  }
+  "content": "## 1. The five declensions\n\nIn the preceding lessons you have just got to know more deeply the five declensions. These declensions can be summed up in the following table, which it would be useful for you to copy onto a piece of cardboard to use as a bookmark.\n\n| | 1st decl. | 2nd decl. | | 3rd decl. | | 4th decl. | | 5th decl. |\n|---|---|---|---|---|---|---|---|---|\n| ***Singular*** | *f.* | *m.* | *n.* | *m. & f.* | *n.* | *m. & f.* | *n.* | *f.* |\n| nom. | -a | -us, -er\\* | -um | variable | variable | -us | -u | -es |\n| acc. | -am | -um | -um | -em\\* | same as nom. | -um | -u | -em |\n| gen. | -ae | -i | -i | -is | -is | -us | -us | -ei |\n| dat. | -ae | -o | -o | -i | -i | -ui | -ui | -ei |\n| abl. | -a | -o | -o | -e (-i)\\* | -e (-i)\\* | -u | -u | -e |\n| ***Plural*** | | | | | | | | |\n| nom. | -ae | -i | -a | -es | -a (-ia) | -us | -ua | -es |\n| acc. | -as | -os | -a | -es | -a (-ia) | -us | -ua | -es |\n| gen. | -arum | -orum | -orum | -um (-ium)\\* | -um (-ium)\\* | -uum | -uum | -erum |\n| dat. | -is\\* | -is | -is | -ibus\\* | -ibus\\* | -ibus\\* | -ibus\\* | -ebus |\n| abl. | -is\\* | -is | -is | -ibus\\* | -ibus\\* | -ibus\\* | -ibus\\* | -ebus |\n\n*Nota.* — *The vocative has been omitted, just as the locative, these questions being treated separately.*\n\nIf, knowing this table, you want to find out the declension of a word whose nominative you have been given, what else do you need? It is enough for you to know the genitive:\n\n1° As this *genitive* has a different form in each declension, it is this that will allow you to know which declension the word belongs to.\n\n2° If it is a word of the 3rd declension, whose nominative is often an abbreviated form, knowing the form of the genitive will allow you to find the form of the other cases.\n\n## 2. Recognising the case\n\nHow can you now find out the case in which a word you come across in your reading has been put?\n\nThe answer is not always obvious. Thus a word ending in -us can be a *nominative singular* of the 2nd declension; or else a *nominative singular* or an *accusative singular neuter* of the 3rd; or indeed a *nominative singular*, a *genitive singular*, a *nominative plural* or an *accusative plural* of the 4th.\n\nLikewise, a word ending in -is can be a *dative* or an *ablative plural* of the 1st or the 2nd declension, or a *nominative* or *genitive singular* of the 3rd.\n\nIf you know German, you will notice that the declension of the article (der, den, die) poses similar problems.\n\nIn every case, there are two methods to find out, *logical deduction*, by a gradual elimination of the possibilities that are absurd in the context of the phrase<sup>1</sup> and the *natural method*, which consists in reading a lot and, by practising, *thinking in Latin*: this is the simplest, quickest and most effective for practising a living language.\n\nWe choose as far as possible the natural method, which does not prevent you occasionally resorting to logical deductions. And soon you will notice that the *declensions are not a hindrance, but on the contrary an extra help*.\n\n## 3. Special features of the declensions\n\nIf you are curious, you will have noticed that the above table included several asterisks (\\*). These show you that the corresponding forms are not the only ones possible.\n\n1° *Nominative singular in -ir<sup>2</sup> instead of -er* (2nd declension). — A single example, but rather important: vir, viri, m., *man, warrior* (virile).\n\n2° *Accusative singular in -im instead of -em* (3rd declension). — A few quite common nouns such as vis, *force*, acc. vim, abl. vi (not used in the other cases); or sitis, -is, f., *thirst*.\n\n3° *Ablative singular in -i instead of -e* (3rd declension, *important*). — This is the form of all the adjectives of the 3rd declension, with a few exceptions, which we omit for the moment. Also with ablative in -i are all the nouns which have their accusative in -im (vid. sup., 2°) as well as *neuter parisyllabic nouns*.\n\n4° *Genitive plural in -ium instead of -um* (3rd declension, *important*). — This concerns:\n\n- *all parisyllabics*, with a few exceptions, such as: canis, -is, m., *dog* (cf. L. 29 and E. 30); juvenis, -is, m., *young man*; senex, -is, m., *old man*; as well as pater and mater;\n- *imparisyllabics whose root ends in two consonants*, such as present participles; e.g.: currens, currentis, *running*, gen. pl. currentium; or urbs, urbis, *town*, gen. pl. urbium;\n- *a few words of one syllable*, such as nix, nivis, f., *snow*, gen. pl. nivium;\n- *neuters in -al and -ar*, such as animal, animalis, n., *animal*, gen. pl. animalium, because these are former parisyllabics in -ale and -are;\n- *most adjectives of the 3rd class*; e.g.: felix, -icis, *happy*, gen. pl. felicium.\n\n5° *Dative and ablative plural in -abus instead of -is* (1st declension). — This allows us to recognise the feminine forms which, in the regular declension, could be confused with their corresponding masculine forms; e.g., venit cum filiis et filiabus, *he came with his sons and his daughters*.\n\n6° *Dative and ablative plural in -obus or -ubus instead of -ibus* (3rd & 4th declensions). — This simply concerns a few specific nouns; e.g., bos, bovis, m., *ox*, dat. and abl. pl. bobus or bubus (3rd declension). We have already met lacus, -us, m. (4th declension); dat. and abl. pl. lacubus.\n\n*The table further up and the six special features above sum up the essence of what you need to know about the declension of nouns and adjectives. You can now see that it was not such a big deal.*\n\n*We have simply omitted the declension of a few irregular nouns which it is useless to learn too early.*\n\n*All you will need to do is get to know them and familiarise yourself completely with a few special forms such as comparatives, superlatives, adjective-pronouns, etc., to be done with the question for good.*\n\nBrick by brick, the house slowly but surely rises.\n\n---\n\n1. You will find an application of this L. 37, N. 6.\n2. And also in -ur, e.g., satur, -ura, -urum, *satiated*.\n"
 }

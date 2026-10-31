@@ -51,7 +51,7 @@
   "notes": {
     "footnotes": [
       "Scisne, from scio (is, ire), to know. For the part. -ne, cf. L 3, N 3.",
-      "Quid: the interrogative adjective-pronoun has the following forms in the singular:\n\nmasculine\tfeminine\tneuter\n\nsubject\t\t\tquis\t\tquae\t\tquid\t\t: who/what?\n\ndirect object\t\t\tquem\t\tquam\t\tquid\t\t: whom/what?\n\npossessive phrase\t\tcujus\t\tcujus\t\tcujus\t\t: whose?\n\nindirect object\t\tcui\t\tcui\t\tcui\t\t: to whom/what?\n\nadverbial phrase\t\tquo\t\tquá\t\tquo\t\t: by whom/what?\n\nIt resembles oddly enough the relative adjective-pronoun which differs from it only by the forms qui and quod instead of quis and quid.\n\nAs their names indicate, these words can be either pronouns as the relative pronoun qui in phrase 5, or adjectives:\n\nquae res?, what thing? (subject)\n\nquam rem?, what thing? (object)\n\nquá ré?, by what thing? (why, how) (adverbial phrase)",
+      "Quid: the interrogative adjective-pronoun has the following forms in the singular:\n\n| | masculine | feminine | neuter | |\n|---|---|---|---|---|\n| subject | quis | quae | quid | *who/what?* |\n| direct object | quem | quam | quid | *whom/what?* |\n| possessive phrase | cujus | cujus | cujus | *whose?* |\n| indirect object | cui | cui | cui | *to whom/what?* |\n| adverbial phrase | quo | quá | quo | *by whom/what?* |\n\nIt resembles oddly enough the relative adjective-pronoun which differs from it only by the forms qui and quod instead of quis and quid.\n\nAs their names indicate, these words can be either pronouns as the relative pronoun qui in phrase 5, or adjectives:\n\n- quae res?, *what thing?* (subject)\n- quam rem?, *what thing?* (object)\n- quá ré?, *by what thing?* (why, how) (adverbial phrase)",
       "Nescio = non scio, I do not know; scio, I know.",
       "Invenio (is, ire), to find (active voice); invenior (iris, iri), be found (passive voice).",
       "Sim, sis, sit: that I be, that you be, that it be (subj. of esse). Futurus (a, um), which will be, is the FUTURE participle of this same verb.",
@@ -61,12 +61,7 @@
     "comments": [
       "N.B. — For the 2nd wave: do not translate descends in P 8 by descendit, which would not be very correct for this figurative sense.",
       "To end this lesson, let us see the different forms which the words pater bonus (the good father) can take depending on their role in the sentence:",
-      "Singular\t\tPlural",
-      "#1 subject\t\t\t\tpater bonus\t\tpatres boni",
-      "#2 direct object\t\t\tpatrem bonum\tpatres bonos",
-      "#3 possessive phrase\t\tpatris boni\t\tpatrum bonorum",
-      "#4 indirect object\t\t\tpatri bono\t\tpatribus bonis",
-      "#5 adverbial phrase\t\t\tpatre bono\t\tpatribus bonis",
+      "| | Singular | Plural |\n|---|---|---|\n| subject | pater bonus | patres boni |\n| direct object | patrem bonum | patres bonos |\n| possessive phrase | patris boni | patrum bonorum |\n| indirect object | patri bono | patribus bonis |\n| adverbial phrase | patre bono | patribus bonis |",
       "Do not try to learn the table above by heart: simply know that the different words do not follow the same rules of change according to case, and that we have not yet seen all the tables of possible variations. Very fortunately, although there are several, as a whole they all have a quite remarkable family resemblance. Patience, all that will be cleared up!"
     ]
   },

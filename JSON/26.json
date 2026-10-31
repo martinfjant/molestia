@@ -68,12 +68,7 @@
     "comments": [
       "And now let us try to clear up the mysteries of the 3rd declension. It is very important, because it is the one that corresponds to the most general and most varied forms.",
       "Let us take for instance cultor felix, the happy gardener:",
-      "Singular:\t\t\tPlural:",
-      "nom.\t\t\tCULTOR FELIX\t\tCULTORes FELICes",
-      "acc.\t\t\tCULTORem FELICem\tCULTORes FELICes",
-      "gen.\t\t\tCULTORis FELICis\t\tCULTORum FELICium",
-      "dat.\t\t\tCULTORi FELICi\t\tCULTORibus FELICibus",
-      "abl.\t\t\tCULTORe FELICi\t\tCULTORibus FELICibus",
+      "| | Singular | Plural |\n|---|---|---|\n| nom. | cultor felix | cultor**es** felic**es** |\n| acc. | cultor**em** felic**em** | cultor**es** felic**es** |\n| gen. | cultor**is** felic**is** | cultor**um** felic**ium** |\n| dat. | cultor**i** felic**i** | cultor**ibus** felic**ibus** |\n| abl. | cultor**e** felic**i** | cultor**ibus** felic**ibus** |",
       "The difficulties of the third declension are:",
       "1st The change of form, sometimes important, which takes place between the nominative and the other cases. The nominative is often a shortened from, and sometimes even very shortened. E.g.: iter, itineris, the way, the route. Of course, in the “dictionary” presentation, it is the genitive which indicates to us the form of the other cases.",
       "2nd The fact that the ablative singular is sometimes in -i instead of -e and the genitive plural in -ium instead of -um. We shall return to this point.",

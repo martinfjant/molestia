@@ -2,57 +2,7 @@
   "meta": {
     "lesson": 7,
     "title": "Lectio septima",
-    "subtitle": {
-      "latin": "",
-      "english": ""
-    },
     "revision": true
   },
-  "latin": [],
-  "english": [],
-  "notes": {
-    "footnotes": [],
-    "comments": [
-      "1. At the end of our first week of study, what have we learnt?",
-      "First of all we realized that Latin was a language like the others, in which one could express everyday realities.",
-      "Certainly, the endings of words change even more often than in French, certainly more than in English; but that should not frighten us. It is quite simply that Latin words are precise instruments: they have more possibilities of fine adjustment than would be the case with coarser instruments; they are a bit more difficult to know at first, but when one knows them well they allow more accurate work, and in the end they turn out to be more practical than instruments of too simplistic a design.",
-      "But you are not yet there. For the moment, it is a question of familiarizing yourself with these new instruments. In the manner in which we introduce them to you, they pose no danger; do not hesitate to use them: listen, read, and speak!",
-      "At the beginning, you will make all kinds of errors; this is completely normal because all young Romans did the same. It is only thanks to constant usage that you will learn to know your instruments and that you will become a competent craftsman.",
-      "2. If, when going through the previous lessons, you did not forget to respect the pronunciation and the accentuation, you already must have realized that Latin resembled in no way the series of monotonous sounds with the virtues of a sleeping pill that you had probably experienced before.",
-      "But if you want to look at things more closely, you will notice not only that a correct pronunciation and accentuation give the language its life and its sense, but also that the pronunciation called restored, which we have adopted, is the simplest of European pronunciations. In effect, disregarding minimal exceptions:",
-      "All letters are pronounced.",
-      "For every letter there corresponds only a single sound.",
-      "For every sound there corresponds only a single letter.",
-      "What more can one ask for?",
-      "Note.— If you are still not sure of your pronunciation, refer one more time to Avitus's files.",
-      "3. The conjugations.— We have already seen in Lesson 4, the complete conjugation of the present indicative of the verb esse, to be (phrase 10), as well as that of its compounds, adesse, to be present, and abesse, to be absent. If you know French already, or any other Romance language, you will have no difficulty in recalling this, because they resemble the conjugation of the corresponding verbs to be (French: être). Let us review it once again:",
-      "(ego) sum [French: je suis]: I am",
-      "(tu) es [French: tu es]: you are",
-      "(ille) est [French: il est]: he/she/it is",
-      "(nos) sumus [French: nous sommes]: we are",
-      "(vos) estis [French: vous êtes; Old French estes]: you[pl.] are",
-      "(illi) sunt [French: ils sont]: they are",
-      "N.B.— We put the Latin pronouns in brackets above, because they are only used when we want to stress the identity of the subject: *I* am, etc… (cf. L 2, N 1).",
-      "From this verb, try to recall the endings:",
-      "m (or o) for the 1st person singular",
-      "s 2nd",
-      "t 3rd",
-      "mus 1st plural",
-      "tis 2nd",
-      "nt 3rd",
-      "Now take the Latin verb venire, to come, which we saw in Lesson 2 under the forms venio, I come, and venit, he comes. You will obtain without difficulty its conjugation by using the preceding endings:",
-      "Singular: veniO, veniS, veniT: I come, you come, he/she/it comes.",
-      "Plural: veniMUS, veniTIS, veniUNT: we come, you[pl.] come, they come.",
-      "In the same way for the verb dare, to give, as we saw in the same lesson:",
-      "Singular: dO, daS, daT: I give, you…, etc.",
-      "Plural: daMUS, daTIS, daNT: we give, you[pl.]…, etc.",
-      "N.B.— We shall see the verbs in or, ris, etc., in the upcoming review lesson.",
-      "4. To finish this revision, practice pronouncing correctly the captions imbedded in the illustrations for these first seven lessons. All of these captions are sentences taken from the preceding lessons and exercises. You will not have any difficulty in finding their meaning, if by chance you had forgotten it."
-    ]
-  },
-  "exercises": {
-    "latin": [],
-    "english": [],
-    "footnotes": []
-  }
+  "content": "## 1. What have we learnt?\n\nAt the end of our first week of study, what have we learnt?\n\nFirst of all we realized that Latin was a language like the others, in which one could express everyday realities.\n\nCertainly, the endings of words change even more often than in French, certainly more than in English; but that should not frighten us. It is quite simply that *Latin words are precise instruments*: they have more possibilities of fine adjustment than would be the case with coarser instruments; they are a bit more difficult to know at first, but when one knows them well they allow more accurate work, and in the end they turn out to be more practical than instruments of too simplistic a design.\n\nBut you are not yet there. For the moment, it is a question of familiarizing yourself with these new instruments. In the manner in which we introduce them to you, they pose no danger; do not hesitate to use them: *listen, read,* and *speak!*\n\nAt the beginning, you will make all kinds of errors; this is completely normal because all young Romans did the same. It is only thanks to constant usage that you will learn to know your instruments and that you will become a competent craftsman.\n\n## 2. Pronunciation\n\nIf, when going through the previous lessons, you did not forget to respect the *pronunciation* and the *accentuation*, you already must have realized that Latin resembled in no way the series of monotonous sounds with the virtues of a sleeping pill that you had probably experienced before.\n\nBut if you want to look at things more closely, you will notice not only that a correct pronunciation and accentuation give the language its *life* and its *sense*, but also that the pronunciation called *restored*, which we have adopted, is the *simplest of European pronunciations*. In effect, disregarding minimal exceptions:\n\n- All letters are pronounced.\n- For every letter there corresponds only a single sound.\n- For every sound there corresponds only a single letter.\n\nWhat more can one ask for?\n\n*Note.* — If you are still not sure of your pronunciation, refer one more time to Avitus's files.\n\n## 3. The conjugations\n\nWe have already seen in Lesson 4, the complete conjugation of the present indicative of the verb esse, *to be* (phrase 10), as well as that of its compounds, adesse, *to be present*, and abesse, *to be absent*. If you know French already, or any other Romance language, you will have no difficulty in recalling this, because they resemble the conjugation of the corresponding verbs to be (French: être). Let us review it once again:\n\n| Latin | French | English |\n|---|---|---|\n| (ego) sum | je suis | I am |\n| (tu) es | tu es | you are |\n| (ille) est | il est | he/she/it is |\n| (nos) sumus | nous sommes | we are |\n| (vos) estis | vous êtes (Old French estes) | you (pl.) are |\n| (illi) sunt | ils sont | they are |\n\nN.B. — We put the Latin pronouns in brackets above, because they are only used when we want to stress the identity of the subject: ***I*** am, etc… (cf. L. 2, N. 1).\n\nFrom this verb, try to recall the endings:\n\n| | Singular | Plural |\n|---|---|---|\n| 1st person | **m** (or **o**) | **mus** |\n| 2nd person | **s** | **tis** |\n| 3rd person | **t** | **nt** |\n\nNow take the Latin verb venire, *to come*, which we saw in Lesson 2 under the forms venio, *I come*, and venit, *he comes*. You will obtain without difficulty its conjugation by using the preceding endings:\n\n| | Latin | English |\n|---|---|---|\n| Singular | veni**o**, veni**s**, veni**t** | I come, you come, he/she/it comes |\n| Plural | veni**mus**, veni**tis**, veni**unt** | we come, you (pl.) come, they come |\n\nIn the same way for the verb dare, *to give*, as we saw in the same lesson:\n\n| | Latin | English |\n|---|---|---|\n| Singular | d**o**, da**s**, da**t** | I give, you…, etc. |\n| Plural | da**mus**, da**tis**, da**nt** | we give, you (pl.)…, etc. |\n\nN.B. — We shall see the verbs in -or, -ris, etc., in the upcoming review lesson.\n\n## 4. The captions\n\nTo finish this revision, practice pronouncing correctly the captions embedded in the illustrations for these first seven lessons. All of these captions are sentences taken from the preceding lessons and exercises. You will not have any difficulty in finding their meaning, if by chance you had forgotten it.\n"
 }

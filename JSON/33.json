@@ -73,12 +73,7 @@
     "comments": [
       "And to finish, let's see more closely the 4th declension, which includes:",
       "1st On the one hand, words in -us, mostly masculines; but manus, the hand, socrus, -us, the mother-in-law, and some names of trees (e.g.: quercus, the oak) are feminine.",
-      "Singular:\t\tPlural:",
-      "nom.\texitus, the exit, the outcome.\t\texitús",
-      "acc.\texitum\t\texitús",
-      "gen.\texitús\t\texituum",
-      "dat.\texitui\t\texitibus",
-      "abl.\texitu\t\texitibus",
+      "| | Singular | Plural |\n|---|---|---|\n| nom. | exitus, *the exit, the outcome* | exitús |\n| acc. | exitum | exitús |\n| gen. | exitús | exituum |\n| dat. | exitui | exitibus |\n| abl. | exitu | exitibus |",
       "2nd On the other hand, some neuter nouns, whose declension differs from the preceding in the nominative and accusative, which are in the singular in -u and in the plural in -ua.",
       "E.g.: cornu, gen. cornús., the horn (also the musical instrument), acc. sg. cornu, nominative and acc. pl. cornua.",
       "N.B.— Some nouns form their dative and ablative plural in -ubus instead of -ibus. Such is the case with lacus which we will see in all its finery in the exercise."

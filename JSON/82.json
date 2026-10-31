@@ -1,0 +1,104 @@
+{
+  "meta": {
+    "lesson": 82,
+    "title": "Lectio octogesima altera",
+    "subtitle": {
+      "latin": "Male me contuderunt! (Sequitur)",
+      "english": "What a thrashing! (continued)"
+    },
+    "revision": false
+  },
+  "latin": [
+    "Congrio, domo Euclionis erumpit. — Optati cives<sup>1</sup>, populares<sup>2</sup>, incolae, accolae, advenae, omnes...",
+    "Date viam qua fugere<sup>3</sup> liceat, facite totae plateae<sup>4</sup> pateant<sup>5</sup>.",
+    "Neque ego unquam nisi hodie ad Bacchas veni in Bacchanal<sup>6</sup> coquinatum<sup>7</sup>.",
+    "Ita me miserum et meos discipulos fustibus<sup>8</sup> male contuderunt.",
+    "Totus doleo atque oppido<sup>9</sup> perii*, ita me iste senex habuit gymnasium.",
+    "Neque ligna ego usquam<sup>10</sup> gentium praeberi vidi pulchrius...",
+    "Attat, perii hercle ego miser; adest*, sequitur!",
+    "Scio quam rem geram: hoc ipse magister me docuit.",
+    "Euclio. — Redi! Quo fugis nunc? Tene, tene!",
+    "Cong. — Quid, stolide, clamas?",
+    "Eucl. — Quia ad tresviros<sup>11</sup> jam ego deferam* nomen tuum.",
+    "Cong. — Quam ob rem<sup>12</sup>?",
+    "Eucl. — Quia cultrum habes.",
+    "Cong. — Coquum decet*.",
+    "Eucl. — Quid comminatus es<sup>13</sup> mihi?",
+    "Cong. — Istud male factum arbitror, quia non latus fodi.",
+    "Eucl. — Homo nullust (= nullus est) te scelestior<sup>14</sup> qui vivat hodie!"
+  ],
+  "english": [
+    "Congrio [bursts out] of Euclio's house. — Dear citizens, fellow countrymen, inhabitants [of the quarter] (neighbours) [and of the neighbourhood], foreigners [all of you]...",
+    "[Open] (give) the road [by which I may be allowed to flee], make all the avenues open.",
+    "[Never up to today] (nor I ever unless today) have I been to the Bacchantes to do the cooking in [such] a Bacchanal (see N. 6).",
+    "[Poor me!] (me miserum)! [In what a state] (ita... male) [they have put me] and my helpers! [they have us] beaten black and blue!",
+    "I hurt [all over] (whole) and I am completely done for, [so much has this cursed old man turned me into a boxing ring] (thus me this old man has had [as] gymnasium).",
+    "And never [have I seen] anywhere [in the world] (of nations) [wood] (ligna, pl. n.) [supplied] more [beautifully]...",
+    "Hey! Damn it! I'm done for! [Woe is me]; he is there, he [is following me]!",
+    "I know what [I'm going] to do: [he himself the master taught me it].",
+    "Eucl. — Come back! Where are you running to now? (Hold-[him], hold-[him])! [stop him]!",
+    "Cong. — [Why] are you shouting? Imbecile!",
+    "Eucl. — Because I'm going straight away to [lodge a complaint at the police] (will give your name to the triumvirs).",
+    "Cong. — For what reason?",
+    "Eucl. — Because you have a knife.",
+    "Cong. — [For] a cook, [that's quite normal] (it is fitting).",
+    "Eucl. — [Why] did you threaten [me]?",
+    "Cong. — [I was quite wrong] (that badly done I think) not to pierce your side (this badly done I think, because I have not pierced the flank).",
+    "Eucl. — [You are the greatest scoundrel in the world] (man none is than you more wicked who lives today)!"
+  ],
+  "notes": {
+    "footnotes": [
+      "Optatus, -a, -um (past participle of optare, to choose, to wish), is often used in an apostrophe: optati amici, dear friends. Civis, -is, m., the citizen.",
+      "Popularis, -e, adj., relating to the people (populus). Used as a noun, it means fellow citizen, compatriot. The three other nouns of the sentence present no difficulties. Note that they are masculines of the 1st declension.",
+      "Fugio, -is, -ere, fugi, v.i., to flee; but fugo, -as, -are, v.t., to put to flight: Euclio Congrionem fugat, E. puts C. to flight; but Congrio Euclionis verbera fugit, C. flees E.'s blows.",
+      "Platea, -ae, f., public square, avenue, landing strip (E. 67, P. 9).",
+      "Pateo, -es, -ere, -ui, to be open; here in the subjunctive with ut understood. Other sense: to be clear, to be evident. To this verb corresponds the form patesco, -is, -ere, patui, to open, to unveil oneself.",
+      "Baccha, -ae, f., Bacchante, priestess of Bacchus, god of wine and drunkenness. Bacchanal, -alis, n., place consecrated to this god, where the Bacchanalia, -ium, pl. n., feasts of wine, were held, which, as one guesses, were celebrated in a lively way!",
+      "Coquina, -ae, f., kitchen; whence coquinare (supine coquinatum), to do the cooking; one also says culina (L. 81, P. 11); to cook is said coquere (cf. L. 65, N. 5) and cook, coquus (L. 81, P. 11).",
+      "Fustis, -is, m., cut wood, cudgel (cf. French fustiger).",
+      "Oppido, adv., completely. The kinship with oppidum, -i, n., the (fortified) town is doubtful.",
+      "Ne... usquam or nusquam, nowhere; likewise, higher up, ne (que)... unquam = nunquam, never.",
+      "Tresviri (gen. triumvirorum), m. pl., the triumvirs, of whom it is a question here, were charged with the policing of prisons at that time. There were other sorts of triumvirs: the best known were first Caesar, Pompey and Crassus, then Antony, Octavian and Lepidus, whose triumvirate (lit. group of three men) was established in 43 B.C.",
+      "Quam ob rem, for what thing, why (can be written in a single word). Ob + acc., because of.",
+      "Comminari, as well as minari = to threaten (v. dep.). Fodio, -is, -ere, fodi, fossum, to pierce, to dig.",
+      "Scelestus, -a, -um, criminal, villain (scelus, -eris, n., crime); here in the comparative; its complement te is in the ablative (without quam). Forget immediately the translation «crapule», for this last word literally means, like the Latin crapula, excess of drink or of good cheer."
+    ],
+    "comments": [
+      "From Vita Latina.",
+      "Vhiskeum: the Latin v is pronounced like the English w. — Verber, -eris, n., stick, whip; in the plural, verbera (pl. of verberum), blows of the same instrument. Verberare, to beat, to whip. Verbero, -onis, m., scoundrel (accustomed to the whip). Lacus, -us, m.: dative and ablative plural lacubus. Likewise acus, the needle, and a few other nouns of the 4th declension have the dative and ablative plural in ubus instead of ibus (cf. E. 33). Vetus, -eris, contrary to most adjectives of the 3rd declension, does not make its ablative singular in i but in e (likewise dives, divitis, and pauper, pauperis, as well as comparatives (cf. L. 39, N. 7).",
+      "SECOND WAVE: the 33rd lesson."
+    ]
+  },
+  "exercises": {
+    "latin": [
+      "Qua ratione potum qui «vhiskeum» apud anglos vocatur tam copiose bibere assuefactus es*?",
+      "Explicabo tibi: imprimis cum aqua; postea sine aqua; denique sicut aquam.",
+      "Quo tam celeriter vadis?",
+      "Domum, nam mater verbera mihi pollicita est.",
+      "Ego vero non intellego cur sic properes.",
+      "Ut domum perveniam antequam pater redeat*: ille enim multo validius verberat.",
+      "Oliva gloriatur quod lacus in patria sua piscibus sunt refertissimi:",
+      "«Edepol, inquit, in his lacubus tam multi sunt pisces ut, aqua tantum remota, apprehendi possint*».",
+      "Marius autem: «Quod nihil est, inquit, Massiliae tot sunt pisces in Portu Vetere ut removendi sint ad aquam navigandi causa liberandam»."
+    ],
+    "english": [
+      "How did you get into the habit of drinking so copiously [the] drink which is called «whisky» among the English?",
+      "I'll explain it to you: first with water, then without water, finally like water.",
+      "Where are you going so fast?",
+      "Home, because Mummy has promised me a spanking.",
+      "So, I don't understand why you are hurrying like that.",
+      "To get home before my father comes back: he hits much harder.",
+      "Olive boasts [that] the lakes in his country are very abundant in fish:",
+      "«By Pollux, he says, in these lakes the fish are so numerous that [it is enough] to lift the water [for them to be caught] (water only having been removed, to be seized they can)».",
+      "But Marius: «That's nothing, he says, in Marseille there are so many fish in the Old Port that they must be removed to make the water free [for] navigation (with a view to sailing)»."
+    ],
+    "footnotes": []
+  },
+  "sources": [
+    {
+      "after": 17,
+      "latin": "Ibidem, 406... 419.",
+      "english": "(Same work, 406... 419.)"
+    }
+  ]
+}

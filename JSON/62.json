@@ -1,0 +1,100 @@
+{
+  "meta": {
+    "lesson": 62,
+    "title": "Lectio sexagesima altera",
+    "subtitle": {
+      "latin": "Ultimum votum",
+      "english": "The last wish"
+    },
+    "revision": false
+  },
+  "latin": [
+    "Nec rhumii pocillum<sup>1</sup> nec hispanicam accipere vis?",
+    "Sed age, forsitan<sup>2</sup> tibi sit in votis aliud quid<sup>3</sup>, aiebat magistratus cuidam condemnato, quinque minutis ante supplicium ejus.",
+    "Nempe, Domne Judex<sup>4</sup>, is respondit, a pueritia tota semper mente<sup>5</sup> linguam hebraicam discere optavi!",
+    "Diarium<sup>6</sup> cujusdam civitatis, cum<sup>7</sup> hunc matrimonialem libellum publicavisset:",
+    "«Villici<sup>8</sup> filia, 30 annos nata, formoso<sup>9</sup> corpore, dulcissima natura, multa sperans, recentissimamque villam possidens<sup>10</sup>, adulescenti nubere cupit, etc.»",
+    "Rescripsit quidam: «Speratorum indicem<sup>11</sup> mitte, villaeque imaginem<sup>12</sup> photographicam».",
+    "Autoraedarius quidam, cum, albis alis ornatus, Sanctum Petrum adiret<sup>13</sup>, a paradisi janitore quidnam sibi accidisset<sup>14</sup> interrogatus, ita respondit:",
+    "Quid acciderit non intellego: paucas vix<sup>15</sup> abhinc minutas cum uxore autoraedam beatus regebam<sup>16</sup>...",
+    "Ejus ultima verba tantum recordor:",
+    "«Si gubernaculum<sup>17</sup> mihi commodare velis, angelus vere sis!»"
+  ],
+  "english": [
+    "You don't want [to take] a little glass of rum or a cigarette?",
+    "But come, perhaps [you have something] else [to ask for] (be to you in your wishes), said the magistrate to a condemned man, five minutes before his execution.",
+    "Certainly, Your Honour (Judge), the latter replied, since my childhood I have always wished with all my heart to learn Hebrew!",
+    "As a [local] newspaper (of a certain town) had published this marriage advertisement:",
+    "«Farmer's daughter, 30 years old (born), [physically attractive] (with a beautiful body), very affectionate nature, [great] expectations (hoping much), owning an ultra-modern farm, wishes to marry young man, etc.»",
+    "Someone replied: «[Send] (sent) [details of] the expectations and [a photograph] of the farm (photographic image)».",
+    "A motorist, as, adorned with white wings, he [presented himself to] Saint Peter (approached), [and the] gatekeeper of paradise [asked him what could have happened to him] (by the gatekeeper what to himself had happened questioned), replied thus:",
+    "I don't understand what happened (subj. perfect): barely a few minutes ago, I was driving [happily] (happy) [my] car with [my] wife...",
+    "I only remember her last words:",
+    "«If you were willing to lend me the wheel, you would be a real angel.»"
+  ],
+  "notes": {
+    "footnotes": [
+      "Pocillum, -i, n., small glass, diminutive of poculum.",
+      "Forsitan (or forsan + subj.), perhaps = fors sit an (fors, fortis, f., chance). An, conj., is it that?, is construed in general with utrum; e.g.: nescio utrum loqui an silere debeam, I don't know if I should (ought to) speak or be silent.",
+      "Aliquis, aliqua, aliquid, something; aliusquis, aliaquae, aliudquid, something else.",
+      "Judex, -icis, m., judicium, -ii, n., judgement.",
+      "Tota... mente, with all one's mind (heart); another example of separation of the epithet and its antecedent.",
+      "Diarium, -ii, n., comes from dies, -ei, m. or f., the day. We have already seen diurnarius, the journalist.",
+      "Cum, conj., in the sense of then, as, is construed with the subjunctive (here p.q.p.) if it is a past fact having as its effect a cause action expressed by the main verb: if the newspaper had not published the advertisement, the quidam of sentence 6 would not have replied (rescripsit).",
+      "Villa, -ae, f., farm; villicus, -i, m., the farmer.",
+      "Formosus, -a, -um, beautiful as to form (forma, -ae, beauty, form).",
+      "Possideo, -es, -ere, sedi, sessum.",
+      "Index, -icis, m., sign, index; here, indication (list).",
+      "Imago, -inis, f.",
+      "Again cum with the imperfect subjunctive (adiret).",
+      "Quidnam sibi accidisset: INDIRECT QUESTION (here with subj. p.q.p.). The direct question would be (interrogatus est): quidnam tibi accidit? (ind. pft). The same word (here quidnam, what then) can just as well introduce the direct question as the indirect question. There are three impersonal verbs to say: it happens (that): accidit, an unforeseen event occurs (sometimes unfortunate); cf. casus, -us, m., chance, accident; evenit, any event occurs; contingit, a foreseen (or happy) event occurs. Note that these verbs, generally used in the impersonal form, can have a subject, if it corresponds to the 3rd person (here quid).",
+      "Vix, adv., hardly. Abhinc = ab + hinc, from here, from there.",
+      "Rego, -is, -ere, rexi, rectum; derivative: dirigere (same conjugation).",
+      "Gubernaculum, -i, n., rudder (here, steering wheel); one could also have said: manubrium, -i, n., handle, handlebar (of a bicycle)."
+    ],
+    "comments": [
+      "Maecenas, -atis, Maecenas; rich contemporary of Augustus and generous protector of letters and the arts. — Protegere = pro + tegere; we have already seen tegmen (L. 48, N. 3).",
+      "SECOND WAVE: the 13th lesson."
+    ]
+  },
+  "exercises": {
+    "latin": [],
+    "english": [],
+    "footnotes": []
+  },
+  "song": {
+    "kind": "Carmen",
+    "title": {
+      "latin": "Gaudeamus igitur (concluditur)",
+      "english": "Let us rejoice, then (end)"
+    },
+    "latin": [
+      "Vivant omnes virgines, faciles, formosae! (bis)",
+      "Vivant et mulieres",
+      "Tenerae, amabiles",
+      "Bonae, laboriosae! (bis)",
+      "Vivat et res publica, et qui illam regit! (bis)",
+      "Vivat nostra civitas!",
+      "Maecenatum caritas",
+      "Quae nos hic protegit! (bis)"
+    ],
+    "english": [
+      "Long live all the girls, playful and beautiful!",
+      "— Long live also the ladies",
+      "— gentle, kind",
+      "— good [and] hard-working!",
+      "Long live the Republic too, and he who governs it!",
+      "— Long live our city!",
+      "— [and] the generosity of the Maecenases",
+      "— who shelter us here!"
+    ],
+    "source": ""
+  },
+  "sources": [
+    {
+      "after": 10,
+      "latin": "E Vita Latina (n° 5, sept. 1958, auctore G. Cotton).",
+      "english": "(From Vita Latina (no. 5, Sept. 1958, author G. Cotton).)"
+    }
+  ]
+}

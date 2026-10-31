@@ -1,0 +1,93 @@
+{
+  "meta": {
+    "lesson": 51,
+    "title": "Lectio quinquagesima prima",
+    "subtitle": {
+      "latin": "Unde loqui didicerat",
+      "english": "How he had learnt to speak"
+    },
+    "revision": false
+  },
+  "latin": [
+    "Primum discemus, e magistro vere<sup>1</sup> latino, nomine Aurelio Augustino, qua methodo ad linguam latinam discendam<sup>2</sup> pueri romani usi sint.",
+    "«Non enim eram infans<sup>3</sup>, qui non farer<sup>4</sup>, sed jam puer loquens eram.",
+    "Non enim docebant me majores<sup>5</sup> homines...",
+    "praebentes<sup>6</sup> mihi verba certo aliquo ordine doctrinae<sup>7</sup>, sicut paulo post litteras<sup>8</sup>...",
+    "sed ego ipse, cum appellabant rem aliquam et cum secundum<sup>9</sup> eam vocem<sup>10</sup> corpus ad aliquid<sup>11</sup> movebant<sup>12</sup>...",
+    "videbam et tenebam hoc<sup>13</sup> ab eis vocari rem illam quod sonabant, cum eam vellent ostendere.",
+    "Ita, verba in variis sententiis locis suis posita et crebro<sup>14</sup> audita...",
+    "quarum rerum signa<sup>15</sup> essent<sup>16</sup> paulatim<sup>17</sup> colligebam<sup>18</sup>...",
+    "measque jam<sup>19</sup> voluntates per haec enuntiabam.»",
+    "Hae sententiae Augustini, quas paulo breviores reddidimus, satis monstrant eum linguam latinam non aliter didicisse quam nos linguam patriam<sup>20</sup> didicimus."
+  ],
+  "english": [
+    "First, we shall learn from a truly Latin teacher, [called] (by name) Aurelius Augustinus, [by] what method Roman children [used to] (subj. perf.) learn Latin.",
+    "“For I was no longer a baby who does not speak, but already a speaking child.",
+    "For [adults] (bigger men) did not teach me...",
+    "[by] presenting words to me [in a certain methodical order] (by a certain given order of teaching), as [they did] the letters a little later...",
+    "but [it was] I myself, when they named any thing and [as they pronounced its name] (according to this name) [they pointed to something] (their body towards something they moved)...",
+    "I saw and [retained that] this thing was called by them by means of [the sound] they made when they wanted to show it (vid. N. 13).",
+    "Thus [these] words, [put in their place] in different sentences and often heard...",
+    "[I gradually understood] (little by little I gathered) of which things they were the signs...",
+    "and from then on I expressed my wishes through them.”",
+    "These sentences of Augustine, which we have [shortened] a little (made a little shorter), sufficiently show [that he did not learn Latin] otherwise than [we learnt our native language] (him the Latin language to have learnt)."
+  ],
+  "notes": {
+    "footnotes": [
+      "Verus, -a, -um, true, vere, adv., truly.",
+      "Ad linguam discendam: we have told you that Latin does not use the infinitive when the use of a more precise mood is justified. Here one could also have used the active voice with the GERUND: ad discendum (linguam), in order to learn (the language). But Latin does not like to put a complement after the GERUND or the SUPINE: it prefers to turn the construction round by putting it in the PASSIVE FORM and to use the verbal adjective (here discendus, -a, -um, which must be learnt).",
+      "Infans, infantis, not speaking, baby. Fari is a very ancient verb meaning to speak, but it is only used in the 1st person of the present indicative (for); 2nd person faris; inf. fari; perfect fatus sum. A child is called puer, pueri, for a boy, and puella, -ae, for a girl. But «children», as opposed to parents, are called liberi, -orum, m., if there are several of them, or else filius or filia depending on the sex.",
+      "Farer is the imperfect subjunctive, 1st person singular of this verb fari that we have just seen (N. 3).",
+      "Major, -oris, m. and f., majus, n., irregular comparative of magnus, great. The superlative is maximus, -a, -um.",
+      "Praebeo, -es, -ere, -ui, -itum, to supply, offer; here in the present participle (praebens, -entis).",
+      "Doctrina, -ae, f., teaching. You already know doctus, learned. These two words come from the verb: doceo, -es, -ere, docui, doctum, to teach, instruct. Ordo, -inis, order, arrangement, alignment.",
+      "Litterae, -arum, f. pl., letters, in the different senses of this word, including that of literature (cf. E. 50, P. 4); littera, in the singular, has a restricted sense: the letter, that is the sense of character (a, b, etc.). One also says ad litteram, to the letter (figurative sense).",
+      "Secundum is used here adverbially: according to, after; e.g.: Evangelium secundum sanctum Johannem, the Gospel according to Saint John. Secundus, -a, -um, adj., which follows; whence second, and by extension favourable.",
+      "Vox, vocis, f., voice, word.",
+      "Aliquis, aliqua, aliquid, someone, something, is declined like the interrogative quis, quae, quid, nominative feminine singular excepted (cf. R. and N. 49, 4). You have also just seen this word in the ablative singular (P. 4).",
+      "Moveo, -es, -ere, movi, motum, to move, stir, to arouse emotion. Motus, -us, m., movement.",
+      "Hoc (here in the abl.) quod sonabant, by what they made heard. Sonare, to make a sound (sonus, -i, m.). This clause is the complement of means of vocari, to be called, the verb of the infinitive clause (subject rem illam, this thing, complement of agent ab eis, by them), which is itself the complement of the verbs videbam and tenebam.",
+      "Creber, -bra, -brum, frequent; crebro is here an adverb.",
+      "Signum, -i, n., distinctive mark, sign, signal.",
+      "Essent, subj. imperfect of esse (essem, esses, etc.).",
+      "Paulatim, little by little. Comes from paulum, little.",
+      "Colligo, -is, -ere, legi, lectum, to gather, collect. Comes from cum + legere. This latter literally means to gather. Derivatives: lectio, the gathering, reading, lesson; and collectio, gathering together, recapitulation (cf. collection and the German word Lektion).",
+      "Jam is not automatically translated by already. It also means now, soon, from now on.",
+      "Patrius, -a, -um, paternal, of the fatherland. For patria, the fatherland, comes from pater, patris, the father. In Latin one says «paternal language» and not «maternal language»."
+    ],
+    "comments": [
+      "SECOND WAVE. — Today we are setting off the second wave: reread the first lesson, then try to recover the Latin text from the English translation.",
+      "Cottidianus, -a, -um (or quotidianus), of every day, daily. — Notitia, -ae, f., knowledge, notion. — Quam ob rem, m. à m., because of (ob) which thing, can be written in a single word. — Faveo, -es, -ere, favi, fautum, to favour. — Virtus, -utis, virtue, value. — Sermo, -onis, language, speech."
+    ]
+  },
+  "exercises": {
+    "latin": [
+      "Cur pueri tam facile linguam patriam loquuntur?",
+      "Quia eam secundum naturam sine molestia discunt.",
+      "Verba sententiasque ad res vitae cottidianae pertinentia tam saepe audiunt...",
+      "ut voces cum rerum notitia facile colligantur et memoria serventur.",
+      "Mihi est amicus cujus pater anglus, mater itala erat; in Gallia vivebant.",
+      "Quam ob rem ille sine ulla difficultate tres linguas didicit.",
+      "Ei favit summa fortuna qua multi non tam feliciter uti sciunt.",
+      "Mihi est fortuna minor, nam discis non tanta virtus est quanta parentum sermoni sed eis tamen quam optime possum uti cupio."
+    ],
+    "english": [
+      "Why do children speak their native language so easily?",
+      "Because they learn it [naturally] (according to nature) and without effort.",
+      "They so often hear words and sentences relating to the things of everyday life...",
+      "that the words are easily gathered and kept in memory together with the notion of the things.",
+      "I have a friend whose father was English and whose mother was Italian; they lived in France.",
+      "For this reason, he learnt three languages without any difficulty.",
+      "[He had] a very great [stroke of] luck (great luck has favoured him), which many do not know how to use so happily.",
+      "I [have] less luck (to me fortune is smaller), [for the recordings are of less value than] (to the recordings there is not so great virtue as to) the conversation of [one's] parents, but nevertheless I want to use them as well as I can."
+    ],
+    "footnotes": []
+  },
+  "sources": [
+    {
+      "after": 10,
+      "latin": "Ex Aurelii Augustini Confessionibus, I, VIII.",
+      "english": "(From the Confessions of Saint Augustine, I, VIII.)"
+    }
+  ]
+}

@@ -1,0 +1,97 @@
+{
+  "meta": {
+    "lesson": 43,
+    "title": "Lectio quadragesima tertia",
+    "subtitle": {
+      "latin": "In carcere hodierno",
+      "english": "In a modern prison"
+    },
+    "revision": false
+  },
+  "latin": [
+    "In hoc carcere hodierno, captivi non totum diem otiosi<sup>1</sup> manent, sed laborant; quo labore<sup>2</sup> speratur fore ut<sup>3</sup> meliores fiant<sup>4</sup>.",
+    "Unusquisque cum<sup>5</sup> in carcerem conjicitur, interrogatur quod opus suscipere malit<sup>6</sup>.",
+    "Alii<sup>7</sup> artem<sup>8</sup> lignariam praeferunt, alii ferrariam, alii sutrinam<sup>9</sup>, etc.<sup>10</sup>.",
+    "Quaerit custos ab aliquo<sup>11</sup>, nuper ingresso<sup>12</sup>, quid velit facere.",
+    "Respondet hic: «Mercandi causa peregrinari<sup>13</sup>!»",
+    "Petrus, septimum annum agens, matrimonio primum<sup>14</sup> adest.",
+    "Mamma, inquit, cur alba stola induta est<sup>15</sup> nupta<sup>16</sup>?",
+    "Quia color albus, fili mi<sup>17</sup>, felicitatis signum est, et dies matrimonii totius vitae felicissimus est.",
+    "Paucis post momentis<sup>18</sup>, iterum<sup>19</sup> interrogat Petrus:",
+    "Mamma, cur nigra veste indutus est maritus?"
+  ],
+  "english": [
+    "In this modern prison, the prisoners do not remain idle the whole day, but they work; [through this work] (by which work) it is hoped that they will become (be made) better.",
+    "[Each newcomer is asked what work he prefers] (each one, when he is thrown into prison, is asked what work he would rather undertake).",
+    "Some prefer [carpentry] (the art of wood), others [the work] of iron, others shoemaking, etc.",
+    "The warden asks someone [who has] recently arrived what he would like to do.",
+    "The latter answers: “[Travelling salesman!] (in order to trade, to travel!)”",
+    "Peter, [six years old] (the seventh year passing), is attending a wedding for the first time.",
+    "Mummy, he says, why is the bride [wearing] a white dress (in a white robe dressed)?",
+    "Because the colour white, my son, is a sign of happiness, and the wedding day is the happiest day of [one's] whole life.",
+    "After a few moments, Peter asks again:",
+    "Mummy, why is the groom [wearing] a black suit (in black clothing dressed)?"
+  ],
+  "notes": {
+    "footnotes": [
+      "Otiosus, -a, -um, idle; otium, -ii, n., leisure, whose opposite is negotium, -ii, n., occupation, business.",
+      "Quo labore: the relative pronoun qui, quae, quod is sometimes used as an adjective (relative): it points to the thing or person that has just been spoken of. Quo is the ablative of qui (masculine).",
+      "Fore ut + subjunctive is in a way a future subjunctive: fore (or futurum esse) is the future infinitive of the verb esse.",
+      "Fio, fis, fieri, factus sum, is a semi-deponent verb; it takes the passive form in the infinitive and in the perfect series, and serves as the passive of the verb facio, to make, to do. These two verbs have numerous compounds. Fiam, fias, fiat, etc., is obviously a present subjunctive.",
+      "Cum, conjunction, when; it is construed sometimes with the indicative (as here, where it expresses a simple relation of time), sometimes with the subjunctive, if it adds an idea of subordination, or if usage requires it.",
+      "Malit: you remember malo (magis volo), mavis, mavult, malumus, mavultis, malunt (vid. L. 33). The present subjunctive is malim, malis, etc. Likewise velim (vid. P. 4) and nolim are the present subjunctives of velle and nolle.",
+      "Alius, alia, aliud, other, when there are more than two persons: alii..., alii..., some..., others...; whereas alter, altera, alterum is only used for two persons or two groups: alter..., alter..., the one..., the other.",
+      "Ars, artis, f., craft, art.",
+      "Lignarius, -a, -um, relating to wood; lignum, -i, n., wood. Similarly ferrarius comes from ferrum, iron; but sutrinus, -a, -um, is connected with sutor, -oris, m., shoemaker. Here artem is understood before ferrariam and before sutrinam.",
+      "Et cetera (etc.), and the other things. Ceteri, -ae, -a, designates all the people or things that have not yet been spoken of (vid. sup. alius and alter).",
+      "Aliquis, aliqua, aliquid, indefinite pronoun, someone, something. Used as an adjective, the neuter becomes aliquod.",
+      "Ingresso, ablative of the perfect participle of ingredior, -eris, -i, ingressus sum, in + gradior, to go in, to enter, to advance.",
+      "Peregrinari: do we still need to tell you that peregrinor, -aris, -ari, -atus sum, to travel, is a regular deponent verb of the first conjugation? Likewise mercari, to trade. Peregrinus, -a, -um, the foreigner, the pilgrim (Italian: pellegrino, English: pilgrim). Mercator, -oris, m., the merchant. Mercandi causa: causa + genitive of the gerund is a frequent construction; note how it differs from the English one (in order to trade).",
+      "Primum is here an adverb, not to be confused with the nominative-accusative neuter of primus, -a, -um, first. Matrimonium, -ii, n., marriage.",
+      "Induta est: you remember the verb from lesson 20: induo me vestibus. Here it is the same verb in the passive perfect. Alba stola is an ablative of means, hence the long a.",
+      "Nupta, from nubo, -is, -ere, nupsi, nuptum, to marry (said of a woman). A man would use the expression uxorem ducere, to take (lead) a wife (vid. inf. E. 43, P. 5).",
+      "Fili mi is the vocative of filius meus.",
+      "Paucis post momentis: post, the preposition, is construed with the accusative. Do not worry about this apparent exception: post is here an adverb, so it has no effect on the case of the words around it. Note above all that the adjective paucis, although separated from its noun momentis, is easily connected with it: in effect the two of them firmly frame the adverb post. From now on you will meet this arrangement fairly often: you will soon get used to it.",
+      "Iterum, adv., again."
+    ],
+    "comments": [
+      "Conficio, -is, -ere, -feci, -fectum = cum + facio: think of confection. — Turritus, -a, -um, furnished with towers, or (here) tower-shaped; a tower is turris, -is, f.; acc. turrim; abl. turri (vid. L. 40, N. 9). — Caelebs, caelibis, adj. (ablative in -e and not in -i), unmarried. It is in the ablative, like vita, because the complement of the comparative (melius) is put in the ablative when quam is not used. — Fel, fellis, n., gall."
+    ]
+  },
+  "exercises": {
+    "latin": [
+      "Mercator emit calceos quos sutor conficit eosque emptoribus vendit.",
+      "Lignarius tabulas multiplicatorias non conficit, sed mensas super quas prandemus et cenamus.",
+      "Lignarium ut mensam conficeret, rogavi; spero fore ut ea uxori conveniat.",
+      "Quis est iste peregrinus?",
+      "Est agricola quidam qui filiam sutoris in matrimonium ducere cupit.",
+      "Ingreditur in tabernam ad vestem nigram et petasum turritum emendum.",
+      "Felix videtur homo: spero fore ut post matrimonium felix semper sit.",
+      "Hoc fieri non potest: ignorasne Horatii versum: «melius nil caelibe vita»?",
+      "Mulier malum sed malum necessarium.",
+      "Mel melius est quam fel.",
+      "Mel melius est felle."
+    ],
+    "english": [
+      "The merchant buys the shoes that the shoemaker makes and sells them to customers (buyers).",
+      "The carpenter does not make multiplication tables, but [the] tables at which we have lunch and dinner.",
+      "I asked the carpenter to make [me] a table: I hope that it will suit [my] wife.",
+      "Who is this traveller (foreigner)?",
+      "He is a farmer who wishes to marry (to lead in marriage) the shoemaker's daughter.",
+      "He goes into the shop to buy a black suit and a top hat (tower-shaped hat).",
+      "Felix seems [to be] a happy man: I hope that after [his] marriage he will always be happy.",
+      "That [is impossible] (cannot be done): don't you know Horace's verse: “nothing [is] better than the single life”?",
+      "Woman [is] an evil, but a necessary evil.",
+      "Honey is better than gall.",
+      "[Same translation] (Honey is better than gall)."
+    ],
+    "footnotes": []
+  },
+  "sources": [
+    {
+      "after": 10,
+      "latin": "E Vita Latina, A. Rodot, sept. 1961.",
+      "english": "(From Vita Latina, A. Rodot, September 1961.)"
+    }
+  ]
+}

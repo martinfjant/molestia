@@ -1,0 +1,88 @@
+{
+  "meta": {
+    "lesson": 60,
+    "title": "Lectio sexagesima",
+    "subtitle": {
+      "latin": "Lingua latina apothecaria",
+      "english": "Apothecary's Latin"
+    },
+    "revision": false
+  },
+  "latin": [
+    "Pharmacopolae, antequam<sup>1</sup> munere suo fungi possent, jusjurandum olim dare debebant. Ecce exemplar hujus juris jurandi<sup>2</sup>:",
+    "«... habebunt pondera vera et justa a libra<sup>3</sup> usque ad scrupulum.",
+    "Non ponent in suis clisteribus<sup>4</sup> aliquam medicinam cujus virtus<sup>5</sup> sit exhalata vel corrupta<sup>6</sup>.",
+    "Non ponent unam medicinam pro alia in aliqua recepta<sup>7</sup>...",
+    "et si herbam vel medicinam in recepta positam non habeant, referent magistro ordinanti ut circa<sup>8</sup> hoc provideat.",
+    "Non dabunt nec permittent dari scienter aliquod<sup>9</sup> clisterium nec aliquod aliud medicabile...",
+    "nisi ad hoc habeant receptam ab aliquo magistro specialiter ordinatam.",
+    "Non recipient clericum<sup>10</sup> nisi sciat intellegere, loqui et scribere latinum et gallicum<sup>11</sup>...",
+    "et antequam ipsum recipiant, tenebitur jurare omnia praedicta juramenta.",
+    "Parisiis, die 2° mensis octobris, anno 1422°.»"
+  ],
+  "english": [
+    "Pharmacists, [before being able to carry out] (before they might acquit themselves of) their function, formerly had to take an oath. Here is a reproduction of this oath:",
+    "“... they will have true and accurate weights from the pound to the «scruple».",
+    "They will not put in their enemas any (some) medicine whose strength has evaporated or [is] corrupted.",
+    "They will not put [one single] medicine for another in [any] (some) prescription...",
+    "and if they do not have (subj.) the herb or the medicine [prescribed] (placed) in the prescription, they will refer [to the doctor] (master) prescribing, so that he may take measures on this subject.",
+    "They will not knowingly give or allow to give any enema, nor any other medicine...",
+    "if they do not have (subj.) a prescription specially prescribed (ordinatam) on this subject (ad hoc) by a [doctor] (master).",
+    "They will not accept any [assistant] (clerk) if he does not know (subj.) how to understand, speak and write Latin and French...",
+    "and before [admitting] (they receive) [this] (him) [assistant], [the latter] will be bound to swear all the aforesaid oaths.",
+    "Paris, 2 October 1422.”"
+  ],
+  "notes": {
+    "footnotes": [
+      "Antequam is construed with the INDICATIVE if it simply indicates that, of two events, one is prior to the other, and with the SUBJUNCTIVE if there is reason to highlight an intention, a hypothesis, etc. (whence possent, subj. impf.).",
+      "Jus, juris, n., right (legal)... or juice, sauce! Jurandus, -a, -um, verbal adj. of jurare; juramentum (plural below, P. 9) is less classical than jusjurandum (gen. jurisjurandi).",
+      "Libra, -ae, f., 1 pound (weight) = 12 ounces = 288 scruples; uncia, -ae, f., ounce (weight), or inch = 1/12 of a foot (length); scrupulum = 1/288 of a pound or of a foot.",
+      "Clister, -eris, m., or clisterium, -i, n.: barbarous device used to give enemas (also written clyster, pronounce clustèr).",
+      "Virtus, -utis, f., virtue, here force.",
+      "Corrumpere = cum + rumpere. Rumpo, -is, -ere, rupi, ruptum, to break.",
+      "Receptus, -a, -um: perfect participle of recipere, to receive, = re + capere. Used here in a sense that corresponds fairly well to that of its French derivative recette (recipe).",
+      "Circa: prep. + acc., towards, around, on the subject of (here a doubtful use).",
+      "Aliquis, qua, quod, adj. indefinite pronoun, some, a certain.",
+      "Clericus, -i, m., clerk (cf. clerical).",
+      "Here is a more correct form for sentence 8: non accipient adjutorem nisi latine et gallice intellegere, loqui, scribere possit (accipient, recipient: future indicative). Likewise, in sentence 9, tenebitur jurare is not classical; it would be better to say: (totum) jusjurandum supradictum dare debebit."
+    ],
+    "comments": [
+      "Phrase 3: simple succession of facts, so antequam + ind. — Pyxis, -idis, f., the box. — Jaceo, -es, -ere, jacui, v. i., to be lying; not to be confused with jacio, -is, -ere, jeci, jactum, v. t., to throw. — Peniculus, -i, m., brush; penicillus, -i, m., paintbrush. Note the expression vel minima, even the slightest, and more generally vel + superlative (of the adjective or adverb); vel optime, even the best possible. Vel used as a conjunction means or (not exclusive) whereas aut corresponds to or exclusive.",
+      "SECOND WAVE: the 11th lesson."
+    ]
+  },
+  "exercises": {
+    "latin": [
+      "Ave, Domne pharmacopola (vel domna pharmacopola), estne tibi remedium ad pituitam curandam aptum?",
+      "Ecce! Guttas decem ex hac ampulla mane, meridie et vespere in nasum instilla!",
+      "Antequam cubitum abeas, pilulas duas ex illa pyxide cum potione calida sorbe.",
+      "Volo unguentum quoque contra solis exustiones.",
+      "Si hoc unguento cutem unxeris, solis exustio nunquam nocebit.",
+      "Ita non arbitror, cutis mea vel minima exustione statim vulneratur.",
+      "Tunc cave solem; noli in arena toto tempore postmeridiano jacere.",
+      "Consilio tuo utar... Dentifricium etiam volo... quid amplius? certus sum me alicujus rei oblitum esse.",
+      "Visne saponem ad barbam radendam?",
+      "Nequaquam! Novacula utor electrica... Eia! Inveni! Peniculum dentarium volo."
+    ],
+    "english": [
+      "Hello Mr Pharmacist (or Mrs Pharmacist), do you have a remedy for treating a [head cold] (pituitary)?",
+      "There you are! Put (instil) ten drops from this bottle in your nose morning, noon and evening.",
+      "Before going to bed [take] two pills from this box with a hot drink (absorb).",
+      "I also want a cream against [sunburn] (burns of the sun).",
+      "If you [rub] (fut. ant.) your skin with this cream, you [will never have] sunburn (sunburn will never harm).",
+      "I [don't think so] (thus), my skin is sensitive to the slightest burn (immediately is wounded).",
+      "Then, be careful of the sun; please don't stay lying all [afternoon] (afternoon time) on [the beach] (the sand).",
+      "I [will follow] (will make use of) your advice... I also want toothpaste... What else? I'm sure I've forgotten something.",
+      "Do you want shaving soap (soap for shaving the beard)?",
+      "Not at all! I use an electric razor. Ah! I've found it! I want a toothbrush."
+    ],
+    "footnotes": []
+  },
+  "sources": [
+    {
+      "after": 10,
+      "latin": "",
+      "english": "(From Textes latins du Moyen Age (J. Delannoy, O.C.D.L., ed.).)"
+    }
+  ]
+}

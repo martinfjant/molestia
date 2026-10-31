@@ -1,0 +1,116 @@
+{
+  "meta": {
+    "lesson": 85,
+    "title": "Lectio octogesima quinta",
+    "subtitle": {
+      "latin": "Pessimus sum artifex",
+      "english": "I am a very bad mechanic"
+    },
+    "revision": false
+  },
+  "latin": [
+    "Carolus. — Heus Renate! Quid hic agis? Quid tibi accidit?",
+    "Renatus. — Ipse vides, vetule Carole. Raeda progredi non vult*. Machinamentum subito constitit, nescio qua de causa.",
+    "Manus axungia<sup>1</sup> inquinavi<sup>2</sup>, sed nihil invenire potui*: pessimus sum artifex.",
+    "Car. — Sine inspiciam! Ratione cogitemus<sup>3</sup>! aut ignitio aut petroleum<sup>4</sup> te deficit: vis enim motrix e petroleo ignito oritur.",
+    "Fomes<sup>5</sup> scintilla electrica accenditur... Primum ignitionem probemus!",
+    "Axis motorius vecte tibi volvendus erit dum probo<sup>6</sup> utrum in unoquoque cylindro<sup>7</sup> scintilla emicet<sup>8</sup> necne.",
+    "Ren. — Ecce! Vectis in loco suo est. Eum circumagere incipio.",
+    "Car., repente sursum excutitur<sup>9</sup> exclamans. — Eheu!... Quae mala vexatio<sup>10</sup> fluxus electrici tactu percuti!",
+    "Paulo post, placatus: — Sed nunc apparatum igniarium valere scimus.",
+    "Inspiciamus ergo num fomes bene influat<sup>11</sup>. Da mihi clavem qua carburatorii cochleas educam*.",
+    "Cochleis eductis*, carburatorii operculum tollitur.",
+    "Ren. — Labrum<sup>12</sup> aridum est. Petroleum huc non adducitur.",
+    "Car. — Antliam petrolearium digito moveamus. Vae! Petroleum non meat. Fortasse antliae membrana<sup>13</sup> perforata est.",
+    "Ren. — Quid faciam? Haec mihi nimiam moram fecerunt: hac ipsa hora ad judicium adesse vellem*.",
+    "Car. — Quo crimine accusatus es? Num times ne te capite damnent<sup>14</sup>?",
+    "Ren. — Noli facetus esse! Non ego accusor. Spectare tantum cupio. Reus est clarissimus vir; patroni sunt optimi: eos libentissime audirem<sup>15</sup>.",
+    "Car. — Tibi melius est pedibus ire*, aut carpento meritorio<sup>16</sup> uti... Sine tamen receptaculum inspiciam.",
+    "Ren. — Vae nobis! Illud implere hodie mane oblitus sum. Frustra opifices egimus!"
+  ],
+  "english": [
+    "Charles. — Hey! René! What are you doing here? What's happening to you (bad)?",
+    "René. — You can see for yourself, [my] old Charles. The car doesn't want to go forward any more. The engine has suddenly stopped, I don't know for what reason.",
+    "I have [dirtied] my hands with grease [and] I [have found nothing]; I am a very bad [mechanic] (man of the art).",
+    "Charles. — Let me look! Let's reason logically! Either it's the ignition or it's the petrol [which is lacking for you]: in fact the motive power comes from [the combustion of the petrol] (of the petrol having been burnt).",
+    "The fuel is ignited by the electric spark... First let's check the ignition!",
+    "[You will have to turn] the crankshaft [with the handle] (by lever to you to turn will be) while I check whether, in each cylinder, the spark leaps out or not.",
+    "René. — There! The handle is in [its] place. I'm beginning to turn [it].",
+    "Charles, jumping suddenly into the air letting out a howl. — Ouch!... What a [nasty] jolt [to get] the electric current [on one's fingers] (by touch to be shaken)!",
+    "A moment after, having regained his calm: — But now we know that the ignition device is working.",
+    "Let's look then whether the fuel is flowing well. Give me a key [with which] I [can remove] the screws of the carburettor.",
+    "The screws having been removed, the lid of the carburettor is lifted.",
+    "René. — The [float chamber] is [dry] (dry). The petrol isn't arriving here.",
+    "Charles. — Let's work the petrol pump with the finger. Blast! The petrol isn't flowing. Perhaps the membrane of the pump is pierced.",
+    "René. — What to do? That's [made me too late] (put me too much delay): at this very time I [would like] (would want) [to attend] a trial.",
+    "Charles. — Of what charge have you been accused? Are you afraid by any chance that you'll be sentenced to death?",
+    "René. — Don't be funny! It isn't me who is accused. I only want to go and be a spectator. The accused is a very well-known person; the lawyers are excellent: I would listen to them willingly.",
+    "Charles. — It would be better for you to go on foot, or [to take a taxi] (to make use of a hire car)... Let me nevertheless look at the tank.",
+    "René. — Bad luck for us! I forgot to fill it this morning. We've played the mechanics for nothing!"
+  ],
+  "notes": {
+    "footnotes": [
+      "Axungia, -ae, f. (from axem ungere, to grease the axle), the bearing grease which, after a certain time, turns into sludge (Old French cambois, 14th c., unknown origin). Axis, -is, m., axle, axis, shaft (P. 6).",
+      "Inquinare, to soil, to stain.",
+      "W. f. w., with reason (logic) let us think!",
+      "Petroleum, -i, n., Latin of the Middle Ages: oil (oleum) drawn from the ground (petra, stone). Petrol (essence) is refined petroleum. The word essence (essentia, nature of a thing) lending itself to confusion, we have preferred the term pétrole, used by the first motorists and aviators and still by the English, who say petrol, but we could have said, with the Italians and the Germans, benzinum, -i, n. (word already sanctioned by Bacci); or with the Americans gasolina. These words lend themselves to confusion in all languages!",
+      "Fomes, -itis, m., any product capable of feeding the fire: same sense as the English fuel (which, through Old French fouaille, comes from focus, hearth). All these words come from fovere, to heat; but in Latin, fire is said ignis, -is, m.; whence ignire, supine ignitum, to burn, and ignescere, to catch fire. Ignitio is a modern word, but igniarius, -a, -um, relating to fire (P. 9), is classical.",
+      "Dum, when it simply means while, is constructed with the indicative, and generally with the PRESENT indicative, whatever the tense of the main clause; this rule is not imperative.",
+      "Cylindrus, -i, m., cylinder, roller.",
+      "Emicare, to come out with violence, to shine (ex + micare, to be agitated, to shine).",
+      "Excutio, -is, -ere, cussi, cussum, to make come out by a shock, to overturn. Here in the passive. Likewise, a few words further, percuti, to be traversed by a shock.",
+      "Vexare, to shake; vexatio, -onis, f., shaking, suffering, bad treatment.",
+      "Influo, -is, -ere, fluxi, fluxum, to flow in.",
+      "Labrum, -i, n., bathtub, vat (origin: lavare). This word, which we have already seen (L. 47, P. 1 and P. 8), has exactly the same form as labrum, -i, n., the lip (origin: lambere, to lick).",
+      "Membrana, -ae, f., means membrane, smooth and plain skin, parchment. All pumps are not membrane pumps; the most classical are piston pumps (fundulus, -i, m.).",
+      "Accusare + gen. to express the motive of the accusation: accusare aliquem furti, to accuse someone of theft. But it is also constructed with the ablative with the word crimen, whence crimine in phrase 15. Damnare + abl. to express the penalty incurred. This rule is not absolute.",
+      "Audirem, imperfect subjunctive = present unreal: I would listen willingly, but I cannot.",
+      "Meritorius, -a, -um, for hire (from mereri, to earn a wage). Carpentum, -i, n., suspended carriage (on springs or equivalent device) has given carpentarius (cf. L. 24, N. 1)."
+    ],
+    "comments": [
+      "Ancient proverb. — Si non ungitur axis, tardius inceptum continuatur iter. — If the axle is not greased, the road begun continues more slowly [to make the chariot go, the wheels must be greased].",
+      "More modern proverb. — (Compaginum) laxitas artis mechanicae anima est! — Play (laxity of the articulations) [is] the soul of mechanics! N.B. — This last proverb is generally used ironically.",
+      "Cummis, -is, f. (or gummis), abl. cummi, gum, rubber, whence tyre. — Pungo, -is, -ere, pupugi, punctum, to prick, to pierce, has given numerous derivatives, both in Latin and in French; e.g. punctum, the point, punctura, the puncture. — Latere, to be hidden, here in the pres. subj. (indirect interrogative construction). — Pagus, -i, m., village, countryside; paganus, -a, -um, of the countryside, whence pagan (the countryside was converted to Christianity after the towns). — Rusticus, -a, -um, comes from rus, ruris, n., the countryside (loc. ruri, see R. and N. 77). — Ungo, -is, -ere, unxi, unctum, to anoint, to oil, here to grease (cf. N. 1). — Laxitas: from laxus, -a, -um, which does not grip, relaxed (cf. laxare, to slacken; relaxare, to relax; relaxatio, relaxation, «relaxation»).",
+      "This lesson has made you touch with the finger one of the points where the practice of living Latin poses some delicate problems.",
+      "Indeed, if it is easy to describe and to explain in Latin — or in classical Greek — the most recent scientific discoveries, for the simple reason that scientific vocabulary is almost essentially of Graeco-Latin formation (cf. L. 66, L. 67 and bibliography), on the other hand we must recognize that in the domain of applied mechanics, Latin has fallen somewhat behind.",
+      "So, to avoid a few barbarisms, we have had to make do with terms whose precision leaves something to be desired. Such are: petroleum (cf. N. 4); igniarius (cf. N. 5); vectis, which designates the lever in general rather than the crank in particular. On the other hand carburatorium, -ii, n., is precise, universally recognizable, but does not yet appear in dictionaries!",
+      "As Latin is a living language that does not cease to perfect itself, you can conclude from it that if, thanks to a few, its efficacy is from today appreciable in this delicate domain, tomorrow, thanks to the effort of all, it will not cease to grow in all domains.",
+      "SECOND WAVE: the 36th lesson."
+    ]
+  },
+  "exercises": {
+    "latin": [
+      "Ubi est officina raedaria?",
+      "In proximo vico una est.",
+      "Illic petroleum venum dant oleumque.",
+      "Carpentaria et mechanica reficere possunt.",
+      "Cummesne tubulosve restituunt?",
+      "Ita, eos Vulcania ratione reficiunt.",
+      "Cummis perforata est.",
+      "Artifex tubulum in labro aquae pleno mergit.",
+      "Cur ita facis?",
+      "Unde bullae exeunt, inde aer e tubulo fugit: ita quo loco punctum lateat conspici potest.",
+      "Quid tubulum pupugit?",
+      "Clavus quem hic in cummi fixum vides.",
+      "Clavus est caligae.",
+      "In hoc pago rustici caligis utuntur ferratis."
+    ],
+    "english": [
+      "Where is there a garage (car workshop)?",
+      "There is one in the next village.",
+      "There they sell petrol and oil.",
+      "They can do repairs to bodywork and mechanics (pl. n.).",
+      "Do they put back in good condition the [tyres] (rubbers) or the [inner] tubes (tubes)?",
+      "Yes, they [vulcanize] them (remake by the Vulcan system).",
+      "The tyre is punctured.",
+      "The mechanic plunges the inner tube into a vat full of water.",
+      "Why do you do that?",
+      "[It is] from where the bubbles come out [that] the air escapes from the inner tube: thus (at what) the place [where] the hole is hidden can be seen.",
+      "What pierced the inner tube?",
+      "[It is] a nail that you see planted here in the tyre.",
+      "The nail [comes] from a boot.",
+      "In this region the peasants [wear] hobnailed boots."
+    ],
+    "footnotes": []
+  }
+}

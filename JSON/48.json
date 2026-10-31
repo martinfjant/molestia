@@ -1,0 +1,98 @@
+{
+  "meta": {
+    "lesson": 48,
+    "title": "Lectio duodequinquagesima",
+    "subtitle": {
+      "latin": "Binae sunt caligae",
+      "english": "It's a pair of shoes"
+    },
+    "revision": false
+  },
+  "latin": [
+    "Decurio<sup>1</sup> quidam cum milite gregario<sup>2</sup> sub tegmine<sup>3</sup> arboris cujusdam bellum atrox<sup>4</sup> agebat.",
+    "In caespite<sup>5</sup> recubantes<sup>6</sup>, lagona in promptu posita<sup>7</sup>, summas cogitationes<sup>8</sup> philosophicas agitabant<sup>9</sup>.",
+    "Decurio. — Dic mihi, Miles, quid habemus quod omnes homines habent?",
+    "Miles. — Haec, Decurio, amplissima est quaestio quae intellectum meum omnino superat: solve<sup>10</sup> mihi hoc aenigma.",
+    "Dec. — Sunt binae caligae<sup>11</sup>: ambo enim, sicut ceteri homines, binas habemus caligas.",
+    "Mil. — Hoc nimis astutum est: propone aliud aenigma, quod nunc forte solvam.",
+    "Dec. — Si aenigmata quaeris, ecce alterum: «Quid habemus nos, quod non omnes homines habent?»",
+    "Mil. — Hoc etiam astutius<sup>12</sup> videtur... non inveniam!",
+    "Dec. — Sunt bis binae caligae, nam nos binas habemus ad exercitationes<sup>13</sup> et binas ad decursus<sup>14</sup> accommodatas, sed non omnes homines bis binas habent caligas.",
+    "Mil. — Astutissimum! Hoc tamen solvere debui<sup>15</sup>. Dic, quaeso, ultimum quod ipse solvere conabor.",
+    "Dec., secum cogitans subito vidit cerasa<sup>16</sup> quibus cerasus, cujus umbra tegebantur, onusta erat. — Miles! quae rubro<sup>17</sup> sunt colore<sup>18</sup>, et petiolo viridi bina pendunt?",
+    "Mil. — Ter me non deludes: sunt ter binae caligae!"
+  ],
+  "english": [
+    "A corporal, in the company of a second-class soldier, was waging an atrocious war in the shade of a tree.",
+    "Lying in the grass, the bottle [within reach] (placed), they were turning over very lofty philosophical thoughts.",
+    "The corporal. — Tell me, Soldier, what do we have that all men have?",
+    "The soldier. — [That,] Corporal, [is] a very vast question [which] completely exceeds my understanding: [I give up] (solve for me this riddle).",
+    "Corp. — It's a pair of shoes: both of us, in fact, like [everybody else] (the other men), have a pair of shoes.",
+    "Sold. — That is [far] too clever: tell me now another riddle that perhaps I will find [the answer to].",
+    "Corp. — If you want riddles, here is another: “What do we have that [not everybody] (all men) has?”",
+    "Sold. — That is even more clever (astute)... I won't find it!",
+    "Corp. — [They] are two pairs of shoes, for we have one pair for exercises and one pair [suited] for parades, but [not everybody has] two pairs of shoes.",
+    "Sold. — Extremely clever! Yet I [should have] found it. Tell me, please, a last one [that] I will try to find [myself].",
+    "Corp., [thinking] (thinking with himself), suddenly sees the cherries [with which] the cherry tree, in whose shade [they were sitting] (they were covered), was laden. — Soldier! What is red (of colour) and hangs in pairs from a green stalk?",
+    "Sold. — You won't fool me a third time: it's three pairs of shoes!"
+  ],
+  "notes": {
+    "footnotes": [
+      "Decurio, -onis, m., the head of a decuria, which, as its name indicates, comprises ten men. Corresponds to corporal or sergeant depending on the arm of service.",
+      "Miles, -itis, m., the soldier; militia, -ae, f., military service, the army; miles gregarius, private soldier (2nd class) (grex, flock or troop, cf. L. 5, P. 2).",
+      "Tegmen, -inis, n. (from tego, -is, -ere, texi, tectum, to cover, protect); note the compound detego, to uncover, to detect.",
+      "Atrox, -ocis (for all three genders), of the same family as ater, -tra, -trum, matt black.",
+      "Caespes, -itis, m., grass, lawn, clods of earth that remain attached to the grass.",
+      "Recubare, to lie on one's back; accumbere, to lie down beside a table, to dine (cf. L. 41, P. 2).",
+      "Lagona posita: another ablative absolute. In promptu, within reach, to hand.",
+      "Cogitatio, -onis, f., from cogitare, to think, to reflect. From now on we will no longer give you notes for words in -tio whose meaning is obvious; they all have the genitive in -tionis, are of feminine gender, and correspond (more or less closely) to our words in -tion. As to meaning, there is always reason to be wary: thus ratio gave French raison (reason) and ration, but although it has several meanings in common with the French raison (reason), it has nothing to do with the (food) ration. Likewise rationalis, rational, means relating to reason (and not to rations).",
+      "Agitare, FREQUENTATIVE of agere, to do (push) OFTEN, whence to agitate. Note that the forms derived from verbs generally belong to the regular 1st conjugation.",
+      "Solvo, -is, -ere, solvi, solutum, to untie, dissolve, solve. Solutio means both solution and dissolution. The contradiction that these two senses seem to imply is only apparent: by solving a problem, one dissolves the difficulty. And this also explains the curious expression solution of continuity: in fact it is a dissolution, that is to say an interruption, of continuity!",
+      "Bini, -ae, -a, adj., two by two; terni, three by three; quaterni, quini, etc. Likewise bis, twice; ter, three times; quater, quinquies, etc. If you have to do arithmetic operations, it is useful to know these distributive adjectives and adverbs (do you remember the TABULA MULTIPLICATORIA of L. 6?). You will find the rest in the grammatical appendix.\n\nCaliga, -ae, f., the military boot. Its diminutive, caligula, had been given as a nickname by the soldiers to an emperor.",
+      "Astutius: do we need to tell you that this is the neuter of astutior, -oris, comparative of astutus, -a, -um, adj., which we had in P. 6 just above?",
+      "Exercitatio, -onis, f., manoeuvre, exercise; exercitus, -us, m., the active, trained army (Spanish ejército, Italian esercito); exerceo, -es, -ere, exercui, exercitum, to exercise; exerceor, pass., to be exercised, to train, to do sport + abl. (vid. L. 54).",
+      "Decursus, -us, m., parade, march-past (cursus, the race).",
+      "Debui: perfect indicative of debere. In this case there is no need to use the subjunctive (to translate our conditional), for the soldier really should have found it.",
+      "Cerasum, -i, n., the cherry; cerasus, -i, f., the cherry tree. Almost all tree names are feminine in Latin (as in Italian and Provençal).",
+      "Ruber, -bra, -brum, red; rubigo, -inis, f., rust.",
+      "Color, -oris, m., and in general words in -or are, in Latin as in Italian, of MASCULINE gender. The rare exceptions are soror, -oris, the sister, and arbor, -oris, the tree, which are feminine, as well as the neuters marmor, -oris, marble; aequor, -oris, the expanse (of the sea); cor, cordis, the heart."
+    ],
+    "comments": [
+      "Gaudeo, -es, -ere, gavisus sum, to rejoice, is a semi-deponent verb, like fieri, which we saw above. Perfect indicative: gavisus sum, es, est, etc.; pluperfect: gavisus eram, etc. — Igitur, therefore, has almost the same meaning as ergo, but is always placed after the first word of the sentence: the same difference in construction as between autem and sed; ergo is preferably used in a demonstration (e.g. mathematical). — Juvenis, -is (gen. pl. juvenum), m., the young man; juventus, juventutis, f., youth. Likewise senex, -is (gen. pl. senum), m., the old man and senectus, senectutis, f., old age. — Humus, -i, f., the earth (the ground), follows the same rule as domus for the locative: humi, on the ground. Fuere = fuerunt: the 3rd person plural of the perfect has an alternative form in -ere instead of -erunt. — Vado, -is, -ere, intransitive verb, without perfect or supine, to go, to walk, which you have already seen in the expression quo vadis. — Superus, -a, -um, above; comparative superior, higher; superlative supremus, -a, -um, highest; likewise inferus, -a, -um, below; comparative inferior, lower; infimus, lowest. — Transire = trans + ire, to go across, to cross.",
+      "This song is even better known than Lauriger Horatius. You will also be able to find it in the two collections we cited at the end of L. 34."
+    ]
+  },
+  "exercises": {
+    "latin": [],
+    "english": [],
+    "footnotes": []
+  },
+  "song": {
+    "kind": "Carmen",
+    "title": {
+      "latin": "Gaudeamus igitur!",
+      "english": "Let us rejoice, then!"
+    },
+    "latin": [
+      "Gaudeamus igitur, juvenes dum sumus! (bis)",
+      "Post jucundam juventutem,",
+      "Post molestam senectutem,",
+      "Nos habebit humus. (bis)",
+      "Ubi sunt qui ante nos in mundo fuere? (bis)",
+      "Vadite ad superos,",
+      "Transite ad inferos,",
+      "Ubi jam fuere. (bis)"
+    ],
+    "english": [
+      "Let us rejoice then while we are young!",
+      "— After a pleasant youth,",
+      "— after a painful old age,",
+      "— the earth will have us!",
+      "Where are those who were in the world before us?",
+      "— Go to the [gods] of heaven;",
+      "— go down to [those] of the underworld,",
+      "— where they [have] (already) been [for a long time]."
+    ],
+    "source": ""
+  }
+}

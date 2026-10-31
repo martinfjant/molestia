@@ -1,0 +1,100 @@
+{
+  "meta": {
+    "lesson": 88,
+    "title": "Lectio duodenonagesima",
+    "subtitle": {
+      "latin": "Estne tibi otium?",
+      "english": "Do you have the time?"
+    },
+    "revision": false
+  },
+  "latin": [
+    "Cicero Filius. — Studeo, mi pater<sup>1</sup>, latine audire ea quae mihi tu de ratione dicendi graece tradidisti<sup>2</sup>, si modo tibi est otium et si vis*.",
+    "Cicero Pater. — An est, mi Cicero, quod ego malim*, quam te quam doctissimum esse?",
+    "Otium autem primum est summum, quoniam aliquando Roma exeundi* potestas data est,",
+    "deinde ista tua studia vel maximis<sup>3</sup> occupationibus meis anteferrem* libenter.",
+    "Fil. — Visne* igitur, ut<sup>4</sup> me graece<sup>5</sup> soles ordine interrogare, sic ego te vicissim eisdem<sup>6</sup> de rebus latine interrogem.",
+    "Pat. — Sane, si placet. Sic enim et ego te meminisse* intellegam quae accepisti, et tu ordine audies quae requires...",
+    "Fil. — In quo est ipsa vis oratoris?",
+    "Pat. — In rebus et in verbis. Sed et res et verba invenienda sunt et collocanda.",
+    "Vox, motus, vultus, atque omnis actio eloquendi comes<sup>7</sup> est; earum rerum omnium custos est memoria...",
+    "Fil. — Quoniam igitur invenire primum est oratoris, quid quaeret?",
+    "Pat. — Ut inveniat quem ad modum fidem faciat eis quibus volet*<sup>8</sup> persuadere<sup>9</sup>, et quem ad modum motum eorum animis adferat*...",
+    "Fil. — Testimoniorum quae genera sunt?",
+    "Pat. — Divinum et humanum. Divinum est, ut oracula, auspicia, ut vaticinationes et responsa sacerdotum<sup>10</sup>.",
+    "Humanum, quod spectatur ex auctoritate, ex voluntate, ex oratione aut libera aut expressa<sup>11</sup> in quo insunt* scripta, pacta<sup>12</sup>, promissa, jurata, quaesita<sup>13</sup>."
+  ],
+  "english": [
+    "Cicero junior. — Papa, I am keen to hear from you in Latin what you have [told] (reported) me in Greek [about the principles of eloquence] (means of saying), if however [you have the time] (to you is leisure) and if you want.",
+    "Cicero senior. — Is there [anything], my [little] Cicero, that I could prefer [to seeing you] (that you be) as learned as possible?",
+    "As for time, [for the first time I have a great deal of it] (it is the more great), since at last the possibility [has been given me] of leaving Rome,",
+    "and [besides] (then) I would gladly put [your wishes] (these desires of yours) [in this matter] before (ante) even my most important occupations.",
+    "Son. — Do you want then, just as you are in the habit of questioning me in Greek [proceeding] in order, that I in my turn question you in Latin on these same [questions] (things)?",
+    "Father. — Certainly, if [it] pleases [you]. Thus in effect, [I will know] (will understand) if you have retained what you have [learnt] (received), and you will hear [set out] in order what you ask...",
+    "Son. — [Where lies the talent] (in what is the force itself) of the orator?",
+    "Father. — In the [ideas] (things) and in the words. But the ideas and the words must be found and [arranged] (are to be placed together).",
+    "The voice, [gesture] (movement), [the expression of the] face, [and] (all) [in general] (all) the action [of speaking] are the companion(s) [of elocution]; the guardian of all these things is memory...",
+    "Son. — So since [invention] (to find) is the first [aim] of the orator, what will he seek?",
+    "Father. — [To find] (that he may find) how to [convince] (make faith to) those whom he will want to persuade, and how [to move them] (movement to their souls he brings)...",
+    "Son. — What are the [different] kinds of testimonies?",
+    "Father. — The divine and the human. The divine [testimony] [is], for example, the oracles, the auspices, the predictions and the answers of the priests.",
+    "The human [testimony is] that which [comes] (is seen) from authority, from will, from speech free or forced; [in this category] (in which) are found writings, agreements, promises, oaths and [confessions obtained by torture] (things asked)."
+  ],
+  "notes": {
+    "footnotes": [
+      "Mi pater, is more familiar or more affectionate than pater mi, which simply means my father. Another example that shows that the place of words is not arbitrary in Latin (cf. R. and N. 84). Studere, to have the taste of... (studium, the taste of doing s.th.), whence to study; is constructed with the dative: studeo grammaticae, mathematicis, etc.",
+      "Trado, -is, -ere, tradidi, traditum, to hand over, to deliver, to report (trans do).",
+      "Vel + superlative, even the most. E.g.: vel minima sentire, to perceive the slightest things; compare with quam + superlative (P. 2 above). — Vel means or if you want (same etymology as velle*) and marks the NON-EXCLUSIVE or: Paulus vel Petrus venit, Paul or Pierre are coming (or perhaps they are both coming). — Aut, on the contrary, expresses the EXCLUSIVE or: Paulus aut Petrus venit, Paul or Pierre is coming; but if Pierre comes, Paul does not come and vice versa. It will be noticed that French and English do not have conjunctions clearly appropriate to each of these two logical operations, though they are so different from each other.",
+      "Ut is here an adverb of comparison (and not a conjunction). This becomes evident if one notices that it makes a pair with sic.",
+      "Graece, adv.: the usual language of teaching was Greek before being Latin.",
+      "Vicissim, adv., in turn; from vix (a word only used in a few cases: acc. vicem, gen. vicis, nom. and acc. pl. vices, dat. and abl. pl. vicibus), turn, time, succession: in vicem, in turn (cf. French vicissitude, vice versa, vice-amiral, etc.).",
+      "Comes, -itis, m. f., companion; this word became a title in the Lower Empire: whence the French comte and the Italian conte.",
+      "Volet: future indicative of velle*. Higher up (P. 2) malim, subj. pres. of malle*.",
+      "Suadeo, -es, -ere, suasi, suasum, to persuade; persuadere means to persuade completely; is constructed with the dative (quibus).",
+      "Oraculum, -i, n., from orare, to speak, then to pray; oracula are the words of an inspired soothsayer. — Auspicium, -ii, n. (avis spicium, from aves inspicere), prophecies obtained by examining the flight of birds (avis, -is, f., and, in classical writing, auis). — Vaticinatio, -onis, f., prophecies. Vates, -is, m., the prophet or the poet; in effect, many ancient poets were considered as prophets (e.g. Virgil, who predicted the future of Rome and even, according to some, that of Christianity); moreover, prophetic formulas were often in verse. — Sacerdos, -otis, m. f., priest(ess); from sacer, -cra, -crum, sacred.",
+      "Exprimo, -is, -ere, pressi, pressum, to press (premere) to make something come out (cf. to express the juice of a fruit).",
+      "Paciscor, -eris, -i, pactus sum, to make a pact; this verb can be transitive: quid pacti sumus?, what have we agreed on?",
+      "Quaesita (from quaerere, to seek) is what one obtains by the quaestio, -onis, f., the question, which was sometimes put by more efficacious means than the simple verbal request!"
+    ],
+    "comments": [
+      "Verecundus, -a, -um, modest; modestus means moderate (modus); the corresponding nouns are verecundia, modesty, and modestia, moderation. — Dissentire, to feel differently. — Disputastis = disputavistis; disputare means to discuss (comes from putare, to think) and not to quarrel.",
+      "SECOND WAVE: the 39th lesson."
+    ]
+  },
+  "exercises": {
+    "latin": [
+      "Cur taces? Nonne domi meae otio leniter frueris?",
+      "Hic otio lenissime fruor.",
+      "Vos autem summa voluptate audio qui de rebus ad delectationem aptis tam diserte colloquimini.",
+      "Nos colloquentes irrides.",
+      "Immo! Verecundiores estis. Ambo pertinenter et nonnunquam facete locuti estis.",
+      "Nonnullis tamen in quibus dissensimus exceptis! — Ad Foederatarum Nationum Societatem pertinentibus.",
+      "In verbis modo dissensistis; re vera sententia nostra eadem est: in terra pax hominibus bonae voluntatis!",
+      "De viis tantum ad pacem condendam confirmandamque disputavimus.",
+      "Tali modo ante bellum praeteritum disputastis (Assimil Germanicum, L. 101).",
+      "Timeo ne bellum vitari non possit*: homo homini lupus.",
+      "A sententia tua omnino dissentio: ex illo tempore in via bona multum progressi sumus."
+    ],
+    "english": [
+      "Why don't you say anything? [Aren't you having a good time] at my place (of a tranquil leisure gently you profit)?",
+      "Here I am spending a very good time.",
+      "For I listen to you with the greatest pleasure, [you] who converse so brilliantly about subjects [full of charm] (suited to delectation).",
+      "You are making fun of us (conversing).",
+      "On the contrary! You are too modest. Both of you have spoken judiciously and sometimes with wit.",
+      "Except for a few [points] (in which) [we were not in agreement]! — On the subject of the [Organisation] (association) of the United Nations.",
+      "[It is] only on the words [that] you were not in agreement; [in reality] (by true thing) our opinion is the same: peace on earth to men of good will!",
+      "We only discussed the [means] (ways) of establishing and maintaining peace.",
+      "You discussed in the same way before the last war (German Assimil, L. 101).",
+      "I fear that war cannot be avoided: man is a wolf to man.",
+      "I am not at all in agreement [with you] (with your opinion): since that time we have made great progress on the right path."
+    ],
+    "footnotes": []
+  },
+  "sources": [
+    {
+      "after": 14,
+      "latin": "E Ciceronis, Partitionibus Oratoriis (I, 1 ad II, 6).",
+      "english": "(From Cicero, The Divisions of the Oratorical Art (I, 1 to II, 6).)"
+    }
+  ]
+}

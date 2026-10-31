@@ -1,0 +1,106 @@
+{
+  "meta": {
+    "lesson": 55,
+    "title": "Lectio quinquagesima quinta",
+    "subtitle": {
+      "latin": "Me laborantem impedires",
+      "english": "You would stop me working"
+    },
+    "revision": false
+  },
+  "latin": [
+    "Victor, sex annos natus<sup>1</sup>, optat ut pater sibi tympanum emat.",
+    "Pater autem: «Nolo, nam me laborantem impedires<sup>2</sup>».",
+    "Nequaquam, respondet Victor, tibi enim polliceor<sup>3</sup> me tantum te dormiente tympanum pulsaturum esse<sup>4</sup>.",
+    "Mater. — Nolo, Jacobe<sup>5</sup>, ludas cum Leone, nam puerulus est male educatus.",
+    "Jacobus. — Tunc, Mater, visne Leonem mecum ludere<sup>6</sup>, nam ego puerulus<sup>7</sup> sum bene educatus?",
+    "Cum bellum<sup>8</sup> omnium gentium alterum ageretur, cibariorum<sup>9</sup> tanta facta est inopia...",
+    "ut<sup>10</sup> vir quidam, fame<sup>11</sup> laborans, canem suum, quem multum amabat, edere coactus sit<sup>12</sup>.",
+    "Postquam manducavit, ossa aspiciens, secum exclamavit:",
+    "Miselle<sup>13</sup> Mordax, quam bene cenares, si hic adesses<sup>14</sup>.",
+    "Asinus asinum fricat.",
+    "Canes qui vehementius latrant, habentur viliores."
+  ],
+  "english": [
+    "Victor, [aged] six (born six years), [would like] (wishes) his father to buy him a drum.",
+    "But [his] father [replies]: “[No] (I don't want), for you would [stop me working] (me working you would hinder).”",
+    "Not at all, replies Victor, [I promise you] that I will only play the drum [when you are asleep] (to you I promise me only you sleeping drum to be about to beat).",
+    "The mother. — James, I don't want you to play with Leo, for he's a badly brought-up little child.",
+    "James. — Then, mummy, do you want Leo to play with me, because I'm a well-brought-up little child?",
+    "During the Second [World] War (of all nations... was being waged), there was such a shortage of [food] (things relating to nourishment)...",
+    "that a man, who was suffering from hunger, was obliged to eat his dog, which he loved very much.",
+    "After he had eaten, looking at the bones, he exclaimed [to himself]:",
+    "Poor Mordax, how well you would dine, if you were here.",
+    "The donkey rubs the donkey.",
+    "The dogs that bark (the) loudest are [considered] (held for) the most contemptible (= the smaller they are, the more they bark)."
+  ],
+  "notes": {
+    "footnotes": [
+      "Natus, perfect participle of nascor, -eris, -i, natus sum, to be born.",
+      "Impedires, imperfect subjunctive of impedio, -is, -ire, -ivi, -itum.",
+      "Polliceor, -eris, -eri, -itus sum, to promise.",
+      "Te dormiente, you sleeping: ABLATIVE ABSOLUTE embedded in the infinitive clause: polliceor me... pulsaturum esse. These last two words form a FUTURE INFINITIVE: future participle in -urus, -a, -um + present infinitive of the verb to be. Note that me is in the accusative and te in the ablative.",
+      "Jacobus, James or Jacob; Leo, Leonis, Leo; leo, as a common noun, the lion (f. leaena, -ae).",
+      "Visne: velle, irregular verb, here in the 2nd pers. sg. of the pres. ind., is construed with the infinitive clause.",
+      "Puerulus, diminutive of puer; f. puellula, from puella.",
+      "Bellum, -i, n., war.",
+      "Cibarius, -a, -um, relating to nourishment (cibus, -i, m.); here neuter plural (used as a noun).",
+      "Tantus... ut: tantus, -a, -um, so great, goes in pairs, — either with quantus, -a, -um, how great (e.g. tantus quantum vis, there is [as much] (so great) work [as] (how great) you want); — or with ut (and then the subjunctive), as here.",
+      "Fames, -is, f., hunger.",
+      "Cogere = cum + agere, to force (cf. L. 46, N. 14); same conjugation as agere.",
+      "Misellus, diminutive of miser, -era, -erum, unhappy.",
+      "Cenares, adesses: imperfect subjunctives of cenare and adesse."
+    ],
+    "comments": [
+      "Mors, mortis, f., death. — Velociter, atrociter, are adverbs formed from the adjectives atrox, atrocis and velox, velocis. — Nemo, neminis = ne homo, not a man, no person (ne). — Nihil = ne hilum, not a hilum (black dot on a seed), that is to say nothing. — Parcetur: future of parco, -is, -ere, peperci, parsum (note nemini in the dative), word for word: it will not be spared to anyone, no one will be spared. The 3rd person of the PASSIVE is sometimes used in place of our «one». Libet, it pleases; quodlibet, adj. demonstrative (n.), what one pleases: in other words, no matter which; cf. French un quolibet; the corresponding pronoun is quidlibet, no matter what; the forms quilibet (m.) and quaelibet (f.) are common to the pronoun and the adjective. — Flos, floris, is of masculine gender, like fiore in Italian.",
+      "SECOND WAVE: 6th lesson."
+    ]
+  },
+  "exercises": {
+    "latin": [],
+    "english": [],
+    "footnotes": []
+  },
+  "song": {
+    "kind": "Carmen",
+    "title": {
+      "latin": "Gaudeamus igitur (sequitur)",
+      "english": "Let us rejoice, then (continued)"
+    },
+    "latin": [
+      "Vita nostra brevis est, brevi finietur. (bis)",
+      "Venit mors velociter,",
+      "Rapit nos atrociter,",
+      "Nemini parcetur! (bis)",
+      "Vivat Academia, vivant professores! (bis)",
+      "Vivat membrum quodlibet!",
+      "Vivant membra quaelibet!",
+      "Semper sint in flore! (bis)"
+    ],
+    "english": [
+      "Our life is short, it will soon end.",
+      "— Death comes quickly,",
+      "— it carries us off atrociously",
+      "— it will spare no one!",
+      "Long live the Academy! Long live the professors!",
+      "— Long live each member (of the Academy)!",
+      "— Long live all the members (of the Academy)!",
+      "— May they always be flourishing (in flower)!"
+    ],
+    "source": ""
+  },
+  "headings": [
+    {
+      "before": 10,
+      "latin": "Proverbia",
+      "english": "Proverbs"
+    }
+  ],
+  "sources": [
+    {
+      "after": 9,
+      "latin": "E Vita Latina, A. Rodot, sept. 1961.",
+      "english": "(From Vita Latina, A. Rodot, September 1961.)"
+    }
+  ]
+}

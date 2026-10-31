@@ -1,0 +1,89 @@
+{
+  "meta": {
+    "lesson": 44,
+    "title": "Lectio quadragesima quarta",
+    "subtitle": {
+      "latin": "Docilis discipulus",
+      "english": "The diligent pupil"
+    },
+    "revision": false
+  },
+  "latin": [
+    "Magister in tabula scribit: «Dum lupus currit ad agnum, hic fugit ab<sup>1</sup> illo.»",
+    "Marcelle, interrogat, quem designat «hic» et quem «ille»<sup>2</sup>?",
+    "«Hic» est agnus, quia propior<sup>3</sup> est, «ille» est lupus, quia remotior<sup>4</sup> est.",
+    "Bene! Hodie vespere<sup>5</sup> aliquid sponte tua scribes<sup>6</sup> in quo eamdem regulam serves<sup>7</sup>.",
+    "Die sequenti Marcellus pensum magistro porrigit<sup>8</sup>.",
+    "Haec legit magister: «Mane papilionem frater meus arripuit<sup>9</sup>. Hic pulcherrimas<sup>10</sup> alas habet. Ille birota profectus est<sup>11</sup>.»",
+    "Marcelle! Numquid<sup>12</sup> fratri sunt alae pulcherrimae? Numquid papilio birota profectus est? Regulam non observavisti<sup>13</sup>.",
+    "Contra, magister! Regulam observavi, nam hic papilio, quem in ipsa<sup>14</sup> tabula in qua scribebam fibula<sup>15</sup> fixi<sup>16</sup>, propior me<sup>17</sup> erat...",
+    "birota autem frater ille jam longe a me erat."
+  ],
+  "english": [
+    "The teacher writes on the blackboard: “While the wolf runs towards the lamb, the latter flees from the former.”",
+    "Marcel, he asks, [whom do] “the latter” and “the former” [refer to] (whom designates “the latter”, whom “the former”)?",
+    "“The latter” is the lamb, because it is nearer, “the former” is the wolf, because it is further away.",
+    "Good! [This evening] (today in the evening) you will write something [on your own initiative] (of your own accord) [in which] you will follow the same rule.",
+    "The following day Marcel hands in his homework to the teacher.",
+    "The teacher reads this: “[This] morning my brother caught a butterfly: the latter has magnificent wings; the former has left by bicycle.”",
+    "Marcel! [Does your brother really have] magnificent wings (is it that to the brother are…)? Has the butterfly really left by bicycle? You have not respected the rule.",
+    "On the contrary, sir, I respected the rule, for this butterfly, which I had fixed with a pin on the very desk on which I was writing, was near me...",
+    "but [my] brother, with his bicycle, was already far from me."
+  ],
+  "notes": {
+    "footnotes": [
+      "Ad, prep. + acc., towards. A (ab before a vowel), prep. + abl., from, by. Indicates moving away from something, or introduces the complement of a passive verb (complement of agent) if it concerns a person or a living being (cf. L. 25, N. 6).",
+      "Hic, m., haec, f., hoc, n., this one, that one, demonstrative adjective-pronoun. It indicates that the noun to which it refers is close to the person who is speaking: hic homo, this man (whom I am showing). Likewise iste, ista, istud indicates that the noun to which it refers is close to the person spoken to; it sometimes carries a note of contempt: iste homo, that man (whom you see, whom you know); or again: that awful man! Ille, illa, illud corresponds to the person or thing being spoken of, sometimes with a note of admiration (real or ironic). It sometimes translates the English he (they): ille vir, that man (courageous, remarkable) of whom one speaks. Finally is, ea, id, pron. adj. of reference, corresponds to the person or thing just spoken of. In one and the same sentence hic and ille can be used: hic then designates the nearer antecedent (in the sentence, and not necessarily in reality, as Marcel thought) and ille the more distant antecedent in the sentence.",
+      "Propior, -oris (n. propius, -oris), nearer, is a comparative. The corresponding superlative is proximus, -a, -um, nearest. The adjective meaning simply near is propinquus, -a, -um; the corresponding adverbs are: prope, near; propius, nearer; proxime, very near.",
+      "Remotior, comparative of remotus, -a, -um, distant. Comparatives are declined almost like the adjectives of the second class: the nominative and the neuter accusative are in -ius. For all three genders the genitive is in -ioris. There is however one important difference: the adjectives of the second class normally have their ablative in -i, whereas comparatives always have the ablative in -e.",
+      "Vespere, abl. of vesper, -eris, m., evening. Further down (P. 6) mane is an adverb meaning: in the morning.",
+      "Scribo, -is, -ere, scripsi, scriptum, to write.",
+      "Servo, -as, -are, etc., to keep, preserve. Can you say in which moods these two verbs are in P. 4? Answer: scribes: future indicative (3rd conjugation); serves: present subjunctive (1st conjugation).",
+      "Porrigo, -is, -ere, porrexi, porrectum, to present, offer.",
+      "Arripio, -is, -ere, arripui, arreptum, to catch, ad + rapio (-is, -ere, rapui, raptum), to snatch.",
+      "Pulcherrimus, -a, -um: adjectives in -er have the superlative in -errimus and not in -issimus. E.g.: pulcher, beautiful; comparative: pulchrior, more beautiful; superlative pulcherrimus, the most beautiful, very beautiful (magnificent).",
+      "Proficiscor, -eris, -i, profectus sum, to set off, to leave (cf. E. 29, P. 7).",
+      "Numquid: we have already seen num (L. 13, N. 2), which introduces a question to which a negative answer is expected. The final quid only serves to draw more attention to the word num: is it really?",
+      "Observare (ob, towards, because of + servare, to preserve), to observe, in the sense of to respect (a rule, a law) (vid. P. 4 and N. 7).",
+      "Ipse, ipsa, ipsum: demonstrative adjective-pronoun stressing that the identity of its antecedent is kept. Rex ipse, the king in person. Nosce te ipsum, know thyself.",
+      "Fibula, -ae, f., brooch (jewel) or pin.",
+      "Figo, -is, -ere, fixi, fixum, to fix, to fasten (with a point or a nail); clavos figere, to drive in nails.",
+      "Me, abl., complement of the comparative, as indicated in the previous lesson (E. 43, P. 8 and P. 11)."
+    ],
+    "comments": [
+      "Supellex, supellectilis, f., furniture. — Ancilla, -ae, f., servant. — Persona, -ae, f., character in a play, whence personam sustinere, to play the role."
+    ]
+  },
+  "exercises": {
+    "latin": [
+      "A quibus conficiuntur tabulae in quibus magistri scribunt?",
+      "A lignariis conficiuntur; sicut mensae, supellex, variaque lignea.",
+      "Hae tabulae, quae sunt ligneae, multo differunt a tabulis multiplicatoriis, quae in papyro sunt scriptae.",
+      "Videsne maritum cum nupta? Haec stola alba induta est, ille tristis videtur.",
+      "Victor calceos suos ipse polit; mater ejus ancillae personam sustinere non vult.",
+      "Victor matri suae scribebat; ejus litteras mater accipiebat.",
+      "Marcellus se non erravisse credebat.",
+      "Postquam a magistro Marcellus interrogatus est, se erravisse intellexit.",
+      "Postquam eum interrogavit, magister dixit Marcellum regulam non observavisse."
+    ],
+    "english": [
+      "By whom are the blackboards on which the teachers write made?",
+      "They are made by carpenters, just as the tables, the furniture and the various things [made] of wood.",
+      "These tables, which are [made] of wood, differ greatly from the multiplication tables, which are written on paper.",
+      "Do you see the groom and the bride? The latter is dressed in a white robe, the former looks sad.",
+      "Victor [polishes] his shoes himself; his mother does not want [to be a servant] (to play the role of a servant).",
+      "Victor was writing to his mother; his mother was receiving his letters.",
+      "Marcel believed he had not been wrong.",
+      "After Marcel had been questioned by the teacher, he understood that he had been wrong.",
+      "After he had questioned him, the teacher said that Marcel had not respected the rule."
+    ],
+    "footnotes": []
+  },
+  "sources": [
+    {
+      "after": 9,
+      "latin": "E Vita Latina, Gregorius Joseph, nov. 1963.",
+      "english": "(From Vita Latina, Grégoire Joseph, November 1963.)"
+    }
+  ]
+}

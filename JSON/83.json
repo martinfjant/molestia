@@ -1,0 +1,123 @@
+{
+  "meta": {
+    "lesson": 83,
+    "title": "Lectio octogesima tertia",
+    "subtitle": {
+      "latin": "Male me contuderunt! (Concluditur)",
+      "english": "What a thrashing! (end)"
+    },
+    "revision": false
+  },
+  "latin": [
+    "Euclio. — Sed in aedibus quid tibi meis erat negotii<sup>1</sup>, me absente, nisi ego jusseram<sup>2</sup>? Volo* scire.",
+    "Congrio. — Tace ergo! Quia venimus coctum<sup>3</sup> ad nuptias.",
+    "Eucl. — Quid tu, malum, curas, utrum crudum an coctum edam, nisi<sup>4</sup> es tutor?",
+    "Cong. — Volo scire utrum sinas an non sinas nos coquere hic cenam<sup>5</sup>.",
+    "Eucl. — Volo scire ego item meae domi meane salva futura<sup>6</sup>.",
+    "Cong. — Utinam mea mihi modo auferam* quae ad te tuli*<sup>7</sup> salva: tua non expeto<sup>8</sup>.",
+    "Eucl., per ludibrium. — Scio, ne doceas, novi*.",
+    "Cong. — Quid est qua gratia prohibes nunc nos coquere hic cenam.",
+    "Eucl. — Etiam rogitas<sup>9</sup>, sceleste homo, qui angulos omnes mearum aedium et conclavium mihi pervium facis<sup>10</sup>.",
+    "Ibi ubi tibi erat negotium ad focum<sup>11</sup> si adfuisses*, non fissile<sup>12</sup> auferres* caput; merito id tibi factum est*.",
+    "Adeo ut tu meam sententiam jam noscere possis: si ad januam huc accesseris, nisi jussero, propius, ego te faciam miserrimus mortalis uti sis<sup>13</sup>.",
+    "Cong. — Quid ego nunc agam? Ego edepol<sup>14</sup> veni huc<sup>15</sup> auspicio malo: nummo sum conductus; plus jam medico mercede<sup>16</sup> opus est.",
+    "Eucl., secum aululam quae aurum suum continet ferens*. — Hoc quidem hercle, quoquo ibo, mecum erit, mecum feram, neque istic in tantis periclis unquam committam ut sit.",
+    "Ita sane nunc intro<sup>17</sup> omnes, et coqui et tibicinae<sup>18</sup>. Coquite, facite, festinate<sup>19</sup> quantum libet*."
+  ],
+  "english": [
+    "Euclio. — But what [were you doing] in my house [in my absence] (me absent), [if I had not ordered it] (unless I had ordered)? I want to know [it].",
+    "Congrio. — Be quiet then! [It's] because we came to [cook] for the wedding.",
+    "Eucl. — What [do you care] [to know], wretch, [if I eat my food] raw or cooked, (if) you are not my guardian?",
+    "Cong. — I want to know if you allow or don't allow us to cook the meal here.",
+    "Eucl. — I too want to know if at my house my [goods] will be safe.",
+    "Cong. — Provided that I take back only mine [those] that I had brought [intact to your house]: I don't covet yours.",
+    "Eucl., ironically. — I know, don't [teach me]; I know.",
+    "Cong. — [For what reason] [do] you [forbid us] now [to] cook the meal here?",
+    "Eucl. — You [ask again], villain (man), [you] who [go round] all the [corners] of my house and of my rooms (to me passage you make).",
+    "If you had been there (ibi) where (ubi) [you had your] work, near the fire, you would not [have gone away with] your head split; it's well done for you.",
+    "So that you may know from now on (jam) my [way of thinking]: if you approach (accesseris... propius) [this] door, except [if I have] ordered [it], I will make [you] [the most unhappy of mortals] (that you be a very unhappy mortal) [= woe to you]!",
+    "Cong. — What am I going to do now, me? Devil! I came here [with bad inspiration] (by bad auspice). I was hired for [a tuning fork] (coin). I already need more for the doctor's fee.",
+    "Eucl., carrying with him the little pot which contains his gold. — This thing at least, by Hercules, wherever I go, it will be with me, I will carry it with me, and I will never abandon it so that it may be [exposed] in the middle of so many dangers.",
+    "Yes, [go in] now [in] (dedans) all of you, the cooks and the flute-players. Cook, prepare, hurry as much as you want!"
+  ],
+  "notes": {
+    "footnotes": [
+      "Meis refers to aedibus; likewise quid goes with negotii (m. f. m., what of occupation) (cf. R. and N. 84, 1.).",
+      "Jusseram: pluperfect indicative of jubere (cf. L. 74, N. 4).",
+      "Coctum, supine of coquere (cf. L. 82, N. 7) while the coctum of P. 3 is the accusative of the perfect passive participle taken as an adjective. Plautus readily practises this kind of word play.",
+      "Nisi = si non.",
+      "Phrase 4. A BIT OF ANALYSIS:\na) main verb: volo;\nb) 1st infinitive clause object: scire... etc.; whose subject understood is that of the main clause: Congrio;\nc) completive clause object of scire: utrum sinas an non sinas (= utrum sinas annon); this clause is moreover interrogative (introduced by utrum);\nd) infinitive clause (complete) object of sinas (annon): nos coquere hic cenam. Note that in this last one hic is not the demonstrative adjective pronoun but the demonstrative adverb of place (question ubi?) of the 1st person (there where I am).",
+      "Phrase 5: Analogous construction: the clause object of scire, introduced by the particle ne (after mea) is an indirect interrogative clause whose understood verb must be in the subjunctive: meane salva futura (sint).",
+      "Auferam: present subjunctive of auferre*; tuli, perfect of ferre*.",
+      "Expetere, to seek to take (ex), to covet.",
+      "Rogitare, «frequentative» form of rogare (to ask), therefore to ask without stopping.",
+      "Angulus, -i, m., angle, corner. Conclave, -is, n., from cum clave, with the key, means the room that can be shut with a key. Pervius, -a, -um, penetrable (per viam); pervium, -i, n., passage; likewise permeabilis, -is, -e, permeable, from meare, to flow.",
+      "Focus, -i, m., the hearth; in optics, the «hot» point where light rays converge.",
+      "Fissilis, -is, -e, adj., derived from findo, -is, -ere, fidi, fissum, to split; likewise fissio, -onis, f., the action of splitting (cf. atomic vocabulary: fission), and fissura the result of this action (crack, fissure).",
+      "The end of phrase 11 could be written: faciam uti (= ut) miserrimus mortalis sis. Te, direct object (therefore in the acc.) of faciam (ind. fut.) only serves to reinforce the idea expressed. Mortalis, predicate of sis (subj.) is in the nominative, as is its epithet miserrimus. Do you remember that adjectives in er make the superlative in errimus?",
+      "Edepol!, by Pollux! a woman would say Ecastor!, by Castor! (twin brother of Pollux).",
+      "Huc: demonstrative adverb of place of the question quo? (cf. above N. 5, d): hic).",
+      "Medico: here in the dative (the ablative has the same form); mercede, ablative of merces, -edis, f., wage of a job. Merx, mercis, f., merchandise. Commercium, -ii, n., commerce. Mereri, to merit, to earn (cf. P. 10, merito, rightly and L. 71, N. 8).",
+      "Intro, adv., inside, generally with movement (intrare). We have seen intus, inside (without movement).",
+      "Tibicen, -inis, m., the flute player (tibia, L. 41, P. 8); f. tibicina, -ae.",
+      "Festinare, to hurry (cf. festina lente, hurry slowly, that is to say without precipitation).\n\nRemark, phrase 10, the word play: ibi ubi tibi. You will find this phrase again in the next revision."
+    ],
+    "comments": [
+      "Proverb: Fervet olla, vivit amicitia! The pot is boiling, long live friendship! (understood: if the pot is empty friendship suffers from it).",
+      "Hostis, -is, m. or f., enemy. Genitive plural hostium, since this noun is parisyllabic. — Proeliari, v. dep., to fight.",
+      "Telum, -i, n., throwing weapon (arrow, shell, etc.), and more generally offensive weapon. — Confodio, -is, -ere, fodi, fossum, to pierce; from fodere, to dig (cf. L. 82, N. 13), whose perfect participle has given fossa, ditch.",
+      "Yet another lesson rich in vocabulary. Do not try to retain all the words in one go, but rather to check your knowledge in the course of the revisions. It is with this aim that we remind you from time to time of words already seen (see above jubere, coquere, etc.) by giving you, not their translation but the number of a lesson where you have already met them. If you no longer remember their sense, refer to the lesson indicated and remake acquaintance with the word in the «living state» in the sentence where it is found. This exercise is very fruitful: do not be afraid to repeat it, above all for words whose sense you have forgotten several times.",
+      "SECOND WAVE: the 34th lesson."
+    ]
+  },
+  "exercises": {
+    "latin": [],
+    "english": [],
+    "footnotes": []
+  },
+  "song": {
+    "kind": "Carmen",
+    "title": {
+      "latin": "Barbapus",
+      "english": "Barbapou"
+    },
+    "latin": [
+      "Erat in Aethiopia",
+      "Rex olim Ras Sejum.",
+      "Barbam magnam habebat.",
+      "Vocabant Barbapum.",
+      "Cum hoste magnum proelians,",
+      "Movebat strepitum.",
+      "Tum milites clamabant:",
+      "Videte Barbapum!",
+      "Sed telo tandem obiit,",
+      "Confossus hostium.",
+      "Sit gloriae Aethiopiae.",
+      "Sit quoque Barbapum.",
+      "Chorus: Barbapum, Barbapum, &c."
+    ],
+    "english": [
+      "There was in Ethiopia",
+      "— once a king Ras Seyoum.",
+      "— He had a big beard.",
+      "— [They] called him Barbapou.",
+      "Fighting against the enemy,",
+      "— he made (stirred up) a great tumult.",
+      "— Then the soldiers cried out:",
+      "— Look at Barbapou!",
+      "But at last he died,",
+      "— pierced by a bullet (weapon) [of the] (of the enemies) [enemy].",
+      "— [There] be the glory of Ethiopia.",
+      "— [There] is also Barbapou.",
+      "Refrain: Barbapou, Barbapou, etc."
+    ],
+    "source": "E Palaestra Latina (n° 171). Popular tune. Latin words from Palaestra Latina (no. 171)."
+  },
+  "sources": [
+    {
+      "after": 14,
+      "latin": "Ibidem, 427... 453.",
+      "english": "(Same work, 427... 453.)"
+    }
+  ]
+}

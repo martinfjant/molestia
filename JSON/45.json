@@ -1,0 +1,80 @@
+{
+  "meta": {
+    "lesson": 45,
+    "title": "Lectio quadragesima quinta",
+    "subtitle": {
+      "latin": "Equum disjungamus!",
+      "english": "Let's unhitch the horse!"
+    },
+    "revision": false
+  },
+  "latin": [
+    "Adulescens quidam amicum rogat nonne<sup>1</sup> sibi<sup>2</sup> auxilium ferre possit.",
+    "Alteri annuenti dixit: «Veni mecum!».",
+    "In viis suburbanis<sup>3</sup> obscurisque progrediuntur<sup>4</sup>, donec<sup>5</sup> adulescens equum carpento junctum<sup>6</sup> amico ostendit<sup>7</sup>.",
+    "Oportet equum disjungamus et ad domum quamdam perducamus.",
+    "Equum disjungunt<sup>8</sup> et ad domum dictam perveniunt.",
+    "Nullum est hic<sup>9</sup> stabulum<sup>10</sup>! Quo equum ducere debemus?",
+    "Ad tabulatum quintum. Haec est ratio cur a te auxilium petierim<sup>11</sup>. Nihil tamen timueris: adest scansorium pegma<sup>12</sup>.",
+    "Amicus miratur. Nihilominus auxilium fert atque ambo<sup>13</sup> non sine multo sudore equum in pegmate collocant.",
+    "Amico et equo in cella inclusis<sup>14</sup> (tres personas cella capere non poterat) adulescens ad tabulatum quintum gradibus ascendit et inde scansorio electrico pulsorio attollit."
+  ],
+  "english": [
+    "A certain young man asks a friend whether he could not [do him a favour] (to himself help bring).",
+    "[As] the other agreed, he [said to him] (said): “Come with me!”",
+    "They advance in the dark (and) suburban streets until the young man [shows his friend] a horse harnessed to a cab (a horse to a cab yoked to the friend shows).",
+    "We must unhitch the horse and lead [it] to a certain house.",
+    "They unhitch the horse and arrive at the house [indicated] (said).",
+    "There is no stable here! Where must we lead the horse?",
+    "To the fifth floor. That is the reason why I asked you for help. However, [don't] be afraid (subj. pft) [of] anything: there is a lift (cf. note).",
+    "The friend is astonished. Nevertheless [he gives his] help (he brings) and [the two of them] (the one and the other) settle the horse in the lift not without [much] (a lot of) sweat.",
+    "[His] friend and the horse having been shut in the cabin (the cabin could not take three people), the young man climbs the stairs to the fifth floor and from there [calls] the lift with the electric [button] (push-button raises)."
+  ],
+  "notes": {
+    "footnotes": [
+      "Nonne: this word, which you have already seen in DIRECT QUESTIONS (nonne venis?, aren't you coming?) is found again in INDIRECT QUESTIONS: te rogo nonne venias, I ask you whether you are not coming. In the indirect question the SUBJUNCTIVE is used, NEVER THE INDICATIVE.",
+      "Sibi, dative of the reflexive pronoun (acc. se; gen. sui, abl. se), corresponds to mihi, tibi (acc. me, te; gen. mei, tui). This pronoun, which cannot be a subject (except in an infinitive clause, as it has no nominative, unlike ego and tu), REFERS TO THE SUBJECT; if it is found, as here, in a subordinate clause, it refers to the subject of the main clause when the subordinate represents the thought of that subject (here adulescens).",
+      "Urbs, urbis, f., gen. pl. urbium, the city (with a capital U: Rome). Urbanus, -a, -um, urban (relating to the city); sub, under; whence suburbanus, suburban, of the suburbs (cf. English suburb).",
+      "Progredior, -eris, -i, -gressus sum, to advance, to progress. We already had ingredior, to enter. Pro, in front or instead of...",
+      "Donec (conj.) + ind., until.",
+      "Jungo, -is, -ere, junxi, junctum, to join, that is to harness to the yoke (jugum, -i, n.).",
+      "Ostendo, -is, -ere, ostendi, ostensum (or ostentum), to show (ostensibly).",
+      "Disjungere = dis (idea of separation) + jungere (vid. sup. N. 5).",
+      "Hic is here an adverb derived from the adjective-pronoun we saw yesterday. Likewise we have istic and illic. All three designate the place one is showing: the first corresponds to the 1st person (hic: in the place that I am showing); the second likewise to the 2nd person and the last to the 3rd. Finally ibi, there, corresponds to the place just spoken of. All of them answer the question ubi?, where? (without movement).",
+      "Stabulum, -i, n., gave French étable (cowshed), but rather corresponds to the stable.",
+      "Cur a te auxilium petivi?, Why did I ask you for help? In the direct question the verb is in the indicative. In sentence 7 the same interrogative adverb cur is used for the indirect question (vid. sup. N. 1). The verb petere (peto, -is, -ere, -ii, petitum) is then in the subjunctive (perfect). A te, from you (abl.) and not tibi, for you (dat.).",
+      "Pegma, -atis, n. (3rd declension), scaffolding, lifting machine, of Greek origin. Scansorius, -a, -um, relating to climbing; from scando, -is, -ere, scandi, scansum, to climb.",
+      "Ambo, m., f., ambae, n., ambo, both.",
+      "Amico et equo inclusis. This construction is called the ABLATIVE ABSOLUTE; literally: the friend and the horse having been shut in. The whole is equivalent to an adverbial clause. Note at the same time the rule of agreement: amico and equo are in the ablative singular, but as 1 + 1 = 2, inclusis is in the ablative plural."
+    ],
+    "comments": [
+      "When the lesson is shorter, as is the case today, take advantage of the time available to revise the previous lessons.",
+      "We remind you however that this exercise will be done automatically if you follow one of the methods we indicated in the preface: for example, advancing on three lessons at once: that of the day before, which you revise; that of the day, which you study in depth; and that of the following day, with which you make a quick first contact."
+    ]
+  },
+  "exercises": {
+    "latin": [
+      "Visne cras domi prandere?",
+      "Id libentissime accipiam, sed nescio ubi sit domus tua.",
+      "Est in via Portuaria numero decimo septimo (distincta), tabulato octavo, janua altera sinistrorsum.",
+      "Ubi est via Portuaria?",
+      "Eam facile invenies: incipit ante stationem ferriviariam et ad portum ducit.",
+      "Estne longe a statione?",
+      "Minime! Non amplius quam trecenta metra.",
+      "Optime! Cras igitur te revisam. Vale!",
+      "Vale tu quoque!"
+    ],
+    "english": [
+      "Do you want to have lunch at [my] house tomorrow?",
+      "I would accept [that] with the greatest pleasure, but I don't know where your house is (subj.).",
+      "It's [in] Harbour Street (Port street) [number] 17 (distinguished by number 17), [on the] 8th floor, 2nd door on the left.",
+      "Where is Harbour Street?",
+      "You will find it easily: it begins at the (railway) station and leads to the harbour.",
+      "Is it far from the station?",
+      "Not at all! No more than 300 m.",
+      "Perfect! I shall see you again tomorrow, then. [Goodbye] (be well)!",
+      "Goodbye (be well you too)!"
+    ],
+    "footnotes": []
+  }
+}

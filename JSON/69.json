@@ -1,0 +1,139 @@
+{
+  "meta": {
+    "lesson": 69,
+    "title": "Lectio undeseptuagesima",
+    "subtitle": {
+      "latin": "Quomodo scire possum?",
+      "english": "How can I know?"
+    },
+    "revision": false
+  },
+  "latin": [
+    "Inter dementes<sup>1</sup>. — Cui scribis, o bone? — Mihi!",
+    "Et quid tibi scribis?",
+    "Quomodo scire possum, cum epistulam nondum acceperim<sup>2</sup>?",
+    "Professor. — Quis hoc dixit: «Venio ut Caesarem sepeliam<sup>3</sup>»?",
+    "Discipulus. — Libitinarius<sup>4</sup>, scilicet!",
+    "Cum venum mihi hunc canem dedisti<sup>5</sup>, latronibus optimum eum esse dixisti...",
+    "sed superiore<sup>6</sup> nocte latrones domum meam, ut furarentur, ingressi sunt<sup>7</sup>,",
+    "neque unum quidem ex iis momordit<sup>8</sup>.",
+    "Latronibus esse optimum jam tibi dixi!",
+    "Centurio<sup>9</sup> quidam coram militibus contionem<sup>10</sup> habet quibus haec explanat: «Patria est mater nostra...»",
+    "Deinde unum ex militibus interrogat:",
+    "Quid est patria, Antoni?",
+    "Antonius. — Patria est mater mea.",
+    "Postea Josepho. — Quid est patria, Josephe?",
+    "Josephus. — Est mater Antonii!",
+    "In nosocomio<sup>11</sup>: Rector. — Aegrotus quem nunc de tecto<sup>12</sup> vides pendentem dicit se esse lucernam.",
+    "Visitor. — Quidni<sup>13</sup> eum demittis<sup>14</sup>?",
+    "Rector. — Quia in posterum sine luce<sup>15</sup> erimus."
+  ],
+  "english": [
+    "[A story of] (among) madmen. — Who are you writing to, my good fellow? — To me!",
+    "And what are you writing to yourself?",
+    "How can I know, since I haven't yet received the letter?",
+    "The teacher. — Who said this: «I come (so that I may) bury Caesar»?",
+    "The pupil. — The undertaker, of course!",
+    "When you sold me this dog, you told me [it] was excellent for thieves...",
+    "but last night, thieves entered my house to burgle,",
+    "and it didn't even bite [a single one] of them.",
+    "I already told you that it was very good for thieves!",
+    "A captain [assembles his soldiers] (a gathering in presence — before — of the soldiers), to whom he explains this: «The fatherland is our mother...»",
+    "Then he questions one of the soldiers:",
+    "What is the fatherland, Antoine?",
+    "Antoine. — The fatherland is my mother.",
+    "Then, to Joseph. — What is the fatherland, Joseph?",
+    "Joseph. — It's Antoine's mother!",
+    "At the hospital: The director. — The patient you see [hanging] (hanging) from the roof says that he is a lantern.",
+    "The visitor. — Why don't you take him down (you)?",
+    "The director. — Because afterwards, we would be without light."
+  ],
+  "notes": {
+    "footnotes": [
+      "Mens, mentis, f., mind, intelligence; whence the adjectives demens and amens, deprived of mind, that is to say mad.",
+      "Acceperim, -is, -it, etc.: perfect of the subjunctive of accipere.",
+      "Sepelio, -is, -ire, ivi or ii, sepultum, to bury (here, in the subj. after ut); sepultura, burial; sepulcrum, the tomb.",
+      "Libitina was the goddess who presided over burials, whence libitinarius, -ii, m., the undertaker.",
+      "Venum dare (or vendere, -o, -is, -ere, vendidi, venditum), to sell; veneo, -is, -ire, ivi or ii, venitum, to be sold: Haec raeda 8 000 francis veniit, this car was sold for 8,000 francs.",
+      "Superior, -ior, -ius: comparative of superus, -a, -um, from above (superlative, supremus, -a, -um, cf. L. 48, song).",
+      "Ingredior, -eris, -i, ingressus sum = in + gradior, to enter.",
+      "To which verb does momordit belong? Answer: R. and N. 63, 2 B.",
+      "Centurio, -onis, m., Centurion, officer commanding 100 men.",
+      "Contio, -onis, f., gathering, assembly, harangue.",
+      "Nosocomium, -ii, n., the hospital.",
+      "Tectum, -i, n., the roof; like tegmen (L. 48, N. 3) comes from tegere.",
+      "Quidni?, why not?",
+      "Mitto, -is, -ere, misi, missum, to send. Think of the Missi Dominici of Charlemagne. Missio, -onis, f., the fact of sending, the mission. Demittere, to send from above, to bring down.",
+      "Lux, lucis, f., light."
+    ],
+    "comments": [
+      "Phalerae, -arum, f. pl., military decorations, or metal ornaments of horses' harnesses.",
+      "Circensis, -e, adj., relating to the circus; circus, -i, m., usually designates the hippodrome, sometimes the arena where gladiators fought (ordinarily called amphitheatrum). — Mappa, -ae, f., napkin which was thrown to give the start of the games. — Acer, acris, acre, sharp, cutting; here spirited, refers to equus. Meta, -ae, f., the turning post, beyond which one must turn. — Quadrigae, -arum, f. pl., chariot drawn by four horses; a chariot with two horses is likewise called bigae. These two words are generally used in the plural, even if there is only one chariot. — Cruor, -oris, m., the blood that flows from a wound; blood in general is called sanguis, -inis, m.",
+      "SECOND WAVE: the 20th lesson."
+    ]
+  },
+  "exercises": {
+    "latin": [],
+    "english": [],
+    "footnotes": []
+  },
+  "song": {
+    "kind": "Carmen",
+    "title": {
+      "latin": "Carmen circense",
+      "english": "Circus song"
+    },
+    "latin": [
+      "Consulis manu",
+      "Mappa decidit,",
+      "Acer cum curru",
+      "Equus exsilit.",
+      "Pone nos sonant",
+      "Carcerum valvae,",
+      "Quam circenses delectant!",
+      "Quam gaudent aurigae!",
+      "Illic meta stat;",
+      "Flecte quadrigas!",
+      "Qui non evitat",
+      "Frangit is rotas;",
+      "Concurrunt equi,",
+      "It caelo fragor;",
+      "Ruunt currus commixti",
+      "Ubique fit cruor.",
+      "Chorus: Tinniunt, tinniunt",
+      "Usque phalerae.",
+      "Quam libenter audiunt",
+      "In cursu aurigae!"
+    ],
+    "english": [
+      "From the consul's hand",
+      "— the signal has fallen,",
+      "— spirited with the chariot",
+      "— the horse leaps.",
+      "Behind us resound",
+      "— the gates of the [boxes] (prisons).",
+      "— How [we love] the [games] of the circus (delight)!",
+      "— How the charioteers rejoice!",
+      "There stands the turning post;",
+      "— turn the four-horse chariot(s).",
+      "— He who does not avoid [the post]",
+      "— breaks [his] wheels.",
+      "The horses collide,",
+      "— the crash rises to the sky;",
+      "— the chariots rush on, mingled,",
+      "— everywhere [flows] (is made) the blood.",
+      "Refrain: They jingle, they jingle",
+      "— always the harnesses.",
+      "— How willingly they hear",
+      "— the charioteers in the race."
+    ],
+    "source": "From Carmina Latina (a Centaur Books, Slough, Anglia, editis). Music by J. Pierpoint (Jingle Bells). Latin words by T. W. Melluish. Record and collection published by Centaur Books, Slough (England)."
+  },
+  "sources": [
+    {
+      "after": 18,
+      "latin": "E Palaestra Latina.",
+      "english": "(From Palaestra Latina.)"
+    }
+  ]
+}
