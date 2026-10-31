@@ -34,14 +34,19 @@
 {%- endif %}
 
 {%- if lesson.notes.footnotes.length or lesson.notes.comments.length %}
-<section lang="en" class="notes">
+<hr>
 <h2>Notes</h2>
+<section lang="en" class="notes">
+
 {%- if lesson.notes.footnotes.length %}
 <ol>
   {%- asyncEach note in lesson.notes.footnotes %}
   <li>{{ note | renderContent("md") | safe }}</li>
   {%- endeach %}
 </ol>
+{%- endif %}
+{%- if lesson.notes.footnotes.length and lesson.notes.comments.length %}
+<hr>
 {%- endif %}
 {%- asyncEach comment in lesson.notes.comments %}
 {{ comment | renderContent("md") | safe }}
@@ -50,26 +55,37 @@
 {%- endif %}
 
 {%- if lesson.song %}
+<hr>
 <section>
 <h2>{{ lesson.song.kind }}</h2>
-{%- if lesson.song.title.latin %}<h3 lang="la">{{ lesson.song.title.latin | la(lesson.song.title.latinAccented) | safe }}</h3>{% endif %}
-<p lang="la">
+{#- Latin and English side by side, each as one block: the lines are not paired. #}
+<div class="parallel song">
+<div lang="la">
+{%- if lesson.song.title.latin %}<h3>{{ lesson.song.title.latin | la(lesson.song.title.latinAccented) | safe }}</h3>{% endif %}
+<p>
   {%- for line in lesson.song.latin %}{{ line | la(lesson.song.latinAccented[loop.index0]) | safe }}{% if not loop.last %}<br>{% endif %}{% endfor -%}
 </p>
-{%- if lesson.song.title.english %}<h3 lang="en">{{ lesson.song.title.english }}</h3>{% endif %}
-<p lang="en">{{ lesson.song.english | join("<br>") | safe }}</p>
+</div>
+<div lang="en">
+{%- if lesson.song.title.english %}<h3>{{ lesson.song.title.english }}</h3>{% endif %}
+<p>{{ lesson.song.english | join("<br>") | safe }}</p>
+</div>
+</div>
 {%- if lesson.song.source %}<p><cite>{{ lesson.song.source }}</cite></p>{% endif %}
 </section>
 {%- endif %}
 
 {%- if lesson.exercises.latin.length %}
+<hr>
 <section>
 <h2 lang="la">Exercitatio</h2>
 <div class="parallel">
 {%- for r in lesson.exercises | rows %}{{ row(r) }}{% endfor %}
 </div>
 {%- if lesson.exercises.footnotes.length %}
-<ol class="notes">
+<hr>
+<h3>Notes</h3>
+<ol class="notes" style="column-count: 2">
   {%- asyncEach note in lesson.exercises.footnotes %}
   <li>{{ note | renderContent("md") | safe }}</li>
   {%- endeach %}

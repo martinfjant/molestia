@@ -5,9 +5,9 @@
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <meta name="robots" content="noindex, nofollow">
   <link
-  rel="stylesheet"
-  href="https://cdn.jsdelivr.net/npm/@picocss/pico@2/css/pico.classless.min.css"
->
+        rel="stylesheet"
+        href="https://cdn.jsdelivr.net/npm/@picocss/pico@2/css/pico.classless.red.min.css"
+      >
   <title>{{ title }} · Sine Molestia</title>
   <style>
     /* Latin and English as facing columns, each sentence level with its
@@ -23,8 +23,16 @@
     .parallel > [lang="la"] { grid-column: 1; }
     .parallel > [lang="en"] { grid-column: 2; }
     .parallel > h3 { margin-top: 1rem; }
-    .parallel .sentence { display: flex; gap: 0.5em; }
-    .parallel .sentence::before { content: attr(data-n) "."; flex: none; min-width: 2.5ch; text-align: right; }
+    .parallel .sentence { display: flex; gap: 0em; }
+    .parallel .sentence::before { content: attr(data-n) "."; flex: none; min-width: 2.5ch; text-align: left; }
+    /* Songs: each column only as wide as its lines, the pair centred. :where keeps
+       this as weak as .parallel, so the one-column rules below still win. */
+    .parallel:where(.song) {
+      grid-template-columns: repeat(2, fit-content(calc(50% - 2rem)));
+      justify-content: center;
+      column-gap: 4rem;
+    }
+    .song > div { justify-self: center; }
 
     .table-scroll { overflow-x: auto; }
 
@@ -34,12 +42,30 @@
 
     /* "Hide notes": the notes, the exercise footnotes and the note numbers. */
     body:has(#notes-toggle:checked) :is(.notes, .parallel sup) { display: none; }
-
+    [lang="en"] {
+    hyphens: auto;
+    }
+    p {
+    text-wrap: pretty;
+    }
+    .notes {
+    column-count: 2;
+    orphans: 2;
+    widows: 2;
+    }
+    ol {
+    padding: 0.5em}
     /* Too narrow for two ~20rem columns: one column, all Latin then all English. */
     @container (width < 42rem) {
       .parallel { grid-template-columns: 1fr; }
       .parallel > [lang="en"] { grid-column: 1; order: 1; }
       .parallel > [lang="en"]:first-of-type { margin-top: 1.5rem; }
+      .notes {
+    column-count: 1
+    }
+    }
+    body {
+        font-family: system-ui;
     }
   </style>
 </head>
